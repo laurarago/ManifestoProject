@@ -1,7 +1,7 @@
 
 # Workshop 2: The green shift in Euro politics
 
-**Students**: Rebecca, Annia, and Laura ; **Mentors**: Xaquin GV and Matt Osborn ; **Expert**: Joaquin Campodonico
+**Students**: Rebecca, Annia, and Laura ; **Mentors**: Xaquin GV and Matt Osborn
 
 - [Slack channel](https://mvtecworkspace.slack.com/archives/C01TCRHKWPL)
 - [Airtable Calendar](https://airtable.com/shrSeMUhhLbotxQns)
