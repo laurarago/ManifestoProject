@@ -3,11 +3,10 @@
 
 **Students**: Rebecca, Annia, and Laura ; **Mentors**: Xaquin GV and Matt Osborn ; **Expert**: Joaquin Campodonico
 
-- [Slack channel](https://mvtecworkspace.slack.com/archives/C01N4MNP0E8)
-- [Airtable Calendar](https://airtable.com/shr6YoJrHIhuSNfy7)
+- [Slack channel](https://mvtecworkspace.slack.com/archives/C01TCRHKWPL)
+- [Airtable Calendar](https://airtable.com/shrSeMUhhLbotxQns)
 - Github: This one! 
-- [Figma](https://www.figma.com/file/XAEL4J1Z6TfVnyARgltc8U/workshop-1-shop-nietz)
-- [Svelte app](https://github.com/sarachodosh/workshop1-nietzsche/tree/main/nietzsche-app)
+- [Figma](https://www.figma.com/file/wohbpROpknI0LRQDrGHsLo/manifesto-wireframe)
 
 ### Timeline
 - Project kickoff: Tuesday, April 6
