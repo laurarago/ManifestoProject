@@ -1,0 +1,375 @@
+index,parfam,countryname,per503,pervote,electionDate,partyname,environWeighted
+1984-01-01,10,Luxembourg,4.1,4.2,1984-06-01,Green Alternative,17.22
+1985-01-01,10,Luxembourg,4.1,4.2,1984-06-01,Green Alternative,17.22
+1986-01-01,10,Luxembourg,4.1,4.2,1984-06-01,Green Alternative,17.22
+1987-01-01,10,Luxembourg,4.1,4.2,1984-06-01,Green Alternative,17.22
+1988-01-01,10,Luxembourg,4.1,4.2,1984-06-01,Green Alternative,17.22
+1989-01-01,10,Luxembourg,0.6,3.7,1989-06-01,Green Left Ecological Initiative,2.22
+1990-01-01,10,Luxembourg,0.6,3.7,1989-06-01,Green Left Ecological Initiative,2.22
+1991-01-01,10,Luxembourg,0.6,3.7,1989-06-01,Green Left Ecological Initiative,2.22
+1992-01-01,10,Luxembourg,0.6,3.7,1989-06-01,Green Left Ecological Initiative,2.22
+1993-01-01,10,Luxembourg,0.6,3.7,1989-06-01,Green Left Ecological Initiative,2.22
+1994-01-01,10,Luxembourg,1.235,9.9,1994-06-01,Green Left Ecological Initiative - Green Alternative,12.2265
+1995-01-01,10,Luxembourg,1.235,9.9,1994-06-01,Green Left Ecological Initiative - Green Alternative,12.2265
+1996-01-01,10,Luxembourg,1.235,9.9,1994-06-01,Green Left Ecological Initiative - Green Alternative,12.2265
+1997-01-01,10,Luxembourg,1.235,9.9,1994-06-01,Green Left Ecological Initiative - Green Alternative,12.2265
+1998-01-01,10,Luxembourg,1.235,9.9,1994-06-01,Green Left Ecological Initiative - Green Alternative,12.2265
+1999-01-01,10,Luxembourg,7.6389999999999985,9.6,1999-06-01,Green Left Ecological Initiative - Green Alternative,73.33439999999997
+2000-01-01,10,Luxembourg,7.6389999999999985,9.6,1999-06-01,Green Left Ecological Initiative - Green Alternative,73.33439999999997
+2001-01-01,10,Luxembourg,7.6389999999999985,9.6,1999-06-01,Green Left Ecological Initiative - Green Alternative,73.33439999999997
+2002-01-01,10,Luxembourg,7.6389999999999985,9.6,1999-06-01,Green Left Ecological Initiative - Green Alternative,73.33439999999997
+2003-01-01,10,Luxembourg,7.6389999999999985,9.6,1999-06-01,Green Left Ecological Initiative - Green Alternative,73.33439999999997
+2004-01-01,10,Luxembourg,5.791,11.58,2004-06-01,The Greens,67.05978
+2005-01-01,10,Luxembourg,5.791,11.58,2004-06-01,The Greens,67.05978
+2006-01-01,10,Luxembourg,5.791,11.58,2004-06-01,The Greens,67.05978
+2007-01-01,10,Luxembourg,5.791,11.58,2004-06-01,The Greens,67.05978
+2008-01-01,10,Luxembourg,5.791,11.58,2004-06-01,The Greens,67.05978
+2009-01-01,10,Luxembourg,3.811,11.704,2009-06-01,The Greens,44.60394400000001
+2010-01-01,10,Luxembourg,3.811,11.704,2009-06-01,The Greens,44.60394400000001
+2011-01-01,10,Luxembourg,3.811,11.704,2009-06-01,The Greens,44.60394400000001
+2012-01-01,10,Luxembourg,3.811,11.704,2009-06-01,The Greens,44.60394400000001
+2013-01-01,10,Luxembourg,5.174,10.13,2013-10-01,The Greens,52.412620000000004
+2014-01-01,10,Luxembourg,5.174,10.13,2013-10-01,The Greens,52.412620000000004
+2015-01-01,10,Luxembourg,5.174,10.13,2013-10-01,The Greens,52.412620000000004
+2016-01-01,10,Luxembourg,5.174,10.13,2013-10-01,The Greens,52.412620000000004
+2017-01-01,10,Luxembourg,5.174,10.13,2013-10-01,The Greens,52.412620000000004
+2018-01-01,10,Luxembourg,5.174,10.13,2013-10-01,The Greens,52.412620000000004
+2019-01-01,10,Luxembourg,5.174,10.13,2013-10-01,The Greens,52.412620000000004
+2020-01-01,10,Luxembourg,5.174,10.13,2013-10-01,The Greens,52.412620000000004
+1989-01-01,10,Luxembourg,8.0,3.7,1989-06-01,Green Alternative,29.6
+1945-01-01,20,Luxembourg,6.122000000000001,11.1,1945-10-01,Communist Party of Luxembourg,67.9542
+1946-01-01,20,Luxembourg,6.122000000000001,11.1,1945-10-01,Communist Party of Luxembourg,67.9542
+1947-01-01,20,Luxembourg,6.122000000000001,11.1,1945-10-01,Communist Party of Luxembourg,67.9542
+1948-01-01,20,Luxembourg,6.122000000000001,14.3,1948-06-01,Communist Party of Luxembourg,87.54460000000002
+1949-01-01,20,Luxembourg,6.122000000000001,14.3,1948-06-01,Communist Party of Luxembourg,87.54460000000002
+1950-01-01,20,Luxembourg,6.122000000000001,14.3,1948-06-01,Communist Party of Luxembourg,87.54460000000002
+1951-01-01,20,Luxembourg,8.888999999999998,3.2,1951-06-01,Communist Party of Luxembourg,28.444799999999994
+1952-01-01,20,Luxembourg,8.888999999999998,3.2,1951-06-01,Communist Party of Luxembourg,28.444799999999994
+1953-01-01,20,Luxembourg,8.888999999999998,3.2,1951-06-01,Communist Party of Luxembourg,28.444799999999994
+1954-01-01,20,Luxembourg,8.696,7.3,1954-05-01,Communist Party of Luxembourg,63.4808
+1955-01-01,20,Luxembourg,8.696,7.3,1954-05-01,Communist Party of Luxembourg,63.4808
+1956-01-01,20,Luxembourg,8.696,7.3,1954-05-01,Communist Party of Luxembourg,63.4808
+1957-01-01,20,Luxembourg,8.696,7.3,1954-05-01,Communist Party of Luxembourg,63.4808
+1958-01-01,20,Luxembourg,8.696,7.3,1954-05-01,Communist Party of Luxembourg,63.4808
+1959-01-01,20,Luxembourg,7.859,7.2,1959-02-01,Communist Party of Luxembourg,56.5848
+1960-01-01,20,Luxembourg,7.859,7.2,1959-02-01,Communist Party of Luxembourg,56.5848
+1961-01-01,20,Luxembourg,7.859,7.2,1959-02-01,Communist Party of Luxembourg,56.5848
+1962-01-01,20,Luxembourg,7.859,7.2,1959-02-01,Communist Party of Luxembourg,56.5848
+1963-01-01,20,Luxembourg,7.859,7.2,1959-02-01,Communist Party of Luxembourg,56.5848
+1964-01-01,20,Luxembourg,15.294,10.4,1964-06-01,Communist Party of Luxembourg,159.0576
+1965-01-01,20,Luxembourg,15.294,10.4,1964-06-01,Communist Party of Luxembourg,159.0576
+1966-01-01,20,Luxembourg,15.294,10.4,1964-06-01,Communist Party of Luxembourg,159.0576
+1967-01-01,20,Luxembourg,15.294,10.4,1964-06-01,Communist Party of Luxembourg,159.0576
+1968-01-01,20,Luxembourg,5.388,13.1,1968-12-01,Communist Party of Luxembourg,70.58279999999998
+1969-01-01,20,Luxembourg,5.388,13.1,1968-12-01,Communist Party of Luxembourg,70.58279999999998
+1970-01-01,20,Luxembourg,5.388,13.1,1968-12-01,Communist Party of Luxembourg,70.58279999999998
+1971-01-01,20,Luxembourg,5.388,13.1,1968-12-01,Communist Party of Luxembourg,70.58279999999998
+1972-01-01,20,Luxembourg,5.388,13.1,1968-12-01,Communist Party of Luxembourg,70.58279999999998
+1973-01-01,20,Luxembourg,5.388,13.1,1968-12-01,Communist Party of Luxembourg,70.58279999999998
+1974-01-01,20,Luxembourg,14.065,8.800000000000002,1974-05-01,Communist Party of Luxembourg,123.77200000000003
+1975-01-01,20,Luxembourg,14.065,8.800000000000002,1974-05-01,Communist Party of Luxembourg,123.77200000000003
+1976-01-01,20,Luxembourg,14.065,8.800000000000002,1974-05-01,Communist Party of Luxembourg,123.77200000000003
+1977-01-01,20,Luxembourg,14.065,8.800000000000002,1974-05-01,Communist Party of Luxembourg,123.77200000000003
+1978-01-01,20,Luxembourg,14.065,8.800000000000002,1974-05-01,Communist Party of Luxembourg,123.77200000000003
+1979-01-01,20,Luxembourg,0.0,4.9,1979-06-01,Communist Party of Luxembourg,0.0
+1980-01-01,20,Luxembourg,0.0,4.9,1979-06-01,Communist Party of Luxembourg,0.0
+1981-01-01,20,Luxembourg,0.0,4.9,1979-06-01,Communist Party of Luxembourg,0.0
+1982-01-01,20,Luxembourg,0.0,4.9,1979-06-01,Communist Party of Luxembourg,0.0
+1983-01-01,20,Luxembourg,0.0,4.9,1979-06-01,Communist Party of Luxembourg,0.0
+1984-01-01,20,Luxembourg,0.135,4.4,1984-06-01,Communist Party of Luxembourg,0.5940000000000001
+1985-01-01,20,Luxembourg,0.135,4.4,1984-06-01,Communist Party of Luxembourg,0.5940000000000001
+1986-01-01,20,Luxembourg,0.135,4.4,1984-06-01,Communist Party of Luxembourg,0.5940000000000001
+1987-01-01,20,Luxembourg,0.135,4.4,1984-06-01,Communist Party of Luxembourg,0.5940000000000001
+1988-01-01,20,Luxembourg,0.135,4.4,1984-06-01,Communist Party of Luxembourg,0.5940000000000001
+1989-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+1990-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+1991-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+1992-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+1993-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+1994-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+1995-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+1996-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+1997-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+1998-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+1999-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+2000-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+2001-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+2002-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+2003-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+2004-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+2005-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+2006-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+2007-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+2008-01-01,20,Luxembourg,1.463,4.4,1989-06-01,Communist Party of Luxembourg,6.437200000000002
+2009-01-01,20,Luxembourg,10.366,3.286,2009-06-01,The Left,34.062676
+2010-01-01,20,Luxembourg,10.366,3.286,2009-06-01,The Left,34.062676
+2011-01-01,20,Luxembourg,10.366,3.286,2009-06-01,The Left,34.062676
+2012-01-01,20,Luxembourg,10.366,3.286,2009-06-01,The Left,34.062676
+2013-01-01,20,Luxembourg,10.859000000000002,4.937,2013-10-01,The Left,53.61088300000001
+2014-01-01,20,Luxembourg,10.859000000000002,4.937,2013-10-01,The Left,53.61088300000001
+2015-01-01,20,Luxembourg,10.859000000000002,4.937,2013-10-01,The Left,53.61088300000001
+2016-01-01,20,Luxembourg,10.859000000000002,4.937,2013-10-01,The Left,53.61088300000001
+2017-01-01,20,Luxembourg,10.859000000000002,4.937,2013-10-01,The Left,53.61088300000001
+2018-01-01,20,Luxembourg,10.859000000000002,4.937,2013-10-01,The Left,53.61088300000001
+2019-01-01,20,Luxembourg,10.859000000000002,4.937,2013-10-01,The Left,53.61088300000001
+2020-01-01,20,Luxembourg,10.859000000000002,4.937,2013-10-01,The Left,53.61088300000001
+1945-01-01,30,Luxembourg,10.28,23.4,1945-10-01,Socialist Workers’ Party of Luxembourg,240.552
+1946-01-01,30,Luxembourg,10.28,23.4,1945-10-01,Socialist Workers’ Party of Luxembourg,240.552
+1947-01-01,30,Luxembourg,10.28,23.4,1945-10-01,Socialist Workers’ Party of Luxembourg,240.552
+1948-01-01,30,Luxembourg,20.37,37.8,1948-06-01,Socialist Workers’ Party of Luxembourg,769.9860000000001
+1949-01-01,30,Luxembourg,20.37,37.8,1948-06-01,Socialist Workers’ Party of Luxembourg,769.9860000000001
+1950-01-01,30,Luxembourg,20.37,37.8,1948-06-01,Socialist Workers’ Party of Luxembourg,769.9860000000001
+1951-01-01,30,Luxembourg,11.594,33.8,1951-06-01,Socialist Workers’ Party of Luxembourg,391.8772
+1952-01-01,30,Luxembourg,11.594,33.8,1951-06-01,Socialist Workers’ Party of Luxembourg,391.8772
+1953-01-01,30,Luxembourg,11.594,33.8,1951-06-01,Socialist Workers’ Party of Luxembourg,391.8772
+1954-01-01,30,Luxembourg,2.059,32.9,1954-05-01,Socialist Workers’ Party of Luxembourg,67.7411
+1955-01-01,30,Luxembourg,2.059,32.9,1954-05-01,Socialist Workers’ Party of Luxembourg,67.7411
+1956-01-01,30,Luxembourg,2.059,32.9,1954-05-01,Socialist Workers’ Party of Luxembourg,67.7411
+1957-01-01,30,Luxembourg,2.059,32.9,1954-05-01,Socialist Workers’ Party of Luxembourg,67.7411
+1958-01-01,30,Luxembourg,2.059,32.9,1954-05-01,Socialist Workers’ Party of Luxembourg,67.7411
+1959-01-01,30,Luxembourg,15.122,33.0,1959-02-01,Socialist Workers’ Party of Luxembourg,499.026
+1960-01-01,30,Luxembourg,15.122,33.0,1959-02-01,Socialist Workers’ Party of Luxembourg,499.026
+1961-01-01,30,Luxembourg,15.122,33.0,1959-02-01,Socialist Workers’ Party of Luxembourg,499.026
+1962-01-01,30,Luxembourg,15.122,33.0,1959-02-01,Socialist Workers’ Party of Luxembourg,499.026
+1963-01-01,30,Luxembourg,15.122,33.0,1959-02-01,Socialist Workers’ Party of Luxembourg,499.026
+1964-01-01,30,Luxembourg,5.193000000000001,35.9,1964-06-01,Socialist Workers’ Party of Luxembourg,186.42870000000005
+1965-01-01,30,Luxembourg,5.193000000000001,35.9,1964-06-01,Socialist Workers’ Party of Luxembourg,186.42870000000005
+1966-01-01,30,Luxembourg,5.193000000000001,35.9,1964-06-01,Socialist Workers’ Party of Luxembourg,186.42870000000005
+1967-01-01,30,Luxembourg,5.193000000000001,35.9,1964-06-01,Socialist Workers’ Party of Luxembourg,186.42870000000005
+1968-01-01,30,Luxembourg,5.8820000000000014,31.0,1968-12-01,Socialist Workers’ Party of Luxembourg,182.34200000000004
+1969-01-01,30,Luxembourg,5.8820000000000014,31.0,1968-12-01,Socialist Workers’ Party of Luxembourg,182.34200000000004
+1970-01-01,30,Luxembourg,5.8820000000000014,31.0,1968-12-01,Socialist Workers’ Party of Luxembourg,182.34200000000004
+1971-01-01,30,Luxembourg,5.8820000000000014,31.0,1968-12-01,Socialist Workers’ Party of Luxembourg,182.34200000000004
+1972-01-01,30,Luxembourg,5.8820000000000014,31.0,1968-12-01,Socialist Workers’ Party of Luxembourg,182.34200000000004
+1973-01-01,30,Luxembourg,5.8820000000000014,31.0,1968-12-01,Socialist Workers’ Party of Luxembourg,182.34200000000004
+1974-01-01,30,Luxembourg,7.372000000000001,27.0,1974-05-01,Socialist Workers’ Party of Luxembourg,199.044
+1975-01-01,30,Luxembourg,7.372000000000001,27.0,1974-05-01,Socialist Workers’ Party of Luxembourg,199.044
+1976-01-01,30,Luxembourg,7.372000000000001,27.0,1974-05-01,Socialist Workers’ Party of Luxembourg,199.044
+1977-01-01,30,Luxembourg,7.372000000000001,27.0,1974-05-01,Socialist Workers’ Party of Luxembourg,199.044
+1978-01-01,30,Luxembourg,7.372000000000001,27.0,1974-05-01,Socialist Workers’ Party of Luxembourg,199.044
+1979-01-01,30,Luxembourg,4.3610000000000015,22.5,1979-06-01,Socialist Workers’ Party of Luxembourg,98.12250000000002
+1980-01-01,30,Luxembourg,4.3610000000000015,22.5,1979-06-01,Socialist Workers’ Party of Luxembourg,98.12250000000002
+1981-01-01,30,Luxembourg,4.3610000000000015,22.5,1979-06-01,Socialist Workers’ Party of Luxembourg,98.12250000000002
+1982-01-01,30,Luxembourg,4.3610000000000015,22.5,1979-06-01,Socialist Workers’ Party of Luxembourg,98.12250000000002
+1983-01-01,30,Luxembourg,4.3610000000000015,22.5,1979-06-01,Socialist Workers’ Party of Luxembourg,98.12250000000002
+1984-01-01,30,Luxembourg,2.18,31.8,1984-06-01,Socialist Workers’ Party of Luxembourg,69.32400000000001
+1985-01-01,30,Luxembourg,2.18,31.8,1984-06-01,Socialist Workers’ Party of Luxembourg,69.32400000000001
+1986-01-01,30,Luxembourg,2.18,31.8,1984-06-01,Socialist Workers’ Party of Luxembourg,69.32400000000001
+1987-01-01,30,Luxembourg,2.18,31.8,1984-06-01,Socialist Workers’ Party of Luxembourg,69.32400000000001
+1988-01-01,30,Luxembourg,2.18,31.8,1984-06-01,Socialist Workers’ Party of Luxembourg,69.32400000000001
+1989-01-01,30,Luxembourg,4.4,26.2,1989-06-01,Socialist Workers’ Party of Luxembourg,115.28
+1990-01-01,30,Luxembourg,4.4,26.2,1989-06-01,Socialist Workers’ Party of Luxembourg,115.28
+1991-01-01,30,Luxembourg,4.4,26.2,1989-06-01,Socialist Workers’ Party of Luxembourg,115.28
+1992-01-01,30,Luxembourg,4.4,26.2,1989-06-01,Socialist Workers’ Party of Luxembourg,115.28
+1993-01-01,30,Luxembourg,4.4,26.2,1989-06-01,Socialist Workers’ Party of Luxembourg,115.28
+1994-01-01,30,Luxembourg,1.471,25.4,1994-06-01,Socialist Workers’ Party of Luxembourg,37.36339999999999
+1995-01-01,30,Luxembourg,1.471,25.4,1994-06-01,Socialist Workers’ Party of Luxembourg,37.36339999999999
+1996-01-01,30,Luxembourg,1.471,25.4,1994-06-01,Socialist Workers’ Party of Luxembourg,37.36339999999999
+1997-01-01,30,Luxembourg,1.471,25.4,1994-06-01,Socialist Workers’ Party of Luxembourg,37.36339999999999
+1998-01-01,30,Luxembourg,1.471,25.4,1994-06-01,Socialist Workers’ Party of Luxembourg,37.36339999999999
+1999-01-01,30,Luxembourg,6.882999999999999,22.2,1999-06-01,Socialist Workers’ Party of Luxembourg,152.80259999999996
+2000-01-01,30,Luxembourg,6.882999999999999,22.2,1999-06-01,Socialist Workers’ Party of Luxembourg,152.80259999999996
+2001-01-01,30,Luxembourg,6.882999999999999,22.2,1999-06-01,Socialist Workers’ Party of Luxembourg,152.80259999999996
+2002-01-01,30,Luxembourg,6.882999999999999,22.2,1999-06-01,Socialist Workers’ Party of Luxembourg,152.80259999999996
+2003-01-01,30,Luxembourg,6.882999999999999,22.2,1999-06-01,Socialist Workers’ Party of Luxembourg,152.80259999999996
+2004-01-01,30,Luxembourg,2.346,23.373,2004-06-01,Socialist Workers’ Party of Luxembourg,54.833057999999994
+2005-01-01,30,Luxembourg,2.346,23.373,2004-06-01,Socialist Workers’ Party of Luxembourg,54.833057999999994
+2006-01-01,30,Luxembourg,2.346,23.373,2004-06-01,Socialist Workers’ Party of Luxembourg,54.833057999999994
+2007-01-01,30,Luxembourg,2.346,23.373,2004-06-01,Socialist Workers’ Party of Luxembourg,54.833057999999994
+2008-01-01,30,Luxembourg,2.346,23.373,2004-06-01,Socialist Workers’ Party of Luxembourg,54.833057999999994
+2009-01-01,30,Luxembourg,3.2880000000000003,21.548,2009-06-01,Socialist Workers’ Party of Luxembourg,70.84982400000001
+2010-01-01,30,Luxembourg,3.2880000000000003,21.548,2009-06-01,Socialist Workers’ Party of Luxembourg,70.84982400000001
+2011-01-01,30,Luxembourg,3.2880000000000003,21.548,2009-06-01,Socialist Workers’ Party of Luxembourg,70.84982400000001
+2012-01-01,30,Luxembourg,3.2880000000000003,21.548,2009-06-01,Socialist Workers’ Party of Luxembourg,70.84982400000001
+2013-01-01,30,Luxembourg,5.8870000000000005,20.282,2013-10-01,Socialist Workers’ Party of Luxembourg,119.400134
+2014-01-01,30,Luxembourg,5.8870000000000005,20.282,2013-10-01,Socialist Workers’ Party of Luxembourg,119.400134
+2015-01-01,30,Luxembourg,5.8870000000000005,20.282,2013-10-01,Socialist Workers’ Party of Luxembourg,119.400134
+2016-01-01,30,Luxembourg,5.8870000000000005,20.282,2013-10-01,Socialist Workers’ Party of Luxembourg,119.400134
+2017-01-01,30,Luxembourg,5.8870000000000005,20.282,2013-10-01,Socialist Workers’ Party of Luxembourg,119.400134
+2018-01-01,30,Luxembourg,5.8870000000000005,20.282,2013-10-01,Socialist Workers’ Party of Luxembourg,119.400134
+2019-01-01,30,Luxembourg,5.8870000000000005,20.282,2013-10-01,Socialist Workers’ Party of Luxembourg,119.400134
+2020-01-01,30,Luxembourg,5.8870000000000005,20.282,2013-10-01,Socialist Workers’ Party of Luxembourg,119.400134
+1945-01-01,40,Luxembourg,10.169,18.0,1945-10-01,Patriotic and Democratic Group,183.042
+1946-01-01,40,Luxembourg,10.169,18.0,1945-10-01,Patriotic and Democratic Group,183.042
+1947-01-01,40,Luxembourg,10.169,18.0,1945-10-01,Patriotic and Democratic Group,183.042
+1948-01-01,40,Luxembourg,10.169,11.6,1948-06-01,Patriotic and Democratic Group,117.9604
+1949-01-01,40,Luxembourg,10.169,11.6,1948-06-01,Patriotic and Democratic Group,117.9604
+1950-01-01,40,Luxembourg,10.169,11.6,1948-06-01,Patriotic and Democratic Group,117.9604
+1951-01-01,40,Luxembourg,10.169,20.9,1951-06-01,Democratic Group,212.5321
+1952-01-01,40,Luxembourg,10.169,20.9,1951-06-01,Democratic Group,212.5321
+1953-01-01,40,Luxembourg,10.169,20.9,1951-06-01,Democratic Group,212.5321
+1954-01-01,40,Luxembourg,10.0,12.3,1954-05-01,Democratic Group,123.0
+1955-01-01,40,Luxembourg,10.0,12.3,1954-05-01,Democratic Group,123.0
+1956-01-01,40,Luxembourg,10.0,12.3,1954-05-01,Democratic Group,123.0
+1957-01-01,40,Luxembourg,10.0,12.3,1954-05-01,Democratic Group,123.0
+1958-01-01,40,Luxembourg,10.0,12.3,1954-05-01,Democratic Group,123.0
+1959-01-01,40,Luxembourg,5.686,20.3,1959-02-01,Democratic Party,115.4258
+1960-01-01,40,Luxembourg,5.686,20.3,1959-02-01,Democratic Party,115.4258
+1961-01-01,40,Luxembourg,5.686,20.3,1959-02-01,Democratic Party,115.4258
+1962-01-01,40,Luxembourg,5.686,20.3,1959-02-01,Democratic Party,115.4258
+1963-01-01,40,Luxembourg,5.686,20.3,1959-02-01,Democratic Party,115.4258
+1964-01-01,40,Luxembourg,4.839,12.2,1964-06-01,Democratic Party,59.03579999999999
+1965-01-01,40,Luxembourg,4.839,12.2,1964-06-01,Democratic Party,59.03579999999999
+1966-01-01,40,Luxembourg,4.839,12.2,1964-06-01,Democratic Party,59.03579999999999
+1967-01-01,40,Luxembourg,4.839,12.2,1964-06-01,Democratic Party,59.03579999999999
+1968-01-01,40,Luxembourg,7.372999999999998,18.0,1968-12-01,Democratic Party,132.714
+1969-01-01,40,Luxembourg,7.372999999999998,18.0,1968-12-01,Democratic Party,132.714
+1970-01-01,40,Luxembourg,7.372999999999998,18.0,1968-12-01,Democratic Party,132.714
+1971-01-01,40,Luxembourg,7.372999999999998,18.0,1968-12-01,Democratic Party,132.714
+1972-01-01,40,Luxembourg,7.372999999999998,18.0,1968-12-01,Democratic Party,132.714
+1973-01-01,40,Luxembourg,7.372999999999998,18.0,1968-12-01,Democratic Party,132.714
+1974-01-01,40,Luxembourg,5.1770000000000005,23.3,1974-05-01,Democratic Party,120.6241
+1975-01-01,40,Luxembourg,5.1770000000000005,23.3,1974-05-01,Democratic Party,120.6241
+1976-01-01,40,Luxembourg,5.1770000000000005,23.3,1974-05-01,Democratic Party,120.6241
+1977-01-01,40,Luxembourg,5.1770000000000005,23.3,1974-05-01,Democratic Party,120.6241
+1978-01-01,40,Luxembourg,5.1770000000000005,23.3,1974-05-01,Democratic Party,120.6241
+1979-01-01,40,Luxembourg,2.5610000000000004,21.9,1979-06-01,Democratic Party,56.0859
+1980-01-01,40,Luxembourg,2.5610000000000004,21.9,1979-06-01,Democratic Party,56.0859
+1981-01-01,40,Luxembourg,2.5610000000000004,21.9,1979-06-01,Democratic Party,56.0859
+1982-01-01,40,Luxembourg,2.5610000000000004,21.9,1979-06-01,Democratic Party,56.0859
+1983-01-01,40,Luxembourg,2.5610000000000004,21.9,1979-06-01,Democratic Party,56.0859
+1984-01-01,40,Luxembourg,0.387,20.4,1984-06-01,Democratic Party,7.8948
+1985-01-01,40,Luxembourg,0.387,20.4,1984-06-01,Democratic Party,7.8948
+1986-01-01,40,Luxembourg,0.387,20.4,1984-06-01,Democratic Party,7.8948
+1987-01-01,40,Luxembourg,0.387,20.4,1984-06-01,Democratic Party,7.8948
+1988-01-01,40,Luxembourg,0.387,20.4,1984-06-01,Democratic Party,7.8948
+1989-01-01,40,Luxembourg,2.6,17.2,1989-06-01,Democratic Party,44.72
+1990-01-01,40,Luxembourg,2.6,17.2,1989-06-01,Democratic Party,44.72
+1991-01-01,40,Luxembourg,2.6,17.2,1989-06-01,Democratic Party,44.72
+1992-01-01,40,Luxembourg,2.6,17.2,1989-06-01,Democratic Party,44.72
+1993-01-01,40,Luxembourg,2.6,17.2,1989-06-01,Democratic Party,44.72
+1994-01-01,40,Luxembourg,0.5760000000000001,19.3,1994-06-01,Democratic Party,11.1168
+1995-01-01,40,Luxembourg,0.5760000000000001,19.3,1994-06-01,Democratic Party,11.1168
+1996-01-01,40,Luxembourg,0.5760000000000001,19.3,1994-06-01,Democratic Party,11.1168
+1997-01-01,40,Luxembourg,0.5760000000000001,19.3,1994-06-01,Democratic Party,11.1168
+1998-01-01,40,Luxembourg,0.5760000000000001,19.3,1994-06-01,Democratic Party,11.1168
+1999-01-01,40,Luxembourg,2.587,22.4,1999-06-01,Democratic Party,57.94879999999999
+2000-01-01,40,Luxembourg,2.587,22.4,1999-06-01,Democratic Party,57.94879999999999
+2001-01-01,40,Luxembourg,2.587,22.4,1999-06-01,Democratic Party,57.94879999999999
+2002-01-01,40,Luxembourg,2.587,22.4,1999-06-01,Democratic Party,57.94879999999999
+2003-01-01,40,Luxembourg,2.587,22.4,1999-06-01,Democratic Party,57.94879999999999
+2004-01-01,40,Luxembourg,1.746,16.048,2004-06-01,Democratic Party,28.019808
+2005-01-01,40,Luxembourg,1.746,16.048,2004-06-01,Democratic Party,28.019808
+2006-01-01,40,Luxembourg,1.746,16.048,2004-06-01,Democratic Party,28.019808
+2007-01-01,40,Luxembourg,1.746,16.048,2004-06-01,Democratic Party,28.019808
+2008-01-01,40,Luxembourg,1.746,16.048,2004-06-01,Democratic Party,28.019808
+2009-01-01,40,Luxembourg,3.009,14.973,2009-06-01,Democratic Party,45.053757
+2010-01-01,40,Luxembourg,3.009,14.973,2009-06-01,Democratic Party,45.053757
+2011-01-01,40,Luxembourg,3.009,14.973,2009-06-01,Democratic Party,45.053757
+2012-01-01,40,Luxembourg,3.009,14.973,2009-06-01,Democratic Party,45.053757
+2013-01-01,40,Luxembourg,2.342,18.246,2013-10-01,Democratic Party,42.732132
+2014-01-01,40,Luxembourg,2.342,18.246,2013-10-01,Democratic Party,42.732132
+2015-01-01,40,Luxembourg,2.342,18.246,2013-10-01,Democratic Party,42.732132
+2016-01-01,40,Luxembourg,2.342,18.246,2013-10-01,Democratic Party,42.732132
+2017-01-01,40,Luxembourg,2.342,18.246,2013-10-01,Democratic Party,42.732132
+2018-01-01,40,Luxembourg,2.342,18.246,2013-10-01,Democratic Party,42.732132
+2019-01-01,40,Luxembourg,2.342,18.246,2013-10-01,Democratic Party,42.732132
+2020-01-01,40,Luxembourg,2.342,18.246,2013-10-01,Democratic Party,42.732132
+1945-01-01,50,Luxembourg,1.709,44.7,1945-10-01,Christian Social People’s Party,76.3923
+1946-01-01,50,Luxembourg,1.709,44.7,1945-10-01,Christian Social People’s Party,76.3923
+1947-01-01,50,Luxembourg,1.709,44.7,1945-10-01,Christian Social People’s Party,76.3923
+1948-01-01,50,Luxembourg,3.524,36.3,1948-06-01,Christian Social People’s Party,127.92119999999996
+1949-01-01,50,Luxembourg,3.524,36.3,1948-06-01,Christian Social People’s Party,127.92119999999996
+1950-01-01,50,Luxembourg,3.524,36.3,1948-06-01,Christian Social People’s Party,127.92119999999996
+1951-01-01,50,Luxembourg,10.119,42.1,1951-06-01,Christian Social People’s Party,426.0099
+1952-01-01,50,Luxembourg,10.119,42.1,1951-06-01,Christian Social People’s Party,426.0099
+1953-01-01,50,Luxembourg,10.119,42.1,1951-06-01,Christian Social People’s Party,426.0099
+1954-01-01,50,Luxembourg,13.462,45.2,1954-05-01,Christian Social People’s Party,608.4824
+1955-01-01,50,Luxembourg,13.462,45.2,1954-05-01,Christian Social People’s Party,608.4824
+1956-01-01,50,Luxembourg,13.462,45.2,1954-05-01,Christian Social People’s Party,608.4824
+1957-01-01,50,Luxembourg,13.462,45.2,1954-05-01,Christian Social People’s Party,608.4824
+1958-01-01,50,Luxembourg,13.462,45.2,1954-05-01,Christian Social People’s Party,608.4824
+1959-01-01,50,Luxembourg,5.149,38.9,1959-02-01,Christian Social People’s Party,200.2961
+1960-01-01,50,Luxembourg,5.149,38.9,1959-02-01,Christian Social People’s Party,200.2961
+1961-01-01,50,Luxembourg,5.149,38.9,1959-02-01,Christian Social People’s Party,200.2961
+1962-01-01,50,Luxembourg,5.149,38.9,1959-02-01,Christian Social People’s Party,200.2961
+1963-01-01,50,Luxembourg,5.149,38.9,1959-02-01,Christian Social People’s Party,200.2961
+1964-01-01,50,Luxembourg,7.432,35.7,1964-06-01,Christian Social People’s Party,265.3224
+1965-01-01,50,Luxembourg,7.432,35.7,1964-06-01,Christian Social People’s Party,265.3224
+1966-01-01,50,Luxembourg,7.432,35.7,1964-06-01,Christian Social People’s Party,265.3224
+1967-01-01,50,Luxembourg,7.432,35.7,1964-06-01,Christian Social People’s Party,265.3224
+1968-01-01,50,Luxembourg,1.205,37.5,1968-12-01,Christian Social People’s Party,45.1875
+1969-01-01,50,Luxembourg,1.205,37.5,1968-12-01,Christian Social People’s Party,45.1875
+1970-01-01,50,Luxembourg,1.205,37.5,1968-12-01,Christian Social People’s Party,45.1875
+1971-01-01,50,Luxembourg,1.205,37.5,1968-12-01,Christian Social People’s Party,45.1875
+1972-01-01,50,Luxembourg,1.205,37.5,1968-12-01,Christian Social People’s Party,45.1875
+1973-01-01,50,Luxembourg,1.205,37.5,1968-12-01,Christian Social People’s Party,45.1875
+1974-01-01,50,Luxembourg,5.141,29.9,1974-05-01,Christian Social People’s Party,153.7159
+1975-01-01,50,Luxembourg,5.141,29.9,1974-05-01,Christian Social People’s Party,153.7159
+1976-01-01,50,Luxembourg,5.141,29.9,1974-05-01,Christian Social People’s Party,153.7159
+1977-01-01,50,Luxembourg,5.141,29.9,1974-05-01,Christian Social People’s Party,153.7159
+1978-01-01,50,Luxembourg,5.141,29.9,1974-05-01,Christian Social People’s Party,153.7159
+1979-01-01,50,Luxembourg,2.402,36.4,1979-06-01,Christian Social People’s Party,87.43279999999999
+1980-01-01,50,Luxembourg,2.402,36.4,1979-06-01,Christian Social People’s Party,87.43279999999999
+1981-01-01,50,Luxembourg,2.402,36.4,1979-06-01,Christian Social People’s Party,87.43279999999999
+1982-01-01,50,Luxembourg,2.402,36.4,1979-06-01,Christian Social People’s Party,87.43279999999999
+1983-01-01,50,Luxembourg,2.402,36.4,1979-06-01,Christian Social People’s Party,87.43279999999999
+1984-01-01,50,Luxembourg,0.6990000000000001,36.6,1984-06-01,Christian Social People’s Party,25.583400000000005
+1985-01-01,50,Luxembourg,0.6990000000000001,36.6,1984-06-01,Christian Social People’s Party,25.583400000000005
+1986-01-01,50,Luxembourg,0.6990000000000001,36.6,1984-06-01,Christian Social People’s Party,25.583400000000005
+1987-01-01,50,Luxembourg,0.6990000000000001,36.6,1984-06-01,Christian Social People’s Party,25.583400000000005
+1988-01-01,50,Luxembourg,0.6990000000000001,36.6,1984-06-01,Christian Social People’s Party,25.583400000000005
+1989-01-01,50,Luxembourg,2.6,32.4,1989-06-01,Christian Social People’s Party,84.24
+1990-01-01,50,Luxembourg,2.6,32.4,1989-06-01,Christian Social People’s Party,84.24
+1991-01-01,50,Luxembourg,2.6,32.4,1989-06-01,Christian Social People’s Party,84.24
+1992-01-01,50,Luxembourg,2.6,32.4,1989-06-01,Christian Social People’s Party,84.24
+1993-01-01,50,Luxembourg,2.6,32.4,1989-06-01,Christian Social People’s Party,84.24
+1994-01-01,50,Luxembourg,2.208,30.3,1994-06-01,Christian Social People’s Party,66.9024
+1995-01-01,50,Luxembourg,2.208,30.3,1994-06-01,Christian Social People’s Party,66.9024
+1996-01-01,50,Luxembourg,2.208,30.3,1994-06-01,Christian Social People’s Party,66.9024
+1997-01-01,50,Luxembourg,2.208,30.3,1994-06-01,Christian Social People’s Party,66.9024
+1998-01-01,50,Luxembourg,2.208,30.3,1994-06-01,Christian Social People’s Party,66.9024
+1999-01-01,50,Luxembourg,3.346,30.1,1999-06-01,Christian Social People’s Party,100.7146
+2000-01-01,50,Luxembourg,3.346,30.1,1999-06-01,Christian Social People’s Party,100.7146
+2001-01-01,50,Luxembourg,3.346,30.1,1999-06-01,Christian Social People’s Party,100.7146
+2002-01-01,50,Luxembourg,3.346,30.1,1999-06-01,Christian Social People’s Party,100.7146
+2003-01-01,50,Luxembourg,3.346,30.1,1999-06-01,Christian Social People’s Party,100.7146
+2004-01-01,50,Luxembourg,2.0340000000000003,36.112,2004-06-01,Christian Social People’s Party,73.451808
+2005-01-01,50,Luxembourg,2.0340000000000003,36.112,2004-06-01,Christian Social People’s Party,73.451808
+2006-01-01,50,Luxembourg,2.0340000000000003,36.112,2004-06-01,Christian Social People’s Party,73.451808
+2007-01-01,50,Luxembourg,2.0340000000000003,36.112,2004-06-01,Christian Social People’s Party,73.451808
+2008-01-01,50,Luxembourg,2.0340000000000003,36.112,2004-06-01,Christian Social People’s Party,73.451808
+2009-01-01,50,Luxembourg,2.651,38.006,2009-06-01,Christian Social People’s Party,100.753906
+2010-01-01,50,Luxembourg,2.651,38.006,2009-06-01,Christian Social People’s Party,100.753906
+2011-01-01,50,Luxembourg,2.651,38.006,2009-06-01,Christian Social People’s Party,100.753906
+2012-01-01,50,Luxembourg,2.651,38.006,2009-06-01,Christian Social People’s Party,100.753906
+2013-01-01,50,Luxembourg,3.7,33.681,2013-10-01,Christian Social People’s Party,124.6197
+2014-01-01,50,Luxembourg,3.7,33.681,2013-10-01,Christian Social People’s Party,124.6197
+2015-01-01,50,Luxembourg,3.7,33.681,2013-10-01,Christian Social People’s Party,124.6197
+2016-01-01,50,Luxembourg,3.7,33.681,2013-10-01,Christian Social People’s Party,124.6197
+2017-01-01,50,Luxembourg,3.7,33.681,2013-10-01,Christian Social People’s Party,124.6197
+2018-01-01,50,Luxembourg,3.7,33.681,2013-10-01,Christian Social People’s Party,124.6197
+2019-01-01,50,Luxembourg,3.7,33.681,2013-10-01,Christian Social People’s Party,124.6197
+2020-01-01,50,Luxembourg,3.7,33.681,2013-10-01,Christian Social People’s Party,124.6197
+1989-01-01,95,Luxembourg,6.545,7.9,1989-06-01,Action Committee for Democracy and Pension Justice,51.7055
+1990-01-01,95,Luxembourg,6.545,7.9,1989-06-01,Action Committee for Democracy and Pension Justice,51.7055
+1991-01-01,95,Luxembourg,6.545,7.9,1989-06-01,Action Committee for Democracy and Pension Justice,51.7055
+1992-01-01,95,Luxembourg,6.545,7.9,1989-06-01,Action Committee for Democracy and Pension Justice,51.7055
+1993-01-01,95,Luxembourg,6.545,7.9,1989-06-01,Action Committee for Democracy and Pension Justice,51.7055
+1994-01-01,95,Luxembourg,6.545,9.0,1994-06-01,Action Committee for Democracy and Pension Justice,58.905
+1995-01-01,95,Luxembourg,6.545,9.0,1994-06-01,Action Committee for Democracy and Pension Justice,58.905
+1996-01-01,95,Luxembourg,6.545,9.0,1994-06-01,Action Committee for Democracy and Pension Justice,58.905
+1997-01-01,95,Luxembourg,6.545,9.0,1994-06-01,Action Committee for Democracy and Pension Justice,58.905
+1998-01-01,95,Luxembourg,6.545,9.0,1994-06-01,Action Committee for Democracy and Pension Justice,58.905
+1999-01-01,95,Luxembourg,8.187000000000001,10.4,1999-06-01,Action Committee for Democracy and Pension Justice,85.1448
+2000-01-01,95,Luxembourg,8.187000000000001,10.4,1999-06-01,Action Committee for Democracy and Pension Justice,85.1448
+2001-01-01,95,Luxembourg,8.187000000000001,10.4,1999-06-01,Action Committee for Democracy and Pension Justice,85.1448
+2002-01-01,95,Luxembourg,8.187000000000001,10.4,1999-06-01,Action Committee for Democracy and Pension Justice,85.1448
+2003-01-01,95,Luxembourg,8.187000000000001,10.4,1999-06-01,Action Committee for Democracy and Pension Justice,85.1448
+2004-01-01,95,Luxembourg,2.324,9.947000000000001,2004-06-01,Action Committee for Democracy and Pension Justice,23.116828
+2005-01-01,95,Luxembourg,2.324,9.947000000000001,2004-06-01,Action Committee for Democracy and Pension Justice,23.116828
+2006-01-01,95,Luxembourg,2.324,9.947000000000001,2004-06-01,Action Committee for Democracy and Pension Justice,23.116828
+2007-01-01,95,Luxembourg,2.324,9.947000000000001,2004-06-01,Action Committee for Democracy and Pension Justice,23.116828
+2008-01-01,95,Luxembourg,2.324,9.947000000000001,2004-06-01,Action Committee for Democracy and Pension Justice,23.116828
+2009-01-01,95,Luxembourg,3.346,8.127,2009-06-01,Alternative Democatic Reform Party,27.192942
+2010-01-01,95,Luxembourg,3.346,8.127,2009-06-01,Alternative Democatic Reform Party,27.192942
+2011-01-01,95,Luxembourg,3.346,8.127,2009-06-01,Alternative Democatic Reform Party,27.192942
+2012-01-01,95,Luxembourg,3.346,8.127,2009-06-01,Alternative Democatic Reform Party,27.192942
+2013-01-01,95,Luxembourg,1.812,6.643,2013-10-01,Alternative Democatic Reform Party,12.037116000000001
+2014-01-01,95,Luxembourg,1.812,6.643,2013-10-01,Alternative Democatic Reform Party,12.037116000000001
+2015-01-01,95,Luxembourg,1.812,6.643,2013-10-01,Alternative Democatic Reform Party,12.037116000000001
+2016-01-01,95,Luxembourg,1.812,6.643,2013-10-01,Alternative Democatic Reform Party,12.037116000000001
+2017-01-01,95,Luxembourg,1.812,6.643,2013-10-01,Alternative Democatic Reform Party,12.037116000000001
+2018-01-01,95,Luxembourg,1.812,6.643,2013-10-01,Alternative Democatic Reform Party,12.037116000000001
+2019-01-01,95,Luxembourg,1.812,6.643,2013-10-01,Alternative Democatic Reform Party,12.037116000000001
+2020-01-01,95,Luxembourg,1.812,6.643,2013-10-01,Alternative Democatic Reform Party,12.037116000000001
