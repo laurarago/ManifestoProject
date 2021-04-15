@@ -1,0 +1,470 @@
+index,parfam,countryname,per503,pervote,electionDate,partyname,environWeighted
+1993-01-01,10,France,6.154,7.84,1993-03-01,The Greens,48.24736
+1994-01-01,10,France,6.154,7.84,1993-03-01,The Greens,48.24736
+1995-01-01,10,France,6.154,7.84,1993-03-01,The Greens,48.24736
+1996-01-01,10,France,6.154,7.84,1993-03-01,The Greens,48.24736
+1997-01-01,10,France,12.5,3.592,1997-05-01,The Greens,44.9
+1998-01-01,10,France,12.5,3.592,1997-05-01,The Greens,44.9
+1999-01-01,10,France,12.5,3.592,1997-05-01,The Greens,44.9
+2000-01-01,10,France,12.5,3.592,1997-05-01,The Greens,44.9
+2001-01-01,10,France,12.5,3.592,1997-05-01,The Greens,44.9
+2002-01-01,10,France,11.278,4.44,2002-06-01,The Greens,50.07432
+2003-01-01,10,France,11.278,4.44,2002-06-01,The Greens,50.07432
+2004-01-01,10,France,11.278,4.44,2002-06-01,The Greens,50.07432
+2005-01-01,10,France,11.278,4.44,2002-06-01,The Greens,50.07432
+2006-01-01,10,France,11.278,4.44,2002-06-01,The Greens,50.07432
+2007-01-01,10,France,7.962999999999999,3.2510000000000003,2007-06-01,The Greens,25.887713
+2008-01-01,10,France,7.962999999999999,3.2510000000000003,2007-06-01,The Greens,25.887713
+2009-01-01,10,France,7.962999999999999,3.2510000000000003,2007-06-01,The Greens,25.887713
+2010-01-01,10,France,7.962999999999999,3.2510000000000003,2007-06-01,The Greens,25.887713
+2011-01-01,10,France,7.962999999999999,3.2510000000000003,2007-06-01,The Greens,25.887713
+2012-01-01,10,France,5.132999999999999,5.465,2012-06-01,Europe Ecology - The Greens,28.051844999999997
+2013-01-01,10,France,5.132999999999999,5.465,2012-06-01,Europe Ecology - The Greens,28.051844999999997
+2014-01-01,10,France,5.132999999999999,5.465,2012-06-01,Europe Ecology - The Greens,28.051844999999997
+2015-01-01,10,France,5.132999999999999,5.465,2012-06-01,Europe Ecology - The Greens,28.051844999999997
+2016-01-01,10,France,5.132999999999999,5.465,2012-06-01,Europe Ecology - The Greens,28.051844999999997
+2017-01-01,10,France,6.818000000000001,4.297,2017-06-01,Europe Ecology - The Greens,29.296946000000005
+2018-01-01,10,France,6.818000000000001,4.297,2017-06-01,Europe Ecology - The Greens,29.296946000000005
+2019-01-01,10,France,6.818000000000001,4.297,2017-06-01,Europe Ecology - The Greens,29.296946000000005
+2020-01-01,10,France,6.818000000000001,4.297,2017-06-01,Europe Ecology - The Greens,29.296946000000005
+1997-01-01,10,France,4.878,2.674,1997-05-01,Ecology Generation,13.043772
+1946-01-01,20,France,4.878,28.585,1946-11-01,French Communist Party,139.43763
+1947-01-01,20,France,4.878,28.585,1946-11-01,French Communist Party,139.43763
+1948-01-01,20,France,4.878,28.585,1946-11-01,French Communist Party,139.43763
+1949-01-01,20,France,4.878,28.585,1946-11-01,French Communist Party,139.43763
+1950-01-01,20,France,4.878,28.585,1946-11-01,French Communist Party,139.43763
+1951-01-01,20,France,6.818000000000001,26.434,1951-06-01,French Communist Party,180.22701200000003
+1952-01-01,20,France,6.818000000000001,26.434,1951-06-01,French Communist Party,180.22701200000003
+1953-01-01,20,France,6.818000000000001,26.434,1951-06-01,French Communist Party,180.22701200000003
+1954-01-01,20,France,6.818000000000001,26.434,1951-06-01,French Communist Party,180.22701200000003
+1955-01-01,20,France,6.818000000000001,26.434,1951-06-01,French Communist Party,180.22701200000003
+1956-01-01,20,France,4.249,25.659,1956-01-01,French Communist Party,109.02509099999999
+1957-01-01,20,France,4.249,25.659,1956-01-01,French Communist Party,109.02509099999999
+1958-01-01,20,France,0.0,18.886,1958-11-01,French Communist Party,0.0
+1959-01-01,20,France,0.0,18.886,1958-11-01,French Communist Party,0.0
+1960-01-01,20,France,0.0,18.886,1958-11-01,French Communist Party,0.0
+1961-01-01,20,France,0.0,18.886,1958-11-01,French Communist Party,0.0
+1962-01-01,20,France,9.4,21.875,1962-11-01,French Communist Party,205.625
+1963-01-01,20,France,9.4,21.875,1962-11-01,French Communist Party,205.625
+1964-01-01,20,France,9.4,21.875,1962-11-01,French Communist Party,205.625
+1965-01-01,20,France,9.4,21.875,1962-11-01,French Communist Party,205.625
+1966-01-01,20,France,9.4,21.875,1962-11-01,French Communist Party,205.625
+1967-01-01,20,France,5.3,22.506,1967-03-01,French Communist Party,119.2818
+1968-01-01,20,France,8.700000000000001,20.024,1968-06-01,French Communist Party,174.20880000000002
+1969-01-01,20,France,8.700000000000001,20.024,1968-06-01,French Communist Party,174.20880000000002
+1970-01-01,20,France,8.700000000000001,20.024,1968-06-01,French Communist Party,174.20880000000002
+1971-01-01,20,France,8.700000000000001,20.024,1968-06-01,French Communist Party,174.20880000000002
+1972-01-01,20,France,8.700000000000001,20.024,1968-06-01,French Communist Party,174.20880000000002
+1973-01-01,20,France,6.600000000000001,21.41,1973-03-01,French Communist Party,141.30600000000004
+1974-01-01,20,France,6.600000000000001,21.41,1973-03-01,French Communist Party,141.30600000000004
+1975-01-01,20,France,6.600000000000001,21.41,1973-03-01,French Communist Party,141.30600000000004
+1976-01-01,20,France,6.600000000000001,21.41,1973-03-01,French Communist Party,141.30600000000004
+1977-01-01,20,France,6.600000000000001,21.41,1973-03-01,French Communist Party,141.30600000000004
+1978-01-01,20,France,8.700000000000001,20.612,1978-03-01,French Communist Party,179.3244
+1979-01-01,20,France,8.700000000000001,20.612,1978-03-01,French Communist Party,179.3244
+1980-01-01,20,France,8.700000000000001,20.612,1978-03-01,French Communist Party,179.3244
+1981-01-01,20,France,10.7,16.125999999999998,1981-06-01,French Communist Party,172.54819999999995
+1982-01-01,20,France,10.7,16.125999999999998,1981-06-01,French Communist Party,172.54819999999995
+1983-01-01,20,France,10.7,16.125999999999998,1981-06-01,French Communist Party,172.54819999999995
+1984-01-01,20,France,10.7,16.125999999999998,1981-06-01,French Communist Party,172.54819999999995
+1985-01-01,20,France,10.7,16.125999999999998,1981-06-01,French Communist Party,172.54819999999995
+1986-01-01,20,France,12.6,9.687999999999999,1986-03-01,French Communist Party,122.0688
+1987-01-01,20,France,12.6,9.687999999999999,1986-03-01,French Communist Party,122.0688
+1988-01-01,20,France,9.1,11.175,1988-06-01,French Communist Party,101.6925
+1989-01-01,20,France,9.1,11.175,1988-06-01,French Communist Party,101.6925
+1990-01-01,20,France,9.1,11.175,1988-06-01,French Communist Party,101.6925
+1991-01-01,20,France,9.1,11.175,1988-06-01,French Communist Party,101.6925
+1992-01-01,20,France,9.1,11.175,1988-06-01,French Communist Party,101.6925
+1993-01-01,20,France,6.803,9.14,1993-03-01,French Communist Party,62.17941999999999
+1994-01-01,20,France,6.803,9.14,1993-03-01,French Communist Party,62.17941999999999
+1995-01-01,20,France,6.803,9.14,1993-03-01,French Communist Party,62.17941999999999
+1996-01-01,20,France,6.803,9.14,1993-03-01,French Communist Party,62.17941999999999
+1997-01-01,20,France,14.286,9.901,1997-05-01,French Communist Party,141.44568600000002
+1998-01-01,20,France,14.286,9.901,1997-05-01,French Communist Party,141.44568600000002
+1999-01-01,20,France,14.286,9.901,1997-05-01,French Communist Party,141.44568600000002
+2000-01-01,20,France,14.286,9.901,1997-05-01,French Communist Party,141.44568600000002
+2001-01-01,20,France,14.286,9.901,1997-05-01,French Communist Party,141.44568600000002
+2002-01-01,20,France,13.75,4.91,2002-06-01,French Communist Party,67.5125
+2003-01-01,20,France,13.75,4.91,2002-06-01,French Communist Party,67.5125
+2004-01-01,20,France,13.75,4.91,2002-06-01,French Communist Party,67.5125
+2005-01-01,20,France,13.75,4.91,2002-06-01,French Communist Party,67.5125
+2006-01-01,20,France,13.75,4.91,2002-06-01,French Communist Party,67.5125
+2007-01-01,20,France,8.0,4.287,2007-06-01,French Communist Party,34.296
+2008-01-01,20,France,8.0,4.287,2007-06-01,French Communist Party,34.296
+2009-01-01,20,France,8.0,4.287,2007-06-01,French Communist Party,34.296
+2010-01-01,20,France,8.0,4.287,2007-06-01,French Communist Party,34.296
+2011-01-01,20,France,8.0,4.287,2007-06-01,French Communist Party,34.296
+2012-01-01,20,France,9.371,6.909,2012-06-01,Left Front,64.74423900000001
+2013-01-01,20,France,9.371,6.909,2012-06-01,Left Front,64.74423900000001
+2014-01-01,20,France,9.371,6.909,2012-06-01,Left Front,64.74423900000001
+2015-01-01,20,France,9.371,6.909,2012-06-01,Left Front,64.74423900000001
+2016-01-01,20,France,9.371,6.909,2012-06-01,Left Front,64.74423900000001
+2017-01-01,20,France,8.333,2.717,2017-06-01,French Communist Party,22.640760999999998
+2018-01-01,20,France,8.333,2.717,2017-06-01,French Communist Party,22.640760999999998
+2019-01-01,20,France,8.333,2.717,2017-06-01,French Communist Party,22.640760999999998
+2020-01-01,20,France,8.333,2.717,2017-06-01,French Communist Party,22.640760999999998
+2012-01-01,20,France,7.86,1.653,2012-06-01,Left Radical Party,12.99258
+2017-01-01,20,France,4.842000000000001,0.469,2017-06-01,Left Radical Party,2.2708980000000007
+2017-01-01,20,France,7.018,11.025,2017-06-01,Indomitable France,77.37345
+1946-01-01,30,France,3.879,17.872,1946-11-01,French Section of the Workers' International,69.32548799999999
+1947-01-01,30,France,3.879,17.872,1946-11-01,French Section of the Workers' International,69.32548799999999
+1948-01-01,30,France,3.879,17.872,1946-11-01,French Section of the Workers' International,69.32548799999999
+1949-01-01,30,France,3.879,17.872,1946-11-01,French Section of the Workers' International,69.32548799999999
+1950-01-01,30,France,3.879,17.872,1946-11-01,French Section of the Workers' International,69.32548799999999
+1951-01-01,30,France,4.046,14.349,1951-06-01,French Section of the Workers' International,58.056054
+1952-01-01,30,France,4.046,14.349,1951-06-01,French Section of the Workers' International,58.056054
+1953-01-01,30,France,4.046,14.349,1951-06-01,French Section of the Workers' International,58.056054
+1954-01-01,30,France,4.046,14.349,1951-06-01,French Section of the Workers' International,58.056054
+1955-01-01,30,France,4.046,14.349,1951-06-01,French Section of the Workers' International,58.056054
+1956-01-01,30,France,8.943,15.111,1956-01-01,French Section of the Workers' International,135.13767299999998
+1957-01-01,30,France,8.943,15.111,1956-01-01,French Section of the Workers' International,135.13767299999998
+1958-01-01,30,France,0.0,15.476,1958-11-01,French Section of the Workers' International,0.0
+1959-01-01,30,France,0.0,15.476,1958-11-01,French Section of the Workers' International,0.0
+1960-01-01,30,France,0.0,15.476,1958-11-01,French Section of the Workers' International,0.0
+1961-01-01,30,France,0.0,15.476,1958-11-01,French Section of the Workers' International,0.0
+1962-01-01,30,France,8.0,12.432,1962-11-01,French Section of the Workers' International,99.456
+1963-01-01,30,France,8.0,12.432,1962-11-01,French Section of the Workers' International,99.456
+1964-01-01,30,France,8.0,12.432,1962-11-01,French Section of the Workers' International,99.456
+1965-01-01,30,France,8.0,12.432,1962-11-01,French Section of the Workers' International,99.456
+1966-01-01,30,France,8.0,12.432,1962-11-01,French Section of the Workers' International,99.456
+1967-01-01,30,France,7.5,11.37,1967-03-01,French Section of the Workers' International,85.27499999999998
+1968-01-01,30,France,6.8,9.86,1968-06-01,French Section of the Workers' International,67.04799999999999
+1969-01-01,30,France,6.8,9.86,1968-06-01,French Section of the Workers' International,67.04799999999999
+1970-01-01,30,France,6.8,9.86,1968-06-01,French Section of the Workers' International,67.04799999999999
+1971-01-01,30,France,6.8,9.86,1968-06-01,French Section of the Workers' International,67.04799999999999
+1972-01-01,30,France,6.8,9.86,1968-06-01,French Section of the Workers' International,67.04799999999999
+1973-01-01,30,France,6.9,19.103,1973-03-01,Socialist Party,131.8107
+1974-01-01,30,France,6.9,19.103,1973-03-01,Socialist Party,131.8107
+1975-01-01,30,France,6.9,19.103,1973-03-01,Socialist Party,131.8107
+1976-01-01,30,France,6.9,19.103,1973-03-01,Socialist Party,131.8107
+1977-01-01,30,France,6.9,19.103,1973-03-01,Socialist Party,131.8107
+1978-01-01,30,France,6.4,22.789,1978-03-01,Socialist Party,145.8496
+1979-01-01,30,France,6.4,22.789,1978-03-01,Socialist Party,145.8496
+1980-01-01,30,France,6.4,22.789,1978-03-01,Socialist Party,145.8496
+1981-01-01,30,France,5.2,36.57,1981-06-01,Socialist Party,190.164
+1982-01-01,30,France,5.2,36.57,1981-06-01,Socialist Party,190.164
+1983-01-01,30,France,5.2,36.57,1981-06-01,Socialist Party,190.164
+1984-01-01,30,France,5.2,36.57,1981-06-01,Socialist Party,190.164
+1985-01-01,30,France,5.2,36.57,1981-06-01,Socialist Party,190.164
+1986-01-01,30,France,12.2,31.299,1986-03-01,Socialist Party,381.8478
+1987-01-01,30,France,12.2,31.299,1986-03-01,Socialist Party,381.8478
+1988-01-01,30,France,12.7,36.557,1988-06-01,Socialist Party,464.27389999999986
+1989-01-01,30,France,12.7,36.557,1988-06-01,Socialist Party,464.27389999999986
+1990-01-01,30,France,12.7,36.557,1988-06-01,Socialist Party,464.27389999999986
+1991-01-01,30,France,12.7,36.557,1988-06-01,Socialist Party,464.27389999999986
+1992-01-01,30,France,12.7,36.557,1988-06-01,Socialist Party,464.27389999999986
+1993-01-01,30,France,6.4,19.04,1993-03-01,Socialist Party,121.85600000000001
+1994-01-01,30,France,6.4,19.04,1993-03-01,Socialist Party,121.85600000000001
+1995-01-01,30,France,6.4,19.04,1993-03-01,Socialist Party,121.85600000000001
+1996-01-01,30,France,6.4,19.04,1993-03-01,Socialist Party,121.85600000000001
+1997-01-01,30,France,11.888,25.484,1997-05-01,Socialist Party,302.95379199999996
+1998-01-01,30,France,11.888,25.484,1997-05-01,Socialist Party,302.95379199999996
+1999-01-01,30,France,11.888,25.484,1997-05-01,Socialist Party,302.95379199999996
+2000-01-01,30,France,11.888,25.484,1997-05-01,Socialist Party,302.95379199999996
+2001-01-01,30,France,11.888,25.484,1997-05-01,Socialist Party,302.95379199999996
+2002-01-01,30,France,12.644,25.29,2002-06-01,Socialist Party,319.76676000000003
+2003-01-01,30,France,12.644,25.29,2002-06-01,Socialist Party,319.76676000000003
+2004-01-01,30,France,12.644,25.29,2002-06-01,Socialist Party,319.76676000000003
+2005-01-01,30,France,12.644,25.29,2002-06-01,Socialist Party,319.76676000000003
+2006-01-01,30,France,12.644,25.29,2002-06-01,Socialist Party,319.76676000000003
+2007-01-01,30,France,6.645,24.733,2007-06-01,Socialist Party,164.350785
+2008-01-01,30,France,6.645,24.733,2007-06-01,Socialist Party,164.350785
+2009-01-01,30,France,6.645,24.733,2007-06-01,Socialist Party,164.350785
+2010-01-01,30,France,6.645,24.733,2007-06-01,Socialist Party,164.350785
+2011-01-01,30,France,6.645,24.733,2007-06-01,Socialist Party,164.350785
+2012-01-01,30,France,6.542000000000002,29.354,2012-06-01,Socialist Party,192.03386799999998
+2013-01-01,30,France,6.542000000000002,29.354,2012-06-01,Socialist Party,192.03386799999998
+2014-01-01,30,France,6.542000000000002,29.354,2012-06-01,Socialist Party,192.03386799999998
+2015-01-01,30,France,6.542000000000002,29.354,2012-06-01,Socialist Party,192.03386799999998
+2016-01-01,30,France,6.542000000000002,29.354,2012-06-01,Socialist Party,192.03386799999998
+2017-01-01,30,France,9.211,7.441,2017-06-01,Socialist Party,68.539051
+2018-01-01,30,France,9.211,7.441,2017-06-01,Socialist Party,68.539051
+2019-01-01,30,France,9.211,7.441,2017-06-01,Socialist Party,68.539051
+2020-01-01,30,France,9.211,7.441,2017-06-01,Socialist Party,68.539051
+1946-01-01,40,France,2.139,12.401,1946-11-01,Radical Socialist Party,26.525739
+1947-01-01,40,France,2.139,12.401,1946-11-01,Radical Socialist Party,26.525739
+1948-01-01,40,France,2.139,12.401,1946-11-01,Radical Socialist Party,26.525739
+1949-01-01,40,France,2.139,12.401,1946-11-01,Radical Socialist Party,26.525739
+1950-01-01,40,France,2.139,12.401,1946-11-01,Radical Socialist Party,26.525739
+1951-01-01,40,France,3.07,9.868,1951-06-01,Radical Socialist Party,30.294759999999997
+1952-01-01,40,France,3.07,9.868,1951-06-01,Radical Socialist Party,30.294759999999997
+1953-01-01,40,France,3.07,9.868,1951-06-01,Radical Socialist Party,30.294759999999997
+1954-01-01,40,France,3.07,9.868,1951-06-01,Radical Socialist Party,30.294759999999997
+1955-01-01,40,France,3.07,9.868,1951-06-01,Radical Socialist Party,30.294759999999997
+1956-01-01,40,France,4.0,15.018,1956-01-01,Radical Socialist Party,60.072
+1957-01-01,40,France,4.0,15.018,1956-01-01,Radical Socialist Party,60.072
+1958-01-01,40,France,12.0,9.651,1958-11-01,Radical Socialist Party,115.81200000000001
+1959-01-01,40,France,12.0,9.651,1958-11-01,Radical Socialist Party,115.81200000000001
+1960-01-01,40,France,12.0,9.651,1958-11-01,Radical Socialist Party,115.81200000000001
+1961-01-01,40,France,12.0,9.651,1958-11-01,Radical Socialist Party,115.81200000000001
+1962-01-01,40,France,0.0,7.421,1962-11-01,Radical Socialist Party,0.0
+1963-01-01,40,France,0.0,7.421,1962-11-01,Radical Socialist Party,0.0
+1964-01-01,40,France,0.0,7.421,1962-11-01,Radical Socialist Party,0.0
+1965-01-01,40,France,0.0,7.421,1962-11-01,Radical Socialist Party,0.0
+1966-01-01,40,France,0.0,7.421,1962-11-01,Radical Socialist Party,0.0
+1967-01-01,40,France,7.5,7.53,1967-03-01,Radical Socialist Party,56.475
+1968-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1969-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1970-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1971-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1972-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1973-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1974-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1975-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1976-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1977-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1978-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1979-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1980-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1981-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1982-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1983-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1984-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1985-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1986-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1987-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1988-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1989-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1990-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1991-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1992-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1993-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1994-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1995-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1996-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1997-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1998-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+1999-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+2000-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+2001-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+2002-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+2003-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+2004-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+2005-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+2006-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+2007-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+2008-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+2009-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+2010-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+2011-01-01,40,France,6.8,6.67,1968-06-01,Radical Socialist Party,45.356
+2012-01-01,40,France,4.1960000000000015,1.237,2012-06-01,Radical Party,5.190452000000001
+2013-01-01,40,France,4.1960000000000015,1.237,2012-06-01,Radical Party,5.190452000000001
+2014-01-01,40,France,4.1960000000000015,1.237,2012-06-01,Radical Party,5.190452000000001
+2015-01-01,40,France,4.1960000000000015,1.237,2012-06-01,Radical Party,5.190452000000001
+2016-01-01,40,France,4.1960000000000015,1.237,2012-06-01,Radical Party,5.190452000000001
+2017-01-01,40,France,11.878,28.212,2017-06-01,Republic Onwards!,335.102136
+2018-01-01,40,France,11.878,28.212,2017-06-01,Republic Onwards!,335.102136
+2019-01-01,40,France,11.878,28.212,2017-06-01,Republic Onwards!,335.102136
+2020-01-01,40,France,11.878,28.212,2017-06-01,Republic Onwards!,335.102136
+2017-01-01,40,France,7.393,3.034,2017-06-01,Union of Democrats and Independents,22.430362
+1946-01-01,50,France,1.045,26.341,1946-11-01,Popular Republican Movement,27.526345
+1947-01-01,50,France,1.045,26.341,1946-11-01,Popular Republican Movement,27.526345
+1948-01-01,50,France,1.045,26.341,1946-11-01,Popular Republican Movement,27.526345
+1949-01-01,50,France,1.045,26.341,1946-11-01,Popular Republican Movement,27.526345
+1950-01-01,50,France,1.045,26.341,1946-11-01,Popular Republican Movement,27.526345
+1951-01-01,50,France,2.235,12.388,1951-06-01,Popular Republican Movement,27.68718
+1952-01-01,50,France,2.235,12.388,1951-06-01,Popular Republican Movement,27.68718
+1953-01-01,50,France,2.235,12.388,1951-06-01,Popular Republican Movement,27.68718
+1954-01-01,50,France,2.235,12.388,1951-06-01,Popular Republican Movement,27.68718
+1955-01-01,50,France,2.235,12.388,1951-06-01,Popular Republican Movement,27.68718
+1956-01-01,50,France,3.425,11.011,1956-01-01,Popular Republican Movement,37.712675
+1957-01-01,50,France,3.425,11.011,1956-01-01,Popular Republican Movement,37.712675
+1958-01-01,50,France,5.7,11.09,1958-11-01,Popular Republican Movement,63.213
+1959-01-01,50,France,5.7,11.09,1958-11-01,Popular Republican Movement,63.213
+1960-01-01,50,France,5.7,11.09,1958-11-01,Popular Republican Movement,63.213
+1961-01-01,50,France,5.7,11.09,1958-11-01,Popular Republican Movement,63.213
+1962-01-01,50,France,10.0,7.875,1962-11-01,Popular Republican Movement,78.75
+1963-01-01,50,France,10.0,7.875,1962-11-01,Popular Republican Movement,78.75
+1964-01-01,50,France,10.0,7.875,1962-11-01,Popular Republican Movement,78.75
+1965-01-01,50,France,10.0,7.875,1962-11-01,Popular Republican Movement,78.75
+1966-01-01,50,France,10.0,7.875,1962-11-01,Popular Republican Movement,78.75
+1967-01-01,50,France,0.0,14.093,1967-03-01,Democratic Centre,0.0
+1968-01-01,50,France,4.2,10.470999999999998,1968-06-01,Progress and Modern Democracy,43.9782
+1969-01-01,50,France,4.2,10.470999999999998,1968-06-01,Progress and Modern Democracy,43.9782
+1970-01-01,50,France,4.2,10.470999999999998,1968-06-01,Progress and Modern Democracy,43.9782
+1971-01-01,50,France,4.2,10.470999999999998,1968-06-01,Progress and Modern Democracy,43.9782
+1972-01-01,50,France,4.2,10.470999999999998,1968-06-01,Progress and Modern Democracy,43.9782
+1973-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1974-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1975-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1976-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1977-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1978-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1979-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1980-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1981-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1982-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1983-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1984-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1985-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1986-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1987-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1988-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1989-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1990-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1991-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1992-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1993-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1994-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1995-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1996-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1997-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1998-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1999-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2000-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2001-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2002-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2003-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2004-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2005-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2006-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2007-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2008-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2009-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2010-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2011-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2012-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2013-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2014-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2015-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2016-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2017-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2018-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2019-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+2020-01-01,50,France,4.2,3.85,1973-03-01,"Centre, Democracy and Progress",16.17
+1973-01-01,50,France,9.0,13.3,1973-03-01,Reformers’ Movement,119.7
+1946-01-01,60,France,0.862,1.628,1946-11-01,Rally for the French People - Gaullists,1.403336
+1947-01-01,60,France,0.862,1.628,1946-11-01,Rally for the French People - Gaullists,1.403336
+1948-01-01,60,France,0.862,1.628,1946-11-01,Rally for the French People - Gaullists,1.403336
+1949-01-01,60,France,0.862,1.628,1946-11-01,Rally for the French People - Gaullists,1.403336
+1950-01-01,60,France,0.862,1.628,1946-11-01,Rally for the French People - Gaullists,1.403336
+1951-01-01,60,France,0.862,21.567,1951-06-01,Rally for the French People - Gaullists,18.590754
+1952-01-01,60,France,0.862,21.567,1951-06-01,Rally for the French People - Gaullists,18.590754
+1953-01-01,60,France,0.862,21.567,1951-06-01,Rally for the French People - Gaullists,18.590754
+1954-01-01,60,France,0.862,21.567,1951-06-01,Rally for the French People - Gaullists,18.590754
+1955-01-01,60,France,0.862,21.567,1951-06-01,Rally for the French People - Gaullists,18.590754
+1956-01-01,60,France,2.681,3.92,1956-01-01,Rally for the French People - Gaullists,10.50952
+1957-01-01,60,France,2.681,3.92,1956-01-01,Rally for the French People - Gaullists,10.50952
+1958-01-01,60,France,4.5,20.638,1958-11-01,Union for the New Republic - Gaullists,92.871
+1959-01-01,60,France,4.5,20.638,1958-11-01,Union for the New Republic - Gaullists,92.871
+1960-01-01,60,France,4.5,20.638,1958-11-01,Union for the New Republic - Gaullists,92.871
+1961-01-01,60,France,4.5,20.638,1958-11-01,Union for the New Republic - Gaullists,92.871
+1962-01-01,60,France,3.7,33.696,1962-11-01,Union for the New Republic - Gaullists,124.6752
+1963-01-01,60,France,3.7,33.696,1962-11-01,Union for the New Republic - Gaullists,124.6752
+1964-01-01,60,France,3.7,33.696,1962-11-01,Union for the New Republic - Gaullists,124.6752
+1965-01-01,60,France,3.7,33.696,1962-11-01,Union for the New Republic - Gaullists,124.6752
+1966-01-01,60,France,3.7,33.696,1962-11-01,Union for the New Republic - Gaullists,124.6752
+1967-01-01,60,France,10.8,32.953,1967-03-01,Democratic Union of the Fifth Republic - Gaulists,355.89240000000007
+1968-01-01,60,France,7.8,38.029,1968-06-01,Union for the Defence of the Republic - Gaullists,296.6262000000001
+1969-01-01,60,France,7.8,38.029,1968-06-01,Union for the Defence of the Republic - Gaullists,296.6262000000001
+1970-01-01,60,France,7.8,38.029,1968-06-01,Union for the Defence of the Republic - Gaullists,296.6262000000001
+1971-01-01,60,France,7.8,38.029,1968-06-01,Union for the Defence of the Republic - Gaullists,296.6262000000001
+1972-01-01,60,France,7.8,38.029,1968-06-01,Union for the Defence of the Republic - Gaullists,296.6262000000001
+1973-01-01,60,France,5.5,25.966,1973-03-01,Union of Democrats for the Republic - Gaullists,142.813
+1974-01-01,60,France,5.5,25.966,1973-03-01,Union of Democrats for the Republic - Gaullists,142.813
+1975-01-01,60,France,5.5,25.966,1973-03-01,Union of Democrats for the Republic - Gaullists,142.813
+1976-01-01,60,France,5.5,25.966,1973-03-01,Union of Democrats for the Republic - Gaullists,142.813
+1977-01-01,60,France,5.5,25.966,1973-03-01,Union of Democrats for the Republic - Gaullists,142.813
+1978-01-01,60,France,5.5,22.835,1978-03-01,Rally for the Republic - Gaullists,125.5925
+1979-01-01,60,France,5.5,22.835,1978-03-01,Rally for the Republic - Gaullists,125.5925
+1980-01-01,60,France,5.5,22.835,1978-03-01,Rally for the Republic - Gaullists,125.5925
+1981-01-01,60,France,6.3,21.242,1981-06-01,Union for a New Majority - Gaullists/Conservatives,133.82459999999998
+1982-01-01,60,France,6.3,21.242,1981-06-01,Union for a New Majority - Gaullists/Conservatives,133.82459999999998
+1983-01-01,60,France,6.3,21.242,1981-06-01,Union for a New Majority - Gaullists/Conservatives,133.82459999999998
+1984-01-01,60,France,6.3,21.242,1981-06-01,Union for a New Majority - Gaullists/Conservatives,133.82459999999998
+1985-01-01,60,France,6.3,21.242,1981-06-01,Union for a New Majority - Gaullists/Conservatives,133.82459999999998
+1986-01-01,60,France,2.5,26.843000000000004,1986-03-01,Union for a New Majority - Gaullists/Conservatives,67.10750000000002
+1987-01-01,60,France,2.5,26.843000000000004,1986-03-01,Union for a New Majority - Gaullists/Conservatives,67.10750000000002
+1988-01-01,60,France,6.4,19.076,1988-06-01,Union for a New Majority - Gaullists/Conservatives,122.0864
+1989-01-01,60,France,6.4,19.076,1988-06-01,Union for a New Majority - Gaullists/Conservatives,122.0864
+1990-01-01,60,France,6.4,19.076,1988-06-01,Union for a New Majority - Gaullists/Conservatives,122.0864
+1991-01-01,60,France,6.4,19.076,1988-06-01,Union for a New Majority - Gaullists/Conservatives,122.0864
+1992-01-01,60,France,6.4,19.076,1988-06-01,Union for a New Majority - Gaullists/Conservatives,122.0864
+1993-01-01,60,France,0.0,19.62,1993-03-01,Union for French Democracy,0.0
+1994-01-01,60,France,0.0,19.62,1993-03-01,Union for French Democracy,0.0
+1995-01-01,60,France,0.0,19.62,1993-03-01,Union for French Democracy,0.0
+1996-01-01,60,France,0.0,19.62,1993-03-01,Union for French Democracy,0.0
+1997-01-01,60,France,8.197000000000001,14.689,1997-05-01,Union for French Democracy,120.405733
+1998-01-01,60,France,8.197000000000001,14.689,1997-05-01,Union for French Democracy,120.405733
+1999-01-01,60,France,8.197000000000001,14.689,1997-05-01,Union for French Democracy,120.405733
+2000-01-01,60,France,8.197000000000001,14.689,1997-05-01,Union for French Democracy,120.405733
+2001-01-01,60,France,8.197000000000001,14.689,1997-05-01,Union for French Democracy,120.405733
+2002-01-01,60,France,1.4409999999999998,4.79,2002-06-01,Union for French Democracy,6.90239
+2003-01-01,60,France,1.4409999999999998,4.79,2002-06-01,Union for French Democracy,6.90239
+2004-01-01,60,France,1.4409999999999998,4.79,2002-06-01,Union for French Democracy,6.90239
+2005-01-01,60,France,1.4409999999999998,4.79,2002-06-01,Union for French Democracy,6.90239
+2006-01-01,60,France,1.4409999999999998,4.79,2002-06-01,Union for French Democracy,6.90239
+2007-01-01,60,France,5.822,7.612999999999999,2007-06-01,Democratic Movement,44.322886
+2008-01-01,60,France,5.822,7.612999999999999,2007-06-01,Democratic Movement,44.322886
+2009-01-01,60,France,5.822,7.612999999999999,2007-06-01,Democratic Movement,44.322886
+2010-01-01,60,France,5.822,7.612999999999999,2007-06-01,Democratic Movement,44.322886
+2011-01-01,60,France,5.822,7.612999999999999,2007-06-01,Democratic Movement,44.322886
+2012-01-01,60,France,6.295,1.765,2012-06-01,Democratic Movement,11.110675
+2013-01-01,60,France,6.295,1.765,2012-06-01,Democratic Movement,11.110675
+2014-01-01,60,France,6.295,1.765,2012-06-01,Democratic Movement,11.110675
+2015-01-01,60,France,6.295,1.765,2012-06-01,Democratic Movement,11.110675
+2016-01-01,60,France,6.295,1.765,2012-06-01,Democratic Movement,11.110675
+2017-01-01,60,France,7.08,4.115,2017-06-01,Democratic Movement,29.134200000000003
+2018-01-01,60,France,7.08,4.115,2017-06-01,Democratic Movement,29.134200000000003
+2019-01-01,60,France,7.08,4.115,2017-06-01,Democratic Movement,29.134200000000003
+2020-01-01,60,France,7.08,4.115,2017-06-01,Democratic Movement,29.134200000000003
+1946-01-01,60,France,1.644,12.839,1946-11-01,Republican Party of Liberty - Conservatives,21.107316
+1951-01-01,60,France,1.648,13.89,1951-06-01,National Centre of Independents and Peasants - Conservatives,22.89072
+1956-01-01,60,France,1.653,15.159,1956-01-01,National Centre of Independents and Peasants - Conservatives,25.057827000000003
+1956-01-01,60,France,1.37,11.558,1956-01-01,Union for the Defence of Traders and Artisans - Poujadists,15.834460000000002
+1958-01-01,60,France,2.9,19.964,1958-11-01,National Centre of Independents and Peasants - Conservatives,57.8956
+1962-01-01,60,France,4.5,11.515,1962-11-01,National Centre of Independents and Peasants - Conservatives,51.8175
+1967-01-01,60,France,4.5,3.26,1967-03-01,National Centre of Independents and Peasants - Conservatives,14.669999999999998
+1968-01-01,60,France,4.5,1.94,1968-06-01,National Centre of Independents and Peasants - Conservatives,8.73
+1973-01-01,60,France,4.5,3.41,1973-03-01,National Centre of Independents and Peasants - Conservatives,15.345
+1978-01-01,60,France,4.5,1.87,1978-03-01,National Centre of Independents and Peasants - Conservatives,8.415000000000001
+1978-01-01,60,France,0.0,22.017,1978-03-01,Union for French Democracy,0.0
+1981-01-01,60,France,6.3,2.72,1981-06-01,Union for a New Majority - Conservatives/Gaullists,17.136
+1981-01-01,60,France,0.0,18.945,1981-06-01,Union for French Democracy,0.0
+1986-01-01,60,France,6.3,1.92,1986-03-01,Union for a New Majority - Conservatives/Gaullists,12.095999999999998
+1986-01-01,60,France,0.0,15.829,1986-03-01,Union for French Democracy,0.0
+1988-01-01,60,France,6.3,2.73,1988-06-01,Union for a New Majority - Conservatives/Gaullists,17.198999999999998
+1988-01-01,60,France,0.0,18.574,1988-06-01,Union for French Democracy,0.0
+1993-01-01,60,France,4.724,20.24,1993-03-01,Rally for the Republic,95.61376
+1997-01-01,60,France,8.197000000000001,16.801,1997-05-01,Rally for the Republic,137.717797
+2002-01-01,60,France,3.286,33.37,2002-06-01,Union for the Presidential Majority,109.65382
+2007-01-01,60,France,3.891,39.54,2007-06-01,Union for a Popular Movement,153.85013999999998
+2012-01-01,60,France,2.754,27.116,2012-06-01,Union for a Popular Movement,74.67746399999999
+2012-01-01,60,France,12.639,2.196,2012-06-01,New Centre,27.755244
+2012-01-01,60,France,1.389,0.601,2012-06-01,Centrist Alliance,0.8347889999999999
+2017-01-01,60,France,7.393,15.774,2017-06-01,The Republicans,116.617182
+1986-01-01,70,France,0.746,9.828,1986-03-01,National Front,7.331688000000001
+1987-01-01,70,France,0.746,9.828,1986-03-01,National Front,7.331688000000001
+1988-01-01,70,France,0.373,9.788,1988-06-01,National Front,3.650924
+1989-01-01,70,France,0.373,9.788,1988-06-01,National Front,3.650924
+1990-01-01,70,France,0.373,9.788,1988-06-01,National Front,3.650924
+1991-01-01,70,France,0.373,9.788,1988-06-01,National Front,3.650924
+1992-01-01,70,France,0.373,9.788,1988-06-01,National Front,3.650924
+1993-01-01,70,France,0.373,12.68,1993-03-01,National Front,4.72964
+1994-01-01,70,France,0.373,12.68,1993-03-01,National Front,4.72964
+1995-01-01,70,France,0.373,12.68,1993-03-01,National Front,4.72964
+1996-01-01,70,France,0.373,12.68,1993-03-01,National Front,4.72964
+1997-01-01,70,France,0.0,14.932,1997-05-01,National Front,0.0
+1998-01-01,70,France,0.0,14.932,1997-05-01,National Front,0.0
+1999-01-01,70,France,0.0,14.932,1997-05-01,National Front,0.0
+2000-01-01,70,France,0.0,14.932,1997-05-01,National Front,0.0
+2001-01-01,70,France,0.0,14.932,1997-05-01,National Front,0.0
+2002-01-01,70,France,0.6409999999999999,11.12,2002-06-01,National Front,7.127919999999999
+2003-01-01,70,France,0.6409999999999999,11.12,2002-06-01,National Front,7.127919999999999
+2004-01-01,70,France,0.6409999999999999,11.12,2002-06-01,National Front,7.127919999999999
+2005-01-01,70,France,0.6409999999999999,11.12,2002-06-01,National Front,7.127919999999999
+2006-01-01,70,France,0.6409999999999999,11.12,2002-06-01,National Front,7.127919999999999
+2007-01-01,70,France,1.143,4.289,2007-06-01,National Front,4.902327
+2008-01-01,70,France,1.143,4.289,2007-06-01,National Front,4.902327
+2009-01-01,70,France,1.143,4.289,2007-06-01,National Front,4.902327
+2010-01-01,70,France,1.143,4.289,2007-06-01,National Front,4.902327
+2011-01-01,70,France,1.143,4.289,2007-06-01,National Front,4.902327
+2012-01-01,70,France,1.347,13.595999999999998,2012-06-01,National Front,18.313812
+2013-01-01,70,France,1.347,13.595999999999998,2012-06-01,National Front,18.313812
+2014-01-01,70,France,1.347,13.595999999999998,2012-06-01,National Front,18.313812
+2015-01-01,70,France,1.347,13.595999999999998,2012-06-01,National Front,18.313812
+2016-01-01,70,France,1.347,13.595999999999998,2012-06-01,National Front,18.313812
+2017-01-01,70,France,5.858000000000001,13.2,2017-06-01,National Front,77.32560000000002
+2018-01-01,70,France,5.858000000000001,13.2,2017-06-01,National Front,77.32560000000002
+2019-01-01,70,France,5.858000000000001,13.2,2017-06-01,National Front,77.32560000000002
+2020-01-01,70,France,5.858000000000001,13.2,2017-06-01,National Front,77.32560000000002
