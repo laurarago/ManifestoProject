@@ -1,6 +1,6 @@
 <script>
 	export let dades;
-	console.log(dades.index);
+	console.log(dades);
 </script>
 
 <main>
