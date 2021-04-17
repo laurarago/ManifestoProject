@@ -86,6 +86,7 @@
 		text-align: center;
 		padding: 1em;
 		margin: 0 0 2em 0;
+		padding-top:50vh;
 	}
 
 	.deck {
@@ -112,7 +113,6 @@
 		font-size: 16px;
 	}
 
-	intro
 	.no-events {
 		pointer-events:none;
 	}
