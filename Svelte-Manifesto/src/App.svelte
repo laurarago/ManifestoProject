@@ -1,6 +1,6 @@
 <script>
-	export let dades;
-	console.log(dades);
+	export let groupedData;
+	console.log(groupedData);
 </script>
 
 <main>
