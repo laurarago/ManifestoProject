@@ -6,6 +6,8 @@
     import { scaleSqrt } from 'd3-scale'
     import { Delaunay } from 'd3-delaunay'
 	import Square from './Square.svelte'
+    import Axis from './Axis.svelte'
+
 	
 	export let data;
 	export let layout;
@@ -28,7 +30,7 @@
 
     $: color = scaleLinear()
 					.domain(extent(data, d => d.data[step].environ))
-					.range(["#EEEF20", "#007F5F"])
+					.range(["#efef20b9", "#007f5fa1"])
 					.nice()
 	
     $: delaunay = Delaunay.from(data, d => x(d.data[step].rile), d => y(d.data[step].environ))
@@ -42,6 +44,10 @@
 		on:mousedown={() => click = true}
 		on:mouseup={() => click = false}
 	>
+    <Axis type="x" scale={x} tickNumber={8} {margin} />
+	<Axis type="y" scale={y} tickNumber={8} {margin} />
+
+
 
 		{#each data as d, i}
 			<Square 

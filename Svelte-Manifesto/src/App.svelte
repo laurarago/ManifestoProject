@@ -11,6 +11,7 @@
 	<p>How Europe has turned green in the last 30 years</p>
 	</div>
 	<div class="chartContainer">
+	
 	<Scatter 
 		data={groupedData}
 		layout='wide'
