@@ -91,6 +91,7 @@
 		padding: 1em;
 		padding-top: 35vh;
 		margin: 0 0 2em 0;
+		padding-top:50vh;
 	}
 
 	/* .section-2 {
