@@ -8,7 +8,7 @@
 	let index = 0;
 	$:console.log(index);
 
-	let steps = [30, 1, 5, 10, 15, 20, 25];
+	let steps = [30, 0, 5, 10, 15, 20, 25];
 
 
 </script>
@@ -16,10 +16,11 @@
 <main>
 	<div class="intro">
 		<h1>The <b>green</b> shift</h1>
-		<p class='deck'>See how the support for the environment has grown, and waivered, in political manifestos over the last 30 years.</p>
+		<p class='deck'>See how support for the environment has grown, and waivered, in political manifestos over the last 30 years.</p>
 	</div>
 	<div class="text-container">
 		<!-- <p>In the charts below, you will see how support for environmental protections have grown, and waivered, over the years. The data is taken from the political manifestos of countries in the European Union.</p> -->
+	</div>
 	<div class="no-events">
 	<Scroller top={0} bottom={1} bind:index>
 		<div slot="background">
@@ -30,19 +31,19 @@
 		</div>
 
 		<div slot="foreground" style="padding: 0% 20% 10% 20%;">
-            <section>
-				<h3>By 2020, most political parties have mentioned environment protections.</h3>
-                <p><span class="ECO">Ecological parties</span> and those that lean left, tend towards a higher number of mentions in their manifestos. However, right-leaning parties are also not far behind.
+            <section class="top">
+				<h3>By 2020, most political parties have mentioned environment protections in their manifestos.</h3>
+                <p><span class="ECO"><strong>Ecological parties</strong></span> and those that lean left, tend towards a higher number of mentions in their manifestos. However, right-leaning parties are also not far behind.
 				</p>
 			</section>
             <section>
-				<h3>2015</h3>
-                <p>The majority of the parties have embrace the green agenda, except the far-right ones.
+				<h3>But, it all began to explode in the early&nbsp;90s.</h3>
+                <p>This was the year that ecological parties, even Romania and Croatia, saw a huge increase in mentions&nbsp;of environmental protection policies.
 				</p>
 			</section>
             <section>
-				<h3>2010</h3>
-                <p>The majority of the parties have embrace the green agenda, except the far-right ones.
+				<h3>In 1995, ecological parties began to drop their mentions.</h3>
+                <p>And, right-leaning parties began to increase slightly perhaps encouraged by conversations leading up to the Kyoto Protocol, signed in 1997. 
 				</p>
 			</section>
             <section>
@@ -66,10 +67,12 @@
 			</section>
 		</div>
 	</Scroller>
-</div>
-
-	</div>
+		</div>
 </main>
+<div class="section-2">
+	<h3>This is a subtitle</h3>
+	<p>This is a paragraph that I will write something in here to make it look nice and add some fancy fake SVGs.</p>
+</div>
 
 <style>
 	main {
@@ -85,8 +88,13 @@
 		color: #191919;
 		text-align: center;
 		padding: 1em;
+		padding-top: 35vh;
 		margin: 0 0 2em 0;
 		padding-top:50vh;
+	}
+
+	.section-2 {
+		padding-top: 80px;
 	}
 
 	.deck {
@@ -98,9 +106,18 @@
 		font-size: 30px;
 	}
 
+	h3 {
+		text-align: left;
+	}
+
 	.ECO {
 		background-color:#3A828E;
 		display: inline;
+		border-radius: 5px;
+		border: 2px solid #3A828E;
+		color: white;
+		padding: 1px;
+
 	}
 
 	p {
