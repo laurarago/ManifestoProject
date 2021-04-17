@@ -1,11 +1,18 @@
 <script>
 	export let groupedData;
 	console.log(groupedData);
+	import Scatter from './ScatterCanvas.svelte';
+
 </script>
 
 <main>
 	<h1>Hello Project!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+	<div class="chartContainer">
+	<Scatter 
+		data={groupedData}
+		layout='wide'
+		step=0/>
+		</div>
 </main>
 
 <style>
@@ -22,6 +29,7 @@
 		font-size: 4em;
 		font-weight: 100;
 	}
+
 
 	@media (min-width: 640px) {
 		main {
