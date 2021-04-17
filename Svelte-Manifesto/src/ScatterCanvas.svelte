@@ -20,8 +20,17 @@
 
 	const names = {
 		"ECO": "Environment party",
-		"AGR": "test",
-	}
+		"LEF": "Socialist or other left parties",
+		"SOC": "Social democratic parties",
+		"LIB": "Liberal parties",
+		"CHR": "Christian democratic parties (in Israel also Jewish parties)",
+		"CON": "Conservative parties",
+		"NAT": "Nationalist parties",
+		"AGR": "Agrarian parties",
+		"ETH": "Ethnic and regional parties",
+		"SIP": "Special issue parties",
+		"DIV": "Electoral alliances of diverse origin without dominant",
+	};
 
 	$: x = scaleLinear()
 				 	.domain([-35,25])
