@@ -22,19 +22,29 @@
 		});
 			
 		context.strokeStyle = "rgb(209, 209, 209)";
+		context.lineWidth = 0.5;
 		context.stroke();
 
 		context.textAlign = type === "x" ? "center" : "right";
 		context.textBaseline = type === "x" ? "top" : "middle";
-		context.fillStyle = "black";
-		context.font="small-caps 0.9em Barlow Condensed";
-		
+
+
 		if (type === "x") { 
-			context.fillText("Far Left", scale(-25),0);
+			context.font="1em Barlow Condensed";
+			context.fillStyle = "rgba(0, 0, 0, 0.75)";
+			context.fillText("FAR LEFT", scale(-24),0);
+			context.fillText("CENTER RIGHT", scale(-10),0);
+			context.fillText("FAR RIGHT", scale(24),0);
+			context.fillText("FAR LEFT", scale(10),0);
+
 		} 
 		else if (type === "y") {	
 			ticks.forEach(d => { 
+				context.font="0.8em Barlow Condensed";
+				context.fillStyle = "black";
+
 				context.fillText(d, margin.left - tickSize - 1, scale(d));
+				
 			});
 		}
 		}

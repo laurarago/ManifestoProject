@@ -2,7 +2,7 @@
 <script>
 	import { Canvas } from 'svelte-canvas'
 	import { extent } from 'd3-array'
-	import { scaleLinear, scaleLog, scaleSqrt } from 'd3-scale'
+	import { scaleLinear, scaleLog, scaleSqrt, scaleOrdinal} from 'd3-scale'
     import { Delaunay } from 'd3-delaunay'
 	import Square from './Square.svelte'
 	import Line from './Line.svelte'
@@ -16,6 +16,7 @@
 	const margin = { top: 10, right: 10, bottom: 25, left: 25 }
 	let width, height = 400;
 	let picked = null, click = false;
+	let colors = ["#72E5EF", "#088490", "#9AB9F9", "#1E438D", "#9072DB", "#1932BF", "#FBACF6", "#A91A90", "#EF66F0", "#6108E8"];
 
 	$: x = scaleLinear()
 				 	.domain([-25,25])
@@ -24,7 +25,7 @@
 
 	$: y = scaleLinear()
 					.domain([10,550])
-					.range([height - margin.bottom, margin.top])
+					.range([height - margin.bottom, margin.top + 25])
 					.nice();
 
     $: r = scaleSqrt()
@@ -36,10 +37,9 @@
 		.x(d => x(d.rile))
 		.y(d => y(d.environ));
 
-    $: color = scaleLinear()
+    $: color = scaleOrdinal()
 					.domain(extent(data, d => d.data[step].environ))
-					.range(["#efef20b9", "#007f5fa1"])
-					.nice();
+					.range(colors)
 	
     $: delaunay = Delaunay.from(data, d => x(d.data[step].rile), d => y(d.data[step].environ))
 
