@@ -8,10 +8,13 @@
 	import Square from './Square.svelte'
     import Axis from './Axis.svelte'
 
+
 	
 	export let data;
 	export let layout;
     export let step = 0;
+	$: console.log(data);
+
 	const margin = { top: 10, right: 10, bottom: 25, left: 25 }
 	let width, height = 400;
 	let picked = null, click = false

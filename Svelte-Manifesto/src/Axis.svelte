@@ -17,17 +17,17 @@
 				context.moveTo(scale(d), height - margin.bottom);
 				context.lineTo(scale(d), height - margin.bottom + tickSize);
 			} else if (type === "y") {
-				context.moveTo(margin.left, scale(d));
+				context.moveTo(width, scale(d));
 				context.lineTo(margin.left - tickSize, scale(d));
 			}
     });
 		
-    context.strokeStyle = "black";
+    context.strokeStyle = "rgb(209, 209, 209)";
     context.stroke();
 
     context.textAlign = type === "x" ? "center" : "right";
     context.textBaseline = type === "x" ? "top" : "middle";
-	context.fillStyle = "grey";
+	context.fillStyle = "black";
 		
     ticks.forEach(d => {
 			if (type === "x") {
