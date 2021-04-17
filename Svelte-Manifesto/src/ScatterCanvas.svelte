@@ -18,6 +18,11 @@
 	let picked = null, click = false;
 	let colors = ["#72E5EF", "#088490", "#9AB9F9", "#1E438D", "#9072DB", "#1932BF", "#FBACF6", "#A91A90", "#EF66F0", "#6108E8"];
 
+	const names = {
+		"ECO": "Environment party",
+		"AGR": "test",
+	}
+
 	$: x = scaleLinear()
 				 	.domain([-35,25])
 					.range([margin.left, width - margin.right])
@@ -70,8 +75,8 @@
 				y={y(d.data[step].environ)} 
 				fill={color(d.data[step].environ)}
 				radius={r(d.data[step].avgVote)}
-                stroke={i === picked && "#000"} 
-				popup={i === picked && d.data[step].parfamName}
+                stroke={i === picked && "#000"}
+				popup={i === picked && names[d.data[step].parfamName]}
 
 			/>
 		{/each}
