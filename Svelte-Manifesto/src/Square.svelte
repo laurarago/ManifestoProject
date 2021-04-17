@@ -28,7 +28,7 @@
 			context.strokeStyle = stroke;
 			context.lineWidth = strokeWidth;
 			context.beginPath();
-			context.rect($_x, $_y, $_radius + strokeWidth / 2, 0, Math.PI * 2);
+			context.arc($_x, $_y, $_radius + strokeWidth / 2, 0, Math.PI * 2);
 			context.stroke();
 		} 
 	}
