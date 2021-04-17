@@ -101,11 +101,11 @@ button:focus {
 	font-weight: normal;
 	font-size: 14px;
 	line-height: 19px;
-	display: flex;
+	/* display: flex; */
 	vertical-align: middle;
 	text-align: justify;
 	position: relative;
-	display: flex;
+	/* display: flex; */
 	margin-right: 20%;
 	margin-left: 20%;
 

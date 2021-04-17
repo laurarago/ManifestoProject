@@ -32,7 +32,7 @@
 		<div slot="foreground" style="padding: 0% 20% 10% 20%;">
             <section>
 				<h3>By 2020, most political parties have mentioned environment protections.</h3>
-                <p><span class="ECO">Ecological parties</span>, and those that lean left, tend towards a higher number of mentions in their manifestos. However, right-leaning parties are also not far behind.
+                <p><span class="ECO">Ecological parties</span> and those that lean left, tend towards a higher number of mentions in their manifestos. However, right-leaning parties are also not far behind.
 				</p>
 			</section>
             <section>
@@ -98,7 +98,8 @@
 	}
 
 	.ECO {
-		border: 1px #3A828E;
+		background-color:#3A828E;
+		display: inline;
 	}
 
 	p {
