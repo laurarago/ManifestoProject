@@ -13,14 +13,13 @@
 		<h1>The <b>green</b> shift</h1>
 		<p>How Europe has turned green in the last 30 years</p>
 	</div>
+	<div class="no-events">
 	<Scroller top={0} bottom={1} bind:index>
 		<div slot="background">
-			<div class="chartContainer">
 			<Scatter 
 				data={groupedData}
 				layout='fs'
 				step={index}/>
-			</div>
 		</div>
 
 		<div slot="foreground">
@@ -33,6 +32,7 @@
 			<section>This is the seventh section.</section>
 		</div>
 	</Scroller>
+	</div>
 </main>
 
 <style>
@@ -43,7 +43,14 @@
 		margin: 0 auto;
 	}
 
-	section { height: 80vh; }
+	section {
+		height: 80vh;
+		
+	}
+
+	.no-events {
+		pointer-events:none;
+	}
 
 	@media (min-width: 640px) {
 		main {

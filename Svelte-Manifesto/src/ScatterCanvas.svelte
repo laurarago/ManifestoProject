@@ -46,7 +46,7 @@
 	>
     <Axis type="x" scale={x} tickNumber={8} {margin} />
 	<Axis type="y" scale={y} tickNumber={8} {margin} />
-	
+
 		{#each data as d, i}
 			<Square 
 				x={x(d.data[step].rile)}
@@ -63,4 +63,7 @@
     .canvas {
         position:relative;
     }
+	.graphic {
+		pointer-events: all;
+	}
 </style>
