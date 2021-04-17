@@ -3,10 +3,12 @@
 	import Scroller from '@sveltejs/svelte-scroller'
 	export let groupedData;
 
+	console.log(groupedData)
+
 	let index = 0;
 	$:console.log(index);
 
-	let steps = [30, 0, 30, 0, 30, 0, 30];
+	let steps = [30, 1, 5, 10, 15, 20, 25];
 
 
 </script>
@@ -14,10 +16,10 @@
 <main>
 	<div class="intro">
 		<h1>The <b>green</b> shift</h1>
-		<p>How Europe has turned green in the last 30 years</p>
+		<p class='deck'>See how the support for the environment has grown, and waivered, in political manifestos over the last 30 years.</p>
 	</div>
 	<div class="text-container">
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure. </p>
+		<!-- <p>In the charts below, you will see how support for environmental protections have grown, and waivered, over the years. The data is taken from the political manifestos of countries in the European Union.</p> -->
 	<div class="no-events">
 	<Scroller top={0} bottom={1} bind:index>
 		<div slot="background">
@@ -29,8 +31,8 @@
 
 		<div slot="foreground" style="padding: 0% 20% 10% 20%;">
             <section>
-				<h3>2020</h3>
-                <p>The majority of the parties have embrace the green agenda, except the far-right ones.
+				<h3>By 2020, most political parties have mentioned environment protections.</h3>
+                <p><span class="ECO">Ecological parties</span> and those that lean left, tend towards a higher number of mentions in their manifestos. However, right-leaning parties are also not far behind.
 				</p>
 			</section>
             <section>
@@ -86,8 +88,40 @@
 		margin: 0 0 2em 0;
 	}
 
+	.deck {
+		opacity: 0.6;
+		width: 600px;
+		margin: 0 auto;
+		line-height: 34px;
+		text-align: center;
+		font-size: 30px;
+	}
+
+	.ECO {
+		background-color:#3A828E;
+		display: inline;
+	}
+
+	p {
+		width: 400px;
+		margin: 0 auto;
+		opacity: 1;
+		line-height: 20px;
+		padding-bottom: 30px;
+		text-align: left;
+		font-size: 16px;
+	}
+
+	intro
 	.no-events {
 		pointer-events:none;
+	}
+
+	h3 {
+		font-size: 1.17em;
+		width: 400px;
+		margin: 0 auto;
+		padding-bottom: 15px;
 	}
 
 	@media (min-width: 640px) {

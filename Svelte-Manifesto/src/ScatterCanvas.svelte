@@ -19,7 +19,7 @@
 	let colors = ["#72E5EF", "#088490", "#9AB9F9", "#1E438D", "#9072DB", "#1932BF", "#FBACF6", "#A91A90", "#EF66F0", "#6108E8"];
 
 	$: x = scaleLinear()
-				 	.domain([-25,25])
+				 	.domain([-35,25])
 					.range([margin.left, width - margin.right])
 					.nice();
 
@@ -47,6 +47,7 @@
 
 </script>
 <div class="graphic {layout}" bind:clientWidth={width} bind:clientHeight={height}>
+	<h3>{data[0].data[step].yearIndex}</h3>
 	<Canvas 
 		{width} {height} 
 		style='cursor: pointer'
@@ -70,6 +71,7 @@
 				fill={color(d.data[step].environ)}
 				radius={r(d.data[step].avgVote)}
                 stroke={i === picked && "#000"} 
+
 			/>
 		{/each}
 	</Canvas>

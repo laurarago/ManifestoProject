@@ -71,7 +71,7 @@ button:focus {
 
 .intro h1{
 	font-family: Barlow Condensed;
-	font-size: 40px;
+	font-size: 60px;
 	font-weight: 400;
 	text-align: center;
 	color: black;
@@ -81,16 +81,17 @@ button:focus {
 
 }
 
-.intro p{
+.intro p {
 	font-family: Barlow Condensed;
 	font-size: 36px;
 	text-align: center;
 	color:black;
-	margin: 1vh;
+	margin-top: 20px;
+	margin: 3vh;
 	font-weight: 400;
 }
 .text-container{
-	margin-top: 5vh;
+	margin-top: 1vh;
 	text-align:center;
 }
 
@@ -100,12 +101,13 @@ button:focus {
 	font-weight: normal;
 	font-size: 14px;
 	line-height: 19px;
-	display: flex;
+	/* display: flex; */
 	vertical-align: middle;
 	text-align: justify;
 	position: relative;
-	display: flex;
+	/* display: flex; */
 	margin-right: 20%;
 	margin-left: 20%;
+	padding-bottom: 5vh;
 
 }
