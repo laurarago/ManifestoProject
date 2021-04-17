@@ -9,7 +9,10 @@
 </script>
 
 <main>
-	<h1>Hello Project!</h1>
+	<div class="intro">
+		<h1>The <b>green</b> shift</h1>
+		<p>How Europe has turned green in the last 30 years</p>
+	</div>
 	<Scroller top={0} bottom={1} bind:index>
 		<div slot="background">
 			<div class="chartContainer">
@@ -38,13 +41,6 @@
 		padding: 1em;
 		max-width: 240px;
 		margin: 0 auto;
-	}
-
-	h1 {
-		color: #ff3e00;
-		text-transform: uppercase;
-		font-size: 4em;
-		font-weight: 100;
 	}
 
 	section { height: 80vh; }
