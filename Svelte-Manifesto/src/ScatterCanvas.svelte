@@ -24,7 +24,7 @@
 					.nice()
 	$: y = scaleLinear()
 					.domain([0,550])
-					.range([height - margin.bottom, margin.top])
+					.range([height - margin.bottom, margin.top + 40])
 					.nice()
     $: r = scaleSqrt()
 					.domain(extent(data, d => d.data[step].avgVote))
