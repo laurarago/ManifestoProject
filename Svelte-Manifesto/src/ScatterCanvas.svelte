@@ -25,7 +25,7 @@
 					.nice()
     $: r = scaleSqrt()
 					.domain(extent(data, d => d.data[step].avgVote))
-					.range([5, 30])
+					.range([5, 50])
 					.nice()
 
     $: color = scaleLinear()
