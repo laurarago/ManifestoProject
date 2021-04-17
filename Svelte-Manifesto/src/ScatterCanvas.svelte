@@ -25,11 +25,11 @@
 					.domain(extent(data, d => d.data[step].avgVote))
 					.range([5, 30])
 					.nice()
-    $: color = scaleSqrt()
+
+    $: color = scaleLinear()
 					.domain(extent(data, d => d.data[step].environ))
 					.range(["#EEEF20", "#007F5F"])
 					.nice()
-	
 	
     $: delaunay = Delaunay.from(data, d => x(d.data[step].rile), d => y(d.data[step].environ))
 </script>

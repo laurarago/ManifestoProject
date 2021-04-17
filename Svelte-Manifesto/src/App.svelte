@@ -1,7 +1,7 @@
 <script>
-	export let groupedData;
-	console.log(groupedData);
 	import Scatter from './ScatterCanvas.svelte';
+	export let groupedData;
+
 
 </script>
 
