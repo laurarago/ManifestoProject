@@ -16,14 +16,14 @@
     $: _x.set(x);
     $: _y.set(y);
 	$: _radius.set(radius);
-
 	
 	$: render = ({ context }) => {
+		context.save();
+		context.globalAlpha = 0.4;
 		context.fillStyle = fill;
 		context.beginPath();
 		context.arc($_x, $_y, $_radius, 0, Math.PI * 2);
 		context.fill();
-		
 		if (stroke) {
 			context.strokeStyle = stroke;
 			context.lineWidth = strokeWidth;
@@ -31,6 +31,7 @@
 			context.arc($_x, $_y, $_radius + strokeWidth / 2, 0, Math.PI * 2);
 			context.stroke();
 		} 
+		context.restore();
 	}
 </script>
 
