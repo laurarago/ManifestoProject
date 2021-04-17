@@ -13,6 +13,8 @@
 		<h1>The <b>green</b> shift</h1>
 		<p>How Europe has turned green in the last 30 years</p>
 	</div>
+	<div class="text-container">
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure. </p>
 	<Scroller top={0} bottom={1} bind:index>
 		<div slot="background">
 			<div class="chartContainer">
@@ -33,6 +35,8 @@
 			<section>This is the seventh section.</section>
 		</div>
 	</Scroller>
+</div>
+
 </main>
 
 <style>
