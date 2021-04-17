@@ -32,10 +32,10 @@
 		if (type === "x") { 
 			context.font="1em Barlow Condensed";
 			context.fillStyle = "rgba(0, 0, 0, 0.75)";
-			context.fillText("FAR LEFT", scale(-24),0);
-			context.fillText("CENTER RIGHT", scale(-10),0);
+			context.fillText("FAR LEFT", scale(-34),0);
+			context.fillText("CENTER-LEFT", scale(-15),0);
 			context.fillText("FAR RIGHT", scale(24),0);
-			context.fillText("FAR LEFT", scale(10),0);
+			context.fillText("CENTER-RIGHT", scale(5),0);
 
 		} 
 		else if (type === "y") {	

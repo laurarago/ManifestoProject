@@ -22,6 +22,8 @@
 		context.fillStyle = fill;
 		context.beginPath();
 		context.arc($_x, $_y, $_radius, 0, Math.PI * 2);
+		context.save();
+		context.globalAlpha = 0.7;
 		context.fill();
 		
 		if (stroke) {
@@ -29,8 +31,10 @@
 			context.lineWidth = strokeWidth;
 			context.beginPath();
 			context.arc($_x, $_y, $_radius + strokeWidth / 2, 0, Math.PI * 2);
+			context.globalAlpha = 1;
 			context.stroke();
 		} 
+		context.restore();
 	}
 </script>
 
