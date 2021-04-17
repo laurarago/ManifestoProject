@@ -23,7 +23,11 @@
 					.nice()
     $: r = scaleSqrt()
 					.domain(extent(data, d => d.data[step].avgVote))
-					.range([5, 20])
+					.range([5, 30])
+					.nice()
+    $: color = scaleSqrt()
+					.domain(extent(data, d => d.data[step].environ))
+					.range(["#EEEF20", "#007F5F"])
 					.nice()
 	
 	
@@ -43,7 +47,7 @@
 			<Square 
 				x={x(d.data[step].rile)}
 				y={y(d.data[step].environ)} 
-				fill="tomato"
+				fill={color(d.data[step].environ)}
 				radius={r(d.data[step].avgVote)}
                 stroke={i === picked && "#000"} 
 			/>
