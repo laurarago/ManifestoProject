@@ -15,7 +15,7 @@
 			<div class="chartContainer">
 			<Scatter 
 				data={groupedData}
-				layout='wide'
+				layout='fs'
 				step={index}/>
 			</div>
 		</div>

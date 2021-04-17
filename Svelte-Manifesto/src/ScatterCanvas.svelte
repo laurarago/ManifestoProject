@@ -16,11 +16,11 @@
 	let width, height = 400;
 	let picked = null, click = false
 	$: x = scaleLinear()
-				 	.domain(extent(data, d => d.data[step].rile))
+				 	.domain([-25,25])
 					.range([margin.left, width - margin.right])
 					.nice()
 	$: y = scaleLinear()
-					.domain(extent(data, d => d.data[step].environ))
+					.domain([0,550])
 					.range([height - margin.bottom, margin.top])
 					.nice()
     $: r = scaleSqrt()
@@ -46,9 +46,7 @@
 	>
     <Axis type="x" scale={x} tickNumber={8} {margin} />
 	<Axis type="y" scale={y} tickNumber={8} {margin} />
-
-
-
+	
 		{#each data as d, i}
 			<Square 
 				x={x(d.data[step].rile)}
