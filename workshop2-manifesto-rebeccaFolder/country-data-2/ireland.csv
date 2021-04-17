@@ -1,0 +1,414 @@
+year,yearObject,parfam,countryname,environ,culture,equality,pervote,rile,electionDate,partyname
+1948,1948,30,Ireland,0.0,0.0,15.0,8.695,-19.2,February 1948,Labour Party
+1948,1948,50,Ireland,0.0,0.0,0.0,19.827,51.7,February 1948,Family of the Irish
+1948,1948,60,Ireland,0.0,0.0,4.1,41.854,-11.6,February 1948,Soldiers of Destiny
+1948,1948,70,Ireland,0.0,7.843,3.922,13.21,-3.922,February 1948,Republican Party
+1948,1948,80,Ireland,0.0,0.0,0.0,5.577000000000001,-6.667000000000002,February 1948,Party of the Land
+1948,1949,30,Ireland,0.0,0.0,15.0,8.695,-19.2,February 1948,Labour Party
+1948,1949,50,Ireland,0.0,0.0,0.0,19.827,51.7,February 1948,Family of the Irish
+1948,1949,60,Ireland,0.0,0.0,4.1,41.854,-11.6,February 1948,Soldiers of Destiny
+1948,1949,70,Ireland,0.0,7.843,3.922,13.21,-3.922,February 1948,Republican Party
+1948,1949,80,Ireland,0.0,0.0,0.0,5.577000000000001,-6.667000000000002,February 1948,Party of the Land
+1948,1950,30,Ireland,0.0,0.0,15.0,8.695,-19.2,February 1948,Labour Party
+1948,1950,50,Ireland,0.0,0.0,0.0,19.827,51.7,February 1948,Family of the Irish
+1948,1950,60,Ireland,0.0,0.0,4.1,41.854,-11.6,February 1948,Soldiers of Destiny
+1948,1950,70,Ireland,0.0,7.843,3.922,13.21,-3.922,February 1948,Republican Party
+1948,1950,80,Ireland,0.0,0.0,0.0,5.577000000000001,-6.667000000000002,February 1948,Party of the Land
+1951,1951,30,Ireland,0.0,0.0,3.2,11.402,-42.0,May 1951,Labour Party
+1951,1951,50,Ireland,0.0,0.0,1.8,25.753,33.9,May 1951,Family of the Irish
+1951,1951,60,Ireland,0.0,5.7,0.0,46.277,-6.5,May 1951,Soldiers of Destiny
+1951,1951,70,Ireland,0.0,7.843,3.922,4.0710000000000015,-3.922,May 1951,Republican Party
+1951,1951,80,Ireland,0.0,0.0,0.0,2.919,-3.333,May 1951,Party of the Land
+1951,1952,30,Ireland,0.0,0.0,3.2,11.402,-42.0,May 1951,Labour Party
+1951,1952,50,Ireland,0.0,0.0,1.8,25.753,33.9,May 1951,Family of the Irish
+1951,1952,60,Ireland,0.0,5.7,0.0,46.277,-6.5,May 1951,Soldiers of Destiny
+1951,1952,70,Ireland,0.0,7.843,3.922,4.0710000000000015,-3.922,May 1951,Republican Party
+1951,1952,80,Ireland,0.0,0.0,0.0,2.919,-3.333,May 1951,Party of the Land
+1951,1953,30,Ireland,0.0,0.0,3.2,11.402,-42.0,May 1951,Labour Party
+1951,1953,50,Ireland,0.0,0.0,1.8,25.753,33.9,May 1951,Family of the Irish
+1951,1953,60,Ireland,0.0,5.7,0.0,46.277,-6.5,May 1951,Soldiers of Destiny
+1951,1953,70,Ireland,0.0,7.843,3.922,4.0710000000000015,-3.922,May 1951,Republican Party
+1951,1953,80,Ireland,0.0,0.0,0.0,2.919,-3.333,May 1951,Party of the Land
+1954,1954,30,Ireland,0.0,0.0,22.5,12.061,-17.5,May 1954,Labour Party
+1954,1954,50,Ireland,0.0,0.0,5.600000000000001,31.983,22.2,May 1954,Family of the Irish
+1954,1954,60,Ireland,0.0,0.6,2.4,43.361,19.8,May 1954,Soldiers of Destiny
+1954,1954,70,Ireland,0.0,7.843,3.922,3.089,-3.922,May 1954,Republican Party
+1954,1954,80,Ireland,0.0,0.0,0.0,3.825,0.0,May 1954,Party of the Land
+1954,1955,30,Ireland,0.0,0.0,22.5,12.061,-17.5,May 1954,Labour Party
+1954,1955,50,Ireland,0.0,0.0,5.600000000000001,31.983,22.2,May 1954,Family of the Irish
+1954,1955,60,Ireland,0.0,0.6,2.4,43.361,19.8,May 1954,Soldiers of Destiny
+1954,1955,70,Ireland,0.0,7.843,3.922,3.089,-3.922,May 1954,Republican Party
+1954,1955,80,Ireland,0.0,0.0,0.0,3.825,0.0,May 1954,Party of the Land
+1954,1956,30,Ireland,0.0,0.0,22.5,12.061,-17.5,May 1954,Labour Party
+1954,1956,50,Ireland,0.0,0.0,5.600000000000001,31.983,22.2,May 1954,Family of the Irish
+1954,1956,60,Ireland,0.0,0.6,2.4,43.361,19.8,May 1954,Soldiers of Destiny
+1954,1956,70,Ireland,0.0,7.843,3.922,3.089,-3.922,May 1954,Republican Party
+1954,1956,80,Ireland,0.0,0.0,0.0,3.825,0.0,May 1954,Party of the Land
+1957,1957,30,Ireland,0.0,0.0,2.8,9.107000000000001,-31.9,March 1957,Labour Party
+1957,1957,50,Ireland,0.0,0.0,0.0,26.625,78.40000000000002,March 1957,Family of the Irish
+1957,1957,60,Ireland,0.0,0.0,0.0,48.328,30.3,March 1957,Soldiers of Destiny
+1957,1957,70,Ireland,0.0,7.843,3.922,1.681,-3.922,March 1957,Republican Party
+1957,1957,80,Ireland,0.0,0.0,0.0,2.356,0.0,March 1957,Party of the Land
+1957,1958,30,Ireland,0.0,0.0,2.8,9.107000000000001,-31.9,March 1957,Labour Party
+1957,1958,50,Ireland,0.0,0.0,0.0,26.625,78.40000000000002,March 1957,Family of the Irish
+1957,1958,60,Ireland,0.0,0.0,0.0,48.328,30.3,March 1957,Soldiers of Destiny
+1957,1958,70,Ireland,0.0,7.843,3.922,1.681,-3.922,March 1957,Republican Party
+1957,1958,80,Ireland,0.0,0.0,0.0,2.356,0.0,March 1957,Party of the Land
+1957,1959,30,Ireland,0.0,0.0,2.8,9.107000000000001,-31.9,March 1957,Labour Party
+1957,1959,50,Ireland,0.0,0.0,0.0,26.625,78.40000000000002,March 1957,Family of the Irish
+1957,1959,60,Ireland,0.0,0.0,0.0,48.328,30.3,March 1957,Soldiers of Destiny
+1957,1959,70,Ireland,0.0,7.843,3.922,1.681,-3.922,March 1957,Republican Party
+1957,1959,80,Ireland,0.0,0.0,0.0,2.356,0.0,March 1957,Party of the Land
+1957,1960,30,Ireland,0.0,0.0,2.8,9.107000000000001,-31.9,March 1957,Labour Party
+1957,1960,50,Ireland,0.0,0.0,0.0,26.625,78.40000000000002,March 1957,Family of the Irish
+1957,1960,60,Ireland,0.0,0.0,0.0,48.328,30.3,March 1957,Soldiers of Destiny
+1957,1960,70,Ireland,0.0,7.843,3.922,1.681,-3.922,March 1957,Republican Party
+1957,1960,80,Ireland,0.0,0.0,0.0,2.356,0.0,March 1957,Party of the Land
+1961,1961,30,Ireland,0.0,0.0,4.9,11.649,-34.4,October 1961,Labour Party
+1961,1961,50,Ireland,3.4,1.2,3.4,32.018,9.1,October 1961,Family of the Irish
+1961,1961,60,Ireland,0.0,0.0,0.0,43.827,33.3,October 1961,Soldiers of Destiny
+1961,1961,70,Ireland,0.0,7.843,3.922,1.127,-3.922,October 1961,Republican Party
+1961,1961,80,Ireland,0.0,0.0,0.0,1.514,0.0,October 1961,Party of the Land
+1961,1962,30,Ireland,0.0,0.0,4.9,11.649,-34.4,October 1961,Labour Party
+1961,1962,50,Ireland,3.4,1.2,3.4,32.018,9.1,October 1961,Family of the Irish
+1961,1962,60,Ireland,0.0,0.0,0.0,43.827,33.3,October 1961,Soldiers of Destiny
+1961,1962,70,Ireland,0.0,7.843,3.922,1.127,-3.922,October 1961,Republican Party
+1961,1962,80,Ireland,0.0,0.0,0.0,1.514,0.0,October 1961,Party of the Land
+1961,1963,30,Ireland,0.0,0.0,4.9,11.649,-34.4,October 1961,Labour Party
+1961,1963,50,Ireland,3.4,1.2,3.4,32.018,9.1,October 1961,Family of the Irish
+1961,1963,60,Ireland,0.0,0.0,0.0,43.827,33.3,October 1961,Soldiers of Destiny
+1961,1963,70,Ireland,0.0,7.843,3.922,1.127,-3.922,October 1961,Republican Party
+1961,1963,80,Ireland,0.0,0.0,0.0,1.514,0.0,October 1961,Party of the Land
+1961,1964,30,Ireland,0.0,0.0,4.9,11.649,-34.4,October 1961,Labour Party
+1961,1964,50,Ireland,3.4,1.2,3.4,32.018,9.1,October 1961,Family of the Irish
+1961,1964,60,Ireland,0.0,0.0,0.0,43.827,33.3,October 1961,Soldiers of Destiny
+1961,1964,70,Ireland,0.0,7.843,3.922,1.127,-3.922,October 1961,Republican Party
+1961,1964,80,Ireland,0.0,0.0,0.0,1.514,0.0,October 1961,Party of the Land
+1965,1965,30,Ireland,12.1,12.9,0.0,15.380999999999998,-15.8,April 1965,Labour Party
+1965,1965,50,Ireland,0.9,0.2,7.3,34.081,-7.9,April 1965,Family of the Irish
+1965,1965,60,Ireland,0.0,0.0,0.0,47.674,-0.5,April 1965,Soldiers of Destiny
+1965,1965,70,Ireland,0.0,7.843,3.922,0.752,-3.922,April 1965,Republican Party
+1965,1966,30,Ireland,12.1,12.9,0.0,15.380999999999998,-15.8,April 1965,Labour Party
+1965,1966,50,Ireland,0.9,0.2,7.3,34.081,-7.9,April 1965,Family of the Irish
+1965,1966,60,Ireland,0.0,0.0,0.0,47.674,-0.5,April 1965,Soldiers of Destiny
+1965,1966,70,Ireland,0.0,7.843,3.922,0.752,-3.922,April 1965,Republican Party
+1965,1967,30,Ireland,12.1,12.9,0.0,15.380999999999998,-15.8,April 1965,Labour Party
+1965,1967,50,Ireland,0.9,0.2,7.3,34.081,-7.9,April 1965,Family of the Irish
+1965,1967,60,Ireland,0.0,0.0,0.0,47.674,-0.5,April 1965,Soldiers of Destiny
+1965,1967,70,Ireland,0.0,7.843,3.922,0.752,-3.922,April 1965,Republican Party
+1965,1968,30,Ireland,12.1,12.9,0.0,15.380999999999998,-15.8,April 1965,Labour Party
+1965,1968,50,Ireland,0.9,0.2,7.3,34.081,-7.9,April 1965,Family of the Irish
+1965,1968,60,Ireland,0.0,0.0,0.0,47.674,-0.5,April 1965,Soldiers of Destiny
+1965,1968,70,Ireland,0.0,7.843,3.922,0.752,-3.922,April 1965,Republican Party
+1969,1969,30,Ireland,0.0,0.0,7.8,17.021,-16.6,June 1969,Labour Party
+1969,1969,50,Ireland,0.0,0.0,4.8,34.099000000000004,-7.3,June 1969,Family of the Irish
+1969,1969,60,Ireland,0.0,1.7,0.0,45.66,34.5,June 1969,Soldiers of Destiny
+1969,1970,30,Ireland,0.0,0.0,7.8,17.021,-16.6,June 1969,Labour Party
+1969,1970,50,Ireland,0.0,0.0,4.8,34.099000000000004,-7.3,June 1969,Family of the Irish
+1969,1970,60,Ireland,0.0,1.7,0.0,45.66,34.5,June 1969,Soldiers of Destiny
+1969,1971,30,Ireland,0.0,0.0,7.8,17.021,-16.6,June 1969,Labour Party
+1969,1971,50,Ireland,0.0,0.0,4.8,34.099000000000004,-7.3,June 1969,Family of the Irish
+1969,1971,60,Ireland,0.0,1.7,0.0,45.66,34.5,June 1969,Soldiers of Destiny
+1969,1972,30,Ireland,0.0,0.0,7.8,17.021,-16.6,June 1969,Labour Party
+1969,1972,50,Ireland,0.0,0.0,4.8,34.099000000000004,-7.3,June 1969,Family of the Irish
+1969,1972,60,Ireland,0.0,1.7,0.0,45.66,34.5,June 1969,Soldiers of Destiny
+1973,1973,30,Ireland,3.4,0.0,13.5,13.673,-19.1,February 1973,Labour Party
+1973,1973,50,Ireland,3.4,0.0,13.5,35.081,-19.1,February 1973,Family of the Irish
+1973,1973,60,Ireland,0.0,0.0,4.8,46.243,57.1,February 1973,Soldiers of Destiny
+1973,1974,30,Ireland,3.4,0.0,13.5,13.673,-19.1,February 1973,Labour Party
+1973,1974,50,Ireland,3.4,0.0,13.5,35.081,-19.1,February 1973,Family of the Irish
+1973,1974,60,Ireland,0.0,0.0,4.8,46.243,57.1,February 1973,Soldiers of Destiny
+1973,1975,30,Ireland,3.4,0.0,13.5,13.673,-19.1,February 1973,Labour Party
+1973,1975,50,Ireland,3.4,0.0,13.5,35.081,-19.1,February 1973,Family of the Irish
+1973,1975,60,Ireland,0.0,0.0,4.8,46.243,57.1,February 1973,Soldiers of Destiny
+1973,1976,30,Ireland,3.4,0.0,13.5,13.673,-19.1,February 1973,Labour Party
+1973,1976,50,Ireland,3.4,0.0,13.5,35.081,-19.1,February 1973,Family of the Irish
+1973,1976,60,Ireland,0.0,0.0,4.8,46.243,57.1,February 1973,Soldiers of Destiny
+1977,1977,30,Ireland,1.2,2.8,0.6,11.629,-16.0,June 1977,Labour Party
+1977,1977,50,Ireland,1.2,2.8,0.6,30.49,-16.0,June 1977,Family of the Irish
+1977,1977,60,Ireland,0.6,0.6,2.7,50.63,-4.2,June 1977,Soldiers of Destiny
+1977,1978,30,Ireland,1.2,2.8,0.6,11.629,-16.0,June 1977,Labour Party
+1977,1978,50,Ireland,1.2,2.8,0.6,30.49,-16.0,June 1977,Family of the Irish
+1977,1978,60,Ireland,0.6,0.6,2.7,50.63,-4.2,June 1977,Soldiers of Destiny
+1977,1979,30,Ireland,1.2,2.8,0.6,11.629,-16.0,June 1977,Labour Party
+1977,1979,50,Ireland,1.2,2.8,0.6,30.49,-16.0,June 1977,Family of the Irish
+1977,1979,60,Ireland,0.6,0.6,2.7,50.63,-4.2,June 1977,Soldiers of Destiny
+1977,1980,30,Ireland,1.2,2.8,0.6,11.629,-16.0,June 1977,Labour Party
+1977,1980,50,Ireland,1.2,2.8,0.6,30.49,-16.0,June 1977,Family of the Irish
+1977,1980,60,Ireland,0.6,0.6,2.7,50.63,-4.2,June 1977,Soldiers of Destiny
+1981,1981,20,Ireland,1.955,8.939,10.056,1.72,-37.43,June 1981,Workers’ Party
+1981,1981,30,Ireland,1.9,1.9,13.3,9.892999999999999,-8.700000000000001,June 1981,Labour Party
+1981,1981,50,Ireland,2.5,2.5,9.1,36.455,7.4,June 1981,Family of the Irish
+1981,1981,60,Ireland,2.9,2.3,5.3,45.257,-1.4,June 1981,Soldiers of Destiny
+1982,1982,20,Ireland,1.955,8.939,10.056,2.178,-37.43,February 1982,Workers’ Party
+1982,1982,30,Ireland,0.0,0.0,20.69,9.121,-20.69,February 1982,Labour Party
+1982,1982,50,Ireland,0.613,0.0,4.908,37.3,14.11,February 1982,Family of the Irish
+1982,1982,60,Ireland,0.0,0.0,0.0,47.261,-8.0,February 1982,Soldiers of Destiny
+1982,1982,20,Ireland,1.955,8.939,10.056,3.25,-37.43,November 1982,Workers’ Party
+1982,1982,30,Ireland,0.0,0.526,16.842,9.363,-40.0,November 1982,Labour Party
+1982,1982,50,Ireland,0.0,0.0,6.832000000000002,39.218,16.149,November 1982,Family of the Irish
+1982,1982,60,Ireland,0.0,7.5470000000000015,3.774,45.201,-30.189,November 1982,Soldiers of Destiny
+1982,1983,20,Ireland,1.955,8.939,10.056,2.178,-37.43,February 1982,Workers’ Party
+1982,1983,30,Ireland,0.0,0.0,20.69,9.121,-20.69,February 1982,Labour Party
+1982,1983,50,Ireland,0.613,0.0,4.908,37.3,14.11,February 1982,Family of the Irish
+1982,1983,60,Ireland,0.0,0.0,0.0,47.261,-8.0,February 1982,Soldiers of Destiny
+1982,1983,20,Ireland,1.955,8.939,10.056,3.25,-37.43,November 1982,Workers’ Party
+1982,1983,30,Ireland,0.0,0.526,16.842,9.363,-40.0,November 1982,Labour Party
+1982,1983,50,Ireland,0.0,0.0,6.832000000000002,39.218,16.149,November 1982,Family of the Irish
+1982,1983,60,Ireland,0.0,7.5470000000000015,3.774,45.201,-30.189,November 1982,Soldiers of Destiny
+1982,1984,20,Ireland,1.955,8.939,10.056,2.178,-37.43,February 1982,Workers’ Party
+1982,1984,30,Ireland,0.0,0.0,20.69,9.121,-20.69,February 1982,Labour Party
+1982,1984,50,Ireland,0.613,0.0,4.908,37.3,14.11,February 1982,Family of the Irish
+1982,1984,60,Ireland,0.0,0.0,0.0,47.261,-8.0,February 1982,Soldiers of Destiny
+1982,1984,20,Ireland,1.955,8.939,10.056,3.25,-37.43,November 1982,Workers’ Party
+1982,1984,30,Ireland,0.0,0.526,16.842,9.363,-40.0,November 1982,Labour Party
+1982,1984,50,Ireland,0.0,0.0,6.832000000000002,39.218,16.149,November 1982,Family of the Irish
+1982,1984,60,Ireland,0.0,7.5470000000000015,3.774,45.201,-30.189,November 1982,Soldiers of Destiny
+1982,1985,20,Ireland,1.955,8.939,10.056,2.178,-37.43,February 1982,Workers’ Party
+1982,1985,30,Ireland,0.0,0.0,20.69,9.121,-20.69,February 1982,Labour Party
+1982,1985,50,Ireland,0.613,0.0,4.908,37.3,14.11,February 1982,Family of the Irish
+1982,1985,60,Ireland,0.0,0.0,0.0,47.261,-8.0,February 1982,Soldiers of Destiny
+1982,1985,20,Ireland,1.955,8.939,10.056,3.25,-37.43,November 1982,Workers’ Party
+1982,1985,30,Ireland,0.0,0.526,16.842,9.363,-40.0,November 1982,Labour Party
+1982,1985,50,Ireland,0.0,0.0,6.832000000000002,39.218,16.149,November 1982,Family of the Irish
+1982,1985,60,Ireland,0.0,7.5470000000000015,3.774,45.201,-30.189,November 1982,Soldiers of Destiny
+1982,1986,20,Ireland,1.955,8.939,10.056,2.178,-37.43,February 1982,Workers’ Party
+1982,1986,30,Ireland,0.0,0.0,20.69,9.121,-20.69,February 1982,Labour Party
+1982,1986,50,Ireland,0.613,0.0,4.908,37.3,14.11,February 1982,Family of the Irish
+1982,1986,60,Ireland,0.0,0.0,0.0,47.261,-8.0,February 1982,Soldiers of Destiny
+1982,1986,20,Ireland,1.955,8.939,10.056,3.25,-37.43,November 1982,Workers’ Party
+1982,1986,30,Ireland,0.0,0.526,16.842,9.363,-40.0,November 1982,Labour Party
+1982,1986,50,Ireland,0.0,0.0,6.832000000000002,39.218,16.149,November 1982,Family of the Irish
+1982,1986,60,Ireland,0.0,7.5470000000000015,3.774,45.201,-30.189,November 1982,Soldiers of Destiny
+1987,1987,20,Ireland,4.202,7.422999999999999,7.7029999999999985,3.785,-28.011,February 1987,Workers’ Party
+1987,1987,30,Ireland,2.062,2.062,18.557,6.4460000000000015,-21.306,February 1987,Labour Party
+1987,1987,40,Ireland,2.509,0.0,3.2260000000000004,11.849,7.885,February 1987,Progressive Democrats
+1987,1987,50,Ireland,0.625,7.5,2.75,27.073,-12.75,February 1987,Family of the Irish
+1987,1987,60,Ireland,2.188,6.25,1.25,44.146,-2.969,February 1987,Soldiers of Destiny
+1987,1988,20,Ireland,4.202,7.422999999999999,7.7029999999999985,3.785,-28.011,February 1987,Workers’ Party
+1987,1988,30,Ireland,2.062,2.062,18.557,6.4460000000000015,-21.306,February 1987,Labour Party
+1987,1988,40,Ireland,2.509,0.0,3.2260000000000004,11.849,7.885,February 1987,Progressive Democrats
+1987,1988,50,Ireland,0.625,7.5,2.75,27.073,-12.75,February 1987,Family of the Irish
+1987,1988,60,Ireland,2.188,6.25,1.25,44.146,-2.969,February 1987,Soldiers of Destiny
+1989,1989,10,Ireland,25.373,1.99,8.458,1.4980000000000002,-10.945,June 1989,Green Party
+1989,1989,20,Ireland,4.246,5.857,6.296,4.965,-32.357,June 1989,Workers’ Party
+1989,1989,30,Ireland,1.105,0.0,16.022000000000002,9.475,-29.282,June 1989,Labour Party
+1989,1989,40,Ireland,5.417000000000002,0.0,5.832999999999998,5.4929999999999986,-2.917,June 1989,Progressive Democrats
+1989,1989,50,Ireland,11.556,2.403,1.487,29.292,-10.755,June 1989,Family of the Irish
+1989,1989,60,Ireland,7.971,6.975000000000001,1.721,44.149,-8.424,June 1989,Soldiers of Destiny
+1989,1990,10,Ireland,25.373,1.99,8.458,1.4980000000000002,-10.945,June 1989,Green Party
+1989,1990,20,Ireland,4.246,5.857,6.296,4.965,-32.357,June 1989,Workers’ Party
+1989,1990,30,Ireland,1.105,0.0,16.022000000000002,9.475,-29.282,June 1989,Labour Party
+1989,1990,40,Ireland,5.417000000000002,0.0,5.832999999999998,5.4929999999999986,-2.917,June 1989,Progressive Democrats
+1989,1990,50,Ireland,11.556,2.403,1.487,29.292,-10.755,June 1989,Family of the Irish
+1989,1990,60,Ireland,7.971,6.975000000000001,1.721,44.149,-8.424,June 1989,Soldiers of Destiny
+1989,1991,10,Ireland,25.373,1.99,8.458,1.4980000000000002,-10.945,June 1989,Green Party
+1989,1991,20,Ireland,4.246,5.857,6.296,4.965,-32.357,June 1989,Workers’ Party
+1989,1991,30,Ireland,1.105,0.0,16.022000000000002,9.475,-29.282,June 1989,Labour Party
+1989,1991,40,Ireland,5.417000000000002,0.0,5.832999999999998,5.4929999999999986,-2.917,June 1989,Progressive Democrats
+1989,1991,50,Ireland,11.556,2.403,1.487,29.292,-10.755,June 1989,Family of the Irish
+1989,1991,60,Ireland,7.971,6.975000000000001,1.721,44.149,-8.424,June 1989,Soldiers of Destiny
+1992,1992,10,Ireland,25.373,1.99,8.458,1.398,-10.945,November 1992,Green Party
+1992,1992,20,Ireland,7.877000000000002,5.822,18.493,2.78,-26.712,November 1992,Democratic Left Party
+1992,1992,30,Ireland,2.177,3.329,10.883,19.307,-14.597,November 1992,Labour Party
+1992,1992,40,Ireland,6.024,3.614,4.819,4.684,19.277,November 1992,Progressive Democrats
+1992,1992,50,Ireland,0.0,0.5710000000000001,3.429,24.472,9.714,November 1992,Family of the Irish
+1992,1992,60,Ireland,2.273,3.977,4.545,39.113,-3.409,November 1992,Soldiers of Destiny
+1992,1993,10,Ireland,25.373,1.99,8.458,1.398,-10.945,November 1992,Green Party
+1992,1993,20,Ireland,7.877000000000002,5.822,18.493,2.78,-26.712,November 1992,Democratic Left Party
+1992,1993,30,Ireland,2.177,3.329,10.883,19.307,-14.597,November 1992,Labour Party
+1992,1993,40,Ireland,6.024,3.614,4.819,4.684,19.277,November 1992,Progressive Democrats
+1992,1993,50,Ireland,0.0,0.5710000000000001,3.429,24.472,9.714,November 1992,Family of the Irish
+1992,1993,60,Ireland,2.273,3.977,4.545,39.113,-3.409,November 1992,Soldiers of Destiny
+1992,1994,10,Ireland,25.373,1.99,8.458,1.398,-10.945,November 1992,Green Party
+1992,1994,20,Ireland,7.877000000000002,5.822,18.493,2.78,-26.712,November 1992,Democratic Left Party
+1992,1994,30,Ireland,2.177,3.329,10.883,19.307,-14.597,November 1992,Labour Party
+1992,1994,40,Ireland,6.024,3.614,4.819,4.684,19.277,November 1992,Progressive Democrats
+1992,1994,50,Ireland,0.0,0.5710000000000001,3.429,24.472,9.714,November 1992,Family of the Irish
+1992,1994,60,Ireland,2.273,3.977,4.545,39.113,-3.409,November 1992,Soldiers of Destiny
+1992,1995,10,Ireland,25.373,1.99,8.458,1.398,-10.945,November 1992,Green Party
+1992,1995,20,Ireland,7.877000000000002,5.822,18.493,2.78,-26.712,November 1992,Democratic Left Party
+1992,1995,30,Ireland,2.177,3.329,10.883,19.307,-14.597,November 1992,Labour Party
+1992,1995,40,Ireland,6.024,3.614,4.819,4.684,19.277,November 1992,Progressive Democrats
+1992,1995,50,Ireland,0.0,0.5710000000000001,3.429,24.472,9.714,November 1992,Family of the Irish
+1992,1995,60,Ireland,2.273,3.977,4.545,39.113,-3.409,November 1992,Soldiers of Destiny
+1992,1996,10,Ireland,25.373,1.99,8.458,1.398,-10.945,November 1992,Green Party
+1992,1996,20,Ireland,7.877000000000002,5.822,18.493,2.78,-26.712,November 1992,Democratic Left Party
+1992,1996,30,Ireland,2.177,3.329,10.883,19.307,-14.597,November 1992,Labour Party
+1992,1996,40,Ireland,6.024,3.614,4.819,4.684,19.277,November 1992,Progressive Democrats
+1992,1996,50,Ireland,0.0,0.5710000000000001,3.429,24.472,9.714,November 1992,Family of the Irish
+1992,1996,60,Ireland,2.273,3.977,4.545,39.113,-3.409,November 1992,Soldiers of Destiny
+1997,1997,10,Ireland,14.195,1.271,7.2029999999999985,2.757,-14.195,June 1997,Green Party
+1997,1997,20,Ireland,4.926,1.4780000000000002,23.153,2.51,-12.315,June 1997,Democratic Left Party
+1997,1997,30,Ireland,6.103,2.205,16.41,10.399,-5.949,June 1997,Labour Party
+1997,1997,40,Ireland,3.978,1.92,4.527,4.682,19.616,June 1997,Progressive Democrats
+1997,1997,50,Ireland,6.646,0.87,3.639,27.945,8.94,June 1997,Family of the Irish
+1997,1997,60,Ireland,7.433,2.955,5.355,39.334,4.801,June 1997,Soldiers of Destiny
+1997,1997,95,Ireland,1.82,4.963,15.219,2.55,-26.137,June 1997,We Ourselves
+1997,1998,10,Ireland,14.195,1.271,7.2029999999999985,2.757,-14.195,June 1997,Green Party
+1997,1998,20,Ireland,4.926,1.4780000000000002,23.153,2.51,-12.315,June 1997,Democratic Left Party
+1997,1998,30,Ireland,6.103,2.205,16.41,10.399,-5.949,June 1997,Labour Party
+1997,1998,40,Ireland,3.978,1.92,4.527,4.682,19.616,June 1997,Progressive Democrats
+1997,1998,50,Ireland,6.646,0.87,3.639,27.945,8.94,June 1997,Family of the Irish
+1997,1998,60,Ireland,7.433,2.955,5.355,39.334,4.801,June 1997,Soldiers of Destiny
+1997,1998,95,Ireland,1.82,4.963,15.219,2.55,-26.137,June 1997,We Ourselves
+1997,1999,10,Ireland,14.195,1.271,7.2029999999999985,2.757,-14.195,June 1997,Green Party
+1997,1999,20,Ireland,4.926,1.4780000000000002,23.153,2.51,-12.315,June 1997,Democratic Left Party
+1997,1999,30,Ireland,6.103,2.205,16.41,10.399,-5.949,June 1997,Labour Party
+1997,1999,40,Ireland,3.978,1.92,4.527,4.682,19.616,June 1997,Progressive Democrats
+1997,1999,50,Ireland,6.646,0.87,3.639,27.945,8.94,June 1997,Family of the Irish
+1997,1999,60,Ireland,7.433,2.955,5.355,39.334,4.801,June 1997,Soldiers of Destiny
+1997,1999,95,Ireland,1.82,4.963,15.219,2.55,-26.137,June 1997,We Ourselves
+1997,2000,10,Ireland,14.195,1.271,7.2029999999999985,2.757,-14.195,June 1997,Green Party
+1997,2000,20,Ireland,4.926,1.4780000000000002,23.153,2.51,-12.315,June 1997,Democratic Left Party
+1997,2000,30,Ireland,6.103,2.205,16.41,10.399,-5.949,June 1997,Labour Party
+1997,2000,40,Ireland,3.978,1.92,4.527,4.682,19.616,June 1997,Progressive Democrats
+1997,2000,50,Ireland,6.646,0.87,3.639,27.945,8.94,June 1997,Family of the Irish
+1997,2000,60,Ireland,7.433,2.955,5.355,39.334,4.801,June 1997,Soldiers of Destiny
+1997,2000,95,Ireland,1.82,4.963,15.219,2.55,-26.137,June 1997,We Ourselves
+1997,2001,10,Ireland,14.195,1.271,7.2029999999999985,2.757,-14.195,June 1997,Green Party
+1997,2001,20,Ireland,4.926,1.4780000000000002,23.153,2.51,-12.315,June 1997,Democratic Left Party
+1997,2001,30,Ireland,6.103,2.205,16.41,10.399,-5.949,June 1997,Labour Party
+1997,2001,40,Ireland,3.978,1.92,4.527,4.682,19.616,June 1997,Progressive Democrats
+1997,2001,50,Ireland,6.646,0.87,3.639,27.945,8.94,June 1997,Family of the Irish
+1997,2001,60,Ireland,7.433,2.955,5.355,39.334,4.801,June 1997,Soldiers of Destiny
+1997,2001,95,Ireland,1.82,4.963,15.219,2.55,-26.137,June 1997,We Ourselves
+2002,2002,10,Ireland,7.961,7.572999999999999,8.932,3.847,-30.485,May 2002,Green Party
+2002,2002,30,Ireland,6.87,4.885,8.015,10.772,-22.29,May 2002,Labour Party
+2002,2002,40,Ireland,9.085,2.092,1.973,3.963,-9.982000000000001,May 2002,Progressive Democrats
+2002,2002,50,Ireland,3.934,0.0,7.246,22.478,-9.317,May 2002,Family of the Irish
+2002,2002,60,Ireland,4.082,7.112,3.587,41.485,-6.246,May 2002,Soldiers of Destiny
+2002,2002,95,Ireland,1.82,4.963,15.219,6.5139999999999985,-26.137,May 2002,We Ourselves
+2002,2003,10,Ireland,7.961,7.572999999999999,8.932,3.847,-30.485,May 2002,Green Party
+2002,2003,30,Ireland,6.87,4.885,8.015,10.772,-22.29,May 2002,Labour Party
+2002,2003,40,Ireland,9.085,2.092,1.973,3.963,-9.982000000000001,May 2002,Progressive Democrats
+2002,2003,50,Ireland,3.934,0.0,7.246,22.478,-9.317,May 2002,Family of the Irish
+2002,2003,60,Ireland,4.082,7.112,3.587,41.485,-6.246,May 2002,Soldiers of Destiny
+2002,2003,95,Ireland,1.82,4.963,15.219,6.5139999999999985,-26.137,May 2002,We Ourselves
+2002,2004,10,Ireland,7.961,7.572999999999999,8.932,3.847,-30.485,May 2002,Green Party
+2002,2004,30,Ireland,6.87,4.885,8.015,10.772,-22.29,May 2002,Labour Party
+2002,2004,40,Ireland,9.085,2.092,1.973,3.963,-9.982000000000001,May 2002,Progressive Democrats
+2002,2004,50,Ireland,3.934,0.0,7.246,22.478,-9.317,May 2002,Family of the Irish
+2002,2004,60,Ireland,4.082,7.112,3.587,41.485,-6.246,May 2002,Soldiers of Destiny
+2002,2004,95,Ireland,1.82,4.963,15.219,6.5139999999999985,-26.137,May 2002,We Ourselves
+2002,2005,10,Ireland,7.961,7.572999999999999,8.932,3.847,-30.485,May 2002,Green Party
+2002,2005,30,Ireland,6.87,4.885,8.015,10.772,-22.29,May 2002,Labour Party
+2002,2005,40,Ireland,9.085,2.092,1.973,3.963,-9.982000000000001,May 2002,Progressive Democrats
+2002,2005,50,Ireland,3.934,0.0,7.246,22.478,-9.317,May 2002,Family of the Irish
+2002,2005,60,Ireland,4.082,7.112,3.587,41.485,-6.246,May 2002,Soldiers of Destiny
+2002,2005,95,Ireland,1.82,4.963,15.219,6.5139999999999985,-26.137,May 2002,We Ourselves
+2002,2006,10,Ireland,7.961,7.572999999999999,8.932,3.847,-30.485,May 2002,Green Party
+2002,2006,30,Ireland,6.87,4.885,8.015,10.772,-22.29,May 2002,Labour Party
+2002,2006,40,Ireland,9.085,2.092,1.973,3.963,-9.982000000000001,May 2002,Progressive Democrats
+2002,2006,50,Ireland,3.934,0.0,7.246,22.478,-9.317,May 2002,Family of the Irish
+2002,2006,60,Ireland,4.082,7.112,3.587,41.485,-6.246,May 2002,Soldiers of Destiny
+2002,2006,95,Ireland,1.82,4.963,15.219,6.5139999999999985,-26.137,May 2002,We Ourselves
+2007,2007,10,Ireland,7.11,2.124,4.801,4.692,-20.129,May 2007,Green Party
+2007,2007,30,Ireland,3.714,5.011,5.414,10.126,-18.837,May 2007,Labour Party
+2007,2007,40,Ireland,2.303,5.182,1.919,2.73,-6.862,May 2007,Progressive Democrats
+2007,2007,50,Ireland,2.576,3.5780000000000003,1.813,27.322,-11.26,May 2007,Family of the Irish
+2007,2007,60,Ireland,2.814,6.809,1.3159999999999998,41.56100000000001,-9.759,May 2007,Soldiers of Destiny
+2007,2007,95,Ireland,0.8959999999999999,2.688,8.124,6.942,-12.664,May 2007,We Ourselves
+2007,2008,10,Ireland,7.11,2.124,4.801,4.692,-20.129,May 2007,Green Party
+2007,2008,30,Ireland,3.714,5.011,5.414,10.126,-18.837,May 2007,Labour Party
+2007,2008,40,Ireland,2.303,5.182,1.919,2.73,-6.862,May 2007,Progressive Democrats
+2007,2008,50,Ireland,2.576,3.5780000000000003,1.813,27.322,-11.26,May 2007,Family of the Irish
+2007,2008,60,Ireland,2.814,6.809,1.3159999999999998,41.56100000000001,-9.759,May 2007,Soldiers of Destiny
+2007,2008,95,Ireland,0.8959999999999999,2.688,8.124,6.942,-12.664,May 2007,We Ourselves
+2007,2009,10,Ireland,7.11,2.124,4.801,4.692,-20.129,May 2007,Green Party
+2007,2009,30,Ireland,3.714,5.011,5.414,10.126,-18.837,May 2007,Labour Party
+2007,2009,40,Ireland,2.303,5.182,1.919,2.73,-6.862,May 2007,Progressive Democrats
+2007,2009,50,Ireland,2.576,3.5780000000000003,1.813,27.322,-11.26,May 2007,Family of the Irish
+2007,2009,60,Ireland,2.814,6.809,1.3159999999999998,41.56100000000001,-9.759,May 2007,Soldiers of Destiny
+2007,2009,95,Ireland,0.8959999999999999,2.688,8.124,6.942,-12.664,May 2007,We Ourselves
+2007,2010,10,Ireland,7.11,2.124,4.801,4.692,-20.129,May 2007,Green Party
+2007,2010,30,Ireland,3.714,5.011,5.414,10.126,-18.837,May 2007,Labour Party
+2007,2010,40,Ireland,2.303,5.182,1.919,2.73,-6.862,May 2007,Progressive Democrats
+2007,2010,50,Ireland,2.576,3.5780000000000003,1.813,27.322,-11.26,May 2007,Family of the Irish
+2007,2010,60,Ireland,2.814,6.809,1.3159999999999998,41.56100000000001,-9.759,May 2007,Soldiers of Destiny
+2007,2010,95,Ireland,0.8959999999999999,2.688,8.124,6.942,-12.664,May 2007,We Ourselves
+2011,2011,20,Ireland,5.155,0.0,1.031,2.7,-30.928,February 2011,United Left Alliance
+2011,2011,10,Ireland,15.789,4.174,3.63,1.8,-14.882,February 2011,Green Party
+2011,2011,20,Ireland,0.0,0.0,0.0,,-16.901,February 2011,Socialist Party
+2011,2011,30,Ireland,4.181,3.275,4.181,19.447,-10.592,February 2011,Labour Party
+2011,2011,50,Ireland,3.067,3.333,0.9329999999999999,36.104,0.733,February 2011,Family of the Irish
+2011,2011,60,Ireland,0.307,1.994,0.613,17.445999999999998,2.914,February 2011,Soldiers of Destiny
+2011,2011,95,Ireland,0.6559999999999999,0.8200000000000001,7.049,9.94,-13.607,February 2011,We Ourselves
+2011,2012,20,Ireland,5.155,0.0,1.031,2.7,-30.928,February 2011,United Left Alliance
+2011,2012,10,Ireland,15.789,4.174,3.63,1.8,-14.882,February 2011,Green Party
+2011,2012,20,Ireland,0.0,0.0,0.0,,-16.901,February 2011,Socialist Party
+2011,2012,30,Ireland,4.181,3.275,4.181,19.447,-10.592,February 2011,Labour Party
+2011,2012,50,Ireland,3.067,3.333,0.9329999999999999,36.104,0.733,February 2011,Family of the Irish
+2011,2012,60,Ireland,0.307,1.994,0.613,17.445999999999998,2.914,February 2011,Soldiers of Destiny
+2011,2012,95,Ireland,0.6559999999999999,0.8200000000000001,7.049,9.94,-13.607,February 2011,We Ourselves
+2011,2013,20,Ireland,5.155,0.0,1.031,2.7,-30.928,February 2011,United Left Alliance
+2011,2013,10,Ireland,15.789,4.174,3.63,1.8,-14.882,February 2011,Green Party
+2011,2013,20,Ireland,0.0,0.0,0.0,,-16.901,February 2011,Socialist Party
+2011,2013,30,Ireland,4.181,3.275,4.181,19.447,-10.592,February 2011,Labour Party
+2011,2013,50,Ireland,3.067,3.333,0.9329999999999999,36.104,0.733,February 2011,Family of the Irish
+2011,2013,60,Ireland,0.307,1.994,0.613,17.445999999999998,2.914,February 2011,Soldiers of Destiny
+2011,2013,95,Ireland,0.6559999999999999,0.8200000000000001,7.049,9.94,-13.607,February 2011,We Ourselves
+2011,2014,20,Ireland,5.155,0.0,1.031,2.7,-30.928,February 2011,United Left Alliance
+2011,2014,10,Ireland,15.789,4.174,3.63,1.8,-14.882,February 2011,Green Party
+2011,2014,20,Ireland,0.0,0.0,0.0,,-16.901,February 2011,Socialist Party
+2011,2014,30,Ireland,4.181,3.275,4.181,19.447,-10.592,February 2011,Labour Party
+2011,2014,50,Ireland,3.067,3.333,0.9329999999999999,36.104,0.733,February 2011,Family of the Irish
+2011,2014,60,Ireland,0.307,1.994,0.613,17.445999999999998,2.914,February 2011,Soldiers of Destiny
+2011,2014,95,Ireland,0.6559999999999999,0.8200000000000001,7.049,9.94,-13.607,February 2011,We Ourselves
+2011,2015,20,Ireland,5.155,0.0,1.031,2.7,-30.928,February 2011,United Left Alliance
+2011,2015,10,Ireland,15.789,4.174,3.63,1.8,-14.882,February 2011,Green Party
+2011,2015,20,Ireland,0.0,0.0,0.0,,-16.901,February 2011,Socialist Party
+2011,2015,30,Ireland,4.181,3.275,4.181,19.447,-10.592,February 2011,Labour Party
+2011,2015,50,Ireland,3.067,3.333,0.9329999999999999,36.104,0.733,February 2011,Family of the Irish
+2011,2015,60,Ireland,0.307,1.994,0.613,17.445999999999998,2.914,February 2011,Soldiers of Destiny
+2011,2015,95,Ireland,0.6559999999999999,0.8200000000000001,7.049,9.94,-13.607,February 2011,We Ourselves
+2016,2016,10,Ireland,20.24,2.7960000000000003,4.527,2.719,-32.091,February 2016,Green Party
+2016,2016,20,Ireland,6.845,3.274,8.631,1.977,-47.917,February 2016,People Before Profit Alliance
+2016,2016,20,Ireland,3.084,0.0,20.705,1.969,-32.159,February 2016,Anti-Austerity Alliance
+2016,2016,20,Ireland,2.362,0.0,16.535,0.349,-18.11,February 2016,Workers and Unemployment Action
+2016,2016,30,Ireland,4.925,2.9930000000000003,2.93,6.606,-27.805,February 2016,Labour Party
+2016,2016,30,Ireland,4.982,3.888,6.561,3.005,-32.806999999999995,February 2016,Social Democrats
+2016,2016,50,Ireland,4.822,4.909,3.475,25.516,-18.115,February 2016,Family of the Irish
+2016,2016,60,Ireland,1.886,1.835,3.466,24.35,-26.758000000000006,February 2016,Soldiers of Destiny
+2016,2016,95,Ireland,3.4760000000000004,1.275,7.879,13.845999999999998,-12.514,February 2016,We Ourselves
+2016,2016,95,Ireland,0.0,0.0,8.219,4.212,15.068,February 2016,Independent Alliance
+2016,2017,10,Ireland,20.24,2.7960000000000003,4.527,2.719,-32.091,February 2016,Green Party
+2016,2017,20,Ireland,6.845,3.274,8.631,1.977,-47.917,February 2016,People Before Profit Alliance
+2016,2017,20,Ireland,3.084,0.0,20.705,1.969,-32.159,February 2016,Anti-Austerity Alliance
+2016,2017,20,Ireland,2.362,0.0,16.535,0.349,-18.11,February 2016,Workers and Unemployment Action
+2016,2017,30,Ireland,4.925,2.9930000000000003,2.93,6.606,-27.805,February 2016,Labour Party
+2016,2017,30,Ireland,4.982,3.888,6.561,3.005,-32.806999999999995,February 2016,Social Democrats
+2016,2017,50,Ireland,4.822,4.909,3.475,25.516,-18.115,February 2016,Family of the Irish
+2016,2017,60,Ireland,1.886,1.835,3.466,24.35,-26.758000000000006,February 2016,Soldiers of Destiny
+2016,2017,95,Ireland,3.4760000000000004,1.275,7.879,13.845999999999998,-12.514,February 2016,We Ourselves
+2016,2017,95,Ireland,0.0,0.0,8.219,4.212,15.068,February 2016,Independent Alliance
+2016,2018,10,Ireland,20.24,2.7960000000000003,4.527,2.719,-32.091,February 2016,Green Party
+2016,2018,20,Ireland,6.845,3.274,8.631,1.977,-47.917,February 2016,People Before Profit Alliance
+2016,2018,20,Ireland,3.084,0.0,20.705,1.969,-32.159,February 2016,Anti-Austerity Alliance
+2016,2018,20,Ireland,2.362,0.0,16.535,0.349,-18.11,February 2016,Workers and Unemployment Action
+2016,2018,30,Ireland,4.925,2.9930000000000003,2.93,6.606,-27.805,February 2016,Labour Party
+2016,2018,30,Ireland,4.982,3.888,6.561,3.005,-32.806999999999995,February 2016,Social Democrats
+2016,2018,50,Ireland,4.822,4.909,3.475,25.516,-18.115,February 2016,Family of the Irish
+2016,2018,60,Ireland,1.886,1.835,3.466,24.35,-26.758000000000006,February 2016,Soldiers of Destiny
+2016,2018,95,Ireland,3.4760000000000004,1.275,7.879,13.845999999999998,-12.514,February 2016,We Ourselves
+2016,2018,95,Ireland,0.0,0.0,8.219,4.212,15.068,February 2016,Independent Alliance
+2016,2019,10,Ireland,20.24,2.7960000000000003,4.527,2.719,-32.091,February 2016,Green Party
+2016,2019,20,Ireland,6.845,3.274,8.631,1.977,-47.917,February 2016,People Before Profit Alliance
+2016,2019,20,Ireland,3.084,0.0,20.705,1.969,-32.159,February 2016,Anti-Austerity Alliance
+2016,2019,20,Ireland,2.362,0.0,16.535,0.349,-18.11,February 2016,Workers and Unemployment Action
+2016,2019,30,Ireland,4.925,2.9930000000000003,2.93,6.606,-27.805,February 2016,Labour Party
+2016,2019,30,Ireland,4.982,3.888,6.561,3.005,-32.806999999999995,February 2016,Social Democrats
+2016,2019,50,Ireland,4.822,4.909,3.475,25.516,-18.115,February 2016,Family of the Irish
+2016,2019,60,Ireland,1.886,1.835,3.466,24.35,-26.758000000000006,February 2016,Soldiers of Destiny
+2016,2019,95,Ireland,3.4760000000000004,1.275,7.879,13.845999999999998,-12.514,February 2016,We Ourselves
+2016,2019,95,Ireland,0.0,0.0,8.219,4.212,15.068,February 2016,Independent Alliance
+2016,2020,10,Ireland,20.24,2.7960000000000003,4.527,2.719,-32.091,February 2016,Green Party
+2016,2020,20,Ireland,6.845,3.274,8.631,1.977,-47.917,February 2016,People Before Profit Alliance
+2016,2020,20,Ireland,3.084,0.0,20.705,1.969,-32.159,February 2016,Anti-Austerity Alliance
+2016,2020,20,Ireland,2.362,0.0,16.535,0.349,-18.11,February 2016,Workers and Unemployment Action
+2016,2020,30,Ireland,4.925,2.9930000000000003,2.93,6.606,-27.805,February 2016,Labour Party
+2016,2020,30,Ireland,4.982,3.888,6.561,3.005,-32.806999999999995,February 2016,Social Democrats
+2016,2020,50,Ireland,4.822,4.909,3.475,25.516,-18.115,February 2016,Family of the Irish
+2016,2020,60,Ireland,1.886,1.835,3.466,24.35,-26.758000000000006,February 2016,Soldiers of Destiny
+2016,2020,95,Ireland,3.4760000000000004,1.275,7.879,13.845999999999998,-12.514,February 2016,We Ourselves
+2016,2020,95,Ireland,0.0,0.0,8.219,4.212,15.068,February 2016,Independent Alliance

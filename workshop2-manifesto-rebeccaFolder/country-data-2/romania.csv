@@ -1,0 +1,185 @@
+year,yearObject,parfam,countryname,environ,culture,equality,pervote,rile,electionDate,partyname
+1990,1990,10,Romania,19.178,4.11,0.0,2.6180000000000003,-13.699000000000002,May 1990,Ecological Movement of Romania
+1990,1990,10,Romania,43.902,6.098,1.22,1.694,0.0,May 1990,Romanian Ecological Party
+1990,1990,30,Romania,0.0,5.0,1.6669999999999998,66.313,-15.0,May 1990,National Salvation Front
+1990,1990,20,Romania,0.0,0.0,15.625,1.046,-6.25,May 1990,Romanian Socialist Democratic Party
+1990,1990,30,Romania,0.0,0.943,5.66,0.5329999999999999,-30.189,May 1990,Romanian Social Democratic Party
+1990,1990,40,Romania,0.0,0.0,1.114,6.415,29.526,May 1990,National Liberal Party
+1990,1990,50,Romania,7.216,5.155,2.062,2.563,0.0,May 1990,Christian Democratic National Peasants’ Party
+1990,1990,50,Romania,3.333,0.0,0.0,,10.0,May 1990,National Democratic Party
+1990,1990,50,Romania,1.754,5.263,3.509,,1.754,May 1990,Romanian Democratic Front from Timisoara
+1990,1990,50,Romania,2.544,2.632,1.754,0.481,5.877000000000002,May 1990,Democratic Group of the Centre
+1990,1990,70,Romania,5.085,1.695,1.695,,-4.237,May 1990,Romanian National Unity Party
+1990,1990,70,Romania,4.918,8.197000000000001,2.459,,14.754,May 1990,Republican Party
+1990,1990,70,Romania,5.001,4.9460000000000015,2.077,2.122,5.257999999999999,May 1990,Romanian Unity Alliance
+1990,1990,80,Romania,4.245,3.302,3.774,1.83,-8.491,May 1990,Democratic Agrarian Party of Romania
+1990,1990,90,Romania,6.287000000000001,4.4910000000000005,2.096,7.234,7.784,May 1990,Hungarian Democratic Alliance of Romania
+1990,1991,10,Romania,19.178,4.11,0.0,2.6180000000000003,-13.699000000000002,May 1990,Ecological Movement of Romania
+1990,1991,10,Romania,43.902,6.098,1.22,1.694,0.0,May 1990,Romanian Ecological Party
+1990,1991,30,Romania,0.0,5.0,1.6669999999999998,66.313,-15.0,May 1990,National Salvation Front
+1990,1991,20,Romania,0.0,0.0,15.625,1.046,-6.25,May 1990,Romanian Socialist Democratic Party
+1990,1991,30,Romania,0.0,0.943,5.66,0.5329999999999999,-30.189,May 1990,Romanian Social Democratic Party
+1990,1991,40,Romania,0.0,0.0,1.114,6.415,29.526,May 1990,National Liberal Party
+1990,1991,50,Romania,7.216,5.155,2.062,2.563,0.0,May 1990,Christian Democratic National Peasants’ Party
+1990,1991,50,Romania,3.333,0.0,0.0,,10.0,May 1990,National Democratic Party
+1990,1991,50,Romania,1.754,5.263,3.509,,1.754,May 1990,Romanian Democratic Front from Timisoara
+1990,1991,50,Romania,2.544,2.632,1.754,0.481,5.877000000000002,May 1990,Democratic Group of the Centre
+1990,1991,70,Romania,5.085,1.695,1.695,,-4.237,May 1990,Romanian National Unity Party
+1990,1991,70,Romania,4.918,8.197000000000001,2.459,,14.754,May 1990,Republican Party
+1990,1991,70,Romania,5.001,4.9460000000000015,2.077,2.122,5.257999999999999,May 1990,Romanian Unity Alliance
+1990,1991,80,Romania,4.245,3.302,3.774,1.83,-8.491,May 1990,Democratic Agrarian Party of Romania
+1990,1991,90,Romania,6.287000000000001,4.4910000000000005,2.096,7.234,7.784,May 1990,Hungarian Democratic Alliance of Romania
+1992,1992,30,Romania,0.0,0.0,0.0,10.188,23.669,September 1992,National Salvation Front
+1992,1992,20,Romania,1.5530000000000002,2.174,2.588,27.717,-8.488999999999999,September 1992,Democratic National Salvation Front
+1992,1992,50,Romania,1.734,3.035,4.913,20.01,7.803,September 1992,Democratic Convention of Romania
+1992,1992,70,Romania,0.847,0.0,0.0,7.717000000000001,18.644,September 1992,Romanian National Unity Party
+1992,1992,70,Romania,1.325,5.96,1.987,3.898,6.622999999999998,September 1992,Greater Romania Party
+1992,1992,20,Romania,0.227,6.818000000000001,5.682,3.036,-15.909,September 1992,Socialist Labour Party
+1992,1992,80,Romania,4.245,3.302,3.774,2.999,-8.491,September 1992,Democratic Agrarian Party of Romania
+1992,1992,90,Romania,4.444,0.278,1.389,7.457000000000002,9.167,September 1992,Hungarian Democratic Alliance of Romania
+1992,1993,30,Romania,0.0,0.0,0.0,10.188,23.669,September 1992,National Salvation Front
+1992,1993,20,Romania,1.5530000000000002,2.174,2.588,27.717,-8.488999999999999,September 1992,Democratic National Salvation Front
+1992,1993,50,Romania,1.734,3.035,4.913,20.01,7.803,September 1992,Democratic Convention of Romania
+1992,1993,70,Romania,0.847,0.0,0.0,7.717000000000001,18.644,September 1992,Romanian National Unity Party
+1992,1993,70,Romania,1.325,5.96,1.987,3.898,6.622999999999998,September 1992,Greater Romania Party
+1992,1993,20,Romania,0.227,6.818000000000001,5.682,3.036,-15.909,September 1992,Socialist Labour Party
+1992,1993,80,Romania,4.245,3.302,3.774,2.999,-8.491,September 1992,Democratic Agrarian Party of Romania
+1992,1993,90,Romania,4.444,0.278,1.389,7.457000000000002,9.167,September 1992,Hungarian Democratic Alliance of Romania
+1992,1994,30,Romania,0.0,0.0,0.0,10.188,23.669,September 1992,National Salvation Front
+1992,1994,20,Romania,1.5530000000000002,2.174,2.588,27.717,-8.488999999999999,September 1992,Democratic National Salvation Front
+1992,1994,50,Romania,1.734,3.035,4.913,20.01,7.803,September 1992,Democratic Convention of Romania
+1992,1994,70,Romania,0.847,0.0,0.0,7.717000000000001,18.644,September 1992,Romanian National Unity Party
+1992,1994,70,Romania,1.325,5.96,1.987,3.898,6.622999999999998,September 1992,Greater Romania Party
+1992,1994,20,Romania,0.227,6.818000000000001,5.682,3.036,-15.909,September 1992,Socialist Labour Party
+1992,1994,80,Romania,4.245,3.302,3.774,2.999,-8.491,September 1992,Democratic Agrarian Party of Romania
+1992,1994,90,Romania,4.444,0.278,1.389,7.457000000000002,9.167,September 1992,Hungarian Democratic Alliance of Romania
+1992,1995,30,Romania,0.0,0.0,0.0,10.188,23.669,September 1992,National Salvation Front
+1992,1995,20,Romania,1.5530000000000002,2.174,2.588,27.717,-8.488999999999999,September 1992,Democratic National Salvation Front
+1992,1995,50,Romania,1.734,3.035,4.913,20.01,7.803,September 1992,Democratic Convention of Romania
+1992,1995,70,Romania,0.847,0.0,0.0,7.717000000000001,18.644,September 1992,Romanian National Unity Party
+1992,1995,70,Romania,1.325,5.96,1.987,3.898,6.622999999999998,September 1992,Greater Romania Party
+1992,1995,20,Romania,0.227,6.818000000000001,5.682,3.036,-15.909,September 1992,Socialist Labour Party
+1992,1995,80,Romania,4.245,3.302,3.774,2.999,-8.491,September 1992,Democratic Agrarian Party of Romania
+1992,1995,90,Romania,4.444,0.278,1.389,7.457000000000002,9.167,September 1992,Hungarian Democratic Alliance of Romania
+1996,1996,20,Romania,2.852,3.992,0.0,21.766,-6.274,November 1996,Party of Social Democracy of Romania
+1996,1996,30,Romania,0.185,0.923,0.0,12.928,-12.731,November 1996,Social Democratic Union
+1996,1996,50,Romania,0.0,1.37,0.0,30.169,-28.767,November 1996,Democratic Convention of Romania
+1996,1996,70,Romania,0.0,0.0,0.0,4.3580000000000005,-2.381,November 1996,Romanian National Unity Party
+1996,1996,70,Romania,0.0,0.0,0.0,4.465,13.333,November 1996,Greater Romania Party
+1996,1996,90,Romania,6.785,1.939,0.8079999999999999,6.6400000000000015,-5.977,November 1996,Hungarian Democratic Alliance of Romania
+1996,1997,20,Romania,2.852,3.992,0.0,21.766,-6.274,November 1996,Party of Social Democracy of Romania
+1996,1997,30,Romania,0.185,0.923,0.0,12.928,-12.731,November 1996,Social Democratic Union
+1996,1997,50,Romania,0.0,1.37,0.0,30.169,-28.767,November 1996,Democratic Convention of Romania
+1996,1997,70,Romania,0.0,0.0,0.0,4.3580000000000005,-2.381,November 1996,Romanian National Unity Party
+1996,1997,70,Romania,0.0,0.0,0.0,4.465,13.333,November 1996,Greater Romania Party
+1996,1997,90,Romania,6.785,1.939,0.8079999999999999,6.6400000000000015,-5.977,November 1996,Hungarian Democratic Alliance of Romania
+1996,1998,20,Romania,2.852,3.992,0.0,21.766,-6.274,November 1996,Party of Social Democracy of Romania
+1996,1998,30,Romania,0.185,0.923,0.0,12.928,-12.731,November 1996,Social Democratic Union
+1996,1998,50,Romania,0.0,1.37,0.0,30.169,-28.767,November 1996,Democratic Convention of Romania
+1996,1998,70,Romania,0.0,0.0,0.0,4.3580000000000005,-2.381,November 1996,Romanian National Unity Party
+1996,1998,70,Romania,0.0,0.0,0.0,4.465,13.333,November 1996,Greater Romania Party
+1996,1998,90,Romania,6.785,1.939,0.8079999999999999,6.6400000000000015,-5.977,November 1996,Hungarian Democratic Alliance of Romania
+1996,1999,20,Romania,2.852,3.992,0.0,21.766,-6.274,November 1996,Party of Social Democracy of Romania
+1996,1999,30,Romania,0.185,0.923,0.0,12.928,-12.731,November 1996,Social Democratic Union
+1996,1999,50,Romania,0.0,1.37,0.0,30.169,-28.767,November 1996,Democratic Convention of Romania
+1996,1999,70,Romania,0.0,0.0,0.0,4.3580000000000005,-2.381,November 1996,Romanian National Unity Party
+1996,1999,70,Romania,0.0,0.0,0.0,4.465,13.333,November 1996,Greater Romania Party
+1996,1999,90,Romania,6.785,1.939,0.8079999999999999,6.6400000000000015,-5.977,November 1996,Hungarian Democratic Alliance of Romania
+2000,2000,30,Romania,2.998,0.17600000000000002,0.705,7.033,-3.3510000000000004,November 2000,Democratic Party
+2000,2000,20,Romania,2.886,2.793,0.18600000000000005,36.611,-6.331,November 2000,Social Democratic Pole of Romania
+2000,2000,40,Romania,0.0,0.0,1.007,6.894,-9.06,November 2000,National Liberal Party
+2000,2000,70,Romania,0.0,0.0,0.0,19.485,-13.861,November 2000,Greater Romania Party
+2000,2000,90,Romania,11.799,3.482,1.354,6.797999999999999,-6.77,November 2000,Hungarian Democratic Alliance of Romania
+2000,2001,30,Romania,2.998,0.17600000000000002,0.705,7.033,-3.3510000000000004,November 2000,Democratic Party
+2000,2001,20,Romania,2.886,2.793,0.18600000000000005,36.611,-6.331,November 2000,Social Democratic Pole of Romania
+2000,2001,40,Romania,0.0,0.0,1.007,6.894,-9.06,November 2000,National Liberal Party
+2000,2001,70,Romania,0.0,0.0,0.0,19.485,-13.861,November 2000,Greater Romania Party
+2000,2001,90,Romania,11.799,3.482,1.354,6.797999999999999,-6.77,November 2000,Hungarian Democratic Alliance of Romania
+2000,2002,30,Romania,2.998,0.17600000000000002,0.705,7.033,-3.3510000000000004,November 2000,Democratic Party
+2000,2002,20,Romania,2.886,2.793,0.18600000000000005,36.611,-6.331,November 2000,Social Democratic Pole of Romania
+2000,2002,40,Romania,0.0,0.0,1.007,6.894,-9.06,November 2000,National Liberal Party
+2000,2002,70,Romania,0.0,0.0,0.0,19.485,-13.861,November 2000,Greater Romania Party
+2000,2002,90,Romania,11.799,3.482,1.354,6.797999999999999,-6.77,November 2000,Hungarian Democratic Alliance of Romania
+2000,2003,30,Romania,2.998,0.17600000000000002,0.705,7.033,-3.3510000000000004,November 2000,Democratic Party
+2000,2003,20,Romania,2.886,2.793,0.18600000000000005,36.611,-6.331,November 2000,Social Democratic Pole of Romania
+2000,2003,40,Romania,0.0,0.0,1.007,6.894,-9.06,November 2000,National Liberal Party
+2000,2003,70,Romania,0.0,0.0,0.0,19.485,-13.861,November 2000,Greater Romania Party
+2000,2003,90,Romania,11.799,3.482,1.354,6.797999999999999,-6.77,November 2000,Hungarian Democratic Alliance of Romania
+2004,2004,98,Romania,0.0,0.0,0.0,36.8,-28.85,November 2004,National Union PSR+PUR
+2004,2004,40,Romania,4.52,2.9,1.94,31.5,5.5,November 2004,Justice and Truth Alliance
+2004,2004,70,Romania,3.7,0.0,1.85,12.924,5.56,November 2004,Greater Romania Party
+2004,2004,90,Romania,1.75,3.49,2.62,6.165,-1.16,November 2004,Hungarian Democratic Alliance of Romania
+2004,2005,98,Romania,0.0,0.0,0.0,36.8,-28.85,November 2004,National Union PSR+PUR
+2004,2005,40,Romania,4.52,2.9,1.94,31.5,5.5,November 2004,Justice and Truth Alliance
+2004,2005,70,Romania,3.7,0.0,1.85,12.924,5.56,November 2004,Greater Romania Party
+2004,2005,90,Romania,1.75,3.49,2.62,6.165,-1.16,November 2004,Hungarian Democratic Alliance of Romania
+2004,2006,98,Romania,0.0,0.0,0.0,36.8,-28.85,November 2004,National Union PSR+PUR
+2004,2006,40,Romania,4.52,2.9,1.94,31.5,5.5,November 2004,Justice and Truth Alliance
+2004,2006,70,Romania,3.7,0.0,1.85,12.924,5.56,November 2004,Greater Romania Party
+2004,2006,90,Romania,1.75,3.49,2.62,6.165,-1.16,November 2004,Hungarian Democratic Alliance of Romania
+2004,2007,98,Romania,0.0,0.0,0.0,36.8,-28.85,November 2004,National Union PSR+PUR
+2004,2007,40,Romania,4.52,2.9,1.94,31.5,5.5,November 2004,Justice and Truth Alliance
+2004,2007,70,Romania,3.7,0.0,1.85,12.924,5.56,November 2004,Greater Romania Party
+2004,2007,90,Romania,1.75,3.49,2.62,6.165,-1.16,November 2004,Hungarian Democratic Alliance of Romania
+2008,2008,98,Romania,4.21,1.4,3.37,33.099000000000004,-12.91,November 2008,Social Democratic Party + Conservative Party Alliance
+2008,2008,40,Romania,7.73,0.52,0.0,18.6,12.89,November 2008,National Liberal Party
+2008,2008,50,Romania,4.04,4.49,1.12,32.364000000000004,4.95,November 2008,Democratic Liberal Party
+2008,2008,90,Romania,8.960000000000003,4.48,3.05,6.2,-2.64,November 2008,Hungarian Democratic Alliance of Romania
+2008,2009,98,Romania,4.21,1.4,3.37,33.099000000000004,-12.91,November 2008,Social Democratic Party + Conservative Party Alliance
+2008,2009,40,Romania,7.73,0.52,0.0,18.6,12.89,November 2008,National Liberal Party
+2008,2009,50,Romania,4.04,4.49,1.12,32.364000000000004,4.95,November 2008,Democratic Liberal Party
+2008,2009,90,Romania,8.960000000000003,4.48,3.05,6.2,-2.64,November 2008,Hungarian Democratic Alliance of Romania
+2008,2010,98,Romania,4.21,1.4,3.37,33.099000000000004,-12.91,November 2008,Social Democratic Party + Conservative Party Alliance
+2008,2010,40,Romania,7.73,0.52,0.0,18.6,12.89,November 2008,National Liberal Party
+2008,2010,50,Romania,4.04,4.49,1.12,32.364000000000004,4.95,November 2008,Democratic Liberal Party
+2008,2010,90,Romania,8.960000000000003,4.48,3.05,6.2,-2.64,November 2008,Hungarian Democratic Alliance of Romania
+2008,2011,98,Romania,4.21,1.4,3.37,33.099000000000004,-12.91,November 2008,Social Democratic Party + Conservative Party Alliance
+2008,2011,40,Romania,7.73,0.52,0.0,18.6,12.89,November 2008,National Liberal Party
+2008,2011,50,Romania,4.04,4.49,1.12,32.364000000000004,4.95,November 2008,Democratic Liberal Party
+2008,2011,90,Romania,8.960000000000003,4.48,3.05,6.2,-2.64,November 2008,Hungarian Democratic Alliance of Romania
+2012,2012,30,Romania,2.338,1.558,0.779,58.63,19.221,December 2012,Social Liberal Union
+2012,2012,60,Romania,0.0,0.0,0.0,16.508,-18.681,December 2012,Right Romania Alliance
+2012,2012,90,Romania,4.104,4.602,2.114,5.1370000000000005,-9.701,December 2012,Hungarian Democratic Alliance of Romania
+2012,2012,70,Romania,10.37,0.0,0.0,13.992,-20.741,December 2012,People's Party - Dan Dianconescu
+2012,2013,30,Romania,2.338,1.558,0.779,58.63,19.221,December 2012,Social Liberal Union
+2012,2013,60,Romania,0.0,0.0,0.0,16.508,-18.681,December 2012,Right Romania Alliance
+2012,2013,90,Romania,4.104,4.602,2.114,5.1370000000000005,-9.701,December 2012,Hungarian Democratic Alliance of Romania
+2012,2013,70,Romania,10.37,0.0,0.0,13.992,-20.741,December 2012,People's Party - Dan Dianconescu
+2012,2014,30,Romania,2.338,1.558,0.779,58.63,19.221,December 2012,Social Liberal Union
+2012,2014,60,Romania,0.0,0.0,0.0,16.508,-18.681,December 2012,Right Romania Alliance
+2012,2014,90,Romania,4.104,4.602,2.114,5.1370000000000005,-9.701,December 2012,Hungarian Democratic Alliance of Romania
+2012,2014,70,Romania,10.37,0.0,0.0,13.992,-20.741,December 2012,People's Party - Dan Dianconescu
+2012,2015,30,Romania,2.338,1.558,0.779,58.63,19.221,December 2012,Social Liberal Union
+2012,2015,60,Romania,0.0,0.0,0.0,16.508,-18.681,December 2012,Right Romania Alliance
+2012,2015,90,Romania,4.104,4.602,2.114,5.1370000000000005,-9.701,December 2012,Hungarian Democratic Alliance of Romania
+2012,2015,70,Romania,10.37,0.0,0.0,13.992,-20.741,December 2012,People's Party - Dan Dianconescu
+2016,2016,20,Romania,3.024,3.247,0.224,45.476000000000006,-17.805,December 2016,Social Democratic Party
+2016,2016,40,Romania,0.0,0.0,0.0,5.625,26.667,December 2016,Alliance of Liberals and Democrats
+2016,2016,40,Romania,5.8820000000000014,5.392,0.0,20.041,1.471,December 2016,National Liberal Party
+2016,2016,40,Romania,4.364,4.934,0.19,8.871,-25.047,December 2016,Save Romania Union
+2016,2016,50,Romania,7.035,0.503,1.256,5.348,-1.005,December 2016,People's Movement Party
+2016,2016,90,Romania,0.0,0.0,0.0,6.186,-15.278,December 2016,Hungarian Democratic Alliance of Romania
+2016,2017,20,Romania,3.024,3.247,0.224,45.476000000000006,-17.805,December 2016,Social Democratic Party
+2016,2017,40,Romania,0.0,0.0,0.0,5.625,26.667,December 2016,Alliance of Liberals and Democrats
+2016,2017,40,Romania,5.8820000000000014,5.392,0.0,20.041,1.471,December 2016,National Liberal Party
+2016,2017,40,Romania,4.364,4.934,0.19,8.871,-25.047,December 2016,Save Romania Union
+2016,2017,50,Romania,7.035,0.503,1.256,5.348,-1.005,December 2016,People's Movement Party
+2016,2017,90,Romania,0.0,0.0,0.0,6.186,-15.278,December 2016,Hungarian Democratic Alliance of Romania
+2016,2018,20,Romania,3.024,3.247,0.224,45.476000000000006,-17.805,December 2016,Social Democratic Party
+2016,2018,40,Romania,0.0,0.0,0.0,5.625,26.667,December 2016,Alliance of Liberals and Democrats
+2016,2018,40,Romania,5.8820000000000014,5.392,0.0,20.041,1.471,December 2016,National Liberal Party
+2016,2018,40,Romania,4.364,4.934,0.19,8.871,-25.047,December 2016,Save Romania Union
+2016,2018,50,Romania,7.035,0.503,1.256,5.348,-1.005,December 2016,People's Movement Party
+2016,2018,90,Romania,0.0,0.0,0.0,6.186,-15.278,December 2016,Hungarian Democratic Alliance of Romania
+2016,2019,20,Romania,3.024,3.247,0.224,45.476000000000006,-17.805,December 2016,Social Democratic Party
+2016,2019,40,Romania,0.0,0.0,0.0,5.625,26.667,December 2016,Alliance of Liberals and Democrats
+2016,2019,40,Romania,5.8820000000000014,5.392,0.0,20.041,1.471,December 2016,National Liberal Party
+2016,2019,40,Romania,4.364,4.934,0.19,8.871,-25.047,December 2016,Save Romania Union
+2016,2019,50,Romania,7.035,0.503,1.256,5.348,-1.005,December 2016,People's Movement Party
+2016,2019,90,Romania,0.0,0.0,0.0,6.186,-15.278,December 2016,Hungarian Democratic Alliance of Romania
+2016,2020,20,Romania,3.024,3.247,0.224,45.476000000000006,-17.805,December 2016,Social Democratic Party
+2016,2020,40,Romania,0.0,0.0,0.0,5.625,26.667,December 2016,Alliance of Liberals and Democrats
+2016,2020,40,Romania,5.8820000000000014,5.392,0.0,20.041,1.471,December 2016,National Liberal Party
+2016,2020,40,Romania,4.364,4.934,0.19,8.871,-25.047,December 2016,Save Romania Union
+2016,2020,50,Romania,7.035,0.503,1.256,5.348,-1.005,December 2016,People's Movement Party
+2016,2020,90,Romania,0.0,0.0,0.0,6.186,-15.278,December 2016,Hungarian Democratic Alliance of Romania

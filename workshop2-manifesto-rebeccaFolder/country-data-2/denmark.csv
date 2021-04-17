@@ -1,0 +1,685 @@
+year,yearObject,parfam,countryname,environ,culture,equality,pervote,rile,electionDate,partyname
+1945,1945,20,Denmark,0.0,0.0,8.6,12.455,-21.2,October 1945,Danish Communist Party
+1945,1945,30,Denmark,0.0,2.1,10.4,32.782,-23.0,October 1945,Social Democratic Party
+1945,1945,40,Denmark,0.0,0.0,7.8,8.152999999999999,-15.7,October 1945,Danish Social-Liberal Party
+1945,1945,40,Denmark,0.0,0.0,1.6,23.383000000000006,16.4,October 1945,Liberals
+1945,1945,60,Denmark,0.0,0.0,0.8,18.236,-0.2,October 1945,Conservative People’s Party
+1945,1945,95,Denmark,0.0,0.0,3.4,1.877,6.8,October 1945,Justice Party
+1945,1945,95,Denmark,0.0,0.0,2.206,3.111,-13.970999999999998,October 1945,Danish Union
+1945,1946,20,Denmark,0.0,0.0,8.6,12.455,-21.2,October 1945,Danish Communist Party
+1945,1946,30,Denmark,0.0,2.1,10.4,32.782,-23.0,October 1945,Social Democratic Party
+1945,1946,40,Denmark,0.0,0.0,7.8,8.152999999999999,-15.7,October 1945,Danish Social-Liberal Party
+1945,1946,40,Denmark,0.0,0.0,1.6,23.383000000000006,16.4,October 1945,Liberals
+1945,1946,60,Denmark,0.0,0.0,0.8,18.236,-0.2,October 1945,Conservative People’s Party
+1945,1946,95,Denmark,0.0,0.0,3.4,1.877,6.8,October 1945,Justice Party
+1945,1946,95,Denmark,0.0,0.0,2.206,3.111,-13.970999999999998,October 1945,Danish Union
+1947,1947,20,Denmark,0.0,0.0,12.3,6.77,-10.6,October 1947,Danish Communist Party
+1947,1947,30,Denmark,0.0,0.0,6.5,40.021,-10.8,October 1947,Social Democratic Party
+1947,1947,40,Denmark,0.0,0.0,7.7,6.919,-2.5,October 1947,Danish Social-Liberal Party
+1947,1947,40,Denmark,0.0,0.0,1.6,27.584,3.3,October 1947,Liberals
+1947,1947,60,Denmark,0.0,0.0,3.8,12.443,19.3,October 1947,Conservative People’s Party
+1947,1947,95,Denmark,0.0,0.0,0.8,4.538,25.5,October 1947,Justice Party
+1947,1948,20,Denmark,0.0,0.0,12.3,6.77,-10.6,October 1947,Danish Communist Party
+1947,1948,30,Denmark,0.0,0.0,6.5,40.021,-10.8,October 1947,Social Democratic Party
+1947,1948,40,Denmark,0.0,0.0,7.7,6.919,-2.5,October 1947,Danish Social-Liberal Party
+1947,1948,40,Denmark,0.0,0.0,1.6,27.584,3.3,October 1947,Liberals
+1947,1948,60,Denmark,0.0,0.0,3.8,12.443,19.3,October 1947,Conservative People’s Party
+1947,1948,95,Denmark,0.0,0.0,0.8,4.538,25.5,October 1947,Justice Party
+1947,1949,20,Denmark,0.0,0.0,12.3,6.77,-10.6,October 1947,Danish Communist Party
+1947,1949,30,Denmark,0.0,0.0,6.5,40.021,-10.8,October 1947,Social Democratic Party
+1947,1949,40,Denmark,0.0,0.0,7.7,6.919,-2.5,October 1947,Danish Social-Liberal Party
+1947,1949,40,Denmark,0.0,0.0,1.6,27.584,3.3,October 1947,Liberals
+1947,1949,60,Denmark,0.0,0.0,3.8,12.443,19.3,October 1947,Conservative People’s Party
+1947,1949,95,Denmark,0.0,0.0,0.8,4.538,25.5,October 1947,Justice Party
+1950,1950,20,Denmark,0.0,0.0,3.6,4.601,-26.9,September 1950,Danish Communist Party
+1950,1950,30,Denmark,0.0,0.0,7.7,39.586,-9.2,September 1950,Social Democratic Party
+1950,1950,40,Denmark,0.0,0.0,0.0,8.176,0.0,September 1950,Danish Social-Liberal Party
+1950,1950,40,Denmark,0.0,0.0,2.5,21.33,20.0,September 1950,Liberals
+1950,1950,60,Denmark,0.0,0.0,4.8,17.779,38.2,September 1950,Conservative People’s Party
+1950,1950,95,Denmark,0.0,0.0,1.9,8.216000000000001,10.9,September 1950,Justice Party
+1950,1951,20,Denmark,0.0,0.0,3.6,4.601,-26.9,September 1950,Danish Communist Party
+1950,1951,30,Denmark,0.0,0.0,7.7,39.586,-9.2,September 1950,Social Democratic Party
+1950,1951,40,Denmark,0.0,0.0,0.0,8.176,0.0,September 1950,Danish Social-Liberal Party
+1950,1951,40,Denmark,0.0,0.0,2.5,21.33,20.0,September 1950,Liberals
+1950,1951,60,Denmark,0.0,0.0,4.8,17.779,38.2,September 1950,Conservative People’s Party
+1950,1951,95,Denmark,0.0,0.0,1.9,8.216000000000001,10.9,September 1950,Justice Party
+1950,1952,20,Denmark,0.0,0.0,3.6,4.601,-26.9,September 1950,Danish Communist Party
+1950,1952,30,Denmark,0.0,0.0,7.7,39.586,-9.2,September 1950,Social Democratic Party
+1950,1952,40,Denmark,0.0,0.0,0.0,8.176,0.0,September 1950,Danish Social-Liberal Party
+1950,1952,40,Denmark,0.0,0.0,2.5,21.33,20.0,September 1950,Liberals
+1950,1952,60,Denmark,0.0,0.0,4.8,17.779,38.2,September 1950,Conservative People’s Party
+1950,1952,95,Denmark,0.0,0.0,1.9,8.216000000000001,10.9,September 1950,Justice Party
+1953,1953,20,Denmark,0.0,0.0,5.3,4.7780000000000005,-15.8,April 1953,Danish Communist Party
+1953,1953,30,Denmark,0.0,0.0,8.6,40.393,-7.3,April 1953,Social Democratic Party
+1953,1953,40,Denmark,0.0,0.0,0.0,8.641,-5.100000000000001,April 1953,Danish Social-Liberal Party
+1953,1953,40,Denmark,0.0,0.0,2.9,22.063,5.8,April 1953,Liberals
+1953,1953,60,Denmark,0.0,0.0,0.9,17.312,5.4,April 1953,Conservative People’s Party
+1953,1953,95,Denmark,0.0,0.0,1.8,5.615,19.7,April 1953,Justice Party
+1953,1953,20,Denmark,0.0,0.0,0.0,4.331,-15.254,September 1953,Danish Communist Party
+1953,1953,30,Denmark,0.0,1.0,6.8,41.309,-6.8,September 1953,Social Democratic Party
+1953,1953,40,Denmark,0.0,0.0,9.9,7.815,-5.5,September 1953,Danish Social-Liberal Party
+1953,1953,40,Denmark,0.0,0.0,2.1,23.064,14.9,September 1953,Liberals
+1953,1953,40,Denmark,0.0,0.0,0.0,2.704,41.667,September 1953,Independents’ Party
+1953,1953,60,Denmark,0.0,1.5,4.600000000000001,16.846,16.7,September 1953,Conservative People’s Party
+1953,1953,95,Denmark,0.0,0.0,3.6,3.483,23.2,September 1953,Justice Party
+1953,1954,20,Denmark,0.0,0.0,5.3,4.7780000000000005,-15.8,April 1953,Danish Communist Party
+1953,1954,30,Denmark,0.0,0.0,8.6,40.393,-7.3,April 1953,Social Democratic Party
+1953,1954,40,Denmark,0.0,0.0,0.0,8.641,-5.100000000000001,April 1953,Danish Social-Liberal Party
+1953,1954,40,Denmark,0.0,0.0,2.9,22.063,5.8,April 1953,Liberals
+1953,1954,60,Denmark,0.0,0.0,0.9,17.312,5.4,April 1953,Conservative People’s Party
+1953,1954,95,Denmark,0.0,0.0,1.8,5.615,19.7,April 1953,Justice Party
+1953,1954,20,Denmark,0.0,0.0,0.0,4.331,-15.254,September 1953,Danish Communist Party
+1953,1954,30,Denmark,0.0,1.0,6.8,41.309,-6.8,September 1953,Social Democratic Party
+1953,1954,40,Denmark,0.0,0.0,9.9,7.815,-5.5,September 1953,Danish Social-Liberal Party
+1953,1954,40,Denmark,0.0,0.0,2.1,23.064,14.9,September 1953,Liberals
+1953,1954,40,Denmark,0.0,0.0,0.0,2.704,41.667,September 1953,Independents’ Party
+1953,1954,60,Denmark,0.0,1.5,4.600000000000001,16.846,16.7,September 1953,Conservative People’s Party
+1953,1954,95,Denmark,0.0,0.0,3.6,3.483,23.2,September 1953,Justice Party
+1953,1955,20,Denmark,0.0,0.0,5.3,4.7780000000000005,-15.8,April 1953,Danish Communist Party
+1953,1955,30,Denmark,0.0,0.0,8.6,40.393,-7.3,April 1953,Social Democratic Party
+1953,1955,40,Denmark,0.0,0.0,0.0,8.641,-5.100000000000001,April 1953,Danish Social-Liberal Party
+1953,1955,40,Denmark,0.0,0.0,2.9,22.063,5.8,April 1953,Liberals
+1953,1955,60,Denmark,0.0,0.0,0.9,17.312,5.4,April 1953,Conservative People’s Party
+1953,1955,95,Denmark,0.0,0.0,1.8,5.615,19.7,April 1953,Justice Party
+1953,1955,20,Denmark,0.0,0.0,0.0,4.331,-15.254,September 1953,Danish Communist Party
+1953,1955,30,Denmark,0.0,1.0,6.8,41.309,-6.8,September 1953,Social Democratic Party
+1953,1955,40,Denmark,0.0,0.0,9.9,7.815,-5.5,September 1953,Danish Social-Liberal Party
+1953,1955,40,Denmark,0.0,0.0,2.1,23.064,14.9,September 1953,Liberals
+1953,1955,40,Denmark,0.0,0.0,0.0,2.704,41.667,September 1953,Independents’ Party
+1953,1955,60,Denmark,0.0,1.5,4.600000000000001,16.846,16.7,September 1953,Conservative People’s Party
+1953,1955,95,Denmark,0.0,0.0,3.6,3.483,23.2,September 1953,Justice Party
+1953,1956,20,Denmark,0.0,0.0,5.3,4.7780000000000005,-15.8,April 1953,Danish Communist Party
+1953,1956,30,Denmark,0.0,0.0,8.6,40.393,-7.3,April 1953,Social Democratic Party
+1953,1956,40,Denmark,0.0,0.0,0.0,8.641,-5.100000000000001,April 1953,Danish Social-Liberal Party
+1953,1956,40,Denmark,0.0,0.0,2.9,22.063,5.8,April 1953,Liberals
+1953,1956,60,Denmark,0.0,0.0,0.9,17.312,5.4,April 1953,Conservative People’s Party
+1953,1956,95,Denmark,0.0,0.0,1.8,5.615,19.7,April 1953,Justice Party
+1953,1956,20,Denmark,0.0,0.0,0.0,4.331,-15.254,September 1953,Danish Communist Party
+1953,1956,30,Denmark,0.0,1.0,6.8,41.309,-6.8,September 1953,Social Democratic Party
+1953,1956,40,Denmark,0.0,0.0,9.9,7.815,-5.5,September 1953,Danish Social-Liberal Party
+1953,1956,40,Denmark,0.0,0.0,2.1,23.064,14.9,September 1953,Liberals
+1953,1956,40,Denmark,0.0,0.0,0.0,2.704,41.667,September 1953,Independents’ Party
+1953,1956,60,Denmark,0.0,1.5,4.600000000000001,16.846,16.7,September 1953,Conservative People’s Party
+1953,1956,95,Denmark,0.0,0.0,3.6,3.483,23.2,September 1953,Justice Party
+1957,1957,20,Denmark,0.0,1.0,6.7,3.13,-41.8,May 1957,Danish Communist Party
+1957,1957,30,Denmark,0.0,0.0,11.4,39.398,-28.5,May 1957,Social Democratic Party
+1957,1957,40,Denmark,0.0,0.0,0.0,7.784,0.1,May 1957,Danish Social-Liberal Party
+1957,1957,40,Denmark,0.0,0.0,1.5,25.06,32.3,May 1957,Liberals
+1957,1957,40,Denmark,0.0,0.0,2.837,2.297,9.22,May 1957,Independents’ Party
+1957,1957,60,Denmark,0.0,0.0,0.0,16.615,39.0,May 1957,Conservative People’s Party
+1957,1957,95,Denmark,0.0,0.0,0.0,5.314,15.9,May 1957,Justice Party
+1957,1958,20,Denmark,0.0,1.0,6.7,3.13,-41.8,May 1957,Danish Communist Party
+1957,1958,30,Denmark,0.0,0.0,11.4,39.398,-28.5,May 1957,Social Democratic Party
+1957,1958,40,Denmark,0.0,0.0,0.0,7.784,0.1,May 1957,Danish Social-Liberal Party
+1957,1958,40,Denmark,0.0,0.0,1.5,25.06,32.3,May 1957,Liberals
+1957,1958,40,Denmark,0.0,0.0,2.837,2.297,9.22,May 1957,Independents’ Party
+1957,1958,60,Denmark,0.0,0.0,0.0,16.615,39.0,May 1957,Conservative People’s Party
+1957,1958,95,Denmark,0.0,0.0,0.0,5.314,15.9,May 1957,Justice Party
+1957,1959,20,Denmark,0.0,1.0,6.7,3.13,-41.8,May 1957,Danish Communist Party
+1957,1959,30,Denmark,0.0,0.0,11.4,39.398,-28.5,May 1957,Social Democratic Party
+1957,1959,40,Denmark,0.0,0.0,0.0,7.784,0.1,May 1957,Danish Social-Liberal Party
+1957,1959,40,Denmark,0.0,0.0,1.5,25.06,32.3,May 1957,Liberals
+1957,1959,40,Denmark,0.0,0.0,2.837,2.297,9.22,May 1957,Independents’ Party
+1957,1959,60,Denmark,0.0,0.0,0.0,16.615,39.0,May 1957,Conservative People’s Party
+1957,1959,95,Denmark,0.0,0.0,0.0,5.314,15.9,May 1957,Justice Party
+1960,1960,20,Denmark,0.0,0.8,9.8,1.122,-43.2,November 1960,Danish Communist Party
+1960,1960,20,Denmark,0.0,0.0,4.0,6.145,-68.1,November 1960,Socialist People’s Party
+1960,1960,30,Denmark,1.3,5.2,9.7,42.098,-31.8,November 1960,Social Democratic Party
+1960,1960,40,Denmark,0.0,1.5,3.0,5.7970000000000015,-12.0,November 1960,Danish Social-Liberal Party
+1960,1960,40,Denmark,0.0,0.0,3.5,21.055,22.9,November 1960,Liberals
+1960,1960,40,Denmark,0.0,0.0,11.905,3.3360000000000003,53.57100000000001,November 1960,Independents’ Party
+1960,1960,60,Denmark,0.0,0.0,5.5,17.918,59.3,November 1960,Conservative People’s Party
+1960,1960,95,Denmark,0.0,0.0,14.6,2.152,-6.3,November 1960,Justice Party
+1960,1961,20,Denmark,0.0,0.8,9.8,1.122,-43.2,November 1960,Danish Communist Party
+1960,1961,20,Denmark,0.0,0.0,4.0,6.145,-68.1,November 1960,Socialist People’s Party
+1960,1961,30,Denmark,1.3,5.2,9.7,42.098,-31.8,November 1960,Social Democratic Party
+1960,1961,40,Denmark,0.0,1.5,3.0,5.7970000000000015,-12.0,November 1960,Danish Social-Liberal Party
+1960,1961,40,Denmark,0.0,0.0,3.5,21.055,22.9,November 1960,Liberals
+1960,1961,40,Denmark,0.0,0.0,11.905,3.3360000000000003,53.57100000000001,November 1960,Independents’ Party
+1960,1961,60,Denmark,0.0,0.0,5.5,17.918,59.3,November 1960,Conservative People’s Party
+1960,1961,95,Denmark,0.0,0.0,14.6,2.152,-6.3,November 1960,Justice Party
+1960,1962,20,Denmark,0.0,0.8,9.8,1.122,-43.2,November 1960,Danish Communist Party
+1960,1962,20,Denmark,0.0,0.0,4.0,6.145,-68.1,November 1960,Socialist People’s Party
+1960,1962,30,Denmark,1.3,5.2,9.7,42.098,-31.8,November 1960,Social Democratic Party
+1960,1962,40,Denmark,0.0,1.5,3.0,5.7970000000000015,-12.0,November 1960,Danish Social-Liberal Party
+1960,1962,40,Denmark,0.0,0.0,3.5,21.055,22.9,November 1960,Liberals
+1960,1962,40,Denmark,0.0,0.0,11.905,3.3360000000000003,53.57100000000001,November 1960,Independents’ Party
+1960,1962,60,Denmark,0.0,0.0,5.5,17.918,59.3,November 1960,Conservative People’s Party
+1960,1962,95,Denmark,0.0,0.0,14.6,2.152,-6.3,November 1960,Justice Party
+1960,1963,20,Denmark,0.0,0.8,9.8,1.122,-43.2,November 1960,Danish Communist Party
+1960,1963,20,Denmark,0.0,0.0,4.0,6.145,-68.1,November 1960,Socialist People’s Party
+1960,1963,30,Denmark,1.3,5.2,9.7,42.098,-31.8,November 1960,Social Democratic Party
+1960,1963,40,Denmark,0.0,1.5,3.0,5.7970000000000015,-12.0,November 1960,Danish Social-Liberal Party
+1960,1963,40,Denmark,0.0,0.0,3.5,21.055,22.9,November 1960,Liberals
+1960,1963,40,Denmark,0.0,0.0,11.905,3.3360000000000003,53.57100000000001,November 1960,Independents’ Party
+1960,1963,60,Denmark,0.0,0.0,5.5,17.918,59.3,November 1960,Conservative People’s Party
+1960,1963,95,Denmark,0.0,0.0,14.6,2.152,-6.3,November 1960,Justice Party
+1964,1964,20,Denmark,0.0,1.3,2.6,1.231,-24.9,September 1964,Danish Communist Party
+1964,1964,20,Denmark,0.0,0.0,7.0,5.765,-30.1,September 1964,Socialist People’s Party
+1964,1964,30,Denmark,0.0,5.4,4.3,41.942,-19.7,September 1964,Social Democratic Party
+1964,1964,40,Denmark,0.0,1.1,5.5,5.309,-13.2,September 1964,Danish Social-Liberal Party
+1964,1964,40,Denmark,0.0,0.0,4.4,20.817,6.7,September 1964,Liberals
+1964,1964,40,Denmark,0.0,1.5630000000000002,4.688,2.499,37.5,September 1964,Independents’ Party
+1964,1964,60,Denmark,1.2,0.0,3.7,20.058,18.4,September 1964,Conservative People’s Party
+1964,1964,95,Denmark,0.0,0.0,3.8,1.3019999999999998,15.3,September 1964,Justice Party
+1964,1965,20,Denmark,0.0,1.3,2.6,1.231,-24.9,September 1964,Danish Communist Party
+1964,1965,20,Denmark,0.0,0.0,7.0,5.765,-30.1,September 1964,Socialist People’s Party
+1964,1965,30,Denmark,0.0,5.4,4.3,41.942,-19.7,September 1964,Social Democratic Party
+1964,1965,40,Denmark,0.0,1.1,5.5,5.309,-13.2,September 1964,Danish Social-Liberal Party
+1964,1965,40,Denmark,0.0,0.0,4.4,20.817,6.7,September 1964,Liberals
+1964,1965,40,Denmark,0.0,1.5630000000000002,4.688,2.499,37.5,September 1964,Independents’ Party
+1964,1965,60,Denmark,1.2,0.0,3.7,20.058,18.4,September 1964,Conservative People’s Party
+1964,1965,95,Denmark,0.0,0.0,3.8,1.3019999999999998,15.3,September 1964,Justice Party
+1966,1966,20,Denmark,0.0,0.0,3.1,0.7709999999999999,-43.7,November 1966,Danish Communist Party
+1966,1966,20,Denmark,0.0,0.0,9.7,10.896,-25.2,November 1966,Socialist People’s Party
+1966,1966,30,Denmark,0.0,0.7000000000000001,6.600000000000001,38.257,-4.0,November 1966,Social Democratic Party
+1966,1966,40,Denmark,0.0,0.0,5.8,7.296,-15.4,November 1966,Danish Social-Liberal Party
+1966,1966,40,Denmark,0.0,0.0,7.3,19.292,12.7,November 1966,Liberals
+1966,1966,40,Denmark,0.0,0.901,0.0,1.61,23.423,November 1966,Independents’ Party
+1966,1966,40,Denmark,0.541,3.784,3.784,2.476,-1.081,November 1966,Liberal Centre
+1966,1966,60,Denmark,0.0,0.0,0.0,18.684,35.7,November 1966,Conservative People’s Party
+1966,1966,95,Denmark,2.857,1.429,7.143,0.7120000000000001,10.0,November 1966,Justice Party
+1966,1967,20,Denmark,0.0,0.0,3.1,0.7709999999999999,-43.7,November 1966,Danish Communist Party
+1966,1967,20,Denmark,0.0,0.0,9.7,10.896,-25.2,November 1966,Socialist People’s Party
+1966,1967,30,Denmark,0.0,0.7000000000000001,6.600000000000001,38.257,-4.0,November 1966,Social Democratic Party
+1966,1967,40,Denmark,0.0,0.0,5.8,7.296,-15.4,November 1966,Danish Social-Liberal Party
+1966,1967,40,Denmark,0.0,0.0,7.3,19.292,12.7,November 1966,Liberals
+1966,1967,40,Denmark,0.0,0.901,0.0,1.61,23.423,November 1966,Independents’ Party
+1966,1967,40,Denmark,0.541,3.784,3.784,2.476,-1.081,November 1966,Liberal Centre
+1966,1967,60,Denmark,0.0,0.0,0.0,18.684,35.7,November 1966,Conservative People’s Party
+1966,1967,95,Denmark,2.857,1.429,7.143,0.7120000000000001,10.0,November 1966,Justice Party
+1968,1968,20,Denmark,1.2,2.3,16.1,2.003,-44.8,January 1968,Left Socialist Party
+1968,1968,20,Denmark,0.0,0.0,0.0,1.041,-50.0,January 1968,Danish Communist Party
+1968,1968,20,Denmark,0.5,0.0,4.600000000000001,6.115,-30.7,January 1968,Socialist People’s Party
+1968,1968,30,Denmark,0.0,0.0,1.6,34.149,-11.5,January 1968,Social Democratic Party
+1968,1968,40,Denmark,1.6,0.0,4.8,14.969,-12.8,January 1968,Danish Social-Liberal Party
+1968,1968,40,Denmark,0.0,0.0,4.7,18.572,8.700000000000001,January 1968,Liberals
+1968,1968,40,Denmark,0.0,1.3159999999999998,1.3159999999999998,0.503,34.211,January 1968,Independents’ Party
+1968,1968,40,Denmark,0.0,0.0,2.326,1.31,8.14,January 1968,Liberal Centre
+1968,1968,60,Denmark,1.1,0.0,4.3,20.355,15.0,January 1968,Conservative People’s Party
+1968,1968,95,Denmark,0.0,0.0,1.3,0.74,9.1,January 1968,Justice Party
+1968,1969,20,Denmark,1.2,2.3,16.1,2.003,-44.8,January 1968,Left Socialist Party
+1968,1969,20,Denmark,0.0,0.0,0.0,1.041,-50.0,January 1968,Danish Communist Party
+1968,1969,20,Denmark,0.5,0.0,4.600000000000001,6.115,-30.7,January 1968,Socialist People’s Party
+1968,1969,30,Denmark,0.0,0.0,1.6,34.149,-11.5,January 1968,Social Democratic Party
+1968,1969,40,Denmark,1.6,0.0,4.8,14.969,-12.8,January 1968,Danish Social-Liberal Party
+1968,1969,40,Denmark,0.0,0.0,4.7,18.572,8.700000000000001,January 1968,Liberals
+1968,1969,40,Denmark,0.0,1.3159999999999998,1.3159999999999998,0.503,34.211,January 1968,Independents’ Party
+1968,1969,40,Denmark,0.0,0.0,2.326,1.31,8.14,January 1968,Liberal Centre
+1968,1969,60,Denmark,1.1,0.0,4.3,20.355,15.0,January 1968,Conservative People’s Party
+1968,1969,95,Denmark,0.0,0.0,1.3,0.74,9.1,January 1968,Justice Party
+1968,1970,20,Denmark,1.2,2.3,16.1,2.003,-44.8,January 1968,Left Socialist Party
+1968,1970,20,Denmark,0.0,0.0,0.0,1.041,-50.0,January 1968,Danish Communist Party
+1968,1970,20,Denmark,0.5,0.0,4.600000000000001,6.115,-30.7,January 1968,Socialist People’s Party
+1968,1970,30,Denmark,0.0,0.0,1.6,34.149,-11.5,January 1968,Social Democratic Party
+1968,1970,40,Denmark,1.6,0.0,4.8,14.969,-12.8,January 1968,Danish Social-Liberal Party
+1968,1970,40,Denmark,0.0,0.0,4.7,18.572,8.700000000000001,January 1968,Liberals
+1968,1970,40,Denmark,0.0,1.3159999999999998,1.3159999999999998,0.503,34.211,January 1968,Independents’ Party
+1968,1970,40,Denmark,0.0,0.0,2.326,1.31,8.14,January 1968,Liberal Centre
+1968,1970,60,Denmark,1.1,0.0,4.3,20.355,15.0,January 1968,Conservative People’s Party
+1968,1970,95,Denmark,0.0,0.0,1.3,0.74,9.1,January 1968,Justice Party
+1971,1971,20,Denmark,0.0,0.0,0.0,1.594,-12.1,September 1971,Left Socialist Party
+1971,1971,20,Denmark,0.0,0.0,13.2,1.372,-31.7,September 1971,Danish Communist Party
+1971,1971,20,Denmark,3.2,0.0,11.4,9.111,-28.3,September 1971,Socialist People’s Party
+1971,1971,30,Denmark,0.0,0.0,19.0,37.268,-35.7,September 1971,Social Democratic Party
+1971,1971,40,Denmark,0.0,0.0,2.7,14.342,2.7,September 1971,Danish Social-Liberal Party
+1971,1971,40,Denmark,5.600000000000001,0.0,1.4,15.635,7.0,September 1971,Liberals
+1971,1971,50,Denmark,0.0,0.0,2.0,1.979,21.7,September 1971,Christian People’s Party
+1971,1971,60,Denmark,4.8,2.9,0.0,16.69,39.1,September 1971,Conservative People’s Party
+1971,1971,95,Denmark,0.0,0.0,6.7,1.742,26.6,September 1971,Justice Party
+1971,1972,20,Denmark,0.0,0.0,0.0,1.594,-12.1,September 1971,Left Socialist Party
+1971,1972,20,Denmark,0.0,0.0,13.2,1.372,-31.7,September 1971,Danish Communist Party
+1971,1972,20,Denmark,3.2,0.0,11.4,9.111,-28.3,September 1971,Socialist People’s Party
+1971,1972,30,Denmark,0.0,0.0,19.0,37.268,-35.7,September 1971,Social Democratic Party
+1971,1972,40,Denmark,0.0,0.0,2.7,14.342,2.7,September 1971,Danish Social-Liberal Party
+1971,1972,40,Denmark,5.600000000000001,0.0,1.4,15.635,7.0,September 1971,Liberals
+1971,1972,50,Denmark,0.0,0.0,2.0,1.979,21.7,September 1971,Christian People’s Party
+1971,1972,60,Denmark,4.8,2.9,0.0,16.69,39.1,September 1971,Conservative People’s Party
+1971,1972,95,Denmark,0.0,0.0,6.7,1.742,26.6,September 1971,Justice Party
+1973,1973,20,Denmark,0.9,0.0,0.9,1.469,-7.0,December 1973,Left Socialist Party
+1973,1973,20,Denmark,2.3,0.0,2.3,3.626,-30.2,December 1973,Danish Communist Party
+1973,1973,20,Denmark,1.2,0.0,11.5,6.011,-18.4,December 1973,Socialist People’s Party
+1973,1973,30,Denmark,1.5,0.0,19.7,25.65,1.5,December 1973,Social Democratic Party
+1973,1973,60,Denmark,1.6,1.1,4.3,7.2,12.1,December 1973,Centre Democrats
+1973,1973,40,Denmark,4.0,0.0,8.0,11.238,-12.0,December 1973,Danish Social-Liberal Party
+1973,1973,40,Denmark,0.0,1.5,1.5,12.259,37.9,December 1973,Liberals
+1973,1973,50,Denmark,0.0,0.0,7.3,4.047,39.1,December 1973,Christian People’s Party
+1973,1973,60,Denmark,0.0,0.0,9.7,9.151,38.7,December 1973,Conservative People’s Party
+1973,1973,70,Denmark,8.6,0.0,2.5,15.894,12.2,December 1973,Progress Party
+1973,1973,95,Denmark,0.0,0.0,5.2,2.879,10.4,December 1973,Justice Party
+1973,1974,20,Denmark,0.9,0.0,0.9,1.469,-7.0,December 1973,Left Socialist Party
+1973,1974,20,Denmark,2.3,0.0,2.3,3.626,-30.2,December 1973,Danish Communist Party
+1973,1974,20,Denmark,1.2,0.0,11.5,6.011,-18.4,December 1973,Socialist People’s Party
+1973,1974,30,Denmark,1.5,0.0,19.7,25.65,1.5,December 1973,Social Democratic Party
+1973,1974,60,Denmark,1.6,1.1,4.3,7.2,12.1,December 1973,Centre Democrats
+1973,1974,40,Denmark,4.0,0.0,8.0,11.238,-12.0,December 1973,Danish Social-Liberal Party
+1973,1974,40,Denmark,0.0,1.5,1.5,12.259,37.9,December 1973,Liberals
+1973,1974,50,Denmark,0.0,0.0,7.3,4.047,39.1,December 1973,Christian People’s Party
+1973,1974,60,Denmark,0.0,0.0,9.7,9.151,38.7,December 1973,Conservative People’s Party
+1973,1974,70,Denmark,8.6,0.0,2.5,15.894,12.2,December 1973,Progress Party
+1973,1974,95,Denmark,0.0,0.0,5.2,2.879,10.4,December 1973,Justice Party
+1975,1975,20,Denmark,1.7,0.0,6.8,2.085,-17.0,January 1975,Left Socialist Party
+1975,1975,20,Denmark,0.0,0.0,7.3,4.192,-30.7,January 1975,Danish Communist Party
+1975,1975,20,Denmark,3.2,0.0,10.8,4.95,-22.5,January 1975,Socialist People’s Party
+1975,1975,30,Denmark,1.7,0.0,14.7,29.945,-9.5,January 1975,Social Democratic Party
+1975,1975,60,Denmark,0.0,2.0,4.0,1.63,14.0,January 1975,Centre Democrats
+1975,1975,40,Denmark,0.0,0.0,0.0,7.101,18.3,January 1975,Danish Social-Liberal Party
+1975,1975,40,Denmark,4.5,0.0,1.5,23.325,11.9,January 1975,Liberals
+1975,1975,50,Denmark,0.0,3.1,0.0,5.336,25.1,January 1975,Christian People’s Party
+1975,1975,60,Denmark,0.0,1.4,0.0,5.515,8.4,January 1975,Conservative People’s Party
+1975,1975,70,Denmark,3.3,1.2,0.8,13.583,25.0,January 1975,Progress Party
+1975,1975,95,Denmark,0.0,0.0,2.4,1.774,-2.4,January 1975,Justice Party
+1975,1976,20,Denmark,1.7,0.0,6.8,2.085,-17.0,January 1975,Left Socialist Party
+1975,1976,20,Denmark,0.0,0.0,7.3,4.192,-30.7,January 1975,Danish Communist Party
+1975,1976,20,Denmark,3.2,0.0,10.8,4.95,-22.5,January 1975,Socialist People’s Party
+1975,1976,30,Denmark,1.7,0.0,14.7,29.945,-9.5,January 1975,Social Democratic Party
+1975,1976,60,Denmark,0.0,2.0,4.0,1.63,14.0,January 1975,Centre Democrats
+1975,1976,40,Denmark,0.0,0.0,0.0,7.101,18.3,January 1975,Danish Social-Liberal Party
+1975,1976,40,Denmark,4.5,0.0,1.5,23.325,11.9,January 1975,Liberals
+1975,1976,50,Denmark,0.0,3.1,0.0,5.336,25.1,January 1975,Christian People’s Party
+1975,1976,60,Denmark,0.0,1.4,0.0,5.515,8.4,January 1975,Conservative People’s Party
+1975,1976,70,Denmark,3.3,1.2,0.8,13.583,25.0,January 1975,Progress Party
+1975,1976,95,Denmark,0.0,0.0,2.4,1.774,-2.4,January 1975,Justice Party
+1977,1977,20,Denmark,1.1,0.0,2.2,2.693,-22.2,February 1977,Left Socialist Party
+1977,1977,20,Denmark,0.0,0.0,5.4,3.671,-23.4,February 1977,Danish Communist Party
+1977,1977,20,Denmark,1.4,0.0,10.3,3.875,-28.3,February 1977,Socialist People’s Party
+1977,1977,30,Denmark,0.0,0.0,10.6,37.033,-12.8,February 1977,Social Democratic Party
+1977,1977,60,Denmark,0.0,2.3,2.3,5.86,29.7,February 1977,Centre Democrats
+1977,1977,40,Denmark,0.0,0.0,10.6,3.648,-12.7,February 1977,Danish Social-Liberal Party
+1977,1977,40,Denmark,1.0,1.0,6.100000000000001,11.967,20.5,February 1977,Liberals
+1977,1977,50,Denmark,0.0,2.6,5.3,3.415,31.5,February 1977,Christian People’s Party
+1977,1977,60,Denmark,0.0,0.0,1.7,8.475,22.1,February 1977,Conservative People’s Party
+1977,1977,70,Denmark,0.0,0.0,2.4,14.609000000000002,8.9,February 1977,Progress Party
+1977,1977,95,Denmark,3.7,0.0,3.7,3.2880000000000003,7.5,February 1977,Justice Party
+1977,1978,20,Denmark,1.1,0.0,2.2,2.693,-22.2,February 1977,Left Socialist Party
+1977,1978,20,Denmark,0.0,0.0,5.4,3.671,-23.4,February 1977,Danish Communist Party
+1977,1978,20,Denmark,1.4,0.0,10.3,3.875,-28.3,February 1977,Socialist People’s Party
+1977,1978,30,Denmark,0.0,0.0,10.6,37.033,-12.8,February 1977,Social Democratic Party
+1977,1978,60,Denmark,0.0,2.3,2.3,5.86,29.7,February 1977,Centre Democrats
+1977,1978,40,Denmark,0.0,0.0,10.6,3.648,-12.7,February 1977,Danish Social-Liberal Party
+1977,1978,40,Denmark,1.0,1.0,6.100000000000001,11.967,20.5,February 1977,Liberals
+1977,1978,50,Denmark,0.0,2.6,5.3,3.415,31.5,February 1977,Christian People’s Party
+1977,1978,60,Denmark,0.0,0.0,1.7,8.475,22.1,February 1977,Conservative People’s Party
+1977,1978,70,Denmark,0.0,0.0,2.4,14.609000000000002,8.9,February 1977,Progress Party
+1977,1978,95,Denmark,3.7,0.0,3.7,3.2880000000000003,7.5,February 1977,Justice Party
+1979,1979,20,Denmark,3.8,0.0,0.0,3.66,-26.9,October 1979,Left Socialist Party
+1979,1979,20,Denmark,0.0,0.0,2.6,1.857,-51.4,October 1979,Danish Communist Party
+1979,1979,20,Denmark,3.3,0.0,17.8,5.9060000000000015,-43.2,October 1979,Socialist People’s Party
+1979,1979,30,Denmark,0.8,0.0,9.1,38.267,-11.4,October 1979,Social Democratic Party
+1979,1979,60,Denmark,0.0,0.0,0.0,3.221,51.0,October 1979,Centre Democrats
+1979,1979,40,Denmark,0.0,0.0,11.4,5.436,-11.5,October 1979,Danish Social-Liberal Party
+1979,1979,40,Denmark,0.0,0.0,8.5,12.503,51.1,October 1979,Liberals
+1979,1979,50,Denmark,1.0,0.0,9.2,2.59,32.6,October 1979,Christian People’s Party
+1979,1979,60,Denmark,0.0,0.0,0.0,12.477,35.9,October 1979,Conservative People’s Party
+1979,1979,70,Denmark,0.0,0.0,5.4,11.014,45.9,October 1979,Progress Party
+1979,1979,95,Denmark,1.3,0.0,14.9,2.625,18.3,October 1979,Justice Party
+1979,1980,20,Denmark,3.8,0.0,0.0,3.66,-26.9,October 1979,Left Socialist Party
+1979,1980,20,Denmark,0.0,0.0,2.6,1.857,-51.4,October 1979,Danish Communist Party
+1979,1980,20,Denmark,3.3,0.0,17.8,5.9060000000000015,-43.2,October 1979,Socialist People’s Party
+1979,1980,30,Denmark,0.8,0.0,9.1,38.267,-11.4,October 1979,Social Democratic Party
+1979,1980,60,Denmark,0.0,0.0,0.0,3.221,51.0,October 1979,Centre Democrats
+1979,1980,40,Denmark,0.0,0.0,11.4,5.436,-11.5,October 1979,Danish Social-Liberal Party
+1979,1980,40,Denmark,0.0,0.0,8.5,12.503,51.1,October 1979,Liberals
+1979,1980,50,Denmark,1.0,0.0,9.2,2.59,32.6,October 1979,Christian People’s Party
+1979,1980,60,Denmark,0.0,0.0,0.0,12.477,35.9,October 1979,Conservative People’s Party
+1979,1980,70,Denmark,0.0,0.0,5.4,11.014,45.9,October 1979,Progress Party
+1979,1980,95,Denmark,1.3,0.0,14.9,2.625,18.3,October 1979,Justice Party
+1981,1981,20,Denmark,0.0,0.0,4.2,2.648,-25.4,December 1981,Left Socialist Party
+1981,1981,20,Denmark,0.0,0.0,0.0,1.109,-37.6,December 1981,Danish Communist Party
+1981,1981,20,Denmark,1.5,3.0,9.1,11.313,-37.3,December 1981,Socialist People’s Party
+1981,1981,30,Denmark,1.9,0.9,6.600000000000001,32.87,-5.7,December 1981,Social Democratic Party
+1981,1981,60,Denmark,0.0,0.0,0.0,8.277000000000001,42.1,December 1981,Centre Democrats
+1981,1981,40,Denmark,3.8,1.7,3.8,5.124,-1.2,December 1981,Danish Social-Liberal Party
+1981,1981,40,Denmark,0.0,1.2,3.7,11.31,23.5,December 1981,Liberals
+1981,1981,50,Denmark,1.5,0.4,3.7,2.311,15.4,December 1981,Christian People’s Party
+1981,1981,60,Denmark,0.0,0.0,0.0,14.454,51.7,December 1981,Conservative People’s Party
+1981,1981,70,Denmark,0.0,0.0,0.0,8.912000000000003,36.6,December 1981,Progress Party
+1981,1981,95,Denmark,0.0,0.0,2.9,1.446,8.700000000000001,December 1981,Justice Party
+1981,1982,20,Denmark,0.0,0.0,4.2,2.648,-25.4,December 1981,Left Socialist Party
+1981,1982,20,Denmark,0.0,0.0,0.0,1.109,-37.6,December 1981,Danish Communist Party
+1981,1982,20,Denmark,1.5,3.0,9.1,11.313,-37.3,December 1981,Socialist People’s Party
+1981,1982,30,Denmark,1.9,0.9,6.600000000000001,32.87,-5.7,December 1981,Social Democratic Party
+1981,1982,60,Denmark,0.0,0.0,0.0,8.277000000000001,42.1,December 1981,Centre Democrats
+1981,1982,40,Denmark,3.8,1.7,3.8,5.124,-1.2,December 1981,Danish Social-Liberal Party
+1981,1982,40,Denmark,0.0,1.2,3.7,11.31,23.5,December 1981,Liberals
+1981,1982,50,Denmark,1.5,0.4,3.7,2.311,15.4,December 1981,Christian People’s Party
+1981,1982,60,Denmark,0.0,0.0,0.0,14.454,51.7,December 1981,Conservative People’s Party
+1981,1982,70,Denmark,0.0,0.0,0.0,8.912000000000003,36.6,December 1981,Progress Party
+1981,1982,95,Denmark,0.0,0.0,2.9,1.446,8.700000000000001,December 1981,Justice Party
+1981,1983,20,Denmark,0.0,0.0,4.2,2.648,-25.4,December 1981,Left Socialist Party
+1981,1983,20,Denmark,0.0,0.0,0.0,1.109,-37.6,December 1981,Danish Communist Party
+1981,1983,20,Denmark,1.5,3.0,9.1,11.313,-37.3,December 1981,Socialist People’s Party
+1981,1983,30,Denmark,1.9,0.9,6.600000000000001,32.87,-5.7,December 1981,Social Democratic Party
+1981,1983,60,Denmark,0.0,0.0,0.0,8.277000000000001,42.1,December 1981,Centre Democrats
+1981,1983,40,Denmark,3.8,1.7,3.8,5.124,-1.2,December 1981,Danish Social-Liberal Party
+1981,1983,40,Denmark,0.0,1.2,3.7,11.31,23.5,December 1981,Liberals
+1981,1983,50,Denmark,1.5,0.4,3.7,2.311,15.4,December 1981,Christian People’s Party
+1981,1983,60,Denmark,0.0,0.0,0.0,14.454,51.7,December 1981,Conservative People’s Party
+1981,1983,70,Denmark,0.0,0.0,0.0,8.912000000000003,36.6,December 1981,Progress Party
+1981,1983,95,Denmark,0.0,0.0,2.9,1.446,8.700000000000001,December 1981,Justice Party
+1984,1984,20,Denmark,4.181,0.348,6.272,2.658,-28.223000000000006,January 1984,Left Socialist Party
+1984,1984,20,Denmark,0.0,0.0,14.953,0.687,-41.121,January 1984,Danish Communist Party
+1984,1984,20,Denmark,6.215,0.0,14.972,11.515,-37.853,January 1984,Socialist People’s Party
+1984,1984,30,Denmark,4.142,2.367,15.976,31.605,-23.669,January 1984,Social Democratic Party
+1984,1984,60,Denmark,0.0,4.908,2.454,4.597,34.969,January 1984,Centre Democrats
+1984,1984,40,Denmark,9.969,4.3610000000000015,7.165,5.492000000000001,-7.7879999999999985,January 1984,Danish Social-Liberal Party
+1984,1984,40,Denmark,0.0,0.0,1.517,12.068,13.657,January 1984,Liberals
+1984,1984,50,Denmark,5.944,2.797,1.399,2.725,11.538,January 1984,Christian People’s Party
+1984,1984,60,Denmark,2.041,0.0,4.082,23.445,34.694,January 1984,Conservative People’s Party
+1984,1984,70,Denmark,0.0,0.0,0.0,3.588,44.69300000000001,January 1984,Progress Party
+1984,1984,95,Denmark,8.333,0.0,2.083,1.499,-6.25,January 1984,Justice Party
+1984,1985,20,Denmark,4.181,0.348,6.272,2.658,-28.223000000000006,January 1984,Left Socialist Party
+1984,1985,20,Denmark,0.0,0.0,14.953,0.687,-41.121,January 1984,Danish Communist Party
+1984,1985,20,Denmark,6.215,0.0,14.972,11.515,-37.853,January 1984,Socialist People’s Party
+1984,1985,30,Denmark,4.142,2.367,15.976,31.605,-23.669,January 1984,Social Democratic Party
+1984,1985,60,Denmark,0.0,4.908,2.454,4.597,34.969,January 1984,Centre Democrats
+1984,1985,40,Denmark,9.969,4.3610000000000015,7.165,5.492000000000001,-7.7879999999999985,January 1984,Danish Social-Liberal Party
+1984,1985,40,Denmark,0.0,0.0,1.517,12.068,13.657,January 1984,Liberals
+1984,1985,50,Denmark,5.944,2.797,1.399,2.725,11.538,January 1984,Christian People’s Party
+1984,1985,60,Denmark,2.041,0.0,4.082,23.445,34.694,January 1984,Conservative People’s Party
+1984,1985,70,Denmark,0.0,0.0,0.0,3.588,44.69300000000001,January 1984,Progress Party
+1984,1985,95,Denmark,8.333,0.0,2.083,1.499,-6.25,January 1984,Justice Party
+1984,1986,20,Denmark,4.181,0.348,6.272,2.658,-28.223000000000006,January 1984,Left Socialist Party
+1984,1986,20,Denmark,0.0,0.0,14.953,0.687,-41.121,January 1984,Danish Communist Party
+1984,1986,20,Denmark,6.215,0.0,14.972,11.515,-37.853,January 1984,Socialist People’s Party
+1984,1986,30,Denmark,4.142,2.367,15.976,31.605,-23.669,January 1984,Social Democratic Party
+1984,1986,60,Denmark,0.0,4.908,2.454,4.597,34.969,January 1984,Centre Democrats
+1984,1986,40,Denmark,9.969,4.3610000000000015,7.165,5.492000000000001,-7.7879999999999985,January 1984,Danish Social-Liberal Party
+1984,1986,40,Denmark,0.0,0.0,1.517,12.068,13.657,January 1984,Liberals
+1984,1986,50,Denmark,5.944,2.797,1.399,2.725,11.538,January 1984,Christian People’s Party
+1984,1986,60,Denmark,2.041,0.0,4.082,23.445,34.694,January 1984,Conservative People’s Party
+1984,1986,70,Denmark,0.0,0.0,0.0,3.588,44.69300000000001,January 1984,Progress Party
+1984,1986,95,Denmark,8.333,0.0,2.083,1.499,-6.25,January 1984,Justice Party
+1987,1987,20,Denmark,5.825,0.971,1.942,2.16,-48.544,September 1987,Common Course
+1987,1987,20,Denmark,6.091,1.015,7.614,14.577,-29.949,September 1987,Socialist People’s Party
+1987,1987,30,Denmark,0.0,2.419,5.645,29.32,-29.032,September 1987,Social Democratic Party
+1987,1987,60,Denmark,0.98,0.0,0.98,4.79,5.8820000000000014,September 1987,Centre Democrats
+1987,1987,40,Denmark,10.0,0.0,0.0,6.218,-26.667,September 1987,Danish Social-Liberal Party
+1987,1987,40,Denmark,3.5210000000000004,2.113,0.35200000000000004,10.536,29.225,September 1987,Liberals
+1987,1987,50,Denmark,8.407,0.442,0.0,2.369,6.6370000000000005,September 1987,Christian People’s Party
+1987,1987,60,Denmark,7.303,6.18,0.0,20.844,4.494,September 1987,Conservative People’s Party
+1987,1987,70,Denmark,0.0,0.0,0.0,4.772,10.345,September 1987,Progress Party
+1988,1988,20,Denmark,7.692,2.564,8.262,13.014,-35.328,May 1988,Socialist People’s Party
+1988,1988,30,Denmark,3.922,0.0,5.8820000000000014,29.818,-20.261,May 1988,Social Democratic Party
+1988,1988,60,Denmark,0.962,0.962,1.923,4.67,17.308,May 1988,Centre Democrats
+1988,1988,40,Denmark,9.238999999999999,2.717,9.238999999999999,5.5779999999999985,-13.043,May 1988,Danish Social-Liberal Party
+1988,1988,40,Denmark,5.0,0.0,2.5,11.841,37.5,May 1988,Liberals
+1988,1988,50,Denmark,0.84,0.0,15.126,2.044,15.126,May 1988,Christian People’s Party
+1988,1988,60,Denmark,0.0,0.0,0.0,19.286,36.0,May 1988,Conservative People’s Party
+1988,1988,70,Denmark,4.0,0.0,0.0,8.955,28.0,May 1988,Progress Party
+1988,1989,20,Denmark,7.692,2.564,8.262,13.014,-35.328,May 1988,Socialist People’s Party
+1988,1989,30,Denmark,3.922,0.0,5.8820000000000014,29.818,-20.261,May 1988,Social Democratic Party
+1988,1989,60,Denmark,0.962,0.962,1.923,4.67,17.308,May 1988,Centre Democrats
+1988,1989,40,Denmark,9.238999999999999,2.717,9.238999999999999,5.5779999999999985,-13.043,May 1988,Danish Social-Liberal Party
+1988,1989,40,Denmark,5.0,0.0,2.5,11.841,37.5,May 1988,Liberals
+1988,1989,50,Denmark,0.84,0.0,15.126,2.044,15.126,May 1988,Christian People’s Party
+1988,1989,60,Denmark,0.0,0.0,0.0,19.286,36.0,May 1988,Conservative People’s Party
+1988,1989,70,Denmark,4.0,0.0,0.0,8.955,28.0,May 1988,Progress Party
+1990,1990,20,Denmark,13.497,0.0,5.521,8.296,-15.337,December 1990,Socialist People’s Party
+1990,1990,30,Denmark,6.452000000000001,0.0,3.2260000000000004,37.384,-35.484,December 1990,Social Democratic Party
+1990,1990,60,Denmark,0.0,0.0,2.5,5.11,10.0,December 1990,Centre Democrats
+1990,1990,40,Denmark,1.786,0.0,5.357,3.5460000000000003,-26.786,December 1990,Danish Social-Liberal Party
+1990,1990,40,Denmark,3.911,1.676,0.0,15.793,10.056,December 1990,Liberals
+1990,1990,50,Denmark,11.111,0.0,0.0,2.29,14.815,December 1990,Christian People’s Party
+1990,1990,60,Denmark,8.257,0.0,1.835,15.967,10.092,December 1990,Conservative People’s Party
+1990,1990,70,Denmark,0.0,0.0,0.0,6.435,25.641,December 1990,Progress Party
+1990,1991,20,Denmark,13.497,0.0,5.521,8.296,-15.337,December 1990,Socialist People’s Party
+1990,1991,30,Denmark,6.452000000000001,0.0,3.2260000000000004,37.384,-35.484,December 1990,Social Democratic Party
+1990,1991,60,Denmark,0.0,0.0,2.5,5.11,10.0,December 1990,Centre Democrats
+1990,1991,40,Denmark,1.786,0.0,5.357,3.5460000000000003,-26.786,December 1990,Danish Social-Liberal Party
+1990,1991,40,Denmark,3.911,1.676,0.0,15.793,10.056,December 1990,Liberals
+1990,1991,50,Denmark,11.111,0.0,0.0,2.29,14.815,December 1990,Christian People’s Party
+1990,1991,60,Denmark,8.257,0.0,1.835,15.967,10.092,December 1990,Conservative People’s Party
+1990,1991,70,Denmark,0.0,0.0,0.0,6.435,25.641,December 1990,Progress Party
+1990,1992,20,Denmark,13.497,0.0,5.521,8.296,-15.337,December 1990,Socialist People’s Party
+1990,1992,30,Denmark,6.452000000000001,0.0,3.2260000000000004,37.384,-35.484,December 1990,Social Democratic Party
+1990,1992,60,Denmark,0.0,0.0,2.5,5.11,10.0,December 1990,Centre Democrats
+1990,1992,40,Denmark,1.786,0.0,5.357,3.5460000000000003,-26.786,December 1990,Danish Social-Liberal Party
+1990,1992,40,Denmark,3.911,1.676,0.0,15.793,10.056,December 1990,Liberals
+1990,1992,50,Denmark,11.111,0.0,0.0,2.29,14.815,December 1990,Christian People’s Party
+1990,1992,60,Denmark,8.257,0.0,1.835,15.967,10.092,December 1990,Conservative People’s Party
+1990,1992,70,Denmark,0.0,0.0,0.0,6.435,25.641,December 1990,Progress Party
+1990,1993,20,Denmark,13.497,0.0,5.521,8.296,-15.337,December 1990,Socialist People’s Party
+1990,1993,30,Denmark,6.452000000000001,0.0,3.2260000000000004,37.384,-35.484,December 1990,Social Democratic Party
+1990,1993,60,Denmark,0.0,0.0,2.5,5.11,10.0,December 1990,Centre Democrats
+1990,1993,40,Denmark,1.786,0.0,5.357,3.5460000000000003,-26.786,December 1990,Danish Social-Liberal Party
+1990,1993,40,Denmark,3.911,1.676,0.0,15.793,10.056,December 1990,Liberals
+1990,1993,50,Denmark,11.111,0.0,0.0,2.29,14.815,December 1990,Christian People’s Party
+1990,1993,60,Denmark,8.257,0.0,1.835,15.967,10.092,December 1990,Conservative People’s Party
+1990,1993,70,Denmark,0.0,0.0,0.0,6.435,25.641,December 1990,Progress Party
+1994,1994,20,Denmark,8.0,1.3330000000000002,2.667,3.1460000000000004,-25.333,September 1994,Red-Green Unity List
+1994,1994,20,Denmark,6.954,0.278,6.537000000000001,7.284,-27.121,September 1994,Socialist People’s Party
+1994,1994,30,Denmark,4.608000000000001,0.0,2.3040000000000003,34.561,-7.372999999999998,September 1994,Social Democratic Party
+1994,1994,60,Denmark,0.513,0.0,0.0,2.84,2.051,September 1994,Centre Democrats
+1994,1994,40,Denmark,3.922,0.0,3.922,4.589,-7.843,September 1994,Danish Social-Liberal Party
+1994,1994,40,Denmark,0.0,0.0,0.478,23.295,54.067,September 1994,Liberals
+1994,1994,50,Denmark,18.033,0.0,0.0,1.848,9.836,September 1994,Christian People’s Party
+1994,1994,60,Denmark,1.77,0.0,0.0,15.021,15.929,September 1994,Conservative People’s Party
+1994,1994,70,Denmark,0.31,0.0,0.31,6.433,44.892,September 1994,Progress Party
+1994,1995,20,Denmark,8.0,1.3330000000000002,2.667,3.1460000000000004,-25.333,September 1994,Red-Green Unity List
+1994,1995,20,Denmark,6.954,0.278,6.537000000000001,7.284,-27.121,September 1994,Socialist People’s Party
+1994,1995,30,Denmark,4.608000000000001,0.0,2.3040000000000003,34.561,-7.372999999999998,September 1994,Social Democratic Party
+1994,1995,60,Denmark,0.513,0.0,0.0,2.84,2.051,September 1994,Centre Democrats
+1994,1995,40,Denmark,3.922,0.0,3.922,4.589,-7.843,September 1994,Danish Social-Liberal Party
+1994,1995,40,Denmark,0.0,0.0,0.478,23.295,54.067,September 1994,Liberals
+1994,1995,50,Denmark,18.033,0.0,0.0,1.848,9.836,September 1994,Christian People’s Party
+1994,1995,60,Denmark,1.77,0.0,0.0,15.021,15.929,September 1994,Conservative People’s Party
+1994,1995,70,Denmark,0.31,0.0,0.31,6.433,44.892,September 1994,Progress Party
+1994,1996,20,Denmark,8.0,1.3330000000000002,2.667,3.1460000000000004,-25.333,September 1994,Red-Green Unity List
+1994,1996,20,Denmark,6.954,0.278,6.537000000000001,7.284,-27.121,September 1994,Socialist People’s Party
+1994,1996,30,Denmark,4.608000000000001,0.0,2.3040000000000003,34.561,-7.372999999999998,September 1994,Social Democratic Party
+1994,1996,60,Denmark,0.513,0.0,0.0,2.84,2.051,September 1994,Centre Democrats
+1994,1996,40,Denmark,3.922,0.0,3.922,4.589,-7.843,September 1994,Danish Social-Liberal Party
+1994,1996,40,Denmark,0.0,0.0,0.478,23.295,54.067,September 1994,Liberals
+1994,1996,50,Denmark,18.033,0.0,0.0,1.848,9.836,September 1994,Christian People’s Party
+1994,1996,60,Denmark,1.77,0.0,0.0,15.021,15.929,September 1994,Conservative People’s Party
+1994,1996,70,Denmark,0.31,0.0,0.31,6.433,44.892,September 1994,Progress Party
+1994,1997,20,Denmark,8.0,1.3330000000000002,2.667,3.1460000000000004,-25.333,September 1994,Red-Green Unity List
+1994,1997,20,Denmark,6.954,0.278,6.537000000000001,7.284,-27.121,September 1994,Socialist People’s Party
+1994,1997,30,Denmark,4.608000000000001,0.0,2.3040000000000003,34.561,-7.372999999999998,September 1994,Social Democratic Party
+1994,1997,60,Denmark,0.513,0.0,0.0,2.84,2.051,September 1994,Centre Democrats
+1994,1997,40,Denmark,3.922,0.0,3.922,4.589,-7.843,September 1994,Danish Social-Liberal Party
+1994,1997,40,Denmark,0.0,0.0,0.478,23.295,54.067,September 1994,Liberals
+1994,1997,50,Denmark,18.033,0.0,0.0,1.848,9.836,September 1994,Christian People’s Party
+1994,1997,60,Denmark,1.77,0.0,0.0,15.021,15.929,September 1994,Conservative People’s Party
+1994,1997,70,Denmark,0.31,0.0,0.31,6.433,44.892,September 1994,Progress Party
+1998,1998,20,Denmark,10.255999999999998,0.0,10.255999999999998,2.7,-32.479,March 1998,Red-Green Unity List
+1998,1998,20,Denmark,22.526,1.024,3.754,7.56,-39.59,March 1998,Socialist People’s Party
+1998,1998,30,Denmark,7.812,0.0,3.125,35.93,-1.042,March 1998,Social Democratic Party
+1998,1998,60,Denmark,9.812999999999999,0.935,1.869,4.31,-14.019,March 1998,Centre Democrats
+1998,1998,40,Denmark,10.909,9.697000000000001,3.636,3.85,-5.455,March 1998,Danish Social-Liberal Party
+1998,1998,40,Denmark,0.0,0.0,0.0,24.01,28.571,March 1998,Liberals
+1998,1998,50,Denmark,2.469,2.469,9.877,2.51,43.21,March 1998,Christian People’s Party
+1998,1998,60,Denmark,9.544,0.0,0.0,8.92,18.672,March 1998,Conservative People’s Party
+1998,1998,70,Denmark,2.778,2.778,1.389,7.41,9.722,March 1998,Danish People’s Party
+1998,1998,70,Denmark,4.0,0.0,2.0,2.42,34.0,March 1998,Progress Party
+1998,1999,20,Denmark,10.255999999999998,0.0,10.255999999999998,2.7,-32.479,March 1998,Red-Green Unity List
+1998,1999,20,Denmark,22.526,1.024,3.754,7.56,-39.59,March 1998,Socialist People’s Party
+1998,1999,30,Denmark,7.812,0.0,3.125,35.93,-1.042,March 1998,Social Democratic Party
+1998,1999,60,Denmark,9.812999999999999,0.935,1.869,4.31,-14.019,March 1998,Centre Democrats
+1998,1999,40,Denmark,10.909,9.697000000000001,3.636,3.85,-5.455,March 1998,Danish Social-Liberal Party
+1998,1999,40,Denmark,0.0,0.0,0.0,24.01,28.571,March 1998,Liberals
+1998,1999,50,Denmark,2.469,2.469,9.877,2.51,43.21,March 1998,Christian People’s Party
+1998,1999,60,Denmark,9.544,0.0,0.0,8.92,18.672,March 1998,Conservative People’s Party
+1998,1999,70,Denmark,2.778,2.778,1.389,7.41,9.722,March 1998,Danish People’s Party
+1998,1999,70,Denmark,4.0,0.0,2.0,2.42,34.0,March 1998,Progress Party
+1998,2000,20,Denmark,10.255999999999998,0.0,10.255999999999998,2.7,-32.479,March 1998,Red-Green Unity List
+1998,2000,20,Denmark,22.526,1.024,3.754,7.56,-39.59,March 1998,Socialist People’s Party
+1998,2000,30,Denmark,7.812,0.0,3.125,35.93,-1.042,March 1998,Social Democratic Party
+1998,2000,60,Denmark,9.812999999999999,0.935,1.869,4.31,-14.019,March 1998,Centre Democrats
+1998,2000,40,Denmark,10.909,9.697000000000001,3.636,3.85,-5.455,March 1998,Danish Social-Liberal Party
+1998,2000,40,Denmark,0.0,0.0,0.0,24.01,28.571,March 1998,Liberals
+1998,2000,50,Denmark,2.469,2.469,9.877,2.51,43.21,March 1998,Christian People’s Party
+1998,2000,60,Denmark,9.544,0.0,0.0,8.92,18.672,March 1998,Conservative People’s Party
+1998,2000,70,Denmark,2.778,2.778,1.389,7.41,9.722,March 1998,Danish People’s Party
+1998,2000,70,Denmark,4.0,0.0,2.0,2.42,34.0,March 1998,Progress Party
+2001,2001,20,Denmark,11.95,0.0,5.66,2.4,-10.692,November 2001,Red-Green Unity List
+2001,2001,20,Denmark,0.0,0.0,4.615,6.37,-33.846,November 2001,Socialist People’s Party
+2001,2001,30,Denmark,8.888999999999998,2.9330000000000003,7.733000000000001,29.08,-13.422,November 2001,Social Democratic Party
+2001,2001,40,Denmark,3.774,1.887,5.66,5.19,-3.774,November 2001,Danish Social-Liberal Party
+2001,2001,40,Denmark,0.0,0.0,0.0,31.25,36.232,November 2001,Liberals
+2001,2001,50,Denmark,5.195,0.0,2.597,2.28,24.675,November 2001,Christian People’s Party
+2001,2001,60,Denmark,0.926,0.0,0.0,9.07,20.37,November 2001,Conservative People’s Party
+2001,2001,70,Denmark,0.0,0.0,5.0,12.0,35.0,November 2001,Danish People’s Party
+2001,2002,20,Denmark,11.95,0.0,5.66,2.4,-10.692,November 2001,Red-Green Unity List
+2001,2002,20,Denmark,0.0,0.0,4.615,6.37,-33.846,November 2001,Socialist People’s Party
+2001,2002,30,Denmark,8.888999999999998,2.9330000000000003,7.733000000000001,29.08,-13.422,November 2001,Social Democratic Party
+2001,2002,40,Denmark,3.774,1.887,5.66,5.19,-3.774,November 2001,Danish Social-Liberal Party
+2001,2002,40,Denmark,0.0,0.0,0.0,31.25,36.232,November 2001,Liberals
+2001,2002,50,Denmark,5.195,0.0,2.597,2.28,24.675,November 2001,Christian People’s Party
+2001,2002,60,Denmark,0.926,0.0,0.0,9.07,20.37,November 2001,Conservative People’s Party
+2001,2002,70,Denmark,0.0,0.0,5.0,12.0,35.0,November 2001,Danish People’s Party
+2001,2003,20,Denmark,11.95,0.0,5.66,2.4,-10.692,November 2001,Red-Green Unity List
+2001,2003,20,Denmark,0.0,0.0,4.615,6.37,-33.846,November 2001,Socialist People’s Party
+2001,2003,30,Denmark,8.888999999999998,2.9330000000000003,7.733000000000001,29.08,-13.422,November 2001,Social Democratic Party
+2001,2003,40,Denmark,3.774,1.887,5.66,5.19,-3.774,November 2001,Danish Social-Liberal Party
+2001,2003,40,Denmark,0.0,0.0,0.0,31.25,36.232,November 2001,Liberals
+2001,2003,50,Denmark,5.195,0.0,2.597,2.28,24.675,November 2001,Christian People’s Party
+2001,2003,60,Denmark,0.926,0.0,0.0,9.07,20.37,November 2001,Conservative People’s Party
+2001,2003,70,Denmark,0.0,0.0,5.0,12.0,35.0,November 2001,Danish People’s Party
+2001,2004,20,Denmark,11.95,0.0,5.66,2.4,-10.692,November 2001,Red-Green Unity List
+2001,2004,20,Denmark,0.0,0.0,4.615,6.37,-33.846,November 2001,Socialist People’s Party
+2001,2004,30,Denmark,8.888999999999998,2.9330000000000003,7.733000000000001,29.08,-13.422,November 2001,Social Democratic Party
+2001,2004,40,Denmark,3.774,1.887,5.66,5.19,-3.774,November 2001,Danish Social-Liberal Party
+2001,2004,40,Denmark,0.0,0.0,0.0,31.25,36.232,November 2001,Liberals
+2001,2004,50,Denmark,5.195,0.0,2.597,2.28,24.675,November 2001,Christian People’s Party
+2001,2004,60,Denmark,0.926,0.0,0.0,9.07,20.37,November 2001,Conservative People’s Party
+2001,2004,70,Denmark,0.0,0.0,5.0,12.0,35.0,November 2001,Danish People’s Party
+2005,2005,20,Denmark,13.453,0.0,9.865,3.399,-42.152,February 2005,Red-Green Unity List
+2005,2005,20,Denmark,20.605,0.0,5.292999999999998,5.989,-40.832,February 2005,Socialist People’s Party
+2005,2005,30,Denmark,8.304,0.34600000000000003,1.038,25.835,-36.332,February 2005,Social Democratic Party
+2005,2005,60,Denmark,0.0,3.125,0.0,1.0,-10.938,February 2005,Centre Democrats
+2005,2005,40,Denmark,11.364,0.0,3.409,9.181000000000001,0.0,February 2005,Danish Social-Liberal Party
+2005,2005,40,Denmark,12.648,0.0,0.0,29.031,-2.372,February 2005,Liberals
+2005,2005,50,Denmark,0.971,0.0,0.485,1.7,-3.883,February 2005,Christian Democrats
+2005,2005,60,Denmark,1.714,0.0,0.5710000000000001,10.273,9.714,February 2005,Conservative People’s Party
+2005,2005,70,Denmark,10.0,0.0,4.0,13.253,38.0,February 2005,Danish People’s Party
+2005,2006,20,Denmark,13.453,0.0,9.865,3.399,-42.152,February 2005,Red-Green Unity List
+2005,2006,20,Denmark,20.605,0.0,5.292999999999998,5.989,-40.832,February 2005,Socialist People’s Party
+2005,2006,30,Denmark,8.304,0.34600000000000003,1.038,25.835,-36.332,February 2005,Social Democratic Party
+2005,2006,60,Denmark,0.0,3.125,0.0,1.0,-10.938,February 2005,Centre Democrats
+2005,2006,40,Denmark,11.364,0.0,3.409,9.181000000000001,0.0,February 2005,Danish Social-Liberal Party
+2005,2006,40,Denmark,12.648,0.0,0.0,29.031,-2.372,February 2005,Liberals
+2005,2006,50,Denmark,0.971,0.0,0.485,1.7,-3.883,February 2005,Christian Democrats
+2005,2006,60,Denmark,1.714,0.0,0.5710000000000001,10.273,9.714,February 2005,Conservative People’s Party
+2005,2006,70,Denmark,10.0,0.0,4.0,13.253,38.0,February 2005,Danish People’s Party
+2007,2007,40,Denmark,12.5,0.0,0.0,2.81,-12.5,November 2007,New Alliance
+2007,2007,20,Denmark,10.561,0.66,5.2810000000000015,2.17,-33.003,November 2007,Red-Green Unity List
+2007,2007,20,Denmark,15.714,0.0,0.0,13.04,-37.143,November 2007,Socialist People’s Party
+2007,2007,30,Denmark,7.692,0.0,11.111,25.47,-8.547,November 2007,Social Democratic Party
+2007,2007,40,Denmark,19.231,0.0,1.923,5.12,-9.615,November 2007,Danish Social-Liberal Party
+2007,2007,40,Denmark,6.202000000000001,0.0,1.55,26.26,-6.977,November 2007,Liberals
+2007,2007,60,Denmark,8.264,0.0,0.0,10.39,-17.355,November 2007,Conservative People’s Party
+2007,2007,70,Denmark,17.021,0.0,4.255,13.86,14.894,November 2007,Danish People’s Party
+2007,2008,40,Denmark,12.5,0.0,0.0,2.81,-12.5,November 2007,New Alliance
+2007,2008,20,Denmark,10.561,0.66,5.2810000000000015,2.17,-33.003,November 2007,Red-Green Unity List
+2007,2008,20,Denmark,15.714,0.0,0.0,13.04,-37.143,November 2007,Socialist People’s Party
+2007,2008,30,Denmark,7.692,0.0,11.111,25.47,-8.547,November 2007,Social Democratic Party
+2007,2008,40,Denmark,19.231,0.0,1.923,5.12,-9.615,November 2007,Danish Social-Liberal Party
+2007,2008,40,Denmark,6.202000000000001,0.0,1.55,26.26,-6.977,November 2007,Liberals
+2007,2008,60,Denmark,8.264,0.0,0.0,10.39,-17.355,November 2007,Conservative People’s Party
+2007,2008,70,Denmark,17.021,0.0,4.255,13.86,14.894,November 2007,Danish People’s Party
+2007,2009,40,Denmark,12.5,0.0,0.0,2.81,-12.5,November 2007,New Alliance
+2007,2009,20,Denmark,10.561,0.66,5.2810000000000015,2.17,-33.003,November 2007,Red-Green Unity List
+2007,2009,20,Denmark,15.714,0.0,0.0,13.04,-37.143,November 2007,Socialist People’s Party
+2007,2009,30,Denmark,7.692,0.0,11.111,25.47,-8.547,November 2007,Social Democratic Party
+2007,2009,40,Denmark,19.231,0.0,1.923,5.12,-9.615,November 2007,Danish Social-Liberal Party
+2007,2009,40,Denmark,6.202000000000001,0.0,1.55,26.26,-6.977,November 2007,Liberals
+2007,2009,60,Denmark,8.264,0.0,0.0,10.39,-17.355,November 2007,Conservative People’s Party
+2007,2009,70,Denmark,17.021,0.0,4.255,13.86,14.894,November 2007,Danish People’s Party
+2007,2010,40,Denmark,12.5,0.0,0.0,2.81,-12.5,November 2007,New Alliance
+2007,2010,20,Denmark,10.561,0.66,5.2810000000000015,2.17,-33.003,November 2007,Red-Green Unity List
+2007,2010,20,Denmark,15.714,0.0,0.0,13.04,-37.143,November 2007,Socialist People’s Party
+2007,2010,30,Denmark,7.692,0.0,11.111,25.47,-8.547,November 2007,Social Democratic Party
+2007,2010,40,Denmark,19.231,0.0,1.923,5.12,-9.615,November 2007,Danish Social-Liberal Party
+2007,2010,40,Denmark,6.202000000000001,0.0,1.55,26.26,-6.977,November 2007,Liberals
+2007,2010,60,Denmark,8.264,0.0,0.0,10.39,-17.355,November 2007,Conservative People’s Party
+2007,2010,70,Denmark,17.021,0.0,4.255,13.86,14.894,November 2007,Danish People’s Party
+2011,2011,40,Denmark,0.0,0.0,1.149,4.976,51.724,September 2011,Liberal Alliance
+2011,2011,20,Denmark,4.667,0.0,11.778,6.682,-41.778,September 2011,Red-Green Unity List
+2011,2011,20,Denmark,7.739,0.0,7.536,9.196,-45.418,September 2011,Socialist People’s Party
+2011,2011,30,Denmark,7.101,0.0,2.367,24.857,-6.509,September 2011,Social Democratic Party
+2011,2011,40,Denmark,0.787,0.0,1.575,9.479,-0.787,September 2011,Danish Social-Liberal Party
+2011,2011,40,Denmark,0.0,0.0,4.425,26.739,-13.717,September 2011,Liberals
+2011,2011,60,Denmark,0.7040000000000001,0.0,12.675999999999998,4.922,47.887,September 2011,Conservative People’s Party
+2011,2011,70,Denmark,2.312,0.0,3.179,12.303,30.925,September 2011,Danish People’s Party
+2011,2012,40,Denmark,0.0,0.0,1.149,4.976,51.724,September 2011,Liberal Alliance
+2011,2012,20,Denmark,4.667,0.0,11.778,6.682,-41.778,September 2011,Red-Green Unity List
+2011,2012,20,Denmark,7.739,0.0,7.536,9.196,-45.418,September 2011,Socialist People’s Party
+2011,2012,30,Denmark,7.101,0.0,2.367,24.857,-6.509,September 2011,Social Democratic Party
+2011,2012,40,Denmark,0.787,0.0,1.575,9.479,-0.787,September 2011,Danish Social-Liberal Party
+2011,2012,40,Denmark,0.0,0.0,4.425,26.739,-13.717,September 2011,Liberals
+2011,2012,60,Denmark,0.7040000000000001,0.0,12.675999999999998,4.922,47.887,September 2011,Conservative People’s Party
+2011,2012,70,Denmark,2.312,0.0,3.179,12.303,30.925,September 2011,Danish People’s Party
+2011,2013,40,Denmark,0.0,0.0,1.149,4.976,51.724,September 2011,Liberal Alliance
+2011,2013,20,Denmark,4.667,0.0,11.778,6.682,-41.778,September 2011,Red-Green Unity List
+2011,2013,20,Denmark,7.739,0.0,7.536,9.196,-45.418,September 2011,Socialist People’s Party
+2011,2013,30,Denmark,7.101,0.0,2.367,24.857,-6.509,September 2011,Social Democratic Party
+2011,2013,40,Denmark,0.787,0.0,1.575,9.479,-0.787,September 2011,Danish Social-Liberal Party
+2011,2013,40,Denmark,0.0,0.0,4.425,26.739,-13.717,September 2011,Liberals
+2011,2013,60,Denmark,0.7040000000000001,0.0,12.675999999999998,4.922,47.887,September 2011,Conservative People’s Party
+2011,2013,70,Denmark,2.312,0.0,3.179,12.303,30.925,September 2011,Danish People’s Party
+2011,2014,40,Denmark,0.0,0.0,1.149,4.976,51.724,September 2011,Liberal Alliance
+2011,2014,20,Denmark,4.667,0.0,11.778,6.682,-41.778,September 2011,Red-Green Unity List
+2011,2014,20,Denmark,7.739,0.0,7.536,9.196,-45.418,September 2011,Socialist People’s Party
+2011,2014,30,Denmark,7.101,0.0,2.367,24.857,-6.509,September 2011,Social Democratic Party
+2011,2014,40,Denmark,0.787,0.0,1.575,9.479,-0.787,September 2011,Danish Social-Liberal Party
+2011,2014,40,Denmark,0.0,0.0,4.425,26.739,-13.717,September 2011,Liberals
+2011,2014,60,Denmark,0.7040000000000001,0.0,12.675999999999998,4.922,47.887,September 2011,Conservative People’s Party
+2011,2014,70,Denmark,2.312,0.0,3.179,12.303,30.925,September 2011,Danish People’s Party
+2015,2015,40,Denmark,0.0,0.0,11.111,7.534,28.704,June 2015,Liberal Alliance
+2015,2015,20,Denmark,0.0,0.0,4.848,4.796,-29.697,June 2015,Alternativ
+2015,2015,20,Denmark,4.464,0.0,21.429,7.798999999999999,-46.429,June 2015,Red-Green Unity List
+2015,2015,20,Denmark,17.617,0.0,0.0,4.194,-64.249,June 2015,Socialist People’s Party
+2015,2015,30,Denmark,4.878,0.0,10.279000000000002,26.284,-2.091,June 2015,Social Democratic Party
+2015,2015,40,Denmark,9.375,0.0,15.625,4.575,6.25,June 2015,Danish Social-Liberal Party
+2015,2015,40,Denmark,0.0,0.0,0.99,19.471,17.822,June 2015,Liberals
+2015,2015,60,Denmark,0.0,17.143,0.0,3.353,60.0,June 2015,Conservative People’s Party
+2015,2015,70,Denmark,0.0,0.0,0.0,21.078000000000007,18.75,June 2015,Danish People’s Party
+2015,2016,40,Denmark,0.0,0.0,11.111,7.534,28.704,June 2015,Liberal Alliance
+2015,2016,20,Denmark,0.0,0.0,4.848,4.796,-29.697,June 2015,Alternativ
+2015,2016,20,Denmark,4.464,0.0,21.429,7.798999999999999,-46.429,June 2015,Red-Green Unity List
+2015,2016,20,Denmark,17.617,0.0,0.0,4.194,-64.249,June 2015,Socialist People’s Party
+2015,2016,30,Denmark,4.878,0.0,10.279000000000002,26.284,-2.091,June 2015,Social Democratic Party
+2015,2016,40,Denmark,9.375,0.0,15.625,4.575,6.25,June 2015,Danish Social-Liberal Party
+2015,2016,40,Denmark,0.0,0.0,0.99,19.471,17.822,June 2015,Liberals
+2015,2016,60,Denmark,0.0,17.143,0.0,3.353,60.0,June 2015,Conservative People’s Party
+2015,2016,70,Denmark,0.0,0.0,0.0,21.078000000000007,18.75,June 2015,Danish People’s Party
+2015,2017,40,Denmark,0.0,0.0,11.111,7.534,28.704,June 2015,Liberal Alliance
+2015,2017,20,Denmark,0.0,0.0,4.848,4.796,-29.697,June 2015,Alternativ
+2015,2017,20,Denmark,4.464,0.0,21.429,7.798999999999999,-46.429,June 2015,Red-Green Unity List
+2015,2017,20,Denmark,17.617,0.0,0.0,4.194,-64.249,June 2015,Socialist People’s Party
+2015,2017,30,Denmark,4.878,0.0,10.279000000000002,26.284,-2.091,June 2015,Social Democratic Party
+2015,2017,40,Denmark,9.375,0.0,15.625,4.575,6.25,June 2015,Danish Social-Liberal Party
+2015,2017,40,Denmark,0.0,0.0,0.99,19.471,17.822,June 2015,Liberals
+2015,2017,60,Denmark,0.0,17.143,0.0,3.353,60.0,June 2015,Conservative People’s Party
+2015,2017,70,Denmark,0.0,0.0,0.0,21.078000000000007,18.75,June 2015,Danish People’s Party
+2015,2018,40,Denmark,0.0,0.0,11.111,7.534,28.704,June 2015,Liberal Alliance
+2015,2018,20,Denmark,0.0,0.0,4.848,4.796,-29.697,June 2015,Alternativ
+2015,2018,20,Denmark,4.464,0.0,21.429,7.798999999999999,-46.429,June 2015,Red-Green Unity List
+2015,2018,20,Denmark,17.617,0.0,0.0,4.194,-64.249,June 2015,Socialist People’s Party
+2015,2018,30,Denmark,4.878,0.0,10.279000000000002,26.284,-2.091,June 2015,Social Democratic Party
+2015,2018,40,Denmark,9.375,0.0,15.625,4.575,6.25,June 2015,Danish Social-Liberal Party
+2015,2018,40,Denmark,0.0,0.0,0.99,19.471,17.822,June 2015,Liberals
+2015,2018,60,Denmark,0.0,17.143,0.0,3.353,60.0,June 2015,Conservative People’s Party
+2015,2018,70,Denmark,0.0,0.0,0.0,21.078000000000007,18.75,June 2015,Danish People’s Party
+2019,2019,40,Denmark,5.34,2.427,3.398,2.329,15.534,June 2019,Liberal Alliance
+2019,2019,20,Denmark,6.643,4.765,9.675,2.9530000000000003,-34.946,June 2019,Alternativ
+2019,2019,20,Denmark,9.091000000000001,3.273,14.545,6.94,-38.182,June 2019,Red-Green Unity List
+2019,2019,20,Denmark,13.078,4.785,13.397,7.71,-29.027,June 2019,Socialist People’s Party
+2019,2019,30,Denmark,16.089000000000002,0.385,12.779000000000002,25.905,-18.437,June 2019,Social Democratic Party
+2019,2019,40,Denmark,10.0,2.097,10.161,8.628,-19.516,June 2019,Danish Social-Liberal Party
+2019,2019,40,Denmark,8.392000000000001,0.0,12.587,23.393,-17.483,June 2019,Liberals
+2019,2019,60,Denmark,9.774,0.514,4.835,6.622000000000001,-7.202000000000001,June 2019,Conservative People’s Party
+2019,2019,70,Denmark,7.447,0.0,7.447,8.735,32.979,June 2019,Danish People’s Party
+2019,2019,70,Denmark,3.666,0.293,7.0379999999999985,2.356,2.9330000000000003,June 2019,The New Right
+2019,2020,40,Denmark,5.34,2.427,3.398,2.329,15.534,June 2019,Liberal Alliance
+2019,2020,20,Denmark,6.643,4.765,9.675,2.9530000000000003,-34.946,June 2019,Alternativ
+2019,2020,20,Denmark,9.091000000000001,3.273,14.545,6.94,-38.182,June 2019,Red-Green Unity List
+2019,2020,20,Denmark,13.078,4.785,13.397,7.71,-29.027,June 2019,Socialist People’s Party
+2019,2020,30,Denmark,16.089000000000002,0.385,12.779000000000002,25.905,-18.437,June 2019,Social Democratic Party
+2019,2020,40,Denmark,10.0,2.097,10.161,8.628,-19.516,June 2019,Danish Social-Liberal Party
+2019,2020,40,Denmark,8.392000000000001,0.0,12.587,23.393,-17.483,June 2019,Liberals
+2019,2020,60,Denmark,9.774,0.514,4.835,6.622000000000001,-7.202000000000001,June 2019,Conservative People’s Party
+2019,2020,70,Denmark,7.447,0.0,7.447,8.735,32.979,June 2019,Danish People’s Party
+2019,2020,70,Denmark,3.666,0.293,7.0379999999999985,2.356,2.9330000000000003,June 2019,The New Right
