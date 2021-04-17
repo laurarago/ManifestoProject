@@ -15,14 +15,13 @@
 	</div>
 	<div class="text-container">
 		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure. </p>
+	<div class="no-events">
 	<Scroller top={0} bottom={1} bind:index>
 		<div slot="background">
-			<div class="chartContainer">
 			<Scatter 
 				data={groupedData}
 				layout='fs'
 				step={index}/>
-			</div>
 		</div>
 
 		<div slot="foreground">
@@ -37,6 +36,7 @@
 	</Scroller>
 </div>
 
+	</div>
 </main>
 
 <style>
@@ -47,7 +47,14 @@
 		margin: 0 auto;
 	}
 
-	section { height: 80vh; }
+	section {
+		height: 80vh;
+		
+	}
+
+	.no-events {
+		pointer-events:none;
+	}
 
 	@media (min-width: 640px) {
 		main {
