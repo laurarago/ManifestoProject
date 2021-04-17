@@ -1,0 +1,686 @@
+year,yearObject,parfam,countryname,environ,culture,equality,pervote,rile,electionDate,partyname
+1946,1946,20,Italy,0.0,0.0,1.19,18.935,-22.619,June 1946,Italian Communist Party
+1946,1946,30,Italy,0.0,0.0,1.515,20.705,-31.818,June 1946,Italian Socialist Party
+1946,1946,40,Italy,0.0,0.0,1.587,4.783,-5.556,June 1946,Italian Republican Party
+1946,1946,40,Italy,0.0,0.0,3.125,6.778,-9.375,June 1946,Italian Liberal Party
+1946,1946,50,Italy,0.0,0.0,8.333,35.204,29.167,June 1946,Christian Democrats
+1946,1947,20,Italy,0.0,0.0,1.19,18.935,-22.619,June 1946,Italian Communist Party
+1946,1947,30,Italy,0.0,0.0,1.515,20.705,-31.818,June 1946,Italian Socialist Party
+1946,1947,40,Italy,0.0,0.0,1.587,4.783,-5.556,June 1946,Italian Republican Party
+1946,1947,40,Italy,0.0,0.0,3.125,6.778,-9.375,June 1946,Italian Liberal Party
+1946,1947,50,Italy,0.0,0.0,8.333,35.204,29.167,June 1946,Christian Democrats
+1948,1948,20,Italy,0.0,0.0,11.429,22.176,-11.429,April 1948,Italian Communist Party
+1948,1948,30,Italy,0.0,0.0,6.897,8.800000000000002,-13.793,April 1948,Italian Socialist Party
+1948,1948,30,Italy,0.0,0.0,0.0,7.074,-36.434,April 1948,Socialist Party of Italian Workers
+1948,1948,40,Italy,0.0,0.0,5.1720000000000015,2.484,-22.414,April 1948,Italian Republican Party
+1948,1948,40,Italy,0.0,0.0,0.0,3.825,45.0,April 1948,Italian Liberal Party
+1948,1948,50,Italy,0.0,0.0,2.381,48.503,7.143,April 1948,Christian Democrats
+1948,1948,70,Italy,0.0,0.0,1.724,2.005,1.724,April 1948,Italian Social Movement
+1948,1949,20,Italy,0.0,0.0,11.429,22.176,-11.429,April 1948,Italian Communist Party
+1948,1949,30,Italy,0.0,0.0,6.897,8.800000000000002,-13.793,April 1948,Italian Socialist Party
+1948,1949,30,Italy,0.0,0.0,0.0,7.074,-36.434,April 1948,Socialist Party of Italian Workers
+1948,1949,40,Italy,0.0,0.0,5.1720000000000015,2.484,-22.414,April 1948,Italian Republican Party
+1948,1949,40,Italy,0.0,0.0,0.0,3.825,45.0,April 1948,Italian Liberal Party
+1948,1949,50,Italy,0.0,0.0,2.381,48.503,7.143,April 1948,Christian Democrats
+1948,1949,70,Italy,0.0,0.0,1.724,2.005,1.724,April 1948,Italian Social Movement
+1948,1950,20,Italy,0.0,0.0,11.429,22.176,-11.429,April 1948,Italian Communist Party
+1948,1950,30,Italy,0.0,0.0,6.897,8.800000000000002,-13.793,April 1948,Italian Socialist Party
+1948,1950,30,Italy,0.0,0.0,0.0,7.074,-36.434,April 1948,Socialist Party of Italian Workers
+1948,1950,40,Italy,0.0,0.0,5.1720000000000015,2.484,-22.414,April 1948,Italian Republican Party
+1948,1950,40,Italy,0.0,0.0,0.0,3.825,45.0,April 1948,Italian Liberal Party
+1948,1950,50,Italy,0.0,0.0,2.381,48.503,7.143,April 1948,Christian Democrats
+1948,1950,70,Italy,0.0,0.0,1.724,2.005,1.724,April 1948,Italian Social Movement
+1948,1951,20,Italy,0.0,0.0,11.429,22.176,-11.429,April 1948,Italian Communist Party
+1948,1951,30,Italy,0.0,0.0,6.897,8.800000000000002,-13.793,April 1948,Italian Socialist Party
+1948,1951,30,Italy,0.0,0.0,0.0,7.074,-36.434,April 1948,Socialist Party of Italian Workers
+1948,1951,40,Italy,0.0,0.0,5.1720000000000015,2.484,-22.414,April 1948,Italian Republican Party
+1948,1951,40,Italy,0.0,0.0,0.0,3.825,45.0,April 1948,Italian Liberal Party
+1948,1951,50,Italy,0.0,0.0,2.381,48.503,7.143,April 1948,Christian Democrats
+1948,1951,70,Italy,0.0,0.0,1.724,2.005,1.724,April 1948,Italian Social Movement
+1948,1952,20,Italy,0.0,0.0,11.429,22.176,-11.429,April 1948,Italian Communist Party
+1948,1952,30,Italy,0.0,0.0,6.897,8.800000000000002,-13.793,April 1948,Italian Socialist Party
+1948,1952,30,Italy,0.0,0.0,0.0,7.074,-36.434,April 1948,Socialist Party of Italian Workers
+1948,1952,40,Italy,0.0,0.0,5.1720000000000015,2.484,-22.414,April 1948,Italian Republican Party
+1948,1952,40,Italy,0.0,0.0,0.0,3.825,45.0,April 1948,Italian Liberal Party
+1948,1952,50,Italy,0.0,0.0,2.381,48.503,7.143,April 1948,Christian Democrats
+1948,1952,70,Italy,0.0,0.0,1.724,2.005,1.724,April 1948,Italian Social Movement
+1953,1953,20,Italy,0.0,0.0,2.247,22.596,-1.124,June 1953,Italian Communist Party
+1953,1953,30,Italy,0.0,0.0,0.0,12.702,-7.3679999999999986,June 1953,Italian Socialist Party
+1953,1953,30,Italy,0.0,1.786,3.571,4.515,-25.0,June 1953,Italian Democratic Socialist Party
+1953,1953,40,Italy,0.0,0.0,3.902,1.617,-20.856,June 1953,Italian Republican Party
+1953,1953,40,Italy,0.0,0.459,0.917,3.013,-0.459,June 1953,Italian Liberal Party
+1953,1953,50,Italy,0.0,1.064,4.255,40.1,-12.765999999999998,June 1953,Christian Democrats
+1953,1953,70,Italy,0.0,0.0,5.0310000000000015,5.832999999999998,-3.145,June 1953,Italian Social Movement
+1953,1954,20,Italy,0.0,0.0,2.247,22.596,-1.124,June 1953,Italian Communist Party
+1953,1954,30,Italy,0.0,0.0,0.0,12.702,-7.3679999999999986,June 1953,Italian Socialist Party
+1953,1954,30,Italy,0.0,1.786,3.571,4.515,-25.0,June 1953,Italian Democratic Socialist Party
+1953,1954,40,Italy,0.0,0.0,3.902,1.617,-20.856,June 1953,Italian Republican Party
+1953,1954,40,Italy,0.0,0.459,0.917,3.013,-0.459,June 1953,Italian Liberal Party
+1953,1954,50,Italy,0.0,1.064,4.255,40.1,-12.765999999999998,June 1953,Christian Democrats
+1953,1954,70,Italy,0.0,0.0,5.0310000000000015,5.832999999999998,-3.145,June 1953,Italian Social Movement
+1953,1955,20,Italy,0.0,0.0,2.247,22.596,-1.124,June 1953,Italian Communist Party
+1953,1955,30,Italy,0.0,0.0,0.0,12.702,-7.3679999999999986,June 1953,Italian Socialist Party
+1953,1955,30,Italy,0.0,1.786,3.571,4.515,-25.0,June 1953,Italian Democratic Socialist Party
+1953,1955,40,Italy,0.0,0.0,3.902,1.617,-20.856,June 1953,Italian Republican Party
+1953,1955,40,Italy,0.0,0.459,0.917,3.013,-0.459,June 1953,Italian Liberal Party
+1953,1955,50,Italy,0.0,1.064,4.255,40.1,-12.765999999999998,June 1953,Christian Democrats
+1953,1955,70,Italy,0.0,0.0,5.0310000000000015,5.832999999999998,-3.145,June 1953,Italian Social Movement
+1953,1956,20,Italy,0.0,0.0,2.247,22.596,-1.124,June 1953,Italian Communist Party
+1953,1956,30,Italy,0.0,0.0,0.0,12.702,-7.3679999999999986,June 1953,Italian Socialist Party
+1953,1956,30,Italy,0.0,1.786,3.571,4.515,-25.0,June 1953,Italian Democratic Socialist Party
+1953,1956,40,Italy,0.0,0.0,3.902,1.617,-20.856,June 1953,Italian Republican Party
+1953,1956,40,Italy,0.0,0.459,0.917,3.013,-0.459,June 1953,Italian Liberal Party
+1953,1956,50,Italy,0.0,1.064,4.255,40.1,-12.765999999999998,June 1953,Christian Democrats
+1953,1956,70,Italy,0.0,0.0,5.0310000000000015,5.832999999999998,-3.145,June 1953,Italian Social Movement
+1953,1957,20,Italy,0.0,0.0,2.247,22.596,-1.124,June 1953,Italian Communist Party
+1953,1957,30,Italy,0.0,0.0,0.0,12.702,-7.3679999999999986,June 1953,Italian Socialist Party
+1953,1957,30,Italy,0.0,1.786,3.571,4.515,-25.0,June 1953,Italian Democratic Socialist Party
+1953,1957,40,Italy,0.0,0.0,3.902,1.617,-20.856,June 1953,Italian Republican Party
+1953,1957,40,Italy,0.0,0.459,0.917,3.013,-0.459,June 1953,Italian Liberal Party
+1953,1957,50,Italy,0.0,1.064,4.255,40.1,-12.765999999999998,June 1953,Christian Democrats
+1953,1957,70,Italy,0.0,0.0,5.0310000000000015,5.832999999999998,-3.145,June 1953,Italian Social Movement
+1958,1958,20,Italy,0.0,1.34,1.34,22.681,-28.418000000000006,May 1958,Italian Communist Party
+1958,1958,30,Italy,0.0,1.111,0.556,14.231,-28.056,May 1958,Italian Socialist Party
+1958,1958,30,Italy,0.0,0.0,2.778,4.552,-24.074,May 1958,Italian Democratic Socialist Party
+1958,1958,40,Italy,0.0,0.0,2.632,1.3730000000000002,-19.298,May 1958,Italian Republican Party
+1958,1958,40,Italy,0.0,0.0,0.0,3.544,19.149,May 1958,Italian Liberal Party
+1958,1958,50,Italy,0.0,0.877,0.0,42.355,-9.649,May 1958,Christian Democrats
+1958,1958,70,Italy,0.0,0.0,1.274,4.762,17.834,May 1958,Italian Social Movement
+1958,1959,20,Italy,0.0,1.34,1.34,22.681,-28.418000000000006,May 1958,Italian Communist Party
+1958,1959,30,Italy,0.0,1.111,0.556,14.231,-28.056,May 1958,Italian Socialist Party
+1958,1959,30,Italy,0.0,0.0,2.778,4.552,-24.074,May 1958,Italian Democratic Socialist Party
+1958,1959,40,Italy,0.0,0.0,2.632,1.3730000000000002,-19.298,May 1958,Italian Republican Party
+1958,1959,40,Italy,0.0,0.0,0.0,3.544,19.149,May 1958,Italian Liberal Party
+1958,1959,50,Italy,0.0,0.877,0.0,42.355,-9.649,May 1958,Christian Democrats
+1958,1959,70,Italy,0.0,0.0,1.274,4.762,17.834,May 1958,Italian Social Movement
+1958,1960,20,Italy,0.0,1.34,1.34,22.681,-28.418000000000006,May 1958,Italian Communist Party
+1958,1960,30,Italy,0.0,1.111,0.556,14.231,-28.056,May 1958,Italian Socialist Party
+1958,1960,30,Italy,0.0,0.0,2.778,4.552,-24.074,May 1958,Italian Democratic Socialist Party
+1958,1960,40,Italy,0.0,0.0,2.632,1.3730000000000002,-19.298,May 1958,Italian Republican Party
+1958,1960,40,Italy,0.0,0.0,0.0,3.544,19.149,May 1958,Italian Liberal Party
+1958,1960,50,Italy,0.0,0.877,0.0,42.355,-9.649,May 1958,Christian Democrats
+1958,1960,70,Italy,0.0,0.0,1.274,4.762,17.834,May 1958,Italian Social Movement
+1958,1961,20,Italy,0.0,1.34,1.34,22.681,-28.418000000000006,May 1958,Italian Communist Party
+1958,1961,30,Italy,0.0,1.111,0.556,14.231,-28.056,May 1958,Italian Socialist Party
+1958,1961,30,Italy,0.0,0.0,2.778,4.552,-24.074,May 1958,Italian Democratic Socialist Party
+1958,1961,40,Italy,0.0,0.0,2.632,1.3730000000000002,-19.298,May 1958,Italian Republican Party
+1958,1961,40,Italy,0.0,0.0,0.0,3.544,19.149,May 1958,Italian Liberal Party
+1958,1961,50,Italy,0.0,0.877,0.0,42.355,-9.649,May 1958,Christian Democrats
+1958,1961,70,Italy,0.0,0.0,1.274,4.762,17.834,May 1958,Italian Social Movement
+1958,1962,20,Italy,0.0,1.34,1.34,22.681,-28.418000000000006,May 1958,Italian Communist Party
+1958,1962,30,Italy,0.0,1.111,0.556,14.231,-28.056,May 1958,Italian Socialist Party
+1958,1962,30,Italy,0.0,0.0,2.778,4.552,-24.074,May 1958,Italian Democratic Socialist Party
+1958,1962,40,Italy,0.0,0.0,2.632,1.3730000000000002,-19.298,May 1958,Italian Republican Party
+1958,1962,40,Italy,0.0,0.0,0.0,3.544,19.149,May 1958,Italian Liberal Party
+1958,1962,50,Italy,0.0,0.877,0.0,42.355,-9.649,May 1958,Christian Democrats
+1958,1962,70,Italy,0.0,0.0,1.274,4.762,17.834,May 1958,Italian Social Movement
+1963,1963,20,Italy,0.0,1.277,0.0,25.256,-25.957,April 1963,Italian Communist Party
+1963,1963,30,Italy,0.134,4.806,0.0,13.841,-31.242,April 1963,Italian Socialist Party
+1963,1963,30,Italy,0.0,1.639,0.0,6.101,-29.508000000000006,April 1963,Italian Democratic Socialist Party
+1963,1963,40,Italy,0.0,0.0,2.407,1.367,-21.444000000000006,April 1963,Italian Republican Party
+1963,1963,40,Italy,0.0,0.0,0.0,6.97,2.885,April 1963,Italian Liberal Party
+1963,1963,50,Italy,0.209,1.883,2.092,38.186,-5.858000000000001,April 1963,Christian Democrats
+1963,1963,70,Italy,0.0,0.0,0.0,5.104,4.012,April 1963,Italian Social Movement
+1963,1964,20,Italy,0.0,1.277,0.0,25.256,-25.957,April 1963,Italian Communist Party
+1963,1964,30,Italy,0.134,4.806,0.0,13.841,-31.242,April 1963,Italian Socialist Party
+1963,1964,30,Italy,0.0,1.639,0.0,6.101,-29.508000000000006,April 1963,Italian Democratic Socialist Party
+1963,1964,40,Italy,0.0,0.0,2.407,1.367,-21.444000000000006,April 1963,Italian Republican Party
+1963,1964,40,Italy,0.0,0.0,0.0,6.97,2.885,April 1963,Italian Liberal Party
+1963,1964,50,Italy,0.209,1.883,2.092,38.186,-5.858000000000001,April 1963,Christian Democrats
+1963,1964,70,Italy,0.0,0.0,0.0,5.104,4.012,April 1963,Italian Social Movement
+1963,1965,20,Italy,0.0,1.277,0.0,25.256,-25.957,April 1963,Italian Communist Party
+1963,1965,30,Italy,0.134,4.806,0.0,13.841,-31.242,April 1963,Italian Socialist Party
+1963,1965,30,Italy,0.0,1.639,0.0,6.101,-29.508000000000006,April 1963,Italian Democratic Socialist Party
+1963,1965,40,Italy,0.0,0.0,2.407,1.367,-21.444000000000006,April 1963,Italian Republican Party
+1963,1965,40,Italy,0.0,0.0,0.0,6.97,2.885,April 1963,Italian Liberal Party
+1963,1965,50,Italy,0.209,1.883,2.092,38.186,-5.858000000000001,April 1963,Christian Democrats
+1963,1965,70,Italy,0.0,0.0,0.0,5.104,4.012,April 1963,Italian Social Movement
+1963,1966,20,Italy,0.0,1.277,0.0,25.256,-25.957,April 1963,Italian Communist Party
+1963,1966,30,Italy,0.134,4.806,0.0,13.841,-31.242,April 1963,Italian Socialist Party
+1963,1966,30,Italy,0.0,1.639,0.0,6.101,-29.508000000000006,April 1963,Italian Democratic Socialist Party
+1963,1966,40,Italy,0.0,0.0,2.407,1.367,-21.444000000000006,April 1963,Italian Republican Party
+1963,1966,40,Italy,0.0,0.0,0.0,6.97,2.885,April 1963,Italian Liberal Party
+1963,1966,50,Italy,0.209,1.883,2.092,38.186,-5.858000000000001,April 1963,Christian Democrats
+1963,1966,70,Italy,0.0,0.0,0.0,5.104,4.012,April 1963,Italian Social Movement
+1963,1967,20,Italy,0.0,1.277,0.0,25.256,-25.957,April 1963,Italian Communist Party
+1963,1967,30,Italy,0.134,4.806,0.0,13.841,-31.242,April 1963,Italian Socialist Party
+1963,1967,30,Italy,0.0,1.639,0.0,6.101,-29.508000000000006,April 1963,Italian Democratic Socialist Party
+1963,1967,40,Italy,0.0,0.0,2.407,1.367,-21.444000000000006,April 1963,Italian Republican Party
+1963,1967,40,Italy,0.0,0.0,0.0,6.97,2.885,April 1963,Italian Liberal Party
+1963,1967,50,Italy,0.209,1.883,2.092,38.186,-5.858000000000001,April 1963,Christian Democrats
+1963,1967,70,Italy,0.0,0.0,0.0,5.104,4.012,April 1963,Italian Social Movement
+1968,1968,20,Italy,0.339,0.0,0.6779999999999999,26.907,-30.169,May 1968,Italian Communist Party
+1968,1968,30,Italy,0.0,0.0,0.0,14.482,-18.699,May 1968,Unified Italian Socialist Party-Italian Democratic Socialist Party
+1968,1968,40,Italy,0.0,0.0,0.0,1.97,1.538,May 1968,Italian Republican Party
+1968,1968,40,Italy,0.0,5.233000000000001,0.581,5.82,-12.209,May 1968,Italian Liberal Party
+1968,1968,50,Italy,0.0,3.734,0.0,39.012,-10.788,May 1968,Christian Democrats
+1968,1968,70,Italy,0.0,0.0,0.0,4.449,0.0,May 1968,Italian Social Movement
+1968,1969,20,Italy,0.339,0.0,0.6779999999999999,26.907,-30.169,May 1968,Italian Communist Party
+1968,1969,30,Italy,0.0,0.0,0.0,14.482,-18.699,May 1968,Unified Italian Socialist Party-Italian Democratic Socialist Party
+1968,1969,40,Italy,0.0,0.0,0.0,1.97,1.538,May 1968,Italian Republican Party
+1968,1969,40,Italy,0.0,5.233000000000001,0.581,5.82,-12.209,May 1968,Italian Liberal Party
+1968,1969,50,Italy,0.0,3.734,0.0,39.012,-10.788,May 1968,Christian Democrats
+1968,1969,70,Italy,0.0,0.0,0.0,4.449,0.0,May 1968,Italian Social Movement
+1968,1970,20,Italy,0.339,0.0,0.6779999999999999,26.907,-30.169,May 1968,Italian Communist Party
+1968,1970,30,Italy,0.0,0.0,0.0,14.482,-18.699,May 1968,Unified Italian Socialist Party-Italian Democratic Socialist Party
+1968,1970,40,Italy,0.0,0.0,0.0,1.97,1.538,May 1968,Italian Republican Party
+1968,1970,40,Italy,0.0,5.233000000000001,0.581,5.82,-12.209,May 1968,Italian Liberal Party
+1968,1970,50,Italy,0.0,3.734,0.0,39.012,-10.788,May 1968,Christian Democrats
+1968,1970,70,Italy,0.0,0.0,0.0,4.449,0.0,May 1968,Italian Social Movement
+1968,1971,20,Italy,0.339,0.0,0.6779999999999999,26.907,-30.169,May 1968,Italian Communist Party
+1968,1971,30,Italy,0.0,0.0,0.0,14.482,-18.699,May 1968,Unified Italian Socialist Party-Italian Democratic Socialist Party
+1968,1971,40,Italy,0.0,0.0,0.0,1.97,1.538,May 1968,Italian Republican Party
+1968,1971,40,Italy,0.0,5.233000000000001,0.581,5.82,-12.209,May 1968,Italian Liberal Party
+1968,1971,50,Italy,0.0,3.734,0.0,39.012,-10.788,May 1968,Christian Democrats
+1968,1971,70,Italy,0.0,0.0,0.0,4.449,0.0,May 1968,Italian Social Movement
+1972,1972,20,Italy,0.716,4.057,0.955,27.153,-18.854,May 1972,Italian Communist Party
+1972,1972,30,Italy,0.4370000000000001,0.0,0.4370000000000001,9.605,-40.175,May 1972,Italian Socialist Party
+1972,1972,30,Italy,3.053,0.0,0.0,5.142,-11.45,May 1972,Italian Democratic Socialist Party
+1972,1972,40,Italy,0.0,0.0,0.0,2.857,-3.96,May 1972,Italian Republican Party
+1972,1972,40,Italy,0.0,0.0,2.927,3.882,-6.829,May 1972,Italian Liberal Party
+1972,1972,50,Italy,0.0,0.0,0.0,38.662,3.571,May 1972,Christian Democrats
+1972,1972,70,Italy,0.0,0.0,4.673,8.666,-4.673,May 1972,Italian Social Movement-National Right
+1972,1973,20,Italy,0.716,4.057,0.955,27.153,-18.854,May 1972,Italian Communist Party
+1972,1973,30,Italy,0.4370000000000001,0.0,0.4370000000000001,9.605,-40.175,May 1972,Italian Socialist Party
+1972,1973,30,Italy,3.053,0.0,0.0,5.142,-11.45,May 1972,Italian Democratic Socialist Party
+1972,1973,40,Italy,0.0,0.0,0.0,2.857,-3.96,May 1972,Italian Republican Party
+1972,1973,40,Italy,0.0,0.0,2.927,3.882,-6.829,May 1972,Italian Liberal Party
+1972,1973,50,Italy,0.0,0.0,0.0,38.662,3.571,May 1972,Christian Democrats
+1972,1973,70,Italy,0.0,0.0,4.673,8.666,-4.673,May 1972,Italian Social Movement-National Right
+1972,1974,20,Italy,0.716,4.057,0.955,27.153,-18.854,May 1972,Italian Communist Party
+1972,1974,30,Italy,0.4370000000000001,0.0,0.4370000000000001,9.605,-40.175,May 1972,Italian Socialist Party
+1972,1974,30,Italy,3.053,0.0,0.0,5.142,-11.45,May 1972,Italian Democratic Socialist Party
+1972,1974,40,Italy,0.0,0.0,0.0,2.857,-3.96,May 1972,Italian Republican Party
+1972,1974,40,Italy,0.0,0.0,2.927,3.882,-6.829,May 1972,Italian Liberal Party
+1972,1974,50,Italy,0.0,0.0,0.0,38.662,3.571,May 1972,Christian Democrats
+1972,1974,70,Italy,0.0,0.0,4.673,8.666,-4.673,May 1972,Italian Social Movement-National Right
+1972,1975,20,Italy,0.716,4.057,0.955,27.153,-18.854,May 1972,Italian Communist Party
+1972,1975,30,Italy,0.4370000000000001,0.0,0.4370000000000001,9.605,-40.175,May 1972,Italian Socialist Party
+1972,1975,30,Italy,3.053,0.0,0.0,5.142,-11.45,May 1972,Italian Democratic Socialist Party
+1972,1975,40,Italy,0.0,0.0,0.0,2.857,-3.96,May 1972,Italian Republican Party
+1972,1975,40,Italy,0.0,0.0,2.927,3.882,-6.829,May 1972,Italian Liberal Party
+1972,1975,50,Italy,0.0,0.0,0.0,38.662,3.571,May 1972,Christian Democrats
+1972,1975,70,Italy,0.0,0.0,4.673,8.666,-4.673,May 1972,Italian Social Movement-National Right
+1976,1976,20,Italy,4.773,0.0,0.227,0.76,-14.318,June 1976,Proletarian Unity Party for Communism (The Manifesto + Proletarian Unity Party)
+1976,1976,20,Italy,0.408,2.857,2.245,34.372,-7.551,June 1976,Italian Communist Party
+1976,1976,30,Italy,0.0,0.0,2.128,1.075,31.915,June 1976,Radical Party
+1976,1976,30,Italy,2.475,1.98,0.495,9.645,-10.396,June 1976,Italian Socialist Party
+1976,1976,30,Italy,0.231,0.0,1.617,3.369,-6.928,June 1976,Italian Democratic Socialist Party
+1976,1976,40,Italy,0.465,0.0,0.0,3.091,3.721,June 1976,Italian Republican Party
+1976,1976,40,Italy,0.0,1.856,1.392,1.3019999999999998,-0.464,June 1976,Italian Liberal Party
+1976,1976,50,Italy,0.0,1.057,0.634,38.71,3.1710000000000003,June 1976,Christian Democrats
+1976,1976,70,Italy,0.0,0.769,0.0,6.112,5.385,June 1976,Italian Social Movement-National Right
+1976,1977,20,Italy,4.773,0.0,0.227,0.76,-14.318,June 1976,Proletarian Unity Party for Communism (The Manifesto + Proletarian Unity Party)
+1976,1977,20,Italy,0.408,2.857,2.245,34.372,-7.551,June 1976,Italian Communist Party
+1976,1977,30,Italy,0.0,0.0,2.128,1.075,31.915,June 1976,Radical Party
+1976,1977,30,Italy,2.475,1.98,0.495,9.645,-10.396,June 1976,Italian Socialist Party
+1976,1977,30,Italy,0.231,0.0,1.617,3.369,-6.928,June 1976,Italian Democratic Socialist Party
+1976,1977,40,Italy,0.465,0.0,0.0,3.091,3.721,June 1976,Italian Republican Party
+1976,1977,40,Italy,0.0,1.856,1.392,1.3019999999999998,-0.464,June 1976,Italian Liberal Party
+1976,1977,50,Italy,0.0,1.057,0.634,38.71,3.1710000000000003,June 1976,Christian Democrats
+1976,1977,70,Italy,0.0,0.769,0.0,6.112,5.385,June 1976,Italian Social Movement-National Right
+1976,1978,20,Italy,4.773,0.0,0.227,0.76,-14.318,June 1976,Proletarian Unity Party for Communism (The Manifesto + Proletarian Unity Party)
+1976,1978,20,Italy,0.408,2.857,2.245,34.372,-7.551,June 1976,Italian Communist Party
+1976,1978,30,Italy,0.0,0.0,2.128,1.075,31.915,June 1976,Radical Party
+1976,1978,30,Italy,2.475,1.98,0.495,9.645,-10.396,June 1976,Italian Socialist Party
+1976,1978,30,Italy,0.231,0.0,1.617,3.369,-6.928,June 1976,Italian Democratic Socialist Party
+1976,1978,40,Italy,0.465,0.0,0.0,3.091,3.721,June 1976,Italian Republican Party
+1976,1978,40,Italy,0.0,1.856,1.392,1.3019999999999998,-0.464,June 1976,Italian Liberal Party
+1976,1978,50,Italy,0.0,1.057,0.634,38.71,3.1710000000000003,June 1976,Christian Democrats
+1976,1978,70,Italy,0.0,0.769,0.0,6.112,5.385,June 1976,Italian Social Movement-National Right
+1979,1979,20,Italy,4.773,0.0,0.227,1.372,-14.318,June 1979,Proletarian Unity Party for Communism (The Manifesto + Proletarian Unity Party)
+1979,1979,20,Italy,2.397,7.534,1.256,30.383000000000006,-16.667,June 1979,Italian Communist Party
+1979,1979,30,Italy,0.0,0.0,1.064,3.451,32.624,June 1979,Radical Party
+1979,1979,30,Italy,0.8190000000000001,2.046,0.136,9.805,-11.187,June 1979,Italian Socialist Party
+1979,1979,30,Italy,0.35600000000000004,2.135,1.423,3.836,2.491,June 1979,Italian Democratic Socialist Party
+1979,1979,40,Italy,0.0,0.0,0.0,3.024,-2.778,June 1979,Italian Republican Party
+1979,1979,40,Italy,0.0,0.0,2.959,1.948,-5.03,June 1979,Italian Liberal Party
+1979,1979,50,Italy,0.6990000000000001,1.399,0.0,38.293,-6.294,June 1979,Christian Democrats
+1979,1979,70,Italy,0.0,0.0,0.775,5.261,4.651,June 1979,Italian Social Movement-National Right
+1979,1980,20,Italy,4.773,0.0,0.227,1.372,-14.318,June 1979,Proletarian Unity Party for Communism (The Manifesto + Proletarian Unity Party)
+1979,1980,20,Italy,2.397,7.534,1.256,30.383000000000006,-16.667,June 1979,Italian Communist Party
+1979,1980,30,Italy,0.0,0.0,1.064,3.451,32.624,June 1979,Radical Party
+1979,1980,30,Italy,0.8190000000000001,2.046,0.136,9.805,-11.187,June 1979,Italian Socialist Party
+1979,1980,30,Italy,0.35600000000000004,2.135,1.423,3.836,2.491,June 1979,Italian Democratic Socialist Party
+1979,1980,40,Italy,0.0,0.0,0.0,3.024,-2.778,June 1979,Italian Republican Party
+1979,1980,40,Italy,0.0,0.0,2.959,1.948,-5.03,June 1979,Italian Liberal Party
+1979,1980,50,Italy,0.6990000000000001,1.399,0.0,38.293,-6.294,June 1979,Christian Democrats
+1979,1980,70,Italy,0.0,0.0,0.775,5.261,4.651,June 1979,Italian Social Movement-National Right
+1979,1981,20,Italy,4.773,0.0,0.227,1.372,-14.318,June 1979,Proletarian Unity Party for Communism (The Manifesto + Proletarian Unity Party)
+1979,1981,20,Italy,2.397,7.534,1.256,30.383000000000006,-16.667,June 1979,Italian Communist Party
+1979,1981,30,Italy,0.0,0.0,1.064,3.451,32.624,June 1979,Radical Party
+1979,1981,30,Italy,0.8190000000000001,2.046,0.136,9.805,-11.187,June 1979,Italian Socialist Party
+1979,1981,30,Italy,0.35600000000000004,2.135,1.423,3.836,2.491,June 1979,Italian Democratic Socialist Party
+1979,1981,40,Italy,0.0,0.0,0.0,3.024,-2.778,June 1979,Italian Republican Party
+1979,1981,40,Italy,0.0,0.0,2.959,1.948,-5.03,June 1979,Italian Liberal Party
+1979,1981,50,Italy,0.6990000000000001,1.399,0.0,38.293,-6.294,June 1979,Christian Democrats
+1979,1981,70,Italy,0.0,0.0,0.775,5.261,4.651,June 1979,Italian Social Movement-National Right
+1979,1982,20,Italy,4.773,0.0,0.227,1.372,-14.318,June 1979,Proletarian Unity Party for Communism (The Manifesto + Proletarian Unity Party)
+1979,1982,20,Italy,2.397,7.534,1.256,30.383000000000006,-16.667,June 1979,Italian Communist Party
+1979,1982,30,Italy,0.0,0.0,1.064,3.451,32.624,June 1979,Radical Party
+1979,1982,30,Italy,0.8190000000000001,2.046,0.136,9.805,-11.187,June 1979,Italian Socialist Party
+1979,1982,30,Italy,0.35600000000000004,2.135,1.423,3.836,2.491,June 1979,Italian Democratic Socialist Party
+1979,1982,40,Italy,0.0,0.0,0.0,3.024,-2.778,June 1979,Italian Republican Party
+1979,1982,40,Italy,0.0,0.0,2.959,1.948,-5.03,June 1979,Italian Liberal Party
+1979,1982,50,Italy,0.6990000000000001,1.399,0.0,38.293,-6.294,June 1979,Christian Democrats
+1979,1982,70,Italy,0.0,0.0,0.775,5.261,4.651,June 1979,Italian Social Movement-National Right
+1983,1983,20,Italy,4.773,0.0,0.227,0.906,-14.318,June 1983,Proletarian Unity Party for Communism (The Manifesto + Proletarian Unity Party)
+1983,1983,20,Italy,5.556,0.0,0.556,1.47,-21.111,June 1983,Proletarian Democracy
+1983,1983,20,Italy,0.9540000000000001,1.06,0.212,28.983,-6.681,June 1983,Italian Communist Party
+1983,1983,30,Italy,0.0,0.0,1.064,2.199,32.624,June 1983,Radical Party
+1983,1983,30,Italy,0.314,0.0,1.884,11.441,-6.75,June 1983,Italian Socialist Party
+1983,1983,30,Italy,0.0,0.0,0.0,4.085,-11.314,June 1983,Italian Democratic Socialist Party
+1983,1983,40,Italy,3.15,0.984,0.984,5.08,-0.197,June 1983,Italian Republican Party
+1983,1983,40,Italy,3.254,0.0,0.888,2.8960000000000004,3.55,June 1983,Italian Liberal Party
+1983,1983,50,Italy,0.476,0.238,0.238,32.921,-2.619,June 1983,Christian Democrats
+1983,1983,70,Italy,3.673,1.336,0.334,6.801,0.6679999999999999,June 1983,Italian Social Movement-National Right
+1983,1984,20,Italy,4.773,0.0,0.227,0.906,-14.318,June 1983,Proletarian Unity Party for Communism (The Manifesto + Proletarian Unity Party)
+1983,1984,20,Italy,5.556,0.0,0.556,1.47,-21.111,June 1983,Proletarian Democracy
+1983,1984,20,Italy,0.9540000000000001,1.06,0.212,28.983,-6.681,June 1983,Italian Communist Party
+1983,1984,30,Italy,0.0,0.0,1.064,2.199,32.624,June 1983,Radical Party
+1983,1984,30,Italy,0.314,0.0,1.884,11.441,-6.75,June 1983,Italian Socialist Party
+1983,1984,30,Italy,0.0,0.0,0.0,4.085,-11.314,June 1983,Italian Democratic Socialist Party
+1983,1984,40,Italy,3.15,0.984,0.984,5.08,-0.197,June 1983,Italian Republican Party
+1983,1984,40,Italy,3.254,0.0,0.888,2.8960000000000004,3.55,June 1983,Italian Liberal Party
+1983,1984,50,Italy,0.476,0.238,0.238,32.921,-2.619,June 1983,Christian Democrats
+1983,1984,70,Italy,3.673,1.336,0.334,6.801,0.6679999999999999,June 1983,Italian Social Movement-National Right
+1983,1985,20,Italy,4.773,0.0,0.227,0.906,-14.318,June 1983,Proletarian Unity Party for Communism (The Manifesto + Proletarian Unity Party)
+1983,1985,20,Italy,5.556,0.0,0.556,1.47,-21.111,June 1983,Proletarian Democracy
+1983,1985,20,Italy,0.9540000000000001,1.06,0.212,28.983,-6.681,June 1983,Italian Communist Party
+1983,1985,30,Italy,0.0,0.0,1.064,2.199,32.624,June 1983,Radical Party
+1983,1985,30,Italy,0.314,0.0,1.884,11.441,-6.75,June 1983,Italian Socialist Party
+1983,1985,30,Italy,0.0,0.0,0.0,4.085,-11.314,June 1983,Italian Democratic Socialist Party
+1983,1985,40,Italy,3.15,0.984,0.984,5.08,-0.197,June 1983,Italian Republican Party
+1983,1985,40,Italy,3.254,0.0,0.888,2.8960000000000004,3.55,June 1983,Italian Liberal Party
+1983,1985,50,Italy,0.476,0.238,0.238,32.921,-2.619,June 1983,Christian Democrats
+1983,1985,70,Italy,3.673,1.336,0.334,6.801,0.6679999999999999,June 1983,Italian Social Movement-National Right
+1983,1986,20,Italy,4.773,0.0,0.227,0.906,-14.318,June 1983,Proletarian Unity Party for Communism (The Manifesto + Proletarian Unity Party)
+1983,1986,20,Italy,5.556,0.0,0.556,1.47,-21.111,June 1983,Proletarian Democracy
+1983,1986,20,Italy,0.9540000000000001,1.06,0.212,28.983,-6.681,June 1983,Italian Communist Party
+1983,1986,30,Italy,0.0,0.0,1.064,2.199,32.624,June 1983,Radical Party
+1983,1986,30,Italy,0.314,0.0,1.884,11.441,-6.75,June 1983,Italian Socialist Party
+1983,1986,30,Italy,0.0,0.0,0.0,4.085,-11.314,June 1983,Italian Democratic Socialist Party
+1983,1986,40,Italy,3.15,0.984,0.984,5.08,-0.197,June 1983,Italian Republican Party
+1983,1986,40,Italy,3.254,0.0,0.888,2.8960000000000004,3.55,June 1983,Italian Liberal Party
+1983,1986,50,Italy,0.476,0.238,0.238,32.921,-2.619,June 1983,Christian Democrats
+1983,1986,70,Italy,3.673,1.336,0.334,6.801,0.6679999999999999,June 1983,Italian Social Movement-National Right
+1987,1987,10,Italy,22.093000000000004,1.744,1.744,2.514,1.744,June 1987,Green Federation
+1987,1987,20,Italy,5.556,0.0,0.556,1.664,-21.111,June 1987,Proletarian Democracy
+1987,1987,20,Italy,7.394,1.761,5.9860000000000015,26.572,-22.887,June 1987,Italian Communist Party
+1987,1987,30,Italy,0.0,0.0,1.064,2.5610000000000004,32.624,June 1987,Radical Party
+1987,1987,30,Italy,2.827,3.534,6.36,14.264,4.24,June 1987,Italian Socialist Party
+1987,1987,30,Italy,2.759,0.0,6.5520000000000005,2.9560000000000004,18.276,June 1987,Italian Democratic Socialist Party
+1987,1987,40,Italy,0.847,0.0,0.0,3.703,45.76300000000001,June 1987,Italian Republican Party
+1987,1987,40,Italy,4.188,0.524,1.571,2.102,30.366,June 1987,Italian Liberal Party
+1987,1987,50,Italy,7.556,0.118,1.889,34.304,4.25,June 1987,Christian Democrats
+1987,1987,70,Italy,0.0,0.0,0.0,5.917000000000002,53.659,June 1987,Italian Social Movement-National Right
+1987,1988,10,Italy,22.093000000000004,1.744,1.744,2.514,1.744,June 1987,Green Federation
+1987,1988,20,Italy,5.556,0.0,0.556,1.664,-21.111,June 1987,Proletarian Democracy
+1987,1988,20,Italy,7.394,1.761,5.9860000000000015,26.572,-22.887,June 1987,Italian Communist Party
+1987,1988,30,Italy,0.0,0.0,1.064,2.5610000000000004,32.624,June 1987,Radical Party
+1987,1988,30,Italy,2.827,3.534,6.36,14.264,4.24,June 1987,Italian Socialist Party
+1987,1988,30,Italy,2.759,0.0,6.5520000000000005,2.9560000000000004,18.276,June 1987,Italian Democratic Socialist Party
+1987,1988,40,Italy,0.847,0.0,0.0,3.703,45.76300000000001,June 1987,Italian Republican Party
+1987,1988,40,Italy,4.188,0.524,1.571,2.102,30.366,June 1987,Italian Liberal Party
+1987,1988,50,Italy,7.556,0.118,1.889,34.304,4.25,June 1987,Christian Democrats
+1987,1988,70,Italy,0.0,0.0,0.0,5.917000000000002,53.659,June 1987,Italian Social Movement-National Right
+1987,1989,10,Italy,22.093000000000004,1.744,1.744,2.514,1.744,June 1987,Green Federation
+1987,1989,20,Italy,5.556,0.0,0.556,1.664,-21.111,June 1987,Proletarian Democracy
+1987,1989,20,Italy,7.394,1.761,5.9860000000000015,26.572,-22.887,June 1987,Italian Communist Party
+1987,1989,30,Italy,0.0,0.0,1.064,2.5610000000000004,32.624,June 1987,Radical Party
+1987,1989,30,Italy,2.827,3.534,6.36,14.264,4.24,June 1987,Italian Socialist Party
+1987,1989,30,Italy,2.759,0.0,6.5520000000000005,2.9560000000000004,18.276,June 1987,Italian Democratic Socialist Party
+1987,1989,40,Italy,0.847,0.0,0.0,3.703,45.76300000000001,June 1987,Italian Republican Party
+1987,1989,40,Italy,4.188,0.524,1.571,2.102,30.366,June 1987,Italian Liberal Party
+1987,1989,50,Italy,7.556,0.118,1.889,34.304,4.25,June 1987,Christian Democrats
+1987,1989,70,Italy,0.0,0.0,0.0,5.917000000000002,53.659,June 1987,Italian Social Movement-National Right
+1987,1990,10,Italy,22.093000000000004,1.744,1.744,2.514,1.744,June 1987,Green Federation
+1987,1990,20,Italy,5.556,0.0,0.556,1.664,-21.111,June 1987,Proletarian Democracy
+1987,1990,20,Italy,7.394,1.761,5.9860000000000015,26.572,-22.887,June 1987,Italian Communist Party
+1987,1990,30,Italy,0.0,0.0,1.064,2.5610000000000004,32.624,June 1987,Radical Party
+1987,1990,30,Italy,2.827,3.534,6.36,14.264,4.24,June 1987,Italian Socialist Party
+1987,1990,30,Italy,2.759,0.0,6.5520000000000005,2.9560000000000004,18.276,June 1987,Italian Democratic Socialist Party
+1987,1990,40,Italy,0.847,0.0,0.0,3.703,45.76300000000001,June 1987,Italian Republican Party
+1987,1990,40,Italy,4.188,0.524,1.571,2.102,30.366,June 1987,Italian Liberal Party
+1987,1990,50,Italy,7.556,0.118,1.889,34.304,4.25,June 1987,Christian Democrats
+1987,1990,70,Italy,0.0,0.0,0.0,5.917000000000002,53.659,June 1987,Italian Social Movement-National Right
+1987,1991,10,Italy,22.093000000000004,1.744,1.744,2.514,1.744,June 1987,Green Federation
+1987,1991,20,Italy,5.556,0.0,0.556,1.664,-21.111,June 1987,Proletarian Democracy
+1987,1991,20,Italy,7.394,1.761,5.9860000000000015,26.572,-22.887,June 1987,Italian Communist Party
+1987,1991,30,Italy,0.0,0.0,1.064,2.5610000000000004,32.624,June 1987,Radical Party
+1987,1991,30,Italy,2.827,3.534,6.36,14.264,4.24,June 1987,Italian Socialist Party
+1987,1991,30,Italy,2.759,0.0,6.5520000000000005,2.9560000000000004,18.276,June 1987,Italian Democratic Socialist Party
+1987,1991,40,Italy,0.847,0.0,0.0,3.703,45.76300000000001,June 1987,Italian Republican Party
+1987,1991,40,Italy,4.188,0.524,1.571,2.102,30.366,June 1987,Italian Liberal Party
+1987,1991,50,Italy,7.556,0.118,1.889,34.304,4.25,June 1987,Christian Democrats
+1987,1991,70,Italy,0.0,0.0,0.0,5.917000000000002,53.659,June 1987,Italian Social Movement-National Right
+1992,1992,10,Italy,34.783,0.0,8.696,2.787,9.783,April 1992,Green Federation
+1992,1992,20,Italy,4.072,3.62,3.62,5.6179999999999986,-26.697,April 1992,Communist Refoundation Party
+1992,1992,20,Italy,0.37,0.0,7.778,16.108,10.741,April 1992,Democratic Party of the Left
+1992,1992,30,Italy,0.0,0.0,0.0,1.238,33.333,April 1992,Pannella List
+1992,1992,30,Italy,1.84,4.862,4.993,13.61,8.016,April 1992,Italian Socialist Party
+1992,1992,30,Italy,3.1010000000000004,3.876,8.527000000000001,2.7110000000000003,2.326,April 1992,Italian Democratic Socialist Party
+1992,1992,40,Italy,5.102,0.0,2.041,4.391,36.735,April 1992,Italian Republican Party
+1992,1992,40,Italy,1.98,2.64,0.66,2.855,10.561,April 1992,Italian Liberal Party
+1992,1992,50,Italy,2.992,5.252999999999999,1.995,29.656,8.777000000000001,April 1992,Christian Democrats
+1992,1992,70,Italy,0.0,0.0,0.0,5.365,26.531,April 1992,Italian Social Movement-National Right
+1992,1992,70,Italy,2.824,2.492,2.824,8.658999999999999,8.638,April 1992,Northern League
+1992,1992,95,Italy,14.286,2.857,11.429,1.858,0.0,April 1992,The Network/Movement for Democracy
+1992,1993,10,Italy,34.783,0.0,8.696,2.787,9.783,April 1992,Green Federation
+1992,1993,20,Italy,4.072,3.62,3.62,5.6179999999999986,-26.697,April 1992,Communist Refoundation Party
+1992,1993,20,Italy,0.37,0.0,7.778,16.108,10.741,April 1992,Democratic Party of the Left
+1992,1993,30,Italy,0.0,0.0,0.0,1.238,33.333,April 1992,Pannella List
+1992,1993,30,Italy,1.84,4.862,4.993,13.61,8.016,April 1992,Italian Socialist Party
+1992,1993,30,Italy,3.1010000000000004,3.876,8.527000000000001,2.7110000000000003,2.326,April 1992,Italian Democratic Socialist Party
+1992,1993,40,Italy,5.102,0.0,2.041,4.391,36.735,April 1992,Italian Republican Party
+1992,1993,40,Italy,1.98,2.64,0.66,2.855,10.561,April 1992,Italian Liberal Party
+1992,1993,50,Italy,2.992,5.252999999999999,1.995,29.656,8.777000000000001,April 1992,Christian Democrats
+1992,1993,70,Italy,0.0,0.0,0.0,5.365,26.531,April 1992,Italian Social Movement-National Right
+1992,1993,70,Italy,2.824,2.492,2.824,8.658999999999999,8.638,April 1992,Northern League
+1992,1993,95,Italy,14.286,2.857,11.429,1.858,0.0,April 1992,The Network/Movement for Democracy
+1994,1994,10,Italy,44.24,3.2260000000000004,0.0,2.701,-11.521,March 1994,Green Federation
+1994,1994,20,Italy,4.178,3.9,5.5710000000000015,6.047999999999999,-24.234,March 1994,Communist Refoundation Party
+1994,1994,20,Italy,1.2819999999999998,0.0,4.487,20.354,7.051,March 1994,Democratic Party of the Left
+1994,1994,30,Italy,0.0,0.0,0.0,3.513,33.333,March 1994,Pannella-Riformatori List
+1994,1994,30,Italy,1.84,4.862,4.993,2.181,8.016,March 1994,Italian Socialist Party
+1994,1994,50,Italy,0.0,0.0,0.0,,47.345,March 1994,Italian Popular Party
+1994,1994,50,Italy,0.0,0.0,4.011,15.713,10.888,March 1994,Pact for Italy
+1994,1994,50,Italy,0.862,8.621,0.0,1.172,6.034,March 1994,Democratic Alliance
+1994,1994,60,Italy,2.161,2.358,3.34,21.037,37.917,March 1994,Go Italy
+1994,1994,70,Italy,0.0,1.018,0.254,13.48,6.616000000000001,March 1994,National Alliance
+1994,1994,70,Italy,2.824,2.492,2.824,8.620000000000001,8.638,March 1994,Northern League
+1994,1994,95,Italy,14.286,2.857,11.429,1.861,0.0,March 1994,The Network/Movement for Democracy
+1994,1995,10,Italy,44.24,3.2260000000000004,0.0,2.701,-11.521,March 1994,Green Federation
+1994,1995,20,Italy,4.178,3.9,5.5710000000000015,6.047999999999999,-24.234,March 1994,Communist Refoundation Party
+1994,1995,20,Italy,1.2819999999999998,0.0,4.487,20.354,7.051,March 1994,Democratic Party of the Left
+1994,1995,30,Italy,0.0,0.0,0.0,3.513,33.333,March 1994,Pannella-Riformatori List
+1994,1995,30,Italy,1.84,4.862,4.993,2.181,8.016,March 1994,Italian Socialist Party
+1994,1995,50,Italy,0.0,0.0,0.0,,47.345,March 1994,Italian Popular Party
+1994,1995,50,Italy,0.0,0.0,4.011,15.713,10.888,March 1994,Pact for Italy
+1994,1995,50,Italy,0.862,8.621,0.0,1.172,6.034,March 1994,Democratic Alliance
+1994,1995,60,Italy,2.161,2.358,3.34,21.037,37.917,March 1994,Go Italy
+1994,1995,70,Italy,0.0,1.018,0.254,13.48,6.616000000000001,March 1994,National Alliance
+1994,1995,70,Italy,2.824,2.492,2.824,8.620000000000001,8.638,March 1994,Northern League
+1994,1995,95,Italy,14.286,2.857,11.429,1.861,0.0,March 1994,The Network/Movement for Democracy
+1996,1996,10,Italy,44.24,3.2260000000000004,0.0,2.5,-11.521,April 1996,Green Federation
+1996,1996,20,Italy,2.454,1.84,5.521,8.576,-26.994,April 1996,Communist Refoundation Party
+1996,1996,20,Italy,0.935,10.28,5.607,21.058000000000003,16.822,April 1996,Democratic Party of the Left
+1996,1996,30,Italy,0.0,0.0,0.0,1.869,33.333,April 1996,Pannella-Sgarbi List
+1996,1996,30,Italy,2.9410000000000003,0.0,0.0,4.339,35.29400000000001,April 1996,Italian Renewal
+1996,1996,50,Italy,0.0,0.0,1.639,6.81,18.033,April 1996,Italian Popular Party
+1996,1996,50,Italy,3.704,0.0,0.0,,35.185,April 1996,Christian Democratic Centre
+1996,1996,50,Italy,0.0,0.0,5.667000000000002,5.84,33.667,April 1996,Democratic Alliance
+1996,1996,60,Italy,3.704,0.0,0.0,20.574,59.25899999999999,April 1996,Go Italy
+1996,1996,70,Italy,0.0,6.024,1.205,15.667,6.627000000000002,April 1996,National Alliance
+1996,1996,70,Italy,7.9929999999999986,7.249000000000001,1.487,10.074,17.472,April 1996,Northern League
+1996,1997,10,Italy,44.24,3.2260000000000004,0.0,2.5,-11.521,April 1996,Green Federation
+1996,1997,20,Italy,2.454,1.84,5.521,8.576,-26.994,April 1996,Communist Refoundation Party
+1996,1997,20,Italy,0.935,10.28,5.607,21.058000000000003,16.822,April 1996,Democratic Party of the Left
+1996,1997,30,Italy,0.0,0.0,0.0,1.869,33.333,April 1996,Pannella-Sgarbi List
+1996,1997,30,Italy,2.9410000000000003,0.0,0.0,4.339,35.29400000000001,April 1996,Italian Renewal
+1996,1997,50,Italy,0.0,0.0,1.639,6.81,18.033,April 1996,Italian Popular Party
+1996,1997,50,Italy,3.704,0.0,0.0,,35.185,April 1996,Christian Democratic Centre
+1996,1997,50,Italy,0.0,0.0,5.667000000000002,5.84,33.667,April 1996,Democratic Alliance
+1996,1997,60,Italy,3.704,0.0,0.0,20.574,59.25899999999999,April 1996,Go Italy
+1996,1997,70,Italy,0.0,6.024,1.205,15.667,6.627000000000002,April 1996,National Alliance
+1996,1997,70,Italy,7.9929999999999986,7.249000000000001,1.487,10.074,17.472,April 1996,Northern League
+1996,1998,10,Italy,44.24,3.2260000000000004,0.0,2.5,-11.521,April 1996,Green Federation
+1996,1998,20,Italy,2.454,1.84,5.521,8.576,-26.994,April 1996,Communist Refoundation Party
+1996,1998,20,Italy,0.935,10.28,5.607,21.058000000000003,16.822,April 1996,Democratic Party of the Left
+1996,1998,30,Italy,0.0,0.0,0.0,1.869,33.333,April 1996,Pannella-Sgarbi List
+1996,1998,30,Italy,2.9410000000000003,0.0,0.0,4.339,35.29400000000001,April 1996,Italian Renewal
+1996,1998,50,Italy,0.0,0.0,1.639,6.81,18.033,April 1996,Italian Popular Party
+1996,1998,50,Italy,3.704,0.0,0.0,,35.185,April 1996,Christian Democratic Centre
+1996,1998,50,Italy,0.0,0.0,5.667000000000002,5.84,33.667,April 1996,Democratic Alliance
+1996,1998,60,Italy,3.704,0.0,0.0,20.574,59.25899999999999,April 1996,Go Italy
+1996,1998,70,Italy,0.0,6.024,1.205,15.667,6.627000000000002,April 1996,National Alliance
+1996,1998,70,Italy,7.9929999999999986,7.249000000000001,1.487,10.074,17.472,April 1996,Northern League
+1996,1999,10,Italy,44.24,3.2260000000000004,0.0,2.5,-11.521,April 1996,Green Federation
+1996,1999,20,Italy,2.454,1.84,5.521,8.576,-26.994,April 1996,Communist Refoundation Party
+1996,1999,20,Italy,0.935,10.28,5.607,21.058000000000003,16.822,April 1996,Democratic Party of the Left
+1996,1999,30,Italy,0.0,0.0,0.0,1.869,33.333,April 1996,Pannella-Sgarbi List
+1996,1999,30,Italy,2.9410000000000003,0.0,0.0,4.339,35.29400000000001,April 1996,Italian Renewal
+1996,1999,50,Italy,0.0,0.0,1.639,6.81,18.033,April 1996,Italian Popular Party
+1996,1999,50,Italy,3.704,0.0,0.0,,35.185,April 1996,Christian Democratic Centre
+1996,1999,50,Italy,0.0,0.0,5.667000000000002,5.84,33.667,April 1996,Democratic Alliance
+1996,1999,60,Italy,3.704,0.0,0.0,20.574,59.25899999999999,April 1996,Go Italy
+1996,1999,70,Italy,0.0,6.024,1.205,15.667,6.627000000000002,April 1996,National Alliance
+1996,1999,70,Italy,7.9929999999999986,7.249000000000001,1.487,10.074,17.472,April 1996,Northern League
+1996,2000,10,Italy,44.24,3.2260000000000004,0.0,2.5,-11.521,April 1996,Green Federation
+1996,2000,20,Italy,2.454,1.84,5.521,8.576,-26.994,April 1996,Communist Refoundation Party
+1996,2000,20,Italy,0.935,10.28,5.607,21.058000000000003,16.822,April 1996,Democratic Party of the Left
+1996,2000,30,Italy,0.0,0.0,0.0,1.869,33.333,April 1996,Pannella-Sgarbi List
+1996,2000,30,Italy,2.9410000000000003,0.0,0.0,4.339,35.29400000000001,April 1996,Italian Renewal
+1996,2000,50,Italy,0.0,0.0,1.639,6.81,18.033,April 1996,Italian Popular Party
+1996,2000,50,Italy,3.704,0.0,0.0,,35.185,April 1996,Christian Democratic Centre
+1996,2000,50,Italy,0.0,0.0,5.667000000000002,5.84,33.667,April 1996,Democratic Alliance
+1996,2000,60,Italy,3.704,0.0,0.0,20.574,59.25899999999999,April 1996,Go Italy
+1996,2000,70,Italy,0.0,6.024,1.205,15.667,6.627000000000002,April 1996,National Alliance
+1996,2000,70,Italy,7.9929999999999986,7.249000000000001,1.487,10.074,17.472,April 1996,Northern League
+2001,2001,10,Italy,5.004,5.238,0.938,2.17,-7.584000000000001,May 2001,The Girasole (‘Sunflower')
+2001,2001,20,Italy,8.304,4.4830000000000005,5.706,5.03,-31.992,May 2001,Communist Refoundation Party
+2001,2001,20,Italy,5.004,5.238,0.938,1.67,-7.584000000000001,May 2001,Party of Italian Communists
+2001,2001,20,Italy,5.004,5.238,0.938,16.56,-7.584000000000001,May 2001,Democrats of the Left
+2001,2001,30,Italy,5.004,5.238,0.938,,-7.584000000000001,May 2001,Olive Tree
+2001,2001,40,Italy,5.004,5.238,0.938,14.51,-7.584000000000001,May 2001,Daisy - Democracy is Freedom
+2001,2001,50,Italy,3.221,5.636,0.322,3.22,18.68,May 2001,White Flower
+2001,2001,60,Italy,3.221,5.636,0.322,29.42,18.68,May 2001,Go Italy
+2001,2001,60,Italy,3.221,5.636,0.322,0.95,18.68,May 2001,New Italian Socialist Party
+2001,2001,60,Italy,3.205,5.609,0.321,,19.551,May 2001,House of Freedom
+2001,2001,70,Italy,3.221,5.636,0.322,12.01,18.68,May 2001,National Alliance
+2001,2001,70,Italy,3.221,5.636,0.322,3.94,18.68,May 2001,Northern League
+2001,2001,95,Italy,3.145,0.0,1.887,2.4,-8.805,May 2001,European Democracy
+2001,2001,95,Italy,10.288,2.877,0.349,3.9,-11.16,May 2001,List Di Pietro - Italy of Values
+2001,2002,10,Italy,5.004,5.238,0.938,2.17,-7.584000000000001,May 2001,The Girasole (‘Sunflower')
+2001,2002,20,Italy,8.304,4.4830000000000005,5.706,5.03,-31.992,May 2001,Communist Refoundation Party
+2001,2002,20,Italy,5.004,5.238,0.938,1.67,-7.584000000000001,May 2001,Party of Italian Communists
+2001,2002,20,Italy,5.004,5.238,0.938,16.56,-7.584000000000001,May 2001,Democrats of the Left
+2001,2002,30,Italy,5.004,5.238,0.938,,-7.584000000000001,May 2001,Olive Tree
+2001,2002,40,Italy,5.004,5.238,0.938,14.51,-7.584000000000001,May 2001,Daisy - Democracy is Freedom
+2001,2002,50,Italy,3.221,5.636,0.322,3.22,18.68,May 2001,White Flower
+2001,2002,60,Italy,3.221,5.636,0.322,29.42,18.68,May 2001,Go Italy
+2001,2002,60,Italy,3.221,5.636,0.322,0.95,18.68,May 2001,New Italian Socialist Party
+2001,2002,60,Italy,3.205,5.609,0.321,,19.551,May 2001,House of Freedom
+2001,2002,70,Italy,3.221,5.636,0.322,12.01,18.68,May 2001,National Alliance
+2001,2002,70,Italy,3.221,5.636,0.322,3.94,18.68,May 2001,Northern League
+2001,2002,95,Italy,3.145,0.0,1.887,2.4,-8.805,May 2001,European Democracy
+2001,2002,95,Italy,10.288,2.877,0.349,3.9,-11.16,May 2001,List Di Pietro - Italy of Values
+2001,2003,10,Italy,5.004,5.238,0.938,2.17,-7.584000000000001,May 2001,The Girasole (‘Sunflower')
+2001,2003,20,Italy,8.304,4.4830000000000005,5.706,5.03,-31.992,May 2001,Communist Refoundation Party
+2001,2003,20,Italy,5.004,5.238,0.938,1.67,-7.584000000000001,May 2001,Party of Italian Communists
+2001,2003,20,Italy,5.004,5.238,0.938,16.56,-7.584000000000001,May 2001,Democrats of the Left
+2001,2003,30,Italy,5.004,5.238,0.938,,-7.584000000000001,May 2001,Olive Tree
+2001,2003,40,Italy,5.004,5.238,0.938,14.51,-7.584000000000001,May 2001,Daisy - Democracy is Freedom
+2001,2003,50,Italy,3.221,5.636,0.322,3.22,18.68,May 2001,White Flower
+2001,2003,60,Italy,3.221,5.636,0.322,29.42,18.68,May 2001,Go Italy
+2001,2003,60,Italy,3.221,5.636,0.322,0.95,18.68,May 2001,New Italian Socialist Party
+2001,2003,60,Italy,3.205,5.609,0.321,,19.551,May 2001,House of Freedom
+2001,2003,70,Italy,3.221,5.636,0.322,12.01,18.68,May 2001,National Alliance
+2001,2003,70,Italy,3.221,5.636,0.322,3.94,18.68,May 2001,Northern League
+2001,2003,95,Italy,3.145,0.0,1.887,2.4,-8.805,May 2001,European Democracy
+2001,2003,95,Italy,10.288,2.877,0.349,3.9,-11.16,May 2001,List Di Pietro - Italy of Values
+2001,2004,10,Italy,5.004,5.238,0.938,2.17,-7.584000000000001,May 2001,The Girasole (‘Sunflower')
+2001,2004,20,Italy,8.304,4.4830000000000005,5.706,5.03,-31.992,May 2001,Communist Refoundation Party
+2001,2004,20,Italy,5.004,5.238,0.938,1.67,-7.584000000000001,May 2001,Party of Italian Communists
+2001,2004,20,Italy,5.004,5.238,0.938,16.56,-7.584000000000001,May 2001,Democrats of the Left
+2001,2004,30,Italy,5.004,5.238,0.938,,-7.584000000000001,May 2001,Olive Tree
+2001,2004,40,Italy,5.004,5.238,0.938,14.51,-7.584000000000001,May 2001,Daisy - Democracy is Freedom
+2001,2004,50,Italy,3.221,5.636,0.322,3.22,18.68,May 2001,White Flower
+2001,2004,60,Italy,3.221,5.636,0.322,29.42,18.68,May 2001,Go Italy
+2001,2004,60,Italy,3.221,5.636,0.322,0.95,18.68,May 2001,New Italian Socialist Party
+2001,2004,60,Italy,3.205,5.609,0.321,,19.551,May 2001,House of Freedom
+2001,2004,70,Italy,3.221,5.636,0.322,12.01,18.68,May 2001,National Alliance
+2001,2004,70,Italy,3.221,5.636,0.322,3.94,18.68,May 2001,Northern League
+2001,2004,95,Italy,3.145,0.0,1.887,2.4,-8.805,May 2001,European Democracy
+2001,2004,95,Italy,10.288,2.877,0.349,3.9,-11.16,May 2001,List Di Pietro - Italy of Values
+2001,2005,10,Italy,5.004,5.238,0.938,2.17,-7.584000000000001,May 2001,The Girasole (‘Sunflower')
+2001,2005,20,Italy,8.304,4.4830000000000005,5.706,5.03,-31.992,May 2001,Communist Refoundation Party
+2001,2005,20,Italy,5.004,5.238,0.938,1.67,-7.584000000000001,May 2001,Party of Italian Communists
+2001,2005,20,Italy,5.004,5.238,0.938,16.56,-7.584000000000001,May 2001,Democrats of the Left
+2001,2005,30,Italy,5.004,5.238,0.938,,-7.584000000000001,May 2001,Olive Tree
+2001,2005,40,Italy,5.004,5.238,0.938,14.51,-7.584000000000001,May 2001,Daisy - Democracy is Freedom
+2001,2005,50,Italy,3.221,5.636,0.322,3.22,18.68,May 2001,White Flower
+2001,2005,60,Italy,3.221,5.636,0.322,29.42,18.68,May 2001,Go Italy
+2001,2005,60,Italy,3.221,5.636,0.322,0.95,18.68,May 2001,New Italian Socialist Party
+2001,2005,60,Italy,3.205,5.609,0.321,,19.551,May 2001,House of Freedom
+2001,2005,70,Italy,3.221,5.636,0.322,12.01,18.68,May 2001,National Alliance
+2001,2005,70,Italy,3.221,5.636,0.322,3.94,18.68,May 2001,Northern League
+2001,2005,95,Italy,3.145,0.0,1.887,2.4,-8.805,May 2001,European Democracy
+2001,2005,95,Italy,10.288,2.877,0.349,3.9,-11.16,May 2001,List Di Pietro - Italy of Values
+2006,2006,10,Italy,4.73,5.36,1.65,2.0540000000000003,-17.71,April 2006,Green Federation
+2006,2006,20,Italy,4.73,5.36,1.65,5.8439999999999985,-17.71,April 2006,Communist Refoundation Party
+2006,2006,20,Italy,4.73,5.36,1.65,2.319,-17.71,April 2006,Party of Italian Communists
+2006,2006,20,Italy,4.73,5.36,1.65,2.597,-17.71,April 2006,Rose in the Fist
+2006,2006,30,Italy,4.73,5.36,1.65,31.265,-17.71,April 2006,Olive Tree
+2006,2006,50,Italy,0.0,0.4,0.4,6.7620000000000005,48.19,April 2006,Union for Christian and Center Democrats
+2006,2006,60,Italy,0.0,0.4,0.4,23.709,48.19,April 2006,Go Italy
+2006,2006,60,Italy,0.0,0.4,0.4,0.748,48.19,April 2006,New Italian Socialist Party
+2006,2006,60,Italy,0.0,0.4,0.4,,48.19,April 2006,House of Freedom
+2006,2006,70,Italy,0.0,0.4,0.4,12.336,48.19,April 2006,National Alliance
+2006,2006,70,Italy,0.0,0.4,0.4,4.581,48.19,April 2006,Northern League
+2006,2006,95,Italy,4.73,5.36,1.65,2.299,-17.71,April 2006,List Di Pietro - Italy of Values
+2006,2006,90,Italy,4.73,5.36,1.65,,-17.71,April 2006,Autonomy Liberty Democracy (Aosta Valley)
+2006,2006,90,Italy,4.73,5.36,1.65,0.478,-17.71,April 2006,South Tyrolean People’s Party
+2006,2006,95,Italy,0.0,0.4,0.4,,48.19,April 2006,Italy in the World
+2006,2006,95,Italy,4.73,5.36,1.65,1.401,-17.71,April 2006,Popular Democratic Union for Europe
+2006,2006,98,Italy,4.73,5.36,1.65,,-17.71,April 2006,The Union – Prodi
+2006,2007,10,Italy,4.73,5.36,1.65,2.0540000000000003,-17.71,April 2006,Green Federation
+2006,2007,20,Italy,4.73,5.36,1.65,5.8439999999999985,-17.71,April 2006,Communist Refoundation Party
+2006,2007,20,Italy,4.73,5.36,1.65,2.319,-17.71,April 2006,Party of Italian Communists
+2006,2007,20,Italy,4.73,5.36,1.65,2.597,-17.71,April 2006,Rose in the Fist
+2006,2007,30,Italy,4.73,5.36,1.65,31.265,-17.71,April 2006,Olive Tree
+2006,2007,50,Italy,0.0,0.4,0.4,6.7620000000000005,48.19,April 2006,Union for Christian and Center Democrats
+2006,2007,60,Italy,0.0,0.4,0.4,23.709,48.19,April 2006,Go Italy
+2006,2007,60,Italy,0.0,0.4,0.4,0.748,48.19,April 2006,New Italian Socialist Party
+2006,2007,60,Italy,0.0,0.4,0.4,,48.19,April 2006,House of Freedom
+2006,2007,70,Italy,0.0,0.4,0.4,12.336,48.19,April 2006,National Alliance
+2006,2007,70,Italy,0.0,0.4,0.4,4.581,48.19,April 2006,Northern League
+2006,2007,95,Italy,4.73,5.36,1.65,2.299,-17.71,April 2006,List Di Pietro - Italy of Values
+2006,2007,90,Italy,4.73,5.36,1.65,,-17.71,April 2006,Autonomy Liberty Democracy (Aosta Valley)
+2006,2007,90,Italy,4.73,5.36,1.65,0.478,-17.71,April 2006,South Tyrolean People’s Party
+2006,2007,95,Italy,0.0,0.4,0.4,,48.19,April 2006,Italy in the World
+2006,2007,95,Italy,4.73,5.36,1.65,1.401,-17.71,April 2006,Popular Democratic Union for Europe
+2006,2007,98,Italy,4.73,5.36,1.65,,-17.71,April 2006,The Union – Prodi
+2008,2008,60,Italy,3.175,2.778,0.0,37.217,13.889,April 2008,People of Freedom
+2008,2008,30,Italy,4.04,0.0,1.01,33.163000000000004,-7.576000000000001,April 2008,Democratic Party
+2008,2008,50,Italy,0.0,0.0,0.0,5.69,-11.489,April 2008,Union of the Center
+2008,2008,70,Italy,0.0,0.0,0.0,8.073,-3.75,April 2008,Northern League
+2008,2008,95,Italy,0.0,0.0,0.0,4.364,9.302,April 2008,List Di Pietro - Italy of Values
+2008,2009,60,Italy,3.175,2.778,0.0,37.217,13.889,April 2008,People of Freedom
+2008,2009,30,Italy,4.04,0.0,1.01,33.163000000000004,-7.576000000000001,April 2008,Democratic Party
+2008,2009,50,Italy,0.0,0.0,0.0,5.69,-11.489,April 2008,Union of the Center
+2008,2009,70,Italy,0.0,0.0,0.0,8.073,-3.75,April 2008,Northern League
+2008,2009,95,Italy,0.0,0.0,0.0,4.364,9.302,April 2008,List Di Pietro - Italy of Values
+2008,2010,60,Italy,3.175,2.778,0.0,37.217,13.889,April 2008,People of Freedom
+2008,2010,30,Italy,4.04,0.0,1.01,33.163000000000004,-7.576000000000001,April 2008,Democratic Party
+2008,2010,50,Italy,0.0,0.0,0.0,5.69,-11.489,April 2008,Union of the Center
+2008,2010,70,Italy,0.0,0.0,0.0,8.073,-3.75,April 2008,Northern League
+2008,2010,95,Italy,0.0,0.0,0.0,4.364,9.302,April 2008,List Di Pietro - Italy of Values
+2008,2011,60,Italy,3.175,2.778,0.0,37.217,13.889,April 2008,People of Freedom
+2008,2011,30,Italy,4.04,0.0,1.01,33.163000000000004,-7.576000000000001,April 2008,Democratic Party
+2008,2011,50,Italy,0.0,0.0,0.0,5.69,-11.489,April 2008,Union of the Center
+2008,2011,70,Italy,0.0,0.0,0.0,8.073,-3.75,April 2008,Northern League
+2008,2011,95,Italy,0.0,0.0,0.0,4.364,9.302,April 2008,List Di Pietro - Italy of Values
+2008,2012,60,Italy,3.175,2.778,0.0,37.217,13.889,April 2008,People of Freedom
+2008,2012,30,Italy,4.04,0.0,1.01,33.163000000000004,-7.576000000000001,April 2008,Democratic Party
+2008,2012,50,Italy,0.0,0.0,0.0,5.69,-11.489,April 2008,Union of the Center
+2008,2012,70,Italy,0.0,0.0,0.0,8.073,-3.75,April 2008,Northern League
+2008,2012,95,Italy,0.0,0.0,0.0,4.364,9.302,April 2008,List Di Pietro - Italy of Values
+2013,2013,20,Italy,7.005,8.213000000000001,10.628,2.25,-20.531,February 2013,Civil Revolution
+2013,2013,60,Italy,6.19,3.333,0.9520000000000001,21.566,3.81,February 2013,People of Freedom
+2013,2013,20,Italy,13.903,14.405,7.035,3.204,-19.43,February 2013,Left Ecology Freedom
+2013,2013,30,Italy,0.0,0.0,18.627,25.423,-6.863,February 2013,Democratic Party
+2013,2013,40,Italy,0.765,0.0,8.418000000000001,0.491,24.49,February 2013,Democratic Centre
+2013,2013,40,Italy,4.167,2.083,10.119,8.305,1.19,February 2013,Civic Choice
+2013,2013,50,Italy,1.671,0.0,5.728,1.789,33.652,February 2013,Union of the Center
+2013,2013,60,Italy,7.592000000000001,9.761000000000001,0.6509999999999999,1.958,15.835,February 2013,Brothers of Italy - National Centre-right
+2013,2013,60,Italy,0.379,0.0,1.136,0.227,-10.227,February 2013,Labour and Freedom List
+2013,2013,70,Italy,6.19,3.333,0.9520000000000001,3.861,3.81,February 2013,Northern League
+2013,2013,90,Italy,4.916,1.69,5.069,0.4320000000000001,6.759,February 2013,South Tyrolean People’s Party
+2013,2013,90,Italy,9.091000000000001,0.0,0.0,0.05,-18.182,February 2013,Autonomy Progress Federalism Aosta Valley
+2013,2013,95,Italy,25.806,0.0,0.0,25.555,-49.032,February 2013,Five Star Movement
+2013,2014,20,Italy,7.005,8.213000000000001,10.628,2.25,-20.531,February 2013,Civil Revolution
+2013,2014,60,Italy,6.19,3.333,0.9520000000000001,21.566,3.81,February 2013,People of Freedom
+2013,2014,20,Italy,13.903,14.405,7.035,3.204,-19.43,February 2013,Left Ecology Freedom
+2013,2014,30,Italy,0.0,0.0,18.627,25.423,-6.863,February 2013,Democratic Party
+2013,2014,40,Italy,0.765,0.0,8.418000000000001,0.491,24.49,February 2013,Democratic Centre
+2013,2014,40,Italy,4.167,2.083,10.119,8.305,1.19,February 2013,Civic Choice
+2013,2014,50,Italy,1.671,0.0,5.728,1.789,33.652,February 2013,Union of the Center
+2013,2014,60,Italy,7.592000000000001,9.761000000000001,0.6509999999999999,1.958,15.835,February 2013,Brothers of Italy - National Centre-right
+2013,2014,60,Italy,0.379,0.0,1.136,0.227,-10.227,February 2013,Labour and Freedom List
+2013,2014,70,Italy,6.19,3.333,0.9520000000000001,3.861,3.81,February 2013,Northern League
+2013,2014,90,Italy,4.916,1.69,5.069,0.4320000000000001,6.759,February 2013,South Tyrolean People’s Party
+2013,2014,90,Italy,9.091000000000001,0.0,0.0,0.05,-18.182,February 2013,Autonomy Progress Federalism Aosta Valley
+2013,2014,95,Italy,25.806,0.0,0.0,25.555,-49.032,February 2013,Five Star Movement
+2013,2015,20,Italy,7.005,8.213000000000001,10.628,2.25,-20.531,February 2013,Civil Revolution
+2013,2015,60,Italy,6.19,3.333,0.9520000000000001,21.566,3.81,February 2013,People of Freedom
+2013,2015,20,Italy,13.903,14.405,7.035,3.204,-19.43,February 2013,Left Ecology Freedom
+2013,2015,30,Italy,0.0,0.0,18.627,25.423,-6.863,February 2013,Democratic Party
+2013,2015,40,Italy,0.765,0.0,8.418000000000001,0.491,24.49,February 2013,Democratic Centre
+2013,2015,40,Italy,4.167,2.083,10.119,8.305,1.19,February 2013,Civic Choice
+2013,2015,50,Italy,1.671,0.0,5.728,1.789,33.652,February 2013,Union of the Center
+2013,2015,60,Italy,7.592000000000001,9.761000000000001,0.6509999999999999,1.958,15.835,February 2013,Brothers of Italy - National Centre-right
+2013,2015,60,Italy,0.379,0.0,1.136,0.227,-10.227,February 2013,Labour and Freedom List
+2013,2015,70,Italy,6.19,3.333,0.9520000000000001,3.861,3.81,February 2013,Northern League
+2013,2015,90,Italy,4.916,1.69,5.069,0.4320000000000001,6.759,February 2013,South Tyrolean People’s Party
+2013,2015,90,Italy,9.091000000000001,0.0,0.0,0.05,-18.182,February 2013,Autonomy Progress Federalism Aosta Valley
+2013,2015,95,Italy,25.806,0.0,0.0,25.555,-49.032,February 2013,Five Star Movement
+2013,2016,20,Italy,7.005,8.213000000000001,10.628,2.25,-20.531,February 2013,Civil Revolution
+2013,2016,60,Italy,6.19,3.333,0.9520000000000001,21.566,3.81,February 2013,People of Freedom
+2013,2016,20,Italy,13.903,14.405,7.035,3.204,-19.43,February 2013,Left Ecology Freedom
+2013,2016,30,Italy,0.0,0.0,18.627,25.423,-6.863,February 2013,Democratic Party
+2013,2016,40,Italy,0.765,0.0,8.418000000000001,0.491,24.49,February 2013,Democratic Centre
+2013,2016,40,Italy,4.167,2.083,10.119,8.305,1.19,February 2013,Civic Choice
+2013,2016,50,Italy,1.671,0.0,5.728,1.789,33.652,February 2013,Union of the Center
+2013,2016,60,Italy,7.592000000000001,9.761000000000001,0.6509999999999999,1.958,15.835,February 2013,Brothers of Italy - National Centre-right
+2013,2016,60,Italy,0.379,0.0,1.136,0.227,-10.227,February 2013,Labour and Freedom List
+2013,2016,70,Italy,6.19,3.333,0.9520000000000001,3.861,3.81,February 2013,Northern League
+2013,2016,90,Italy,4.916,1.69,5.069,0.4320000000000001,6.759,February 2013,South Tyrolean People’s Party
+2013,2016,90,Italy,9.091000000000001,0.0,0.0,0.05,-18.182,February 2013,Autonomy Progress Federalism Aosta Valley
+2013,2016,95,Italy,25.806,0.0,0.0,25.555,-49.032,February 2013,Five Star Movement
+2013,2017,20,Italy,7.005,8.213000000000001,10.628,2.25,-20.531,February 2013,Civil Revolution
+2013,2017,60,Italy,6.19,3.333,0.9520000000000001,21.566,3.81,February 2013,People of Freedom
+2013,2017,20,Italy,13.903,14.405,7.035,3.204,-19.43,February 2013,Left Ecology Freedom
+2013,2017,30,Italy,0.0,0.0,18.627,25.423,-6.863,February 2013,Democratic Party
+2013,2017,40,Italy,0.765,0.0,8.418000000000001,0.491,24.49,February 2013,Democratic Centre
+2013,2017,40,Italy,4.167,2.083,10.119,8.305,1.19,February 2013,Civic Choice
+2013,2017,50,Italy,1.671,0.0,5.728,1.789,33.652,February 2013,Union of the Center
+2013,2017,60,Italy,7.592000000000001,9.761000000000001,0.6509999999999999,1.958,15.835,February 2013,Brothers of Italy - National Centre-right
+2013,2017,60,Italy,0.379,0.0,1.136,0.227,-10.227,February 2013,Labour and Freedom List
+2013,2017,70,Italy,6.19,3.333,0.9520000000000001,3.861,3.81,February 2013,Northern League
+2013,2017,90,Italy,4.916,1.69,5.069,0.4320000000000001,6.759,February 2013,South Tyrolean People’s Party
+2013,2017,90,Italy,9.091000000000001,0.0,0.0,0.05,-18.182,February 2013,Autonomy Progress Federalism Aosta Valley
+2013,2017,95,Italy,25.806,0.0,0.0,25.555,-49.032,February 2013,Five Star Movement
+2018,2018,20,Italy,17.815,2.613,5.938,0.56,-13.777,March 2018,Italy Europe Together
+2018,2018,30,Italy,11.189,4.1960000000000015,10.839,3.466,-18.531,March 2018,Free and Equal
+2018,2018,50,Italy,7.657999999999999,0.45,3.604,0.618,-5.856,March 2018,Popular Civic List
+2018,2018,50,Italy,2.247,3.933,0.0,1.2919999999999998,11.798,March 2018,Us with Italy
+2018,2018,90,Italy,0.0,0.0,0.0,0.396,5.8820000000000014,March 2018,Coalition of South Tyrolean People’s Party and Trentino Tyrolean Autonomist Party
+2018,2018,30,Italy,3.198,5.3820000000000014,5.616000000000001,18.981,-8.267999999999999,March 2018,Democratic Party
+2018,2018,40,Italy,5.3,2.074,3.2260000000000004,2.662,-2.074,March 2018,More Europe
+2018,2018,60,Italy,3.125,2.083,5.207999999999998,13.525,15.625,March 2018,Go Italy
+2018,2018,60,Italy,6.593,7.143,1.648,4.201000000000001,7.692,March 2018,Brothers of Italy
+2018,2018,70,Italy,10.611,5.267,1.527,17.488,4.6560000000000015,March 2018,League
+2018,2018,95,Italy,22.84,0.998,0.7979999999999999,32.165,-7.4289999999999985,March 2018,Five Star Movement
+2018,2019,20,Italy,17.815,2.613,5.938,0.56,-13.777,March 2018,Italy Europe Together
+2018,2019,30,Italy,11.189,4.1960000000000015,10.839,3.466,-18.531,March 2018,Free and Equal
+2018,2019,50,Italy,7.657999999999999,0.45,3.604,0.618,-5.856,March 2018,Popular Civic List
+2018,2019,50,Italy,2.247,3.933,0.0,1.2919999999999998,11.798,March 2018,Us with Italy
+2018,2019,90,Italy,0.0,0.0,0.0,0.396,5.8820000000000014,March 2018,Coalition of South Tyrolean People’s Party and Trentino Tyrolean Autonomist Party
+2018,2019,30,Italy,3.198,5.3820000000000014,5.616000000000001,18.981,-8.267999999999999,March 2018,Democratic Party
+2018,2019,40,Italy,5.3,2.074,3.2260000000000004,2.662,-2.074,March 2018,More Europe
+2018,2019,60,Italy,3.125,2.083,5.207999999999998,13.525,15.625,March 2018,Go Italy
+2018,2019,60,Italy,6.593,7.143,1.648,4.201000000000001,7.692,March 2018,Brothers of Italy
+2018,2019,70,Italy,10.611,5.267,1.527,17.488,4.6560000000000015,March 2018,League
+2018,2019,95,Italy,22.84,0.998,0.7979999999999999,32.165,-7.4289999999999985,March 2018,Five Star Movement
+2018,2020,20,Italy,17.815,2.613,5.938,0.56,-13.777,March 2018,Italy Europe Together
+2018,2020,30,Italy,11.189,4.1960000000000015,10.839,3.466,-18.531,March 2018,Free and Equal
+2018,2020,50,Italy,7.657999999999999,0.45,3.604,0.618,-5.856,March 2018,Popular Civic List
+2018,2020,50,Italy,2.247,3.933,0.0,1.2919999999999998,11.798,March 2018,Us with Italy
+2018,2020,90,Italy,0.0,0.0,0.0,0.396,5.8820000000000014,March 2018,Coalition of South Tyrolean People’s Party and Trentino Tyrolean Autonomist Party
+2018,2020,30,Italy,3.198,5.3820000000000014,5.616000000000001,18.981,-8.267999999999999,March 2018,Democratic Party
+2018,2020,40,Italy,5.3,2.074,3.2260000000000004,2.662,-2.074,March 2018,More Europe
+2018,2020,60,Italy,3.125,2.083,5.207999999999998,13.525,15.625,March 2018,Go Italy
+2018,2020,60,Italy,6.593,7.143,1.648,4.201000000000001,7.692,March 2018,Brothers of Italy
+2018,2020,70,Italy,10.611,5.267,1.527,17.488,4.6560000000000015,March 2018,League
+2018,2020,95,Italy,22.84,0.998,0.7979999999999999,32.165,-7.4289999999999985,March 2018,Five Star Movement

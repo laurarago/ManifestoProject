@@ -1,0 +1,466 @@
+year,yearObject,parfam,countryname,environ,culture,equality,pervote,rile,electionDate,partyname
+1944,1944,20,Sweden,0.0,0.0,0.0,10.3,9.6,September 1944,Communist Party of Sweden
+1944,1944,30,Sweden,0.0,0.0,5.600000000000001,46.5,-37.8,September 1944,Social Democratic Labour Party
+1944,1944,40,Sweden,0.0,0.0,1.6,12.9,9.5,September 1944,People’s Party
+1944,1944,60,Sweden,0.0,0.0,5.3,15.8,28.0,September 1944,Right Party
+1944,1944,80,Sweden,0.0,0.0,0.0,13.6,23.81,September 1944,Agrarian Party
+1944,1945,20,Sweden,0.0,0.0,0.0,10.3,9.6,September 1944,Communist Party of Sweden
+1944,1945,30,Sweden,0.0,0.0,5.600000000000001,46.5,-37.8,September 1944,Social Democratic Labour Party
+1944,1945,40,Sweden,0.0,0.0,1.6,12.9,9.5,September 1944,People’s Party
+1944,1945,60,Sweden,0.0,0.0,5.3,15.8,28.0,September 1944,Right Party
+1944,1945,80,Sweden,0.0,0.0,0.0,13.6,23.81,September 1944,Agrarian Party
+1944,1946,20,Sweden,0.0,0.0,0.0,10.3,9.6,September 1944,Communist Party of Sweden
+1944,1946,30,Sweden,0.0,0.0,5.600000000000001,46.5,-37.8,September 1944,Social Democratic Labour Party
+1944,1946,40,Sweden,0.0,0.0,1.6,12.9,9.5,September 1944,People’s Party
+1944,1946,60,Sweden,0.0,0.0,5.3,15.8,28.0,September 1944,Right Party
+1944,1946,80,Sweden,0.0,0.0,0.0,13.6,23.81,September 1944,Agrarian Party
+1944,1947,20,Sweden,0.0,0.0,0.0,10.3,9.6,September 1944,Communist Party of Sweden
+1944,1947,30,Sweden,0.0,0.0,5.600000000000001,46.5,-37.8,September 1944,Social Democratic Labour Party
+1944,1947,40,Sweden,0.0,0.0,1.6,12.9,9.5,September 1944,People’s Party
+1944,1947,60,Sweden,0.0,0.0,5.3,15.8,28.0,September 1944,Right Party
+1944,1947,80,Sweden,0.0,0.0,0.0,13.6,23.81,September 1944,Agrarian Party
+1948,1948,20,Sweden,0.0,0.0,6.0,6.312,-44.0,September 1948,Communist Party of Sweden
+1948,1948,30,Sweden,0.0,3.3,2.5,46.132,-33.4,September 1948,Social Democratic Labour Party
+1948,1948,40,Sweden,0.0,0.0,5.8,22.749,22.9,September 1948,People’s Party
+1948,1948,60,Sweden,0.0,0.0,0.0,12.343,56.3,September 1948,Right Party
+1948,1948,80,Sweden,0.0,0.0,2.1,12.385,-4.9,September 1948,Agrarian Party
+1948,1949,20,Sweden,0.0,0.0,6.0,6.312,-44.0,September 1948,Communist Party of Sweden
+1948,1949,30,Sweden,0.0,3.3,2.5,46.132,-33.4,September 1948,Social Democratic Labour Party
+1948,1949,40,Sweden,0.0,0.0,5.8,22.749,22.9,September 1948,People’s Party
+1948,1949,60,Sweden,0.0,0.0,0.0,12.343,56.3,September 1948,Right Party
+1948,1949,80,Sweden,0.0,0.0,2.1,12.385,-4.9,September 1948,Agrarian Party
+1948,1950,20,Sweden,0.0,0.0,6.0,6.312,-44.0,September 1948,Communist Party of Sweden
+1948,1950,30,Sweden,0.0,3.3,2.5,46.132,-33.4,September 1948,Social Democratic Labour Party
+1948,1950,40,Sweden,0.0,0.0,5.8,22.749,22.9,September 1948,People’s Party
+1948,1950,60,Sweden,0.0,0.0,0.0,12.343,56.3,September 1948,Right Party
+1948,1950,80,Sweden,0.0,0.0,2.1,12.385,-4.9,September 1948,Agrarian Party
+1948,1951,20,Sweden,0.0,0.0,6.0,6.312,-44.0,September 1948,Communist Party of Sweden
+1948,1951,30,Sweden,0.0,3.3,2.5,46.132,-33.4,September 1948,Social Democratic Labour Party
+1948,1951,40,Sweden,0.0,0.0,5.8,22.749,22.9,September 1948,People’s Party
+1948,1951,60,Sweden,0.0,0.0,0.0,12.343,56.3,September 1948,Right Party
+1948,1951,80,Sweden,0.0,0.0,2.1,12.385,-4.9,September 1948,Agrarian Party
+1952,1952,20,Sweden,0.0,0.0,1.1,4.34,-40.7,September 1952,Communist Party of Sweden
+1952,1952,30,Sweden,0.0,1.7,3.3,46.047,-28.3,September 1952,Social Democratic Labour Party
+1952,1952,40,Sweden,0.0,0.0,4.7,24.442,16.1,September 1952,People’s Party
+1952,1952,60,Sweden,0.0,0.0,0.0,14.373,40.9,September 1952,Right Party
+1952,1952,80,Sweden,1.3,1.3,4.1,10.735,1.2,September 1952,Agrarian Party
+1952,1953,20,Sweden,0.0,0.0,1.1,4.34,-40.7,September 1952,Communist Party of Sweden
+1952,1953,30,Sweden,0.0,1.7,3.3,46.047,-28.3,September 1952,Social Democratic Labour Party
+1952,1953,40,Sweden,0.0,0.0,4.7,24.442,16.1,September 1952,People’s Party
+1952,1953,60,Sweden,0.0,0.0,0.0,14.373,40.9,September 1952,Right Party
+1952,1953,80,Sweden,1.3,1.3,4.1,10.735,1.2,September 1952,Agrarian Party
+1952,1954,20,Sweden,0.0,0.0,1.1,4.34,-40.7,September 1952,Communist Party of Sweden
+1952,1954,30,Sweden,0.0,1.7,3.3,46.047,-28.3,September 1952,Social Democratic Labour Party
+1952,1954,40,Sweden,0.0,0.0,4.7,24.442,16.1,September 1952,People’s Party
+1952,1954,60,Sweden,0.0,0.0,0.0,14.373,40.9,September 1952,Right Party
+1952,1954,80,Sweden,1.3,1.3,4.1,10.735,1.2,September 1952,Agrarian Party
+1952,1955,20,Sweden,0.0,0.0,1.1,4.34,-40.7,September 1952,Communist Party of Sweden
+1952,1955,30,Sweden,0.0,1.7,3.3,46.047,-28.3,September 1952,Social Democratic Labour Party
+1952,1955,40,Sweden,0.0,0.0,4.7,24.442,16.1,September 1952,People’s Party
+1952,1955,60,Sweden,0.0,0.0,0.0,14.373,40.9,September 1952,Right Party
+1952,1955,80,Sweden,1.3,1.3,4.1,10.735,1.2,September 1952,Agrarian Party
+1956,1956,20,Sweden,0.0,1.7,10.9,5.001,-46.2,September 1956,Communist Party of Sweden
+1956,1956,30,Sweden,0.0,3.5,2.9,44.581,-44.2,September 1956,Social Democratic Labour Party
+1956,1956,40,Sweden,0.7000000000000001,0.0,3.4,23.807,-17.3,September 1956,People’s Party
+1956,1956,60,Sweden,0.0,0.0,0.0,17.108,53.7,September 1956,Right Party
+1956,1956,80,Sweden,0.9,0.9,1.8,9.45,1.8,September 1956,Agrarian Party
+1956,1957,20,Sweden,0.0,1.7,10.9,5.001,-46.2,September 1956,Communist Party of Sweden
+1956,1957,30,Sweden,0.0,3.5,2.9,44.581,-44.2,September 1956,Social Democratic Labour Party
+1956,1957,40,Sweden,0.7000000000000001,0.0,3.4,23.807,-17.3,September 1956,People’s Party
+1956,1957,60,Sweden,0.0,0.0,0.0,17.108,53.7,September 1956,Right Party
+1956,1957,80,Sweden,0.9,0.9,1.8,9.45,1.8,September 1956,Agrarian Party
+1958,1958,20,Sweden,1.9,14.5,4.0,3.364,-41.7,June 1958,Communist Party of Sweden
+1958,1958,30,Sweden,0.0,0.0,3.2,46.216,-24.7,June 1958,Social Democratic Labour Party
+1958,1958,40,Sweden,0.0,0.0,0.0,18.209,21.6,June 1958,People’s Party
+1958,1958,60,Sweden,0.0,0.0,0.0,19.518,56.1,June 1958,Right Party
+1958,1958,80,Sweden,0.0,1.6,1.6,12.662,11.9,June 1958,Centre Party
+1958,1959,20,Sweden,1.9,14.5,4.0,3.364,-41.7,June 1958,Communist Party of Sweden
+1958,1959,30,Sweden,0.0,0.0,3.2,46.216,-24.7,June 1958,Social Democratic Labour Party
+1958,1959,40,Sweden,0.0,0.0,0.0,18.209,21.6,June 1958,People’s Party
+1958,1959,60,Sweden,0.0,0.0,0.0,19.518,56.1,June 1958,Right Party
+1958,1959,80,Sweden,0.0,1.6,1.6,12.662,11.9,June 1958,Centre Party
+1960,1960,20,Sweden,0.0,0.0,2.4,4.479,-40.5,September 1960,Communist Party of Sweden
+1960,1960,30,Sweden,0.0,0.3,2.3,47.789,-61.4,September 1960,Social Democratic Labour Party
+1960,1960,40,Sweden,0.0,0.0,6.5,17.492,8.6,September 1960,People’s Party
+1960,1960,60,Sweden,0.0,0.0,1.1,16.557000000000002,34.8,September 1960,Right Party
+1960,1960,80,Sweden,0.0,1.9,1.2,13.611,6.0,September 1960,Centre Party
+1960,1961,20,Sweden,0.0,0.0,2.4,4.479,-40.5,September 1960,Communist Party of Sweden
+1960,1961,30,Sweden,0.0,0.3,2.3,47.789,-61.4,September 1960,Social Democratic Labour Party
+1960,1961,40,Sweden,0.0,0.0,6.5,17.492,8.6,September 1960,People’s Party
+1960,1961,60,Sweden,0.0,0.0,1.1,16.557000000000002,34.8,September 1960,Right Party
+1960,1961,80,Sweden,0.0,1.9,1.2,13.611,6.0,September 1960,Centre Party
+1960,1962,20,Sweden,0.0,0.0,2.4,4.479,-40.5,September 1960,Communist Party of Sweden
+1960,1962,30,Sweden,0.0,0.3,2.3,47.789,-61.4,September 1960,Social Democratic Labour Party
+1960,1962,40,Sweden,0.0,0.0,6.5,17.492,8.6,September 1960,People’s Party
+1960,1962,60,Sweden,0.0,0.0,1.1,16.557000000000002,34.8,September 1960,Right Party
+1960,1962,80,Sweden,0.0,1.9,1.2,13.611,6.0,September 1960,Centre Party
+1960,1963,20,Sweden,0.0,0.0,2.4,4.479,-40.5,September 1960,Communist Party of Sweden
+1960,1963,30,Sweden,0.0,0.3,2.3,47.789,-61.4,September 1960,Social Democratic Labour Party
+1960,1963,40,Sweden,0.0,0.0,6.5,17.492,8.6,September 1960,People’s Party
+1960,1963,60,Sweden,0.0,0.0,1.1,16.557000000000002,34.8,September 1960,Right Party
+1960,1963,80,Sweden,0.0,1.9,1.2,13.611,6.0,September 1960,Centre Party
+1964,1964,20,Sweden,0.0,0.0,0.0,5.223,-50.0,September 1964,Communist Party of Sweden
+1964,1964,30,Sweden,0.0,0.3,7.2,47.269,-33.6,September 1964,Social Democratic Labour Party
+1964,1964,40,Sweden,0.0,5.3,10.6,16.975,-48.9,September 1964,People’s Party
+1964,1964,60,Sweden,0.0,0.0,0.0,13.722,60.4,September 1964,Right Party
+1964,1964,80,Sweden,4.681,3.404,0.851,13.181,-14.043,September 1964,Centre Party
+1964,1965,20,Sweden,0.0,0.0,0.0,5.223,-50.0,September 1964,Communist Party of Sweden
+1964,1965,30,Sweden,0.0,0.3,7.2,47.269,-33.6,September 1964,Social Democratic Labour Party
+1964,1965,40,Sweden,0.0,5.3,10.6,16.975,-48.9,September 1964,People’s Party
+1964,1965,60,Sweden,0.0,0.0,0.0,13.722,60.4,September 1964,Right Party
+1964,1965,80,Sweden,4.681,3.404,0.851,13.181,-14.043,September 1964,Centre Party
+1964,1966,20,Sweden,0.0,0.0,0.0,5.223,-50.0,September 1964,Communist Party of Sweden
+1964,1966,30,Sweden,0.0,0.3,7.2,47.269,-33.6,September 1964,Social Democratic Labour Party
+1964,1966,40,Sweden,0.0,5.3,10.6,16.975,-48.9,September 1964,People’s Party
+1964,1966,60,Sweden,0.0,0.0,0.0,13.722,60.4,September 1964,Right Party
+1964,1966,80,Sweden,4.681,3.404,0.851,13.181,-14.043,September 1964,Centre Party
+1964,1967,20,Sweden,0.0,0.0,0.0,5.223,-50.0,September 1964,Communist Party of Sweden
+1964,1967,30,Sweden,0.0,0.3,7.2,47.269,-33.6,September 1964,Social Democratic Labour Party
+1964,1967,40,Sweden,0.0,5.3,10.6,16.975,-48.9,September 1964,People’s Party
+1964,1967,60,Sweden,0.0,0.0,0.0,13.722,60.4,September 1964,Right Party
+1964,1967,80,Sweden,4.681,3.404,0.851,13.181,-14.043,September 1964,Centre Party
+1968,1968,20,Sweden,1.5,0.0,12.1,3.006,-46.9,September 1968,Left Communists Party
+1968,1968,30,Sweden,5.4,0.0,12.5,50.11600000000001,-42.9,September 1968,Social Democratic Labour Party
+1968,1968,40,Sweden,0.0,0.0,1.0,14.255999999999998,-59.9,September 1968,People’s Party
+1968,1968,60,Sweden,0.0,0.0,2.9,12.859000000000002,25.8,September 1968,Right Party
+1968,1968,80,Sweden,4.2,1.9,5.600000000000001,15.679,-11.6,September 1968,Centre Party
+1968,1969,20,Sweden,1.5,0.0,12.1,3.006,-46.9,September 1968,Left Communists Party
+1968,1969,30,Sweden,5.4,0.0,12.5,50.11600000000001,-42.9,September 1968,Social Democratic Labour Party
+1968,1969,40,Sweden,0.0,0.0,1.0,14.255999999999998,-59.9,September 1968,People’s Party
+1968,1969,60,Sweden,0.0,0.0,2.9,12.859000000000002,25.8,September 1968,Right Party
+1968,1969,80,Sweden,4.2,1.9,5.600000000000001,15.679,-11.6,September 1968,Centre Party
+1970,1970,20,Sweden,11.5,2.6,12.8,4.756,-40.9,September 1970,Left Communists Party
+1970,1970,30,Sweden,7.100000000000001,0.5,16.8,45.343,-41.2,September 1970,Social Democratic Labour Party
+1970,1970,40,Sweden,8.9,0.0,8.9,16.211,-33.5,September 1970,People’s Party
+1970,1970,60,Sweden,2.1,0.0,6.4,11.531,10.8,September 1970,Moderate Coalition Party
+1970,1970,80,Sweden,5.2,0.0,6.3,19.919,-14.6,September 1970,Centre Party
+1970,1971,20,Sweden,11.5,2.6,12.8,4.756,-40.9,September 1970,Left Communists Party
+1970,1971,30,Sweden,7.100000000000001,0.5,16.8,45.343,-41.2,September 1970,Social Democratic Labour Party
+1970,1971,40,Sweden,8.9,0.0,8.9,16.211,-33.5,September 1970,People’s Party
+1970,1971,60,Sweden,2.1,0.0,6.4,11.531,10.8,September 1970,Moderate Coalition Party
+1970,1971,80,Sweden,5.2,0.0,6.3,19.919,-14.6,September 1970,Centre Party
+1970,1972,20,Sweden,11.5,2.6,12.8,4.756,-40.9,September 1970,Left Communists Party
+1970,1972,30,Sweden,7.100000000000001,0.5,16.8,45.343,-41.2,September 1970,Social Democratic Labour Party
+1970,1972,40,Sweden,8.9,0.0,8.9,16.211,-33.5,September 1970,People’s Party
+1970,1972,60,Sweden,2.1,0.0,6.4,11.531,10.8,September 1970,Moderate Coalition Party
+1970,1972,80,Sweden,5.2,0.0,6.3,19.919,-14.6,September 1970,Centre Party
+1973,1973,20,Sweden,9.9,0.0,2.5,5.3279999999999985,-43.0,September 1973,Left Communists Party
+1973,1973,30,Sweden,0.0,0.0,10.3,43.559,-7.7,September 1973,Social Democratic Labour Party
+1973,1973,40,Sweden,12.1,0.0,6.0,9.419,-11.5,September 1973,People’s Party
+1973,1973,60,Sweden,6.600000000000001,0.0,10.5,14.294,19.7,September 1973,Moderate Coalition Party
+1973,1973,80,Sweden,6.9,0.6,5.2,25.101,-24.0,September 1973,Centre Party
+1973,1974,20,Sweden,9.9,0.0,2.5,5.3279999999999985,-43.0,September 1973,Left Communists Party
+1973,1974,30,Sweden,0.0,0.0,10.3,43.559,-7.7,September 1973,Social Democratic Labour Party
+1973,1974,40,Sweden,12.1,0.0,6.0,9.419,-11.5,September 1973,People’s Party
+1973,1974,60,Sweden,6.600000000000001,0.0,10.5,14.294,19.7,September 1973,Moderate Coalition Party
+1973,1974,80,Sweden,6.9,0.6,5.2,25.101,-24.0,September 1973,Centre Party
+1973,1975,20,Sweden,9.9,0.0,2.5,5.3279999999999985,-43.0,September 1973,Left Communists Party
+1973,1975,30,Sweden,0.0,0.0,10.3,43.559,-7.7,September 1973,Social Democratic Labour Party
+1973,1975,40,Sweden,12.1,0.0,6.0,9.419,-11.5,September 1973,People’s Party
+1973,1975,60,Sweden,6.600000000000001,0.0,10.5,14.294,19.7,September 1973,Moderate Coalition Party
+1973,1975,80,Sweden,6.9,0.6,5.2,25.101,-24.0,September 1973,Centre Party
+1976,1976,20,Sweden,11.9,1.6,10.8,4.753,-38.3,September 1976,Left Communists Party
+1976,1976,30,Sweden,4.3,0.0,5.7,42.749,-11.5,September 1976,Social Democratic Labour Party
+1976,1976,40,Sweden,11.2,4.2,3.5,11.063,-2.1,September 1976,People’s Party
+1976,1976,60,Sweden,1.0,4.9,2.9,15.589,2.2,September 1976,Moderate Coalition Party
+1976,1976,80,Sweden,17.2,0.7000000000000001,5.100000000000001,24.085,-18.2,September 1976,Centre Party
+1976,1977,20,Sweden,11.9,1.6,10.8,4.753,-38.3,September 1976,Left Communists Party
+1976,1977,30,Sweden,4.3,0.0,5.7,42.749,-11.5,September 1976,Social Democratic Labour Party
+1976,1977,40,Sweden,11.2,4.2,3.5,11.063,-2.1,September 1976,People’s Party
+1976,1977,60,Sweden,1.0,4.9,2.9,15.589,2.2,September 1976,Moderate Coalition Party
+1976,1977,80,Sweden,17.2,0.7000000000000001,5.100000000000001,24.085,-18.2,September 1976,Centre Party
+1976,1978,20,Sweden,11.9,1.6,10.8,4.753,-38.3,September 1976,Left Communists Party
+1976,1978,30,Sweden,4.3,0.0,5.7,42.749,-11.5,September 1976,Social Democratic Labour Party
+1976,1978,40,Sweden,11.2,4.2,3.5,11.063,-2.1,September 1976,People’s Party
+1976,1978,60,Sweden,1.0,4.9,2.9,15.589,2.2,September 1976,Moderate Coalition Party
+1976,1978,80,Sweden,17.2,0.7000000000000001,5.100000000000001,24.085,-18.2,September 1976,Centre Party
+1979,1979,20,Sweden,7.4,0.8,14.4,5.605,-47.3,September 1979,Left Communists Party
+1979,1979,30,Sweden,7.3,0.0,7.3,43.244,-15.3,September 1979,Social Democratic Labour Party
+1979,1979,40,Sweden,12.5,0.9,7.600000000000001,10.591,-15.2,September 1979,People’s Party
+1979,1979,60,Sweden,12.7,4.8,4.8,20.343,23.1,September 1979,Moderate Coalition Party
+1979,1979,80,Sweden,14.3,3.2,4.600000000000001,18.07,-8.1,September 1979,Centre Party
+1979,1980,20,Sweden,7.4,0.8,14.4,5.605,-47.3,September 1979,Left Communists Party
+1979,1980,30,Sweden,7.3,0.0,7.3,43.244,-15.3,September 1979,Social Democratic Labour Party
+1979,1980,40,Sweden,12.5,0.9,7.600000000000001,10.591,-15.2,September 1979,People’s Party
+1979,1980,60,Sweden,12.7,4.8,4.8,20.343,23.1,September 1979,Moderate Coalition Party
+1979,1980,80,Sweden,14.3,3.2,4.600000000000001,18.07,-8.1,September 1979,Centre Party
+1979,1981,20,Sweden,7.4,0.8,14.4,5.605,-47.3,September 1979,Left Communists Party
+1979,1981,30,Sweden,7.3,0.0,7.3,43.244,-15.3,September 1979,Social Democratic Labour Party
+1979,1981,40,Sweden,12.5,0.9,7.600000000000001,10.591,-15.2,September 1979,People’s Party
+1979,1981,60,Sweden,12.7,4.8,4.8,20.343,23.1,September 1979,Moderate Coalition Party
+1979,1981,80,Sweden,14.3,3.2,4.600000000000001,18.07,-8.1,September 1979,Centre Party
+1982,1982,20,Sweden,10.6,0.0,13.5,5.561,-39.7,September 1982,Left Communists Party
+1982,1982,30,Sweden,12.9,0.0,7.3,45.606,-18.5,September 1982,Social Democratic Labour Party
+1982,1982,40,Sweden,2.4,1.6,13.0,5.901,4.8,September 1982,People’s Party
+1982,1982,60,Sweden,3.6,2.9,0.7000000000000001,23.644,25.1,September 1982,Moderate Coalition Party
+1982,1982,80,Sweden,14.6,0.9,2.3,15.476,-14.0,September 1982,Centre Party
+1982,1983,20,Sweden,10.6,0.0,13.5,5.561,-39.7,September 1982,Left Communists Party
+1982,1983,30,Sweden,12.9,0.0,7.3,45.606,-18.5,September 1982,Social Democratic Labour Party
+1982,1983,40,Sweden,2.4,1.6,13.0,5.901,4.8,September 1982,People’s Party
+1982,1983,60,Sweden,3.6,2.9,0.7000000000000001,23.644,25.1,September 1982,Moderate Coalition Party
+1982,1983,80,Sweden,14.6,0.9,2.3,15.476,-14.0,September 1982,Centre Party
+1982,1984,20,Sweden,10.6,0.0,13.5,5.561,-39.7,September 1982,Left Communists Party
+1982,1984,30,Sweden,12.9,0.0,7.3,45.606,-18.5,September 1982,Social Democratic Labour Party
+1982,1984,40,Sweden,2.4,1.6,13.0,5.901,4.8,September 1982,People’s Party
+1982,1984,60,Sweden,3.6,2.9,0.7000000000000001,23.644,25.1,September 1982,Moderate Coalition Party
+1982,1984,80,Sweden,14.6,0.9,2.3,15.476,-14.0,September 1982,Centre Party
+1985,1985,20,Sweden,13.1,0.4,13.6,5.36,-36.7,September 1985,Left Communists Party
+1985,1985,30,Sweden,9.9,2.5,0.0,44.684,-21.1,September 1985,Social Democratic Labour Party
+1985,1985,40,Sweden,6.5,4.0,3.5,14.231,12.9,September 1985,People’s Party
+1985,1985,50,Sweden,11.364,4.545,6.818000000000001,0.28,-4.545,September 1985,Christian Democratic Coalition
+1985,1985,60,Sweden,4.8,1.9,0.0,21.328000000000007,59.8,September 1985,Moderate Coalition Party
+1985,1985,80,Sweden,15.5,1.2,3.0,12.13,-1.1,September 1985,Centre Party
+1985,1986,20,Sweden,13.1,0.4,13.6,5.36,-36.7,September 1985,Left Communists Party
+1985,1986,30,Sweden,9.9,2.5,0.0,44.684,-21.1,September 1985,Social Democratic Labour Party
+1985,1986,40,Sweden,6.5,4.0,3.5,14.231,12.9,September 1985,People’s Party
+1985,1986,50,Sweden,11.364,4.545,6.818000000000001,0.28,-4.545,September 1985,Christian Democratic Coalition
+1985,1986,60,Sweden,4.8,1.9,0.0,21.328000000000007,59.8,September 1985,Moderate Coalition Party
+1985,1986,80,Sweden,15.5,1.2,3.0,12.13,-1.1,September 1985,Centre Party
+1985,1987,20,Sweden,13.1,0.4,13.6,5.36,-36.7,September 1985,Left Communists Party
+1985,1987,30,Sweden,9.9,2.5,0.0,44.684,-21.1,September 1985,Social Democratic Labour Party
+1985,1987,40,Sweden,6.5,4.0,3.5,14.231,12.9,September 1985,People’s Party
+1985,1987,50,Sweden,11.364,4.545,6.818000000000001,0.28,-4.545,September 1985,Christian Democratic Coalition
+1985,1987,60,Sweden,4.8,1.9,0.0,21.328000000000007,59.8,September 1985,Moderate Coalition Party
+1985,1987,80,Sweden,15.5,1.2,3.0,12.13,-1.1,September 1985,Centre Party
+1988,1988,10,Sweden,38.0,0.0,1.4,5.526,-18.4,September 1988,Green Ecology Party
+1988,1988,20,Sweden,12.2,6.600000000000001,6.100000000000001,5.8439999999999985,-37.4,September 1988,Left Communists Party
+1988,1988,30,Sweden,15.9,9.5,15.9,43.207,-23.9,September 1988,Social Democratic Labour Party
+1988,1988,40,Sweden,9.7,5.7,1.0,12.202,-7.7,September 1988,People’s Party
+1988,1988,60,Sweden,8.2,1.6,0.0,18.297,36.7,September 1988,Moderate Coalition Party
+1988,1988,80,Sweden,26.0,5.2,9.4,11.3,-5.3,September 1988,Centre Party
+1988,1989,10,Sweden,38.0,0.0,1.4,5.526,-18.4,September 1988,Green Ecology Party
+1988,1989,20,Sweden,12.2,6.600000000000001,6.100000000000001,5.8439999999999985,-37.4,September 1988,Left Communists Party
+1988,1989,30,Sweden,15.9,9.5,15.9,43.207,-23.9,September 1988,Social Democratic Labour Party
+1988,1989,40,Sweden,9.7,5.7,1.0,12.202,-7.7,September 1988,People’s Party
+1988,1989,60,Sweden,8.2,1.6,0.0,18.297,36.7,September 1988,Moderate Coalition Party
+1988,1989,80,Sweden,26.0,5.2,9.4,11.3,-5.3,September 1988,Centre Party
+1988,1990,10,Sweden,38.0,0.0,1.4,5.526,-18.4,September 1988,Green Ecology Party
+1988,1990,20,Sweden,12.2,6.600000000000001,6.100000000000001,5.8439999999999985,-37.4,September 1988,Left Communists Party
+1988,1990,30,Sweden,15.9,9.5,15.9,43.207,-23.9,September 1988,Social Democratic Labour Party
+1988,1990,40,Sweden,9.7,5.7,1.0,12.202,-7.7,September 1988,People’s Party
+1988,1990,60,Sweden,8.2,1.6,0.0,18.297,36.7,September 1988,Moderate Coalition Party
+1988,1990,80,Sweden,26.0,5.2,9.4,11.3,-5.3,September 1988,Centre Party
+1991,1991,10,Sweden,37.931,2.299,4.598,3.383,-12.644,September 1991,Green Ecology Party
+1991,1991,20,Sweden,15.942,1.449,7.971,4.513,-42.754,September 1991,Left Party
+1991,1991,30,Sweden,11.538,0.0,15.385,37.705,-6.154,September 1991,Social Democratic Labour Party
+1991,1991,40,Sweden,4.2860000000000005,0.35700000000000004,7.857,9.128,3.929,September 1991,Liberal People’s Party
+1991,1991,50,Sweden,11.364,4.545,6.818000000000001,7.135,-4.545,September 1991,Christian Democratic Community Party
+1991,1991,60,Sweden,3.646,1.5630000000000002,2.604,21.924,43.75,September 1991,Moderate Coalition Party
+1991,1991,80,Sweden,22.481,1.55,11.628,8.503,5.426,September 1991,Centre Party
+1991,1991,95,Sweden,3.597,0.0,2.518,6.732,42.806,September 1991,New Democracy
+1991,1992,10,Sweden,37.931,2.299,4.598,3.383,-12.644,September 1991,Green Ecology Party
+1991,1992,20,Sweden,15.942,1.449,7.971,4.513,-42.754,September 1991,Left Party
+1991,1992,30,Sweden,11.538,0.0,15.385,37.705,-6.154,September 1991,Social Democratic Labour Party
+1991,1992,40,Sweden,4.2860000000000005,0.35700000000000004,7.857,9.128,3.929,September 1991,Liberal People’s Party
+1991,1992,50,Sweden,11.364,4.545,6.818000000000001,7.135,-4.545,September 1991,Christian Democratic Community Party
+1991,1992,60,Sweden,3.646,1.5630000000000002,2.604,21.924,43.75,September 1991,Moderate Coalition Party
+1991,1992,80,Sweden,22.481,1.55,11.628,8.503,5.426,September 1991,Centre Party
+1991,1992,95,Sweden,3.597,0.0,2.518,6.732,42.806,September 1991,New Democracy
+1991,1993,10,Sweden,37.931,2.299,4.598,3.383,-12.644,September 1991,Green Ecology Party
+1991,1993,20,Sweden,15.942,1.449,7.971,4.513,-42.754,September 1991,Left Party
+1991,1993,30,Sweden,11.538,0.0,15.385,37.705,-6.154,September 1991,Social Democratic Labour Party
+1991,1993,40,Sweden,4.2860000000000005,0.35700000000000004,7.857,9.128,3.929,September 1991,Liberal People’s Party
+1991,1993,50,Sweden,11.364,4.545,6.818000000000001,7.135,-4.545,September 1991,Christian Democratic Community Party
+1991,1993,60,Sweden,3.646,1.5630000000000002,2.604,21.924,43.75,September 1991,Moderate Coalition Party
+1991,1993,80,Sweden,22.481,1.55,11.628,8.503,5.426,September 1991,Centre Party
+1991,1993,95,Sweden,3.597,0.0,2.518,6.732,42.806,September 1991,New Democracy
+1994,1994,10,Sweden,33.75,0.0,16.25,5.023,-6.25,September 1994,Green Ecology Party
+1994,1994,20,Sweden,13.068,2.273,21.023000000000003,6.174,-27.273000000000003,September 1994,Left Party
+1994,1994,30,Sweden,1.942,0.0,11.165,45.25,23.786,September 1994,Social Democratic Labour Party
+1994,1994,40,Sweden,3.646,1.042,26.563,7.192,19.271,September 1994,Liberal People’s Party
+1994,1994,50,Sweden,11.628,4.651,23.256,4.068000000000001,13.953,September 1994,Christian Democratic Community Party
+1994,1994,60,Sweden,3.518,1.005,1.508,22.38,40.201,September 1994,Moderate Coalition Party
+1994,1994,80,Sweden,21.818,0.0,18.182,7.653,21.818,September 1994,Centre Party
+1994,1995,10,Sweden,33.75,0.0,16.25,5.023,-6.25,September 1994,Green Ecology Party
+1994,1995,20,Sweden,13.068,2.273,21.023000000000003,6.174,-27.273000000000003,September 1994,Left Party
+1994,1995,30,Sweden,1.942,0.0,11.165,45.25,23.786,September 1994,Social Democratic Labour Party
+1994,1995,40,Sweden,3.646,1.042,26.563,7.192,19.271,September 1994,Liberal People’s Party
+1994,1995,50,Sweden,11.628,4.651,23.256,4.068000000000001,13.953,September 1994,Christian Democratic Community Party
+1994,1995,60,Sweden,3.518,1.005,1.508,22.38,40.201,September 1994,Moderate Coalition Party
+1994,1995,80,Sweden,21.818,0.0,18.182,7.653,21.818,September 1994,Centre Party
+1994,1996,10,Sweden,33.75,0.0,16.25,5.023,-6.25,September 1994,Green Ecology Party
+1994,1996,20,Sweden,13.068,2.273,21.023000000000003,6.174,-27.273000000000003,September 1994,Left Party
+1994,1996,30,Sweden,1.942,0.0,11.165,45.25,23.786,September 1994,Social Democratic Labour Party
+1994,1996,40,Sweden,3.646,1.042,26.563,7.192,19.271,September 1994,Liberal People’s Party
+1994,1996,50,Sweden,11.628,4.651,23.256,4.068000000000001,13.953,September 1994,Christian Democratic Community Party
+1994,1996,60,Sweden,3.518,1.005,1.508,22.38,40.201,September 1994,Moderate Coalition Party
+1994,1996,80,Sweden,21.818,0.0,18.182,7.653,21.818,September 1994,Centre Party
+1994,1997,10,Sweden,33.75,0.0,16.25,5.023,-6.25,September 1994,Green Ecology Party
+1994,1997,20,Sweden,13.068,2.273,21.023000000000003,6.174,-27.273000000000003,September 1994,Left Party
+1994,1997,30,Sweden,1.942,0.0,11.165,45.25,23.786,September 1994,Social Democratic Labour Party
+1994,1997,40,Sweden,3.646,1.042,26.563,7.192,19.271,September 1994,Liberal People’s Party
+1994,1997,50,Sweden,11.628,4.651,23.256,4.068000000000001,13.953,September 1994,Christian Democratic Community Party
+1994,1997,60,Sweden,3.518,1.005,1.508,22.38,40.201,September 1994,Moderate Coalition Party
+1994,1997,80,Sweden,21.818,0.0,18.182,7.653,21.818,September 1994,Centre Party
+1998,1998,10,Sweden,30.556,2.778,8.333,4.5,-36.111,September 1998,Green Ecology Party
+1998,1998,20,Sweden,15.71,1.511,14.199000000000002,11.99,-35.952,September 1998,Left Party
+1998,1998,30,Sweden,1.953,1.172,10.938,36.39,-3.516,September 1998,Social Democratic Labour Party
+1998,1998,40,Sweden,5.952000000000001,0.0,7.143,4.72,14.286,September 1998,Liberal People’s Party
+1998,1998,50,Sweden,10.778,0.0,7.784,11.77,4.79,September 1998,Christian Democrats
+1998,1998,60,Sweden,2.994,10.778,4.79,22.9,37.425,September 1998,Moderate Coalition Party
+1998,1998,80,Sweden,11.57,0.413,8.264,5.13,11.57,September 1998,Centre Party
+1998,1999,10,Sweden,30.556,2.778,8.333,4.5,-36.111,September 1998,Green Ecology Party
+1998,1999,20,Sweden,15.71,1.511,14.199000000000002,11.99,-35.952,September 1998,Left Party
+1998,1999,30,Sweden,1.953,1.172,10.938,36.39,-3.516,September 1998,Social Democratic Labour Party
+1998,1999,40,Sweden,5.952000000000001,0.0,7.143,4.72,14.286,September 1998,Liberal People’s Party
+1998,1999,50,Sweden,10.778,0.0,7.784,11.77,4.79,September 1998,Christian Democrats
+1998,1999,60,Sweden,2.994,10.778,4.79,22.9,37.425,September 1998,Moderate Coalition Party
+1998,1999,80,Sweden,11.57,0.413,8.264,5.13,11.57,September 1998,Centre Party
+1998,2000,10,Sweden,30.556,2.778,8.333,4.5,-36.111,September 1998,Green Ecology Party
+1998,2000,20,Sweden,15.71,1.511,14.199000000000002,11.99,-35.952,September 1998,Left Party
+1998,2000,30,Sweden,1.953,1.172,10.938,36.39,-3.516,September 1998,Social Democratic Labour Party
+1998,2000,40,Sweden,5.952000000000001,0.0,7.143,4.72,14.286,September 1998,Liberal People’s Party
+1998,2000,50,Sweden,10.778,0.0,7.784,11.77,4.79,September 1998,Christian Democrats
+1998,2000,60,Sweden,2.994,10.778,4.79,22.9,37.425,September 1998,Moderate Coalition Party
+1998,2000,80,Sweden,11.57,0.413,8.264,5.13,11.57,September 1998,Centre Party
+1998,2001,10,Sweden,30.556,2.778,8.333,4.5,-36.111,September 1998,Green Ecology Party
+1998,2001,20,Sweden,15.71,1.511,14.199000000000002,11.99,-35.952,September 1998,Left Party
+1998,2001,30,Sweden,1.953,1.172,10.938,36.39,-3.516,September 1998,Social Democratic Labour Party
+1998,2001,40,Sweden,5.952000000000001,0.0,7.143,4.72,14.286,September 1998,Liberal People’s Party
+1998,2001,50,Sweden,10.778,0.0,7.784,11.77,4.79,September 1998,Christian Democrats
+1998,2001,60,Sweden,2.994,10.778,4.79,22.9,37.425,September 1998,Moderate Coalition Party
+1998,2001,80,Sweden,11.57,0.413,8.264,5.13,11.57,September 1998,Centre Party
+2002,2002,10,Sweden,27.95,2.484,11.18,4.646,-26.087,September 2002,Green Ecology Party
+2002,2002,20,Sweden,9.828,1.72,15.233,8.388,-33.661,September 2002,Left Party
+2002,2002,30,Sweden,5.127999999999999,8.425,5.8610000000000015,39.854,-18.315,September 2002,Social Democratic Labour Party
+2002,2002,40,Sweden,8.392000000000001,4.4289999999999985,5.5939999999999985,13.394,0.932,September 2002,Liberal People’s Party
+2002,2002,50,Sweden,10.542,0.301,4.819,9.15,6.325,September 2002,Christian Democrats
+2002,2002,60,Sweden,2.364,0.0,7.329,15.255999999999998,38.061,September 2002,Moderate Coalition Party
+2002,2002,80,Sweden,9.886000000000001,1.521,3.802,6.193000000000001,10.646,September 2002,Centre Party
+2002,2003,10,Sweden,27.95,2.484,11.18,4.646,-26.087,September 2002,Green Ecology Party
+2002,2003,20,Sweden,9.828,1.72,15.233,8.388,-33.661,September 2002,Left Party
+2002,2003,30,Sweden,5.127999999999999,8.425,5.8610000000000015,39.854,-18.315,September 2002,Social Democratic Labour Party
+2002,2003,40,Sweden,8.392000000000001,4.4289999999999985,5.5939999999999985,13.394,0.932,September 2002,Liberal People’s Party
+2002,2003,50,Sweden,10.542,0.301,4.819,9.15,6.325,September 2002,Christian Democrats
+2002,2003,60,Sweden,2.364,0.0,7.329,15.255999999999998,38.061,September 2002,Moderate Coalition Party
+2002,2003,80,Sweden,9.886000000000001,1.521,3.802,6.193000000000001,10.646,September 2002,Centre Party
+2002,2004,10,Sweden,27.95,2.484,11.18,4.646,-26.087,September 2002,Green Ecology Party
+2002,2004,20,Sweden,9.828,1.72,15.233,8.388,-33.661,September 2002,Left Party
+2002,2004,30,Sweden,5.127999999999999,8.425,5.8610000000000015,39.854,-18.315,September 2002,Social Democratic Labour Party
+2002,2004,40,Sweden,8.392000000000001,4.4289999999999985,5.5939999999999985,13.394,0.932,September 2002,Liberal People’s Party
+2002,2004,50,Sweden,10.542,0.301,4.819,9.15,6.325,September 2002,Christian Democrats
+2002,2004,60,Sweden,2.364,0.0,7.329,15.255999999999998,38.061,September 2002,Moderate Coalition Party
+2002,2004,80,Sweden,9.886000000000001,1.521,3.802,6.193000000000001,10.646,September 2002,Centre Party
+2002,2005,10,Sweden,27.95,2.484,11.18,4.646,-26.087,September 2002,Green Ecology Party
+2002,2005,20,Sweden,9.828,1.72,15.233,8.388,-33.661,September 2002,Left Party
+2002,2005,30,Sweden,5.127999999999999,8.425,5.8610000000000015,39.854,-18.315,September 2002,Social Democratic Labour Party
+2002,2005,40,Sweden,8.392000000000001,4.4289999999999985,5.5939999999999985,13.394,0.932,September 2002,Liberal People’s Party
+2002,2005,50,Sweden,10.542,0.301,4.819,9.15,6.325,September 2002,Christian Democrats
+2002,2005,60,Sweden,2.364,0.0,7.329,15.255999999999998,38.061,September 2002,Moderate Coalition Party
+2002,2005,80,Sweden,9.886000000000001,1.521,3.802,6.193000000000001,10.646,September 2002,Centre Party
+2006,2006,10,Sweden,17.172,3.535,13.130999999999998,5.244,-11.616,September 2006,Green Ecology Party
+2006,2006,20,Sweden,5.398,0.7709999999999999,13.111,5.850000000000001,-35.99,September 2006,Left Party
+2006,2006,30,Sweden,5.089,3.3080000000000003,5.852,34.994,-24.173,September 2006,Social Democratic Labour Party
+2006,2006,40,Sweden,4.463,2.975,5.785,7.537000000000001,14.545,September 2006,Liberal People’s Party
+2006,2006,50,Sweden,7.257999999999999,0.0,5.645,6.593,0.8059999999999999,September 2006,Christian Democrats
+2006,2006,60,Sweden,6.76,0.466,3.73,26.23,3.963,September 2006,Moderate Coalition Party
+2006,2006,80,Sweden,14.013,0.0,4.777,7.879,-4.459000000000001,September 2006,Centre Party
+2006,2007,10,Sweden,17.172,3.535,13.130999999999998,5.244,-11.616,September 2006,Green Ecology Party
+2006,2007,20,Sweden,5.398,0.7709999999999999,13.111,5.850000000000001,-35.99,September 2006,Left Party
+2006,2007,30,Sweden,5.089,3.3080000000000003,5.852,34.994,-24.173,September 2006,Social Democratic Labour Party
+2006,2007,40,Sweden,4.463,2.975,5.785,7.537000000000001,14.545,September 2006,Liberal People’s Party
+2006,2007,50,Sweden,7.257999999999999,0.0,5.645,6.593,0.8059999999999999,September 2006,Christian Democrats
+2006,2007,60,Sweden,6.76,0.466,3.73,26.23,3.963,September 2006,Moderate Coalition Party
+2006,2007,80,Sweden,14.013,0.0,4.777,7.879,-4.459000000000001,September 2006,Centre Party
+2006,2008,10,Sweden,17.172,3.535,13.130999999999998,5.244,-11.616,September 2006,Green Ecology Party
+2006,2008,20,Sweden,5.398,0.7709999999999999,13.111,5.850000000000001,-35.99,September 2006,Left Party
+2006,2008,30,Sweden,5.089,3.3080000000000003,5.852,34.994,-24.173,September 2006,Social Democratic Labour Party
+2006,2008,40,Sweden,4.463,2.975,5.785,7.537000000000001,14.545,September 2006,Liberal People’s Party
+2006,2008,50,Sweden,7.257999999999999,0.0,5.645,6.593,0.8059999999999999,September 2006,Christian Democrats
+2006,2008,60,Sweden,6.76,0.466,3.73,26.23,3.963,September 2006,Moderate Coalition Party
+2006,2008,80,Sweden,14.013,0.0,4.777,7.879,-4.459000000000001,September 2006,Centre Party
+2006,2009,10,Sweden,17.172,3.535,13.130999999999998,5.244,-11.616,September 2006,Green Ecology Party
+2006,2009,20,Sweden,5.398,0.7709999999999999,13.111,5.850000000000001,-35.99,September 2006,Left Party
+2006,2009,30,Sweden,5.089,3.3080000000000003,5.852,34.994,-24.173,September 2006,Social Democratic Labour Party
+2006,2009,40,Sweden,4.463,2.975,5.785,7.537000000000001,14.545,September 2006,Liberal People’s Party
+2006,2009,50,Sweden,7.257999999999999,0.0,5.645,6.593,0.8059999999999999,September 2006,Christian Democrats
+2006,2009,60,Sweden,6.76,0.466,3.73,26.23,3.963,September 2006,Moderate Coalition Party
+2006,2009,80,Sweden,14.013,0.0,4.777,7.879,-4.459000000000001,September 2006,Centre Party
+2010,2010,10,Sweden,23.282,3.053,7.633999999999999,7.34,-9.16,September 2010,Green Ecology Party
+2010,2010,20,Sweden,12.205,0.787,16.535,5.600000000000001,-12.205,September 2010,Left Party
+2010,2010,30,Sweden,0.7090000000000001,1.773,14.184,30.66,-32.27,September 2010,Social Democratic Labour Party
+2010,2010,40,Sweden,8.297,4.367,2.948,7.06,-4.803,September 2010,Liberal People’s Party
+2010,2010,50,Sweden,4.593,6.8889999999999985,6.0539999999999985,5.600000000000001,8.142000000000001,September 2010,Christian Democrats
+2010,2010,60,Sweden,10.179,0.053,6.3820000000000014,30.06,2.479,September 2010,Moderate Coalition Party
+2010,2010,70,Sweden,5.392,0.0,1.471,5.7,15.686,September 2010,Sweden Democrats
+2010,2010,80,Sweden,22.925,0.395,5.402,6.56,-2.24,September 2010,Centre Party
+2010,2011,10,Sweden,23.282,3.053,7.633999999999999,7.34,-9.16,September 2010,Green Ecology Party
+2010,2011,20,Sweden,12.205,0.787,16.535,5.600000000000001,-12.205,September 2010,Left Party
+2010,2011,30,Sweden,0.7090000000000001,1.773,14.184,30.66,-32.27,September 2010,Social Democratic Labour Party
+2010,2011,40,Sweden,8.297,4.367,2.948,7.06,-4.803,September 2010,Liberal People’s Party
+2010,2011,50,Sweden,4.593,6.8889999999999985,6.0539999999999985,5.600000000000001,8.142000000000001,September 2010,Christian Democrats
+2010,2011,60,Sweden,10.179,0.053,6.3820000000000014,30.06,2.479,September 2010,Moderate Coalition Party
+2010,2011,70,Sweden,5.392,0.0,1.471,5.7,15.686,September 2010,Sweden Democrats
+2010,2011,80,Sweden,22.925,0.395,5.402,6.56,-2.24,September 2010,Centre Party
+2010,2012,10,Sweden,23.282,3.053,7.633999999999999,7.34,-9.16,September 2010,Green Ecology Party
+2010,2012,20,Sweden,12.205,0.787,16.535,5.600000000000001,-12.205,September 2010,Left Party
+2010,2012,30,Sweden,0.7090000000000001,1.773,14.184,30.66,-32.27,September 2010,Social Democratic Labour Party
+2010,2012,40,Sweden,8.297,4.367,2.948,7.06,-4.803,September 2010,Liberal People’s Party
+2010,2012,50,Sweden,4.593,6.8889999999999985,6.0539999999999985,5.600000000000001,8.142000000000001,September 2010,Christian Democrats
+2010,2012,60,Sweden,10.179,0.053,6.3820000000000014,30.06,2.479,September 2010,Moderate Coalition Party
+2010,2012,70,Sweden,5.392,0.0,1.471,5.7,15.686,September 2010,Sweden Democrats
+2010,2012,80,Sweden,22.925,0.395,5.402,6.56,-2.24,September 2010,Centre Party
+2010,2013,10,Sweden,23.282,3.053,7.633999999999999,7.34,-9.16,September 2010,Green Ecology Party
+2010,2013,20,Sweden,12.205,0.787,16.535,5.600000000000001,-12.205,September 2010,Left Party
+2010,2013,30,Sweden,0.7090000000000001,1.773,14.184,30.66,-32.27,September 2010,Social Democratic Labour Party
+2010,2013,40,Sweden,8.297,4.367,2.948,7.06,-4.803,September 2010,Liberal People’s Party
+2010,2013,50,Sweden,4.593,6.8889999999999985,6.0539999999999985,5.600000000000001,8.142000000000001,September 2010,Christian Democrats
+2010,2013,60,Sweden,10.179,0.053,6.3820000000000014,30.06,2.479,September 2010,Moderate Coalition Party
+2010,2013,70,Sweden,5.392,0.0,1.471,5.7,15.686,September 2010,Sweden Democrats
+2010,2013,80,Sweden,22.925,0.395,5.402,6.56,-2.24,September 2010,Centre Party
+2014,2014,10,Sweden,14.085,5.03,7.042000000000002,6.8889999999999985,-26.157,September 2014,Green Ecology Party
+2014,2014,20,Sweden,8.056000000000001,3.611,15.833,5.718,-33.889,September 2014,Left Party
+2014,2014,30,Sweden,5.341,0.368,6.4460000000000015,31.015,-52.67,September 2014,Social Democratic Labour Party
+2014,2014,40,Sweden,8.486,5.962999999999999,5.505,5.42,-2.523,September 2014,Liberal People’s Party
+2014,2014,50,Sweden,6.17,0.257,7.198,4.57,4.884,September 2014,Christian Democrats
+2014,2014,60,Sweden,8.252,1.956,4.523,23.325,-16.748,September 2014,Moderate Coalition Party
+2014,2014,70,Sweden,5.38,2.215,3.797,12.857,-6.646,September 2014,Sweden Democrats
+2014,2014,80,Sweden,30.263,0.0,2.632,6.113,7.895,September 2014,Centre Party
+2014,2015,10,Sweden,14.085,5.03,7.042000000000002,6.8889999999999985,-26.157,September 2014,Green Ecology Party
+2014,2015,20,Sweden,8.056000000000001,3.611,15.833,5.718,-33.889,September 2014,Left Party
+2014,2015,30,Sweden,5.341,0.368,6.4460000000000015,31.015,-52.67,September 2014,Social Democratic Labour Party
+2014,2015,40,Sweden,8.486,5.962999999999999,5.505,5.42,-2.523,September 2014,Liberal People’s Party
+2014,2015,50,Sweden,6.17,0.257,7.198,4.57,4.884,September 2014,Christian Democrats
+2014,2015,60,Sweden,8.252,1.956,4.523,23.325,-16.748,September 2014,Moderate Coalition Party
+2014,2015,70,Sweden,5.38,2.215,3.797,12.857,-6.646,September 2014,Sweden Democrats
+2014,2015,80,Sweden,30.263,0.0,2.632,6.113,7.895,September 2014,Centre Party
+2014,2016,10,Sweden,14.085,5.03,7.042000000000002,6.8889999999999985,-26.157,September 2014,Green Ecology Party
+2014,2016,20,Sweden,8.056000000000001,3.611,15.833,5.718,-33.889,September 2014,Left Party
+2014,2016,30,Sweden,5.341,0.368,6.4460000000000015,31.015,-52.67,September 2014,Social Democratic Labour Party
+2014,2016,40,Sweden,8.486,5.962999999999999,5.505,5.42,-2.523,September 2014,Liberal People’s Party
+2014,2016,50,Sweden,6.17,0.257,7.198,4.57,4.884,September 2014,Christian Democrats
+2014,2016,60,Sweden,8.252,1.956,4.523,23.325,-16.748,September 2014,Moderate Coalition Party
+2014,2016,70,Sweden,5.38,2.215,3.797,12.857,-6.646,September 2014,Sweden Democrats
+2014,2016,80,Sweden,30.263,0.0,2.632,6.113,7.895,September 2014,Centre Party
+2014,2017,10,Sweden,14.085,5.03,7.042000000000002,6.8889999999999985,-26.157,September 2014,Green Ecology Party
+2014,2017,20,Sweden,8.056000000000001,3.611,15.833,5.718,-33.889,September 2014,Left Party
+2014,2017,30,Sweden,5.341,0.368,6.4460000000000015,31.015,-52.67,September 2014,Social Democratic Labour Party
+2014,2017,40,Sweden,8.486,5.962999999999999,5.505,5.42,-2.523,September 2014,Liberal People’s Party
+2014,2017,50,Sweden,6.17,0.257,7.198,4.57,4.884,September 2014,Christian Democrats
+2014,2017,60,Sweden,8.252,1.956,4.523,23.325,-16.748,September 2014,Moderate Coalition Party
+2014,2017,70,Sweden,5.38,2.215,3.797,12.857,-6.646,September 2014,Sweden Democrats
+2014,2017,80,Sweden,30.263,0.0,2.632,6.113,7.895,September 2014,Centre Party
+2018,2018,10,Sweden,25.21,4.706,7.731,4.414,-15.966,September 2018,Green Ecology Party
+2018,2018,20,Sweden,5.64,3.201,20.122,8.005,-40.701,September 2018,Left Party
+2018,2018,30,Sweden,6.129,3.548,6.129,28.261,-20.0,September 2018,Social Democratic Labour Party
+2018,2018,40,Sweden,7.68,2.9410000000000003,7.353,5.49,-1.144,September 2018,Liberals
+2018,2018,50,Sweden,0.0,0.0,0.0,6.322,-12.712,September 2018,Christian Democrats
+2018,2018,60,Sweden,8.06,2.687,4.776,19.836,7.562,September 2018,Moderate Coalition Party
+2018,2018,70,Sweden,4.4289999999999985,3.963,4.1960000000000015,17.534000000000002,-9.091000000000001,September 2018,Sweden Democrats
+2018,2018,80,Sweden,15.618,0.0,8.026,8.607999999999999,9.978,September 2018,Centre Party
+2018,2019,10,Sweden,25.21,4.706,7.731,4.414,-15.966,September 2018,Green Ecology Party
+2018,2019,20,Sweden,5.64,3.201,20.122,8.005,-40.701,September 2018,Left Party
+2018,2019,30,Sweden,6.129,3.548,6.129,28.261,-20.0,September 2018,Social Democratic Labour Party
+2018,2019,40,Sweden,7.68,2.9410000000000003,7.353,5.49,-1.144,September 2018,Liberals
+2018,2019,50,Sweden,0.0,0.0,0.0,6.322,-12.712,September 2018,Christian Democrats
+2018,2019,60,Sweden,8.06,2.687,4.776,19.836,7.562,September 2018,Moderate Coalition Party
+2018,2019,70,Sweden,4.4289999999999985,3.963,4.1960000000000015,17.534000000000002,-9.091000000000001,September 2018,Sweden Democrats
+2018,2019,80,Sweden,15.618,0.0,8.026,8.607999999999999,9.978,September 2018,Centre Party
+2018,2020,10,Sweden,25.21,4.706,7.731,4.414,-15.966,September 2018,Green Ecology Party
+2018,2020,20,Sweden,5.64,3.201,20.122,8.005,-40.701,September 2018,Left Party
+2018,2020,30,Sweden,6.129,3.548,6.129,28.261,-20.0,September 2018,Social Democratic Labour Party
+2018,2020,40,Sweden,7.68,2.9410000000000003,7.353,5.49,-1.144,September 2018,Liberals
+2018,2020,50,Sweden,0.0,0.0,0.0,6.322,-12.712,September 2018,Christian Democrats
+2018,2020,60,Sweden,8.06,2.687,4.776,19.836,7.562,September 2018,Moderate Coalition Party
+2018,2020,70,Sweden,4.4289999999999985,3.963,4.1960000000000015,17.534000000000002,-9.091000000000001,September 2018,Sweden Democrats
+2018,2020,80,Sweden,15.618,0.0,8.026,8.607999999999999,9.978,September 2018,Centre Party

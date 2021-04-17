@@ -1,0 +1,522 @@
+year,yearObject,parfam,countryname,environ,culture,equality,pervote,rile,electionDate,partyname
+1977,1977,20,Spain,0.775,1.938,4.651,9.27,-13.953,June 1977,Communist Party of Spain
+1977,1977,30,Spain,1.068,3.559,4.982,30.348000000000006,-9.253,June 1977,Spanish Socialist Workers’ Party
+1977,1977,40,Spain,1.878,1.408,6.103,34.829,-0.469,June 1977,Union of the Democratic Centre/Centrist Bloc
+1977,1977,60,Spain,0.0,0.0,2.5860000000000003,8.417,12.069,June 1977,Popular Alliance
+1977,1977,90,Spain,4.961,0.0,2.872,0.34,-23.499,June 1977,Basque Left
+1977,1977,90,Spain,2.381,1.19,2.381,1.703,-20.238,June 1977,Basque Nationalist Party
+1977,1977,90,Spain,1.817,3.287,1.557,0.21,-14.879,June 1977,Aragonese Regionalist Party
+1977,1977,90,Spain,2.83,2.83,6.604,0.7559999999999999,-28.302,June 1977,Catalan Republican Left
+1977,1977,90,Spain,3.516,0.879,1.758,0.01,-22.418000000000006,June 1977,Andalusian Party
+1977,1978,20,Spain,0.775,1.938,4.651,9.27,-13.953,June 1977,Communist Party of Spain
+1977,1978,30,Spain,1.068,3.559,4.982,30.348000000000006,-9.253,June 1977,Spanish Socialist Workers’ Party
+1977,1978,40,Spain,1.878,1.408,6.103,34.829,-0.469,June 1977,Union of the Democratic Centre/Centrist Bloc
+1977,1978,60,Spain,0.0,0.0,2.5860000000000003,8.417,12.069,June 1977,Popular Alliance
+1977,1978,90,Spain,4.961,0.0,2.872,0.34,-23.499,June 1977,Basque Left
+1977,1978,90,Spain,2.381,1.19,2.381,1.703,-20.238,June 1977,Basque Nationalist Party
+1977,1978,90,Spain,1.817,3.287,1.557,0.21,-14.879,June 1977,Aragonese Regionalist Party
+1977,1978,90,Spain,2.83,2.83,6.604,0.7559999999999999,-28.302,June 1977,Catalan Republican Left
+1977,1978,90,Spain,3.516,0.879,1.758,0.01,-22.418000000000006,June 1977,Andalusian Party
+1979,1979,20,Spain,2.7960000000000003,5.099,1.809,10.797,-21.053,March 1979,Communist Party of Spain
+1979,1979,30,Spain,1.4340000000000002,2.999,3.259,30.489,-10.691,March 1979,Spanish Socialist Workers’ Party
+1979,1979,40,Spain,0.78,3.744,2.652,35.047,0.468,March 1979,Union of the Democratic Centre/Centrist Bloc
+1979,1979,60,Spain,0.0,0.0,2.5860000000000003,6.459000000000001,12.069,March 1979,Popular Alliance
+1979,1979,90,Spain,0.914,3.108,0.914,2.687,8.227,March 1979,Convergence and Union
+1979,1979,90,Spain,4.961,0.0,2.872,0.48,-23.499,March 1979,Basque Left
+1979,1979,90,Spain,4.745,0.547,2.555,1.652,-25.547,March 1979,Basque Nationalist Party
+1979,1979,90,Spain,1.817,3.287,1.557,0.33,-14.879,March 1979,Aragonese Regionalist Party
+1979,1979,90,Spain,3.1910000000000003,0.0,0.0,0.6859999999999999,-22.34,March 1979,Catalan Republican Left
+1979,1979,90,Spain,3.516,0.879,1.758,1.81,-22.418000000000006,March 1979,Andalusian Party
+1979,1980,20,Spain,2.7960000000000003,5.099,1.809,10.797,-21.053,March 1979,Communist Party of Spain
+1979,1980,30,Spain,1.4340000000000002,2.999,3.259,30.489,-10.691,March 1979,Spanish Socialist Workers’ Party
+1979,1980,40,Spain,0.78,3.744,2.652,35.047,0.468,March 1979,Union of the Democratic Centre/Centrist Bloc
+1979,1980,60,Spain,0.0,0.0,2.5860000000000003,6.459000000000001,12.069,March 1979,Popular Alliance
+1979,1980,90,Spain,0.914,3.108,0.914,2.687,8.227,March 1979,Convergence and Union
+1979,1980,90,Spain,4.961,0.0,2.872,0.48,-23.499,March 1979,Basque Left
+1979,1980,90,Spain,4.745,0.547,2.555,1.652,-25.547,March 1979,Basque Nationalist Party
+1979,1980,90,Spain,1.817,3.287,1.557,0.33,-14.879,March 1979,Aragonese Regionalist Party
+1979,1980,90,Spain,3.1910000000000003,0.0,0.0,0.6859999999999999,-22.34,March 1979,Catalan Republican Left
+1979,1980,90,Spain,3.516,0.879,1.758,1.81,-22.418000000000006,March 1979,Andalusian Party
+1979,1981,20,Spain,2.7960000000000003,5.099,1.809,10.797,-21.053,March 1979,Communist Party of Spain
+1979,1981,30,Spain,1.4340000000000002,2.999,3.259,30.489,-10.691,March 1979,Spanish Socialist Workers’ Party
+1979,1981,40,Spain,0.78,3.744,2.652,35.047,0.468,March 1979,Union of the Democratic Centre/Centrist Bloc
+1979,1981,60,Spain,0.0,0.0,2.5860000000000003,6.459000000000001,12.069,March 1979,Popular Alliance
+1979,1981,90,Spain,0.914,3.108,0.914,2.687,8.227,March 1979,Convergence and Union
+1979,1981,90,Spain,4.961,0.0,2.872,0.48,-23.499,March 1979,Basque Left
+1979,1981,90,Spain,4.745,0.547,2.555,1.652,-25.547,March 1979,Basque Nationalist Party
+1979,1981,90,Spain,1.817,3.287,1.557,0.33,-14.879,March 1979,Aragonese Regionalist Party
+1979,1981,90,Spain,3.1910000000000003,0.0,0.0,0.6859999999999999,-22.34,March 1979,Catalan Republican Left
+1979,1981,90,Spain,3.516,0.879,1.758,1.81,-22.418000000000006,March 1979,Andalusian Party
+1982,1982,20,Spain,3.089,2.574,1.931,4.134,-31.403,October 1982,Communist Party of Spain
+1982,1982,30,Spain,2.18,4.063,3.32,48.38,-10.951,October 1982,Spanish Socialist Workers’ Party
+1982,1982,40,Spain,1.784,4.049,3.157,6.809,-7.207000000000002,October 1982,Union of the Democratic Centre/Centrist Bloc
+1982,1982,40,Spain,0.0,0.0,2.5860000000000003,6.0,12.069,October 1982,Popular Democratic Party
+1982,1982,50,Spain,2.611,4.589,1.503,2.887,-14.953,October 1982,Centre Democrats
+1982,1982,60,Spain,1.971,3.871,1.541,20.5,13.262,October 1982,Popular Alliance
+1982,1982,90,Spain,0.914,3.108,0.914,3.691,8.227,October 1982,Convergence and Union
+1982,1982,90,Spain,4.961,0.0,2.872,0.48,-23.499,October 1982,Basque Left
+1982,1982,90,Spain,3.996,0.095,3.33,1.89,-6.565,October 1982,Basque Nationalist Party
+1982,1982,90,Spain,1.815,0.0,1.096,0.66,-17.090999999999998,October 1982,Catalan Republican Left
+1982,1983,20,Spain,3.089,2.574,1.931,4.134,-31.403,October 1982,Communist Party of Spain
+1982,1983,30,Spain,2.18,4.063,3.32,48.38,-10.951,October 1982,Spanish Socialist Workers’ Party
+1982,1983,40,Spain,1.784,4.049,3.157,6.809,-7.207000000000002,October 1982,Union of the Democratic Centre/Centrist Bloc
+1982,1983,40,Spain,0.0,0.0,2.5860000000000003,6.0,12.069,October 1982,Popular Democratic Party
+1982,1983,50,Spain,2.611,4.589,1.503,2.887,-14.953,October 1982,Centre Democrats
+1982,1983,60,Spain,1.971,3.871,1.541,20.5,13.262,October 1982,Popular Alliance
+1982,1983,90,Spain,0.914,3.108,0.914,3.691,8.227,October 1982,Convergence and Union
+1982,1983,90,Spain,4.961,0.0,2.872,0.48,-23.499,October 1982,Basque Left
+1982,1983,90,Spain,3.996,0.095,3.33,1.89,-6.565,October 1982,Basque Nationalist Party
+1982,1983,90,Spain,1.815,0.0,1.096,0.66,-17.090999999999998,October 1982,Catalan Republican Left
+1982,1984,20,Spain,3.089,2.574,1.931,4.134,-31.403,October 1982,Communist Party of Spain
+1982,1984,30,Spain,2.18,4.063,3.32,48.38,-10.951,October 1982,Spanish Socialist Workers’ Party
+1982,1984,40,Spain,1.784,4.049,3.157,6.809,-7.207000000000002,October 1982,Union of the Democratic Centre/Centrist Bloc
+1982,1984,40,Spain,0.0,0.0,2.5860000000000003,6.0,12.069,October 1982,Popular Democratic Party
+1982,1984,50,Spain,2.611,4.589,1.503,2.887,-14.953,October 1982,Centre Democrats
+1982,1984,60,Spain,1.971,3.871,1.541,20.5,13.262,October 1982,Popular Alliance
+1982,1984,90,Spain,0.914,3.108,0.914,3.691,8.227,October 1982,Convergence and Union
+1982,1984,90,Spain,4.961,0.0,2.872,0.48,-23.499,October 1982,Basque Left
+1982,1984,90,Spain,3.996,0.095,3.33,1.89,-6.565,October 1982,Basque Nationalist Party
+1982,1984,90,Spain,1.815,0.0,1.096,0.66,-17.090999999999998,October 1982,Catalan Republican Left
+1982,1985,20,Spain,3.089,2.574,1.931,4.134,-31.403,October 1982,Communist Party of Spain
+1982,1985,30,Spain,2.18,4.063,3.32,48.38,-10.951,October 1982,Spanish Socialist Workers’ Party
+1982,1985,40,Spain,1.784,4.049,3.157,6.809,-7.207000000000002,October 1982,Union of the Democratic Centre/Centrist Bloc
+1982,1985,40,Spain,0.0,0.0,2.5860000000000003,6.0,12.069,October 1982,Popular Democratic Party
+1982,1985,50,Spain,2.611,4.589,1.503,2.887,-14.953,October 1982,Centre Democrats
+1982,1985,60,Spain,1.971,3.871,1.541,20.5,13.262,October 1982,Popular Alliance
+1982,1985,90,Spain,0.914,3.108,0.914,3.691,8.227,October 1982,Convergence and Union
+1982,1985,90,Spain,4.961,0.0,2.872,0.48,-23.499,October 1982,Basque Left
+1982,1985,90,Spain,3.996,0.095,3.33,1.89,-6.565,October 1982,Basque Nationalist Party
+1982,1985,90,Spain,1.815,0.0,1.096,0.66,-17.090999999999998,October 1982,Catalan Republican Left
+1986,1986,20,Spain,7.519,3.342,2.59,3.827,-25.313,June 1986,United Left
+1986,1986,30,Spain,2.21,2.624,4.604,44.344,-11.648,June 1986,Spanish Socialist Workers’ Party
+1986,1986,40,Spain,2.567,3.752,0.922,5.23,1.58,June 1986,Popular Democratic Party
+1986,1986,40,Spain,2.567,3.752,0.922,2.74,1.58,June 1986,Liberal Party
+1986,1986,50,Spain,3.092,4.637,3.032,9.16,-13.08,June 1986,Centre Democrats
+1986,1986,60,Spain,1.636,3.843,2.093,18.17,13.166,June 1986,Popular Alliance
+1986,1986,90,Spain,0.418,1.42,1.086,5.052,11.111,June 1986,Convergence and Union
+1986,1986,90,Spain,4.961,0.0,2.872,0.5329999999999999,-23.499,June 1986,Basque Left
+1986,1986,90,Spain,3.13,1.826,1.391,1.5419999999999998,3.478,June 1986,Basque Nationalist Party
+1986,1986,90,Spain,1.817,3.287,1.557,0.36,-14.879,June 1986,Aragonese Regionalist Party
+1986,1986,90,Spain,0.439,0.0,2.193,0.617,-11.842,June 1986,Catalan Republican Left
+1986,1987,20,Spain,7.519,3.342,2.59,3.827,-25.313,June 1986,United Left
+1986,1987,30,Spain,2.21,2.624,4.604,44.344,-11.648,June 1986,Spanish Socialist Workers’ Party
+1986,1987,40,Spain,2.567,3.752,0.922,5.23,1.58,June 1986,Popular Democratic Party
+1986,1987,40,Spain,2.567,3.752,0.922,2.74,1.58,June 1986,Liberal Party
+1986,1987,50,Spain,3.092,4.637,3.032,9.16,-13.08,June 1986,Centre Democrats
+1986,1987,60,Spain,1.636,3.843,2.093,18.17,13.166,June 1986,Popular Alliance
+1986,1987,90,Spain,0.418,1.42,1.086,5.052,11.111,June 1986,Convergence and Union
+1986,1987,90,Spain,4.961,0.0,2.872,0.5329999999999999,-23.499,June 1986,Basque Left
+1986,1987,90,Spain,3.13,1.826,1.391,1.5419999999999998,3.478,June 1986,Basque Nationalist Party
+1986,1987,90,Spain,1.817,3.287,1.557,0.36,-14.879,June 1986,Aragonese Regionalist Party
+1986,1987,90,Spain,0.439,0.0,2.193,0.617,-11.842,June 1986,Catalan Republican Left
+1986,1988,20,Spain,7.519,3.342,2.59,3.827,-25.313,June 1986,United Left
+1986,1988,30,Spain,2.21,2.624,4.604,44.344,-11.648,June 1986,Spanish Socialist Workers’ Party
+1986,1988,40,Spain,2.567,3.752,0.922,5.23,1.58,June 1986,Popular Democratic Party
+1986,1988,40,Spain,2.567,3.752,0.922,2.74,1.58,June 1986,Liberal Party
+1986,1988,50,Spain,3.092,4.637,3.032,9.16,-13.08,June 1986,Centre Democrats
+1986,1988,60,Spain,1.636,3.843,2.093,18.17,13.166,June 1986,Popular Alliance
+1986,1988,90,Spain,0.418,1.42,1.086,5.052,11.111,June 1986,Convergence and Union
+1986,1988,90,Spain,4.961,0.0,2.872,0.5329999999999999,-23.499,June 1986,Basque Left
+1986,1988,90,Spain,3.13,1.826,1.391,1.5419999999999998,3.478,June 1986,Basque Nationalist Party
+1986,1988,90,Spain,1.817,3.287,1.557,0.36,-14.879,June 1986,Aragonese Regionalist Party
+1986,1988,90,Spain,0.439,0.0,2.193,0.617,-11.842,June 1986,Catalan Republican Left
+1989,1989,20,Spain,5.372999999999998,2.657,4.159,9.133,-40.035,October 1989,United Left
+1989,1989,30,Spain,4.057,4.598,3.313,39.877,-22.312,October 1989,Spanish Socialist Workers’ Party
+1989,1989,50,Spain,4.25,1.293,1.922,7.949,-4.472,October 1989,Centre Democrats
+1989,1989,60,Spain,3.848,4.682,0.603,25.974,-3.1060000000000003,October 1989,People's Party
+1989,1989,90,Spain,2.418,2.273,1.112,5.072,-3.1910000000000003,October 1989,Convergence and Union
+1989,1989,90,Spain,4.961,0.0,2.872,0.52,-23.499,October 1989,Basque Left
+1989,1989,90,Spain,2.83,2.109,1.554,1.251,-11.987,October 1989,Basque Nationalist Party
+1989,1989,90,Spain,8.172,0.204,4.29,0.6729999999999999,-19.203,October 1989,Basque Solidarity
+1989,1989,90,Spain,1.817,3.287,1.557,0.35200000000000004,-14.879,October 1989,Aragonese Regionalist Party
+1989,1989,90,Spain,2.7,0.193,2.314,0.416,-20.251,October 1989,Catalan Republican Left
+1989,1989,90,Spain,3.516,0.879,1.758,1.05,-22.418000000000006,October 1989,Andalusian Party
+1989,1990,20,Spain,5.372999999999998,2.657,4.159,9.133,-40.035,October 1989,United Left
+1989,1990,30,Spain,4.057,4.598,3.313,39.877,-22.312,October 1989,Spanish Socialist Workers’ Party
+1989,1990,50,Spain,4.25,1.293,1.922,7.949,-4.472,October 1989,Centre Democrats
+1989,1990,60,Spain,3.848,4.682,0.603,25.974,-3.1060000000000003,October 1989,People's Party
+1989,1990,90,Spain,2.418,2.273,1.112,5.072,-3.1910000000000003,October 1989,Convergence and Union
+1989,1990,90,Spain,4.961,0.0,2.872,0.52,-23.499,October 1989,Basque Left
+1989,1990,90,Spain,2.83,2.109,1.554,1.251,-11.987,October 1989,Basque Nationalist Party
+1989,1990,90,Spain,8.172,0.204,4.29,0.6729999999999999,-19.203,October 1989,Basque Solidarity
+1989,1990,90,Spain,1.817,3.287,1.557,0.35200000000000004,-14.879,October 1989,Aragonese Regionalist Party
+1989,1990,90,Spain,2.7,0.193,2.314,0.416,-20.251,October 1989,Catalan Republican Left
+1989,1990,90,Spain,3.516,0.879,1.758,1.05,-22.418000000000006,October 1989,Andalusian Party
+1989,1991,20,Spain,5.372999999999998,2.657,4.159,9.133,-40.035,October 1989,United Left
+1989,1991,30,Spain,4.057,4.598,3.313,39.877,-22.312,October 1989,Spanish Socialist Workers’ Party
+1989,1991,50,Spain,4.25,1.293,1.922,7.949,-4.472,October 1989,Centre Democrats
+1989,1991,60,Spain,3.848,4.682,0.603,25.974,-3.1060000000000003,October 1989,People's Party
+1989,1991,90,Spain,2.418,2.273,1.112,5.072,-3.1910000000000003,October 1989,Convergence and Union
+1989,1991,90,Spain,4.961,0.0,2.872,0.52,-23.499,October 1989,Basque Left
+1989,1991,90,Spain,2.83,2.109,1.554,1.251,-11.987,October 1989,Basque Nationalist Party
+1989,1991,90,Spain,8.172,0.204,4.29,0.6729999999999999,-19.203,October 1989,Basque Solidarity
+1989,1991,90,Spain,1.817,3.287,1.557,0.35200000000000004,-14.879,October 1989,Aragonese Regionalist Party
+1989,1991,90,Spain,2.7,0.193,2.314,0.416,-20.251,October 1989,Catalan Republican Left
+1989,1991,90,Spain,3.516,0.879,1.758,1.05,-22.418000000000006,October 1989,Andalusian Party
+1989,1992,20,Spain,5.372999999999998,2.657,4.159,9.133,-40.035,October 1989,United Left
+1989,1992,30,Spain,4.057,4.598,3.313,39.877,-22.312,October 1989,Spanish Socialist Workers’ Party
+1989,1992,50,Spain,4.25,1.293,1.922,7.949,-4.472,October 1989,Centre Democrats
+1989,1992,60,Spain,3.848,4.682,0.603,25.974,-3.1060000000000003,October 1989,People's Party
+1989,1992,90,Spain,2.418,2.273,1.112,5.072,-3.1910000000000003,October 1989,Convergence and Union
+1989,1992,90,Spain,4.961,0.0,2.872,0.52,-23.499,October 1989,Basque Left
+1989,1992,90,Spain,2.83,2.109,1.554,1.251,-11.987,October 1989,Basque Nationalist Party
+1989,1992,90,Spain,8.172,0.204,4.29,0.6729999999999999,-19.203,October 1989,Basque Solidarity
+1989,1992,90,Spain,1.817,3.287,1.557,0.35200000000000004,-14.879,October 1989,Aragonese Regionalist Party
+1989,1992,90,Spain,2.7,0.193,2.314,0.416,-20.251,October 1989,Catalan Republican Left
+1989,1992,90,Spain,3.516,0.879,1.758,1.05,-22.418000000000006,October 1989,Andalusian Party
+1993,1993,20,Spain,6.076000000000001,2.41,4.06,9.63,-35.359,June 1993,United Left
+1993,1993,30,Spain,4.393,3.148,2.164,39.1,-23.213,June 1993,Spanish Socialist Workers’ Party
+1993,1993,50,Spain,3.731,0.0,1.493,1.7719999999999998,-26.119,June 1993,Centre Democrats
+1993,1993,60,Spain,3.221,2.684,0.913,35.04,-8.427,June 1993,People's Party
+1993,1993,90,Spain,3.502,1.935,2.302,4.981,-11.474,June 1993,Convergence and Union
+1993,1993,90,Spain,4.6560000000000015,2.794,1.508,1.245,-0.31,June 1993,Basque Nationalist Party
+1993,1993,90,Spain,3.529,0.0,2.824,0.552,-20.941,June 1993,Basque Solidarity
+1993,1993,90,Spain,1.817,3.287,1.557,0.62,-14.879,June 1993,Aragonese Party
+1993,1993,90,Spain,5.272,1.645,3.1210000000000004,0.81,-15.774,June 1993,Catalan Republican Left
+1993,1993,90,Spain,3.516,0.879,1.758,0.412,-22.418000000000006,June 1993,Andalusian Party
+1993,1993,90,Spain,5.088,0.93,7.44,0.88,-4.759,June 1993,Canarian Coalition
+1993,1994,20,Spain,6.076000000000001,2.41,4.06,9.63,-35.359,June 1993,United Left
+1993,1994,30,Spain,4.393,3.148,2.164,39.1,-23.213,June 1993,Spanish Socialist Workers’ Party
+1993,1994,50,Spain,3.731,0.0,1.493,1.7719999999999998,-26.119,June 1993,Centre Democrats
+1993,1994,60,Spain,3.221,2.684,0.913,35.04,-8.427,June 1993,People's Party
+1993,1994,90,Spain,3.502,1.935,2.302,4.981,-11.474,June 1993,Convergence and Union
+1993,1994,90,Spain,4.6560000000000015,2.794,1.508,1.245,-0.31,June 1993,Basque Nationalist Party
+1993,1994,90,Spain,3.529,0.0,2.824,0.552,-20.941,June 1993,Basque Solidarity
+1993,1994,90,Spain,1.817,3.287,1.557,0.62,-14.879,June 1993,Aragonese Party
+1993,1994,90,Spain,5.272,1.645,3.1210000000000004,0.81,-15.774,June 1993,Catalan Republican Left
+1993,1994,90,Spain,3.516,0.879,1.758,0.412,-22.418000000000006,June 1993,Andalusian Party
+1993,1994,90,Spain,5.088,0.93,7.44,0.88,-4.759,June 1993,Canarian Coalition
+1993,1995,20,Spain,6.076000000000001,2.41,4.06,9.63,-35.359,June 1993,United Left
+1993,1995,30,Spain,4.393,3.148,2.164,39.1,-23.213,June 1993,Spanish Socialist Workers’ Party
+1993,1995,50,Spain,3.731,0.0,1.493,1.7719999999999998,-26.119,June 1993,Centre Democrats
+1993,1995,60,Spain,3.221,2.684,0.913,35.04,-8.427,June 1993,People's Party
+1993,1995,90,Spain,3.502,1.935,2.302,4.981,-11.474,June 1993,Convergence and Union
+1993,1995,90,Spain,4.6560000000000015,2.794,1.508,1.245,-0.31,June 1993,Basque Nationalist Party
+1993,1995,90,Spain,3.529,0.0,2.824,0.552,-20.941,June 1993,Basque Solidarity
+1993,1995,90,Spain,1.817,3.287,1.557,0.62,-14.879,June 1993,Aragonese Party
+1993,1995,90,Spain,5.272,1.645,3.1210000000000004,0.81,-15.774,June 1993,Catalan Republican Left
+1993,1995,90,Spain,3.516,0.879,1.758,0.412,-22.418000000000006,June 1993,Andalusian Party
+1993,1995,90,Spain,5.088,0.93,7.44,0.88,-4.759,June 1993,Canarian Coalition
+1996,1996,20,Spain,5.63,1.992,2.596,10.54,-26.485,March 1996,United Left
+1996,1996,30,Spain,5.582000000000002,1.927,4.421,37.633,-4.109,March 1996,Spanish Socialist Workers’ Party
+1996,1996,60,Spain,2.8360000000000003,2.394,2.615,38.792,9.871,March 1996,People's Party
+1996,1996,90,Spain,5.324,0.643,1.469,4.598,1.04,March 1996,Convergence and Union
+1996,1996,90,Spain,5.182,3.277,0.487,1.273,-8.547,March 1996,Basque Nationalist Party
+1996,1996,90,Spain,8.63,0.24,5.9,0.463,-15.27,March 1996,Basque Solidarity
+1996,1996,90,Spain,5.3,1.39,3.36,0.669,-14.3,March 1996,Catalan Republican Left
+1996,1996,90,Spain,5.006,0.935,7.536,0.88,-5.116000000000001,March 1996,Canarian Coalition
+1996,1996,90,Spain,4.13,1.672,0.983,0.88,-9.833,March 1996,Galician Nationalist Bloc
+1996,1997,20,Spain,5.63,1.992,2.596,10.54,-26.485,March 1996,United Left
+1996,1997,30,Spain,5.582000000000002,1.927,4.421,37.633,-4.109,March 1996,Spanish Socialist Workers’ Party
+1996,1997,60,Spain,2.8360000000000003,2.394,2.615,38.792,9.871,March 1996,People's Party
+1996,1997,90,Spain,5.324,0.643,1.469,4.598,1.04,March 1996,Convergence and Union
+1996,1997,90,Spain,5.182,3.277,0.487,1.273,-8.547,March 1996,Basque Nationalist Party
+1996,1997,90,Spain,8.63,0.24,5.9,0.463,-15.27,March 1996,Basque Solidarity
+1996,1997,90,Spain,5.3,1.39,3.36,0.669,-14.3,March 1996,Catalan Republican Left
+1996,1997,90,Spain,5.006,0.935,7.536,0.88,-5.116000000000001,March 1996,Canarian Coalition
+1996,1997,90,Spain,4.13,1.672,0.983,0.88,-9.833,March 1996,Galician Nationalist Bloc
+1996,1998,20,Spain,5.63,1.992,2.596,10.54,-26.485,March 1996,United Left
+1996,1998,30,Spain,5.582000000000002,1.927,4.421,37.633,-4.109,March 1996,Spanish Socialist Workers’ Party
+1996,1998,60,Spain,2.8360000000000003,2.394,2.615,38.792,9.871,March 1996,People's Party
+1996,1998,90,Spain,5.324,0.643,1.469,4.598,1.04,March 1996,Convergence and Union
+1996,1998,90,Spain,5.182,3.277,0.487,1.273,-8.547,March 1996,Basque Nationalist Party
+1996,1998,90,Spain,8.63,0.24,5.9,0.463,-15.27,March 1996,Basque Solidarity
+1996,1998,90,Spain,5.3,1.39,3.36,0.669,-14.3,March 1996,Catalan Republican Left
+1996,1998,90,Spain,5.006,0.935,7.536,0.88,-5.116000000000001,March 1996,Canarian Coalition
+1996,1998,90,Spain,4.13,1.672,0.983,0.88,-9.833,March 1996,Galician Nationalist Bloc
+1996,1999,20,Spain,5.63,1.992,2.596,10.54,-26.485,March 1996,United Left
+1996,1999,30,Spain,5.582000000000002,1.927,4.421,37.633,-4.109,March 1996,Spanish Socialist Workers’ Party
+1996,1999,60,Spain,2.8360000000000003,2.394,2.615,38.792,9.871,March 1996,People's Party
+1996,1999,90,Spain,5.324,0.643,1.469,4.598,1.04,March 1996,Convergence and Union
+1996,1999,90,Spain,5.182,3.277,0.487,1.273,-8.547,March 1996,Basque Nationalist Party
+1996,1999,90,Spain,8.63,0.24,5.9,0.463,-15.27,March 1996,Basque Solidarity
+1996,1999,90,Spain,5.3,1.39,3.36,0.669,-14.3,March 1996,Catalan Republican Left
+1996,1999,90,Spain,5.006,0.935,7.536,0.88,-5.116000000000001,March 1996,Canarian Coalition
+1996,1999,90,Spain,4.13,1.672,0.983,0.88,-9.833,March 1996,Galician Nationalist Bloc
+2000,2000,20,Spain,6.992000000000001,2.664,4.805,5.449,-27.214,March 2000,United Left
+2000,2000,30,Spain,3.198,2.028,5.07,34.16,-19.657,March 2000,Spanish Socialist Workers’ Party
+2000,2000,60,Spain,4.738,4.162,2.572,44.524,3.587,March 2000,People's Party
+2000,2000,90,Spain,3.1830000000000003,1.962,2.184,4.186,-0.444,March 2000,Convergence and Union
+2000,2000,90,Spain,6.592000000000001,3.498,0.807,1.527,-11.48,March 2000,Basque Nationalist Party
+2000,2000,90,Spain,8.63,0.24,5.9,0.435,-15.27,March 2000,Basque Solidarity
+2000,2000,90,Spain,1.817,3.287,1.557,0.33,-14.879,March 2000,Aragonese Party
+2000,2000,90,Spain,5.3,1.39,3.36,0.84,-14.3,March 2000,Catalan Republican Left
+2000,2000,90,Spain,4.69,4.77,2.01,0.89,-17.56,March 2000,Andalusian Party
+2000,2000,90,Spain,0.745,2.609,2.733,1.071,-11.18,March 2000,Canarian Coalition
+2000,2000,90,Spain,4.051,1.581,0.889,1.321,-9.98,March 2000,Galician Nationalist Bloc
+2000,2001,20,Spain,6.992000000000001,2.664,4.805,5.449,-27.214,March 2000,United Left
+2000,2001,30,Spain,3.198,2.028,5.07,34.16,-19.657,March 2000,Spanish Socialist Workers’ Party
+2000,2001,60,Spain,4.738,4.162,2.572,44.524,3.587,March 2000,People's Party
+2000,2001,90,Spain,3.1830000000000003,1.962,2.184,4.186,-0.444,March 2000,Convergence and Union
+2000,2001,90,Spain,6.592000000000001,3.498,0.807,1.527,-11.48,March 2000,Basque Nationalist Party
+2000,2001,90,Spain,8.63,0.24,5.9,0.435,-15.27,March 2000,Basque Solidarity
+2000,2001,90,Spain,1.817,3.287,1.557,0.33,-14.879,March 2000,Aragonese Party
+2000,2001,90,Spain,5.3,1.39,3.36,0.84,-14.3,March 2000,Catalan Republican Left
+2000,2001,90,Spain,4.69,4.77,2.01,0.89,-17.56,March 2000,Andalusian Party
+2000,2001,90,Spain,0.745,2.609,2.733,1.071,-11.18,March 2000,Canarian Coalition
+2000,2001,90,Spain,4.051,1.581,0.889,1.321,-9.98,March 2000,Galician Nationalist Bloc
+2000,2002,20,Spain,6.992000000000001,2.664,4.805,5.449,-27.214,March 2000,United Left
+2000,2002,30,Spain,3.198,2.028,5.07,34.16,-19.657,March 2000,Spanish Socialist Workers’ Party
+2000,2002,60,Spain,4.738,4.162,2.572,44.524,3.587,March 2000,People's Party
+2000,2002,90,Spain,3.1830000000000003,1.962,2.184,4.186,-0.444,March 2000,Convergence and Union
+2000,2002,90,Spain,6.592000000000001,3.498,0.807,1.527,-11.48,March 2000,Basque Nationalist Party
+2000,2002,90,Spain,8.63,0.24,5.9,0.435,-15.27,March 2000,Basque Solidarity
+2000,2002,90,Spain,1.817,3.287,1.557,0.33,-14.879,March 2000,Aragonese Party
+2000,2002,90,Spain,5.3,1.39,3.36,0.84,-14.3,March 2000,Catalan Republican Left
+2000,2002,90,Spain,4.69,4.77,2.01,0.89,-17.56,March 2000,Andalusian Party
+2000,2002,90,Spain,0.745,2.609,2.733,1.071,-11.18,March 2000,Canarian Coalition
+2000,2002,90,Spain,4.051,1.581,0.889,1.321,-9.98,March 2000,Galician Nationalist Bloc
+2000,2003,20,Spain,6.992000000000001,2.664,4.805,5.449,-27.214,March 2000,United Left
+2000,2003,30,Spain,3.198,2.028,5.07,34.16,-19.657,March 2000,Spanish Socialist Workers’ Party
+2000,2003,60,Spain,4.738,4.162,2.572,44.524,3.587,March 2000,People's Party
+2000,2003,90,Spain,3.1830000000000003,1.962,2.184,4.186,-0.444,March 2000,Convergence and Union
+2000,2003,90,Spain,6.592000000000001,3.498,0.807,1.527,-11.48,March 2000,Basque Nationalist Party
+2000,2003,90,Spain,8.63,0.24,5.9,0.435,-15.27,March 2000,Basque Solidarity
+2000,2003,90,Spain,1.817,3.287,1.557,0.33,-14.879,March 2000,Aragonese Party
+2000,2003,90,Spain,5.3,1.39,3.36,0.84,-14.3,March 2000,Catalan Republican Left
+2000,2003,90,Spain,4.69,4.77,2.01,0.89,-17.56,March 2000,Andalusian Party
+2000,2003,90,Spain,0.745,2.609,2.733,1.071,-11.18,March 2000,Canarian Coalition
+2000,2003,90,Spain,4.051,1.581,0.889,1.321,-9.98,March 2000,Galician Nationalist Bloc
+2004,2004,20,Spain,7.1480000000000015,5.1110000000000015,5.6110000000000015,4.96,-16.512,March 2004,United Left
+2004,2004,30,Spain,2.3480000000000003,6.106,5.234,42.58600000000001,-12.390999999999998,March 2004,Spanish Socialist Workers’ Party
+2004,2004,60,Spain,4.654,4.512,2.85,37.708,9.309,March 2004,People's Party
+2004,2004,90,Spain,3.282,2.934,5.347,3.227,-0.251,March 2004,Convergence and Union
+2004,2004,90,Spain,0.185,0.0,2.768,1.626,-11.624,March 2004,Basque Nationalist Party
+2004,2004,90,Spain,9.085,0.275,7.502000000000002,0.312,-11.356,March 2004,Basque Solidarity
+2004,2004,90,Spain,5.323,1.131,3.593,2.519,-12.841,March 2004,Catalan Republican Left
+2004,2004,90,Spain,5.707999999999998,8.529,2.854,0.7000000000000001,-12.063,March 2004,Andalusian Party
+2004,2004,90,Spain,2.333,3.111,3.556,0.908,-9.111,March 2004,Canarian Coalition
+2004,2004,90,Spain,5.351,1.226,2.843,0.8059999999999999,-8.527999999999999,March 2004,Galician Nationalist Bloc
+2004,2004,90,Spain,9.754,5.777,2.557,0.364,-17.614,March 2004,Aragonist Council
+2004,2004,90,Spain,1.136,14.773,0.0,0.5700000000000001,-1.136,March 2004,Navarrese People's Union
+2004,2005,20,Spain,7.1480000000000015,5.1110000000000015,5.6110000000000015,4.96,-16.512,March 2004,United Left
+2004,2005,30,Spain,2.3480000000000003,6.106,5.234,42.58600000000001,-12.390999999999998,March 2004,Spanish Socialist Workers’ Party
+2004,2005,60,Spain,4.654,4.512,2.85,37.708,9.309,March 2004,People's Party
+2004,2005,90,Spain,3.282,2.934,5.347,3.227,-0.251,March 2004,Convergence and Union
+2004,2005,90,Spain,0.185,0.0,2.768,1.626,-11.624,March 2004,Basque Nationalist Party
+2004,2005,90,Spain,9.085,0.275,7.502000000000002,0.312,-11.356,March 2004,Basque Solidarity
+2004,2005,90,Spain,5.323,1.131,3.593,2.519,-12.841,March 2004,Catalan Republican Left
+2004,2005,90,Spain,5.707999999999998,8.529,2.854,0.7000000000000001,-12.063,March 2004,Andalusian Party
+2004,2005,90,Spain,2.333,3.111,3.556,0.908,-9.111,March 2004,Canarian Coalition
+2004,2005,90,Spain,5.351,1.226,2.843,0.8059999999999999,-8.527999999999999,March 2004,Galician Nationalist Bloc
+2004,2005,90,Spain,9.754,5.777,2.557,0.364,-17.614,March 2004,Aragonist Council
+2004,2005,90,Spain,1.136,14.773,0.0,0.5700000000000001,-1.136,March 2004,Navarrese People's Union
+2004,2006,20,Spain,7.1480000000000015,5.1110000000000015,5.6110000000000015,4.96,-16.512,March 2004,United Left
+2004,2006,30,Spain,2.3480000000000003,6.106,5.234,42.58600000000001,-12.390999999999998,March 2004,Spanish Socialist Workers’ Party
+2004,2006,60,Spain,4.654,4.512,2.85,37.708,9.309,March 2004,People's Party
+2004,2006,90,Spain,3.282,2.934,5.347,3.227,-0.251,March 2004,Convergence and Union
+2004,2006,90,Spain,0.185,0.0,2.768,1.626,-11.624,March 2004,Basque Nationalist Party
+2004,2006,90,Spain,9.085,0.275,7.502000000000002,0.312,-11.356,March 2004,Basque Solidarity
+2004,2006,90,Spain,5.323,1.131,3.593,2.519,-12.841,March 2004,Catalan Republican Left
+2004,2006,90,Spain,5.707999999999998,8.529,2.854,0.7000000000000001,-12.063,March 2004,Andalusian Party
+2004,2006,90,Spain,2.333,3.111,3.556,0.908,-9.111,March 2004,Canarian Coalition
+2004,2006,90,Spain,5.351,1.226,2.843,0.8059999999999999,-8.527999999999999,March 2004,Galician Nationalist Bloc
+2004,2006,90,Spain,9.754,5.777,2.557,0.364,-17.614,March 2004,Aragonist Council
+2004,2006,90,Spain,1.136,14.773,0.0,0.5700000000000001,-1.136,March 2004,Navarrese People's Union
+2004,2007,20,Spain,7.1480000000000015,5.1110000000000015,5.6110000000000015,4.96,-16.512,March 2004,United Left
+2004,2007,30,Spain,2.3480000000000003,6.106,5.234,42.58600000000001,-12.390999999999998,March 2004,Spanish Socialist Workers’ Party
+2004,2007,60,Spain,4.654,4.512,2.85,37.708,9.309,March 2004,People's Party
+2004,2007,90,Spain,3.282,2.934,5.347,3.227,-0.251,March 2004,Convergence and Union
+2004,2007,90,Spain,0.185,0.0,2.768,1.626,-11.624,March 2004,Basque Nationalist Party
+2004,2007,90,Spain,9.085,0.275,7.502000000000002,0.312,-11.356,March 2004,Basque Solidarity
+2004,2007,90,Spain,5.323,1.131,3.593,2.519,-12.841,March 2004,Catalan Republican Left
+2004,2007,90,Spain,5.707999999999998,8.529,2.854,0.7000000000000001,-12.063,March 2004,Andalusian Party
+2004,2007,90,Spain,2.333,3.111,3.556,0.908,-9.111,March 2004,Canarian Coalition
+2004,2007,90,Spain,5.351,1.226,2.843,0.8059999999999999,-8.527999999999999,March 2004,Galician Nationalist Bloc
+2004,2007,90,Spain,9.754,5.777,2.557,0.364,-17.614,March 2004,Aragonist Council
+2004,2007,90,Spain,1.136,14.773,0.0,0.5700000000000001,-1.136,March 2004,Navarrese People's Union
+2008,2008,20,Spain,4.46,4.46,2.11,3.842,-16.403,March 2008,United Left
+2008,2008,30,Spain,7.9929999999999986,4.436,4.348,44.139,-22.903,March 2008,Spanish Socialist Workers’ Party
+2008,2008,60,Spain,8.26,6.539,2.311,40.571,-3.786,March 2008,People's Party
+2008,2008,90,Spain,5.263,0.0,4.954,3.089,-9.597999999999999,March 2008,Convergence and Union
+2008,2008,90,Spain,11.364,0.0,3.03,1.21,-2.597,March 2008,Basque Nationalist Party
+2008,2008,90,Spain,15.325,0.0,4.799,0.196,-6.6560000000000015,March 2008,Basque Solidarity
+2008,2008,90,Spain,4.934,1.6980000000000002,7.6389999999999985,1.183,-10.769,March 2008,Catalan Republican Left
+2008,2008,90,Spain,8.685,1.902,2.895,0.655,-4.797,March 2008,Canarian Coalition
+2008,2008,90,Spain,3.849,1.38,3.922,0.8340000000000001,-11.91,March 2008,Galician Nationalist Bloc
+2008,2008,90,Spain,16.173,2.9610000000000003,3.872,0.14800000000000002,-13.781,March 2008,Aragonist Council
+2008,2008,90,Spain,1.19,14.286,0.0,0.5700000000000001,1.19,March 2008,Navarrese People's Union
+2008,2009,20,Spain,4.46,4.46,2.11,3.842,-16.403,March 2008,United Left
+2008,2009,30,Spain,7.9929999999999986,4.436,4.348,44.139,-22.903,March 2008,Spanish Socialist Workers’ Party
+2008,2009,60,Spain,8.26,6.539,2.311,40.571,-3.786,March 2008,People's Party
+2008,2009,90,Spain,5.263,0.0,4.954,3.089,-9.597999999999999,March 2008,Convergence and Union
+2008,2009,90,Spain,11.364,0.0,3.03,1.21,-2.597,March 2008,Basque Nationalist Party
+2008,2009,90,Spain,15.325,0.0,4.799,0.196,-6.6560000000000015,March 2008,Basque Solidarity
+2008,2009,90,Spain,4.934,1.6980000000000002,7.6389999999999985,1.183,-10.769,March 2008,Catalan Republican Left
+2008,2009,90,Spain,8.685,1.902,2.895,0.655,-4.797,March 2008,Canarian Coalition
+2008,2009,90,Spain,3.849,1.38,3.922,0.8340000000000001,-11.91,March 2008,Galician Nationalist Bloc
+2008,2009,90,Spain,16.173,2.9610000000000003,3.872,0.14800000000000002,-13.781,March 2008,Aragonist Council
+2008,2009,90,Spain,1.19,14.286,0.0,0.5700000000000001,1.19,March 2008,Navarrese People's Union
+2008,2010,20,Spain,4.46,4.46,2.11,3.842,-16.403,March 2008,United Left
+2008,2010,30,Spain,7.9929999999999986,4.436,4.348,44.139,-22.903,March 2008,Spanish Socialist Workers’ Party
+2008,2010,60,Spain,8.26,6.539,2.311,40.571,-3.786,March 2008,People's Party
+2008,2010,90,Spain,5.263,0.0,4.954,3.089,-9.597999999999999,March 2008,Convergence and Union
+2008,2010,90,Spain,11.364,0.0,3.03,1.21,-2.597,March 2008,Basque Nationalist Party
+2008,2010,90,Spain,15.325,0.0,4.799,0.196,-6.6560000000000015,March 2008,Basque Solidarity
+2008,2010,90,Spain,4.934,1.6980000000000002,7.6389999999999985,1.183,-10.769,March 2008,Catalan Republican Left
+2008,2010,90,Spain,8.685,1.902,2.895,0.655,-4.797,March 2008,Canarian Coalition
+2008,2010,90,Spain,3.849,1.38,3.922,0.8340000000000001,-11.91,March 2008,Galician Nationalist Bloc
+2008,2010,90,Spain,16.173,2.9610000000000003,3.872,0.14800000000000002,-13.781,March 2008,Aragonist Council
+2008,2010,90,Spain,1.19,14.286,0.0,0.5700000000000001,1.19,March 2008,Navarrese People's Union
+2011,2011,90,Spain,8.793000000000001,0.745,4.471,0.177,-16.393,November 2011,Future Yes
+2011,2011,95,Spain,0.0,0.0,8.621,1.39,-17.241,November 2011,Amaiur
+2011,2011,95,Spain,10.259,1.338,6.334000000000001,0.523,-23.461,November 2011,Commitment-Q
+2011,2011,20,Spain,4.177,3.071,9.398,7.021,-36.855,November 2011,United Left
+2011,2011,30,Spain,4.386,1.494,8.675,29.13,-27.229,November 2011,Spanish Socialist Workers’ Party
+2011,2011,40,Spain,5.397,3.81,4.2860000000000005,4.76,-22.222,November 2011,"Union, Progress and Democracy"
+2011,2011,60,Spain,2.247,2.508,2.821,45.24,-3.448,November 2011,People's Party
+2011,2011,90,Spain,2.653,1.789,5.49,4.24,-10.857,November 2011,Convergence and Union
+2011,2011,90,Spain,3.257,3.479,3.849,0.414,-17.839000000000006,November 2011,Forum Asturias
+2011,2011,90,Spain,3.1010000000000004,0.0,2.326,1.35,-11.111,November 2011,Basque Nationalist Party
+2011,2011,90,Spain,2.079,1.24,11.835,1.071,-21.911,November 2011,Catalan Republican Left
+2011,2011,90,Spain,0.52,0.13,5.202000000000001,0.6,-19.896,November 2011,Canarian Coalition
+2011,2011,90,Spain,4.957,1.724,6.034,0.7659999999999999,-31.25,November 2011,Galician Nationalist Bloc
+2011,2012,90,Spain,8.793000000000001,0.745,4.471,0.177,-16.393,November 2011,Future Yes
+2011,2012,95,Spain,0.0,0.0,8.621,1.39,-17.241,November 2011,Amaiur
+2011,2012,95,Spain,10.259,1.338,6.334000000000001,0.523,-23.461,November 2011,Commitment-Q
+2011,2012,20,Spain,4.177,3.071,9.398,7.021,-36.855,November 2011,United Left
+2011,2012,30,Spain,4.386,1.494,8.675,29.13,-27.229,November 2011,Spanish Socialist Workers’ Party
+2011,2012,40,Spain,5.397,3.81,4.2860000000000005,4.76,-22.222,November 2011,"Union, Progress and Democracy"
+2011,2012,60,Spain,2.247,2.508,2.821,45.24,-3.448,November 2011,People's Party
+2011,2012,90,Spain,2.653,1.789,5.49,4.24,-10.857,November 2011,Convergence and Union
+2011,2012,90,Spain,3.257,3.479,3.849,0.414,-17.839000000000006,November 2011,Forum Asturias
+2011,2012,90,Spain,3.1010000000000004,0.0,2.326,1.35,-11.111,November 2011,Basque Nationalist Party
+2011,2012,90,Spain,2.079,1.24,11.835,1.071,-21.911,November 2011,Catalan Republican Left
+2011,2012,90,Spain,0.52,0.13,5.202000000000001,0.6,-19.896,November 2011,Canarian Coalition
+2011,2012,90,Spain,4.957,1.724,6.034,0.7659999999999999,-31.25,November 2011,Galician Nationalist Bloc
+2011,2013,90,Spain,8.793000000000001,0.745,4.471,0.177,-16.393,November 2011,Future Yes
+2011,2013,95,Spain,0.0,0.0,8.621,1.39,-17.241,November 2011,Amaiur
+2011,2013,95,Spain,10.259,1.338,6.334000000000001,0.523,-23.461,November 2011,Commitment-Q
+2011,2013,20,Spain,4.177,3.071,9.398,7.021,-36.855,November 2011,United Left
+2011,2013,30,Spain,4.386,1.494,8.675,29.13,-27.229,November 2011,Spanish Socialist Workers’ Party
+2011,2013,40,Spain,5.397,3.81,4.2860000000000005,4.76,-22.222,November 2011,"Union, Progress and Democracy"
+2011,2013,60,Spain,2.247,2.508,2.821,45.24,-3.448,November 2011,People's Party
+2011,2013,90,Spain,2.653,1.789,5.49,4.24,-10.857,November 2011,Convergence and Union
+2011,2013,90,Spain,3.257,3.479,3.849,0.414,-17.839000000000006,November 2011,Forum Asturias
+2011,2013,90,Spain,3.1010000000000004,0.0,2.326,1.35,-11.111,November 2011,Basque Nationalist Party
+2011,2013,90,Spain,2.079,1.24,11.835,1.071,-21.911,November 2011,Catalan Republican Left
+2011,2013,90,Spain,0.52,0.13,5.202000000000001,0.6,-19.896,November 2011,Canarian Coalition
+2011,2013,90,Spain,4.957,1.724,6.034,0.7659999999999999,-31.25,November 2011,Galician Nationalist Bloc
+2011,2014,90,Spain,8.793000000000001,0.745,4.471,0.177,-16.393,November 2011,Future Yes
+2011,2014,95,Spain,0.0,0.0,8.621,1.39,-17.241,November 2011,Amaiur
+2011,2014,95,Spain,10.259,1.338,6.334000000000001,0.523,-23.461,November 2011,Commitment-Q
+2011,2014,20,Spain,4.177,3.071,9.398,7.021,-36.855,November 2011,United Left
+2011,2014,30,Spain,4.386,1.494,8.675,29.13,-27.229,November 2011,Spanish Socialist Workers’ Party
+2011,2014,40,Spain,5.397,3.81,4.2860000000000005,4.76,-22.222,November 2011,"Union, Progress and Democracy"
+2011,2014,60,Spain,2.247,2.508,2.821,45.24,-3.448,November 2011,People's Party
+2011,2014,90,Spain,2.653,1.789,5.49,4.24,-10.857,November 2011,Convergence and Union
+2011,2014,90,Spain,3.257,3.479,3.849,0.414,-17.839000000000006,November 2011,Forum Asturias
+2011,2014,90,Spain,3.1010000000000004,0.0,2.326,1.35,-11.111,November 2011,Basque Nationalist Party
+2011,2014,90,Spain,2.079,1.24,11.835,1.071,-21.911,November 2011,Catalan Republican Left
+2011,2014,90,Spain,0.52,0.13,5.202000000000001,0.6,-19.896,November 2011,Canarian Coalition
+2011,2014,90,Spain,4.957,1.724,6.034,0.7659999999999999,-31.25,November 2011,Galician Nationalist Bloc
+2015,2015,20,Spain,9.344,9.508,9.454,3.676,-45.683,December 2015,Popular Unity
+2015,2015,90,Spain,0.877,0.0,6.1400000000000015,0.8690000000000001,0.877,December 2015,Basque Country Unite
+2015,2015,90,Spain,6.159,2.57,6.2029999999999985,3.688,-41.427,December 2015,In Common We Can
+2015,2015,90,Spain,6.102,3.729,10.169,1.629,-42.034,December 2015,In Tide
+2015,2015,90,Spain,9.03,2.6830000000000003,9.236,2.672,-34.83,December 2015,Commitment-We can-It is time
+2015,2015,90,Spain,3.224,1.976,3.224,2.25,-18.149,December 2015,Democracy and Freedom
+2015,2015,20,Spain,6.693000000000001,8.867000000000003,6.636,12.6,-32.952,December 2015,We can
+2015,2015,30,Spain,1.4369999999999998,3.997,7.231,21.995,-25.556,December 2015,Spanish Socialist Workers’ Party
+2015,2015,40,Spain,4.732,3.603,3.88,13.94,-16.035999999999998,December 2015,Citizens - Party of the Citizens
+2015,2015,60,Spain,1.851,3.955,5.048,28.705,-4.249,December 2015,People's Party
+2015,2015,90,Spain,1.129,0.0,2.032,1.199,-5.417999999999998,December 2015,Basque Nationalist Party
+2015,2015,90,Spain,0.998,1.83,3.827,2.387,-26.622,December 2015,Catalan Republican Left
+2015,2015,90,Spain,0.316,0.948,10.742,0.325,-14.692,December 2015,Canarian Coalition and Canarian Nationalist Party
+2016,2016,90,Spain,10.174,0.581,7.558,13.416,-36.919,June 2016,United We Can
+2016,2016,90,Spain,0.862,0.0,4.31,0.768,10.345,June 2016,Basque Country Unite
+2016,2016,90,Spain,6.159,2.57,6.2029999999999985,3.547,-41.427,June 2016,In Common We Can
+2016,2016,90,Spain,6.0,3.667,10.0,1.445,-43.0,June 2016,In Tide
+2016,2016,90,Spain,8.915000000000003,2.649,9.119,2.7430000000000003,-34.488,June 2016,Valencian style
+2016,2016,20,Spain,6.693000000000001,8.867000000000003,6.636,,-32.952,June 2016,We can
+2016,2016,30,Spain,1.399,3.759,7.999000000000001,22.632,-24.624,June 2016,Spanish Socialist Workers’ Party
+2016,2016,40,Spain,4.217000000000001,2.7710000000000004,5.6629999999999985,13.061,-27.349,June 2016,Citizens - Party of the Citizens
+2016,2016,60,Spain,1.851,3.955,5.048,33.015,-4.249,June 2016,People's Party
+2016,2016,90,Spain,1.129,0.0,2.032,1.193,-5.417999999999998,June 2016,Basque Nationalist Party
+2016,2016,90,Spain,2.4130000000000003,1.743,4.692,2.628,-24.263,June 2016,Catalan Republican Left
+2016,2016,90,Spain,0.302,1.208,9.97,0.325,-9.366,June 2016,Canarian Coalition and Canarian Nationalist Party
+2016,2016,90,Spain,3.18,2.104,3.327,2.01,-16.781,June 2016,Democratic Convergence of Catalonia
+2016,2017,90,Spain,10.174,0.581,7.558,13.416,-36.919,June 2016,United We Can
+2016,2017,90,Spain,0.862,0.0,4.31,0.768,10.345,June 2016,Basque Country Unite
+2016,2017,90,Spain,6.159,2.57,6.2029999999999985,3.547,-41.427,June 2016,In Common We Can
+2016,2017,90,Spain,6.0,3.667,10.0,1.445,-43.0,June 2016,In Tide
+2016,2017,90,Spain,8.915000000000003,2.649,9.119,2.7430000000000003,-34.488,June 2016,Valencian style
+2016,2017,20,Spain,6.693000000000001,8.867000000000003,6.636,,-32.952,June 2016,We can
+2016,2017,30,Spain,1.399,3.759,7.999000000000001,22.632,-24.624,June 2016,Spanish Socialist Workers’ Party
+2016,2017,40,Spain,4.217000000000001,2.7710000000000004,5.6629999999999985,13.061,-27.349,June 2016,Citizens - Party of the Citizens
+2016,2017,60,Spain,1.851,3.955,5.048,33.015,-4.249,June 2016,People's Party
+2016,2017,90,Spain,1.129,0.0,2.032,1.193,-5.417999999999998,June 2016,Basque Nationalist Party
+2016,2017,90,Spain,2.4130000000000003,1.743,4.692,2.628,-24.263,June 2016,Catalan Republican Left
+2016,2017,90,Spain,0.302,1.208,9.97,0.325,-9.366,June 2016,Canarian Coalition and Canarian Nationalist Party
+2016,2017,90,Spain,3.18,2.104,3.327,2.01,-16.781,June 2016,Democratic Convergence of Catalonia
+2016,2018,90,Spain,10.174,0.581,7.558,13.416,-36.919,June 2016,United We Can
+2016,2018,90,Spain,0.862,0.0,4.31,0.768,10.345,June 2016,Basque Country Unite
+2016,2018,90,Spain,6.159,2.57,6.2029999999999985,3.547,-41.427,June 2016,In Common We Can
+2016,2018,90,Spain,6.0,3.667,10.0,1.445,-43.0,June 2016,In Tide
+2016,2018,90,Spain,8.915000000000003,2.649,9.119,2.7430000000000003,-34.488,June 2016,Valencian style
+2016,2018,20,Spain,6.693000000000001,8.867000000000003,6.636,,-32.952,June 2016,We can
+2016,2018,30,Spain,1.399,3.759,7.999000000000001,22.632,-24.624,June 2016,Spanish Socialist Workers’ Party
+2016,2018,40,Spain,4.217000000000001,2.7710000000000004,5.6629999999999985,13.061,-27.349,June 2016,Citizens - Party of the Citizens
+2016,2018,60,Spain,1.851,3.955,5.048,33.015,-4.249,June 2016,People's Party
+2016,2018,90,Spain,1.129,0.0,2.032,1.193,-5.417999999999998,June 2016,Basque Nationalist Party
+2016,2018,90,Spain,2.4130000000000003,1.743,4.692,2.628,-24.263,June 2016,Catalan Republican Left
+2016,2018,90,Spain,0.302,1.208,9.97,0.325,-9.366,June 2016,Canarian Coalition and Canarian Nationalist Party
+2016,2018,90,Spain,3.18,2.104,3.327,2.01,-16.781,June 2016,Democratic Convergence of Catalonia
+2019,2019,90,Spain,0.0,0.0,20.0,1.0,-4.0,April 2019,Basque Country Unite
+2019,2019,20,Spain,3.829,1.741,8.529,9.445,-39.948,April 2019,We can
+2019,2019,20,Spain,7.7639999999999985,3.567,11.056,1.349,-39.781,April 2019,United Left
+2019,2019,30,Spain,2.324,5.004,11.662,28.899,-29.267,April 2019,Spanish Socialist Workers’ Party
+2019,2019,40,Spain,2.41,4.669,6.476,15.98,-10.542,April 2019,Citizens - Party of the Citizens
+2019,2019,60,Spain,2.391,2.818,7.002999999999999,16.828,6.063,April 2019,People's Party
+2019,2019,70,Spain,0.0,1.976,3.557,10.342,34.783,April 2019,Voice
+2019,2019,90,Spain,0.84,0.0,9.104,1.524,-11.625,April 2019,Basque Nationalist Party
+2019,2019,90,Spain,1.646,3.5660000000000003,7.076000000000001,3.922,-30.335,April 2019,Catalan Republican Left
+2019,2019,90,Spain,2.847,1.025,8.087,0.53,-23.007,April 2019,Canarian Coalition–New Canaries
+2019,2019,90,Spain,3.892,1.916,3.892,1.922,-18.743,April 2019,Together for Catalonia
+2019,2019,90,Spain,0.0,0.926,0.0,0.202,0.0,April 2019,Regionalist Party of Cantabria
+2019,2019,90,Spain,6.582999999999998,7.524,9.404,0.667,-31.661,April 2019,More Commitment
+2019,2019,90,Spain,2.469,0.0,19.753,1.155,-35.802,November 2019,Basque Country Unite
+2019,2019,20,Spain,4.704,1.745,8.498,10.655,-37.633,November 2019,We can
+2019,2019,20,Spain,7.659,3.543,11.147,1.837,-39.657,November 2019,United Left
+2019,2019,20,Spain,10.392,6.218,9.54,1.692,-30.068,November 2019,More Country - Equo
+2019,2019,30,Spain,3.077,2.115,9.423,28.253,-28.654,November 2019,Spanish Socialist Workers’ Party
+2019,2019,40,Spain,3.723,4.92,5.585,6.865,-15.293,November 2019,Citizens - Party of the Citizens
+2019,2019,60,Spain,3.774,3.5380000000000003,4.481,20.993,4.481,November 2019,People's Party
+2019,2019,70,Spain,0.0,1.4780000000000002,3.448,15.211,33.005,November 2019,Voice
+2019,2019,90,Spain,0.8260000000000001,0.0,8.952999999999998,1.5759999999999998,-10.193,November 2019,Basque Nationalist Party
+2019,2019,90,Spain,1.696,3.445,6.783,3.663,-27.398000000000003,November 2019,Catalan Republican Left
+2019,2019,90,Spain,6.13,1.533,5.364,0.517,-14.943,November 2019,Canarian Coalition–New Canaries
+2019,2019,90,Spain,5.606,0.723,8.318,0.501,-32.55,November 2019,Galician Nationalist Bloc
+2019,2019,90,Spain,3.886,1.856,3.77,2.206,-16.879,November 2019,Together for Catalonia
+2019,2019,90,Spain,14.952,2.979,9.275,0.73,-23.047,November 2019,More Commitment
+2019,2019,90,Spain,5.357,0.0,6.25,1.027,-8.929,November 2019,Popular Unity Candidacy
+2019,2019,90,Spain,1.818,3.636,0.0,0.08199999999999999,-1.818,November 2019,Teruel exists
+2019,2020,90,Spain,0.0,0.0,20.0,1.0,-4.0,April 2019,Basque Country Unite
+2019,2020,20,Spain,3.829,1.741,8.529,9.445,-39.948,April 2019,We can
+2019,2020,20,Spain,7.7639999999999985,3.567,11.056,1.349,-39.781,April 2019,United Left
+2019,2020,30,Spain,2.324,5.004,11.662,28.899,-29.267,April 2019,Spanish Socialist Workers’ Party
+2019,2020,40,Spain,2.41,4.669,6.476,15.98,-10.542,April 2019,Citizens - Party of the Citizens
+2019,2020,60,Spain,2.391,2.818,7.002999999999999,16.828,6.063,April 2019,People's Party
+2019,2020,70,Spain,0.0,1.976,3.557,10.342,34.783,April 2019,Voice
+2019,2020,90,Spain,0.84,0.0,9.104,1.524,-11.625,April 2019,Basque Nationalist Party
+2019,2020,90,Spain,1.646,3.5660000000000003,7.076000000000001,3.922,-30.335,April 2019,Catalan Republican Left
+2019,2020,90,Spain,2.847,1.025,8.087,0.53,-23.007,April 2019,Canarian Coalition–New Canaries
+2019,2020,90,Spain,3.892,1.916,3.892,1.922,-18.743,April 2019,Together for Catalonia
+2019,2020,90,Spain,0.0,0.926,0.0,0.202,0.0,April 2019,Regionalist Party of Cantabria
+2019,2020,90,Spain,6.582999999999998,7.524,9.404,0.667,-31.661,April 2019,More Commitment
+2019,2020,90,Spain,2.469,0.0,19.753,1.155,-35.802,November 2019,Basque Country Unite
+2019,2020,20,Spain,4.704,1.745,8.498,10.655,-37.633,November 2019,We can
+2019,2020,20,Spain,7.659,3.543,11.147,1.837,-39.657,November 2019,United Left
+2019,2020,20,Spain,10.392,6.218,9.54,1.692,-30.068,November 2019,More Country - Equo
+2019,2020,30,Spain,3.077,2.115,9.423,28.253,-28.654,November 2019,Spanish Socialist Workers’ Party
+2019,2020,40,Spain,3.723,4.92,5.585,6.865,-15.293,November 2019,Citizens - Party of the Citizens
+2019,2020,60,Spain,3.774,3.5380000000000003,4.481,20.993,4.481,November 2019,People's Party
+2019,2020,70,Spain,0.0,1.4780000000000002,3.448,15.211,33.005,November 2019,Voice
+2019,2020,90,Spain,0.8260000000000001,0.0,8.952999999999998,1.5759999999999998,-10.193,November 2019,Basque Nationalist Party
+2019,2020,90,Spain,1.696,3.445,6.783,3.663,-27.398000000000003,November 2019,Catalan Republican Left
+2019,2020,90,Spain,6.13,1.533,5.364,0.517,-14.943,November 2019,Canarian Coalition–New Canaries
+2019,2020,90,Spain,5.606,0.723,8.318,0.501,-32.55,November 2019,Galician Nationalist Bloc
+2019,2020,90,Spain,3.886,1.856,3.77,2.206,-16.879,November 2019,Together for Catalonia
+2019,2020,90,Spain,14.952,2.979,9.275,0.73,-23.047,November 2019,More Commitment
+2019,2020,90,Spain,5.357,0.0,6.25,1.027,-8.929,November 2019,Popular Unity Candidacy
+2019,2020,90,Spain,1.818,3.636,0.0,0.08199999999999999,-1.818,November 2019,Teruel exists
