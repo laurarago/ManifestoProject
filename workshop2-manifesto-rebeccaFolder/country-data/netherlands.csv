@@ -1,517 +1,517 @@
-index,parfam,countryname,per503,pervote,electionDate,partyname,environWeighted
-1989-01-01,10,Netherlands,6.100000000000001,4.074,1989-09-01,Green Left,24.851400000000005
-1990-01-01,10,Netherlands,6.100000000000001,4.074,1989-09-01,Green Left,24.851400000000005
-1991-01-01,10,Netherlands,6.100000000000001,4.074,1989-09-01,Green Left,24.851400000000005
-1992-01-01,10,Netherlands,6.100000000000001,4.074,1989-09-01,Green Left,24.851400000000005
-1993-01-01,10,Netherlands,6.100000000000001,4.074,1989-09-01,Green Left,24.851400000000005
-1994-01-01,10,Netherlands,2.883,3.467,1994-05-01,Green Left,9.995361
-1995-01-01,10,Netherlands,2.883,3.467,1994-05-01,Green Left,9.995361
-1996-01-01,10,Netherlands,2.883,3.467,1994-05-01,Green Left,9.995361
-1997-01-01,10,Netherlands,2.883,3.467,1994-05-01,Green Left,9.995361
-1998-01-01,10,Netherlands,13.265999999999998,7.27,1998-05-01,Green Left,96.44382
-1999-01-01,10,Netherlands,13.265999999999998,7.27,1998-05-01,Green Left,96.44382
-2000-01-01,10,Netherlands,13.265999999999998,7.27,1998-05-01,Green Left,96.44382
-2001-01-01,10,Netherlands,13.265999999999998,7.27,1998-05-01,Green Left,96.44382
-2002-01-01,10,Netherlands,2.012,6.95,2002-05-01,Green Left,13.9834
-2003-01-01,10,Netherlands,6.184,5.13,2003-01-01,Green Left,31.72392
-2004-01-01,10,Netherlands,6.184,5.13,2003-01-01,Green Left,31.72392
-2005-01-01,10,Netherlands,6.184,5.13,2003-01-01,Green Left,31.72392
-2006-01-01,10,Netherlands,6.649,4.605,2006-11-01,Green Left,30.618645000000004
-2007-01-01,10,Netherlands,6.649,4.605,2006-11-01,Green Left,30.618645000000004
-2008-01-01,10,Netherlands,6.649,4.605,2006-11-01,Green Left,30.618645000000004
-2009-01-01,10,Netherlands,6.649,4.605,2006-11-01,Green Left,30.618645000000004
-2010-01-01,10,Netherlands,14.836,6.67,2010-06-01,Green Left,98.95611999999998
-2011-01-01,10,Netherlands,14.836,6.67,2010-06-01,Green Left,98.95611999999998
-2012-01-01,10,Netherlands,7.204,2.333,2012-09-01,Green Left,16.806932
-2013-01-01,10,Netherlands,7.204,2.333,2012-09-01,Green Left,16.806932
-2014-01-01,10,Netherlands,7.204,2.333,2012-09-01,Green Left,16.806932
-2015-01-01,10,Netherlands,7.204,2.333,2012-09-01,Green Left,16.806932
-2016-01-01,10,Netherlands,7.204,2.333,2012-09-01,Green Left,16.806932
-2017-01-01,10,Netherlands,9.877,9.125,2017-03-01,Green Left,90.127625
-2018-01-01,10,Netherlands,9.877,9.125,2017-03-01,Green Left,90.127625
-2019-01-01,10,Netherlands,9.877,9.125,2017-03-01,Green Left,90.127625
-2020-01-01,10,Netherlands,9.877,9.125,2017-03-01,Green Left,90.127625
-1946-01-01,20,Netherlands,4.0,10.6,1946-05-01,Communist Party of the Netherlands,42.4
-1947-01-01,20,Netherlands,4.0,10.6,1946-05-01,Communist Party of the Netherlands,42.4
-1948-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1949-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1950-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1951-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1952-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1953-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1954-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1955-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1956-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1957-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1958-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1959-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1960-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1961-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1962-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1963-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1964-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1965-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1966-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1967-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1968-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1969-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1970-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1971-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1972-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1973-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1974-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1975-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1976-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1977-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1978-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1979-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1980-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1981-01-01,20,Netherlands,13.158,7.744,1948-07-01,Communist Party of the Netherlands,101.895552
-1982-01-01,20,Netherlands,21.522,1.794,1982-09-01,Communist Party of the Netherlands,38.610468
-1983-01-01,20,Netherlands,21.522,1.794,1982-09-01,Communist Party of the Netherlands,38.610468
-1984-01-01,20,Netherlands,21.522,1.794,1982-09-01,Communist Party of the Netherlands,38.610468
-1985-01-01,20,Netherlands,21.522,1.794,1982-09-01,Communist Party of the Netherlands,38.610468
-1986-01-01,20,Netherlands,11.771,1.2,1986-05-01,Pacifist Socialist Party,14.125199999999998
-1987-01-01,20,Netherlands,11.771,1.2,1986-05-01,Pacifist Socialist Party,14.125199999999998
-1988-01-01,20,Netherlands,11.771,1.2,1986-05-01,Pacifist Socialist Party,14.125199999999998
-1989-01-01,20,Netherlands,11.771,1.2,1986-05-01,Pacifist Socialist Party,14.125199999999998
-1990-01-01,20,Netherlands,11.771,1.2,1986-05-01,Pacifist Socialist Party,14.125199999999998
-1991-01-01,20,Netherlands,11.771,1.2,1986-05-01,Pacifist Socialist Party,14.125199999999998
-1992-01-01,20,Netherlands,11.771,1.2,1986-05-01,Pacifist Socialist Party,14.125199999999998
-1993-01-01,20,Netherlands,11.771,1.2,1986-05-01,Pacifist Socialist Party,14.125199999999998
-1994-01-01,20,Netherlands,17.544,1.3219999999999998,1994-05-01,Socialist Party,23.193168
-1995-01-01,20,Netherlands,17.544,1.3219999999999998,1994-05-01,Socialist Party,23.193168
-1996-01-01,20,Netherlands,17.544,1.3219999999999998,1994-05-01,Socialist Party,23.193168
-1997-01-01,20,Netherlands,17.544,1.3219999999999998,1994-05-01,Socialist Party,23.193168
-1998-01-01,20,Netherlands,3.204,3.528,1998-05-01,Socialist Party,11.303712
-1999-01-01,20,Netherlands,3.204,3.528,1998-05-01,Socialist Party,11.303712
-2000-01-01,20,Netherlands,3.204,3.528,1998-05-01,Socialist Party,11.303712
-2001-01-01,20,Netherlands,3.204,3.528,1998-05-01,Socialist Party,11.303712
-2002-01-01,20,Netherlands,3.204,5.9,2002-05-01,Socialist Party,18.9036
-2003-01-01,20,Netherlands,3.576,6.33,2003-01-01,Socialist Party,22.63608
-2004-01-01,20,Netherlands,3.576,6.33,2003-01-01,Socialist Party,22.63608
-2005-01-01,20,Netherlands,3.576,6.33,2003-01-01,Socialist Party,22.63608
-2006-01-01,20,Netherlands,6.442,16.575,2006-11-01,Socialist Party,106.77615
-2007-01-01,20,Netherlands,6.442,16.575,2006-11-01,Socialist Party,106.77615
-2008-01-01,20,Netherlands,6.442,16.575,2006-11-01,Socialist Party,106.77615
-2009-01-01,20,Netherlands,6.442,16.575,2006-11-01,Socialist Party,106.77615
-2010-01-01,20,Netherlands,10.206,9.83,2010-06-01,Socialist Party,100.32498000000001
-2011-01-01,20,Netherlands,10.206,9.83,2010-06-01,Socialist Party,100.32498000000001
-2012-01-01,20,Netherlands,6.519,9.654,2012-09-01,Socialist Party,62.934426
-2013-01-01,20,Netherlands,6.519,9.654,2012-09-01,Socialist Party,62.934426
-2014-01-01,20,Netherlands,6.519,9.654,2012-09-01,Socialist Party,62.934426
-2015-01-01,20,Netherlands,6.519,9.654,2012-09-01,Socialist Party,62.934426
-2016-01-01,20,Netherlands,6.519,9.654,2012-09-01,Socialist Party,62.934426
-2017-01-01,20,Netherlands,6.082000000000002,9.087,2017-03-01,Socialist Party,55.26713400000001
-2018-01-01,20,Netherlands,6.082000000000002,9.087,2017-03-01,Socialist Party,55.26713400000001
-2019-01-01,20,Netherlands,6.082000000000002,9.087,2017-03-01,Socialist Party,55.26713400000001
-2020-01-01,20,Netherlands,6.082000000000002,9.087,2017-03-01,Socialist Party,55.26713400000001
-1946-01-01,30,Netherlands,3.7,28.314,1946-05-01,Labour Party,104.7618
-1947-01-01,30,Netherlands,3.7,28.314,1946-05-01,Labour Party,104.7618
-1948-01-01,30,Netherlands,5.5,25.604,1948-07-01,Labour Party,140.822
-1949-01-01,30,Netherlands,5.5,25.604,1948-07-01,Labour Party,140.822
-1950-01-01,30,Netherlands,5.5,25.604,1948-07-01,Labour Party,140.822
-1951-01-01,30,Netherlands,5.5,25.604,1948-07-01,Labour Party,140.822
-1952-01-01,30,Netherlands,10.2,28.972,1952-06-01,Labour Party,295.5144
-1953-01-01,30,Netherlands,10.2,28.972,1952-06-01,Labour Party,295.5144
-1954-01-01,30,Netherlands,10.2,28.972,1952-06-01,Labour Party,295.5144
-1955-01-01,30,Netherlands,10.2,28.972,1952-06-01,Labour Party,295.5144
-1956-01-01,30,Netherlands,7.0,32.687,1956-06-01,Labour Party,228.809
-1957-01-01,30,Netherlands,7.0,32.687,1956-06-01,Labour Party,228.809
-1958-01-01,30,Netherlands,7.0,32.687,1956-06-01,Labour Party,228.809
-1959-01-01,30,Netherlands,2.7,30.357,1959-03-01,Labour Party,81.96390000000002
-1960-01-01,30,Netherlands,2.7,30.357,1959-03-01,Labour Party,81.96390000000002
-1961-01-01,30,Netherlands,2.7,30.357,1959-03-01,Labour Party,81.96390000000002
-1962-01-01,30,Netherlands,2.7,30.357,1959-03-01,Labour Party,81.96390000000002
-1963-01-01,30,Netherlands,8.4,28.011,1963-05-01,Labour Party,235.2924
-1964-01-01,30,Netherlands,8.4,28.011,1963-05-01,Labour Party,235.2924
-1965-01-01,30,Netherlands,8.4,28.011,1963-05-01,Labour Party,235.2924
-1966-01-01,30,Netherlands,8.4,28.011,1963-05-01,Labour Party,235.2924
-1967-01-01,30,Netherlands,12.3,23.555,1967-02-01,Labour Party,289.7265
-1968-01-01,30,Netherlands,12.3,23.555,1967-02-01,Labour Party,289.7265
-1969-01-01,30,Netherlands,12.3,23.555,1967-02-01,Labour Party,289.7265
-1970-01-01,30,Netherlands,12.3,23.555,1967-02-01,Labour Party,289.7265
-1971-01-01,30,Netherlands,15.7,1.837,1971-04-01,Radical Political Party,28.8409
-1972-01-01,30,Netherlands,9.3,4.799,1972-11-01,Radical Political Party,44.6307
-1973-01-01,30,Netherlands,9.3,4.799,1972-11-01,Radical Political Party,44.6307
-1974-01-01,30,Netherlands,9.3,4.799,1972-11-01,Radical Political Party,44.6307
-1975-01-01,30,Netherlands,9.3,4.799,1972-11-01,Radical Political Party,44.6307
-1976-01-01,30,Netherlands,9.3,4.799,1972-11-01,Radical Political Party,44.6307
-1977-01-01,30,Netherlands,6.5,1.694,1977-05-01,Radical Political Party,11.011
-1978-01-01,30,Netherlands,6.5,1.694,1977-05-01,Radical Political Party,11.011
-1979-01-01,30,Netherlands,6.5,1.694,1977-05-01,Radical Political Party,11.011
-1980-01-01,30,Netherlands,6.5,1.694,1977-05-01,Radical Political Party,11.011
-1981-01-01,30,Netherlands,9.6,1.968,1981-05-01,Radical Political Party,18.8928
-1982-01-01,30,Netherlands,12.7,1.6569999999999998,1982-09-01,Radical Political Party,21.0439
-1983-01-01,30,Netherlands,12.7,1.6569999999999998,1982-09-01,Radical Political Party,21.0439
-1984-01-01,30,Netherlands,12.7,1.6569999999999998,1982-09-01,Radical Political Party,21.0439
-1985-01-01,30,Netherlands,12.7,1.6569999999999998,1982-09-01,Radical Political Party,21.0439
-1986-01-01,30,Netherlands,8.0,1.256,1986-05-01,Radical Political Party,10.048
-1987-01-01,30,Netherlands,8.0,1.256,1986-05-01,Radical Political Party,10.048
-1988-01-01,30,Netherlands,8.0,1.256,1986-05-01,Radical Political Party,10.048
-1989-01-01,30,Netherlands,5.7,31.881,1989-09-01,Labour Party,181.7217
-1990-01-01,30,Netherlands,5.7,31.881,1989-09-01,Labour Party,181.7217
-1991-01-01,30,Netherlands,5.7,31.881,1989-09-01,Labour Party,181.7217
-1992-01-01,30,Netherlands,5.7,31.881,1989-09-01,Labour Party,181.7217
-1993-01-01,30,Netherlands,5.7,31.881,1989-09-01,Labour Party,181.7217
-1994-01-01,30,Netherlands,3.117,23.973000000000006,1994-05-01,Labour Party,74.72384100000002
-1995-01-01,30,Netherlands,3.117,23.973000000000006,1994-05-01,Labour Party,74.72384100000002
-1996-01-01,30,Netherlands,3.117,23.973000000000006,1994-05-01,Labour Party,74.72384100000002
-1997-01-01,30,Netherlands,3.117,23.973000000000006,1994-05-01,Labour Party,74.72384100000002
-1998-01-01,30,Netherlands,6.847,28.98,1998-05-01,Labour Party,198.42606
-1999-01-01,30,Netherlands,6.847,28.98,1998-05-01,Labour Party,198.42606
-2000-01-01,30,Netherlands,6.847,28.98,1998-05-01,Labour Party,198.42606
-2001-01-01,30,Netherlands,6.847,28.98,1998-05-01,Labour Party,198.42606
-2002-01-01,30,Netherlands,2.735,15.11,2002-05-01,Labour Party,41.32585
-2003-01-01,30,Netherlands,4.261,27.28,2003-01-01,Labour Party,116.24008
-2004-01-01,30,Netherlands,4.261,27.28,2003-01-01,Labour Party,116.24008
-2005-01-01,30,Netherlands,4.261,27.28,2003-01-01,Labour Party,116.24008
-2006-01-01,30,Netherlands,7.055,21.193,2006-11-01,Labour Party,149.516615
-2007-01-01,30,Netherlands,7.055,21.193,2006-11-01,Labour Party,149.516615
-2008-01-01,30,Netherlands,7.055,21.193,2006-11-01,Labour Party,149.516615
-2009-01-01,30,Netherlands,7.055,21.193,2006-11-01,Labour Party,149.516615
-2010-01-01,30,Netherlands,11.653,19.63,2010-06-01,Labour Party,228.74839
-2011-01-01,30,Netherlands,11.653,19.63,2010-06-01,Labour Party,228.74839
-2012-01-01,30,Netherlands,8.187999999999999,24.838,2012-09-01,Labour Party,203.37354399999998
-2013-01-01,30,Netherlands,8.187999999999999,24.838,2012-09-01,Labour Party,203.37354399999998
-2014-01-01,30,Netherlands,8.187999999999999,24.838,2012-09-01,Labour Party,203.37354399999998
-2015-01-01,30,Netherlands,8.187999999999999,24.838,2012-09-01,Labour Party,203.37354399999998
-2016-01-01,30,Netherlands,8.187999999999999,24.838,2012-09-01,Labour Party,203.37354399999998
-2017-01-01,30,Netherlands,7.945,5.7029999999999985,2017-03-01,Labour Party,45.310335
-2018-01-01,30,Netherlands,7.945,5.7029999999999985,2017-03-01,Labour Party,45.310335
-2019-01-01,30,Netherlands,7.945,5.7029999999999985,2017-03-01,Labour Party,45.310335
-2020-01-01,30,Netherlands,7.945,5.7029999999999985,2017-03-01,Labour Party,45.310335
-1971-01-01,30,Netherlands,7.8,24.6,1971-04-01,Labour Party,191.88
-1972-01-01,30,Netherlands,9.3,27.339,1972-11-01,Labour Party,254.25270000000003
-1977-01-01,30,Netherlands,11.5,33.829,1977-05-01,Labour Party,389.0335
-1981-01-01,30,Netherlands,7.100000000000001,28.288,1981-05-01,Labour Party,200.84480000000005
-1982-01-01,30,Netherlands,13.2,30.395,1982-09-01,Labour Party,401.214
-1986-01-01,30,Netherlands,6.9,33.271,1986-05-01,Labour Party,229.5699
-2017-01-01,30,Netherlands,9.382,2.055,2017-03-01,DENK,19.28001
-1946-01-01,40,Netherlands,9.7,6.4129999999999985,1946-05-01,Freedom Party,62.20609999999999
-1947-01-01,40,Netherlands,9.7,6.4129999999999985,1946-05-01,Freedom Party,62.20609999999999
-1948-01-01,40,Netherlands,16.0,7.945,1948-07-01,People’s Party for Freedom and Democracy,127.12
-1949-01-01,40,Netherlands,16.0,7.945,1948-07-01,People’s Party for Freedom and Democracy,127.12
-1950-01-01,40,Netherlands,16.0,7.945,1948-07-01,People’s Party for Freedom and Democracy,127.12
-1951-01-01,40,Netherlands,16.0,7.945,1948-07-01,People’s Party for Freedom and Democracy,127.12
-1952-01-01,40,Netherlands,9.6,8.827999999999998,1952-06-01,People’s Party for Freedom and Democracy,84.74879999999997
-1953-01-01,40,Netherlands,9.6,8.827999999999998,1952-06-01,People’s Party for Freedom and Democracy,84.74879999999997
-1954-01-01,40,Netherlands,9.6,8.827999999999998,1952-06-01,People’s Party for Freedom and Democracy,84.74879999999997
-1955-01-01,40,Netherlands,9.6,8.827999999999998,1952-06-01,People’s Party for Freedom and Democracy,84.74879999999997
-1956-01-01,40,Netherlands,3.8,8.774000000000001,1956-06-01,People’s Party for Freedom and Democracy,33.3412
-1957-01-01,40,Netherlands,3.8,8.774000000000001,1956-06-01,People’s Party for Freedom and Democracy,33.3412
-1958-01-01,40,Netherlands,3.8,8.774000000000001,1956-06-01,People’s Party for Freedom and Democracy,33.3412
-1959-01-01,40,Netherlands,6.4,12.212,1959-03-01,People’s Party for Freedom and Democracy,78.1568
-1960-01-01,40,Netherlands,6.4,12.212,1959-03-01,People’s Party for Freedom and Democracy,78.1568
-1961-01-01,40,Netherlands,6.4,12.212,1959-03-01,People’s Party for Freedom and Democracy,78.1568
-1962-01-01,40,Netherlands,6.4,12.212,1959-03-01,People’s Party for Freedom and Democracy,78.1568
-1963-01-01,40,Netherlands,4.7,10.287,1963-05-01,People’s Party for Freedom and Democracy,48.34890000000001
-1964-01-01,40,Netherlands,4.7,10.287,1963-05-01,People’s Party for Freedom and Democracy,48.34890000000001
-1965-01-01,40,Netherlands,4.7,10.287,1963-05-01,People’s Party for Freedom and Democracy,48.34890000000001
-1966-01-01,40,Netherlands,4.7,10.287,1963-05-01,People’s Party for Freedom and Democracy,48.34890000000001
-1967-01-01,40,Netherlands,10.7,4.475000000000001,1967-02-01,Democrats‘66,47.88250000000002
-1968-01-01,40,Netherlands,10.7,4.475000000000001,1967-02-01,Democrats‘66,47.88250000000002
-1969-01-01,40,Netherlands,10.7,4.475000000000001,1967-02-01,Democrats‘66,47.88250000000002
-1970-01-01,40,Netherlands,10.7,4.475000000000001,1967-02-01,Democrats‘66,47.88250000000002
-1971-01-01,40,Netherlands,4.3,6.775,1971-04-01,Democrats‘66,29.1325
-1972-01-01,40,Netherlands,9.3,4.1530000000000005,1972-11-01,Democrats‘66,38.62290000000001
-1973-01-01,40,Netherlands,9.3,4.1530000000000005,1972-11-01,Democrats‘66,38.62290000000001
-1974-01-01,40,Netherlands,9.3,4.1530000000000005,1972-11-01,Democrats‘66,38.62290000000001
-1975-01-01,40,Netherlands,9.3,4.1530000000000005,1972-11-01,Democrats‘66,38.62290000000001
-1976-01-01,40,Netherlands,9.3,4.1530000000000005,1972-11-01,Democrats‘66,38.62290000000001
-1977-01-01,40,Netherlands,5.0,5.439,1977-05-01,Democrats‘66,27.195
-1978-01-01,40,Netherlands,5.0,5.439,1977-05-01,Democrats‘66,27.195
-1979-01-01,40,Netherlands,5.0,5.439,1977-05-01,Democrats‘66,27.195
-1980-01-01,40,Netherlands,5.0,5.439,1977-05-01,Democrats‘66,27.195
-1981-01-01,40,Netherlands,5.600000000000001,11.059,1981-05-01,Democrats‘66,61.93040000000002
-1982-01-01,40,Netherlands,7.4,4.265,1982-09-01,Democrats‘66,31.561
-1983-01-01,40,Netherlands,7.4,4.265,1982-09-01,Democrats‘66,31.561
-1984-01-01,40,Netherlands,7.4,4.265,1982-09-01,Democrats‘66,31.561
-1985-01-01,40,Netherlands,7.4,4.265,1982-09-01,Democrats‘66,31.561
-1986-01-01,40,Netherlands,5.0,6.1320000000000014,1986-05-01,Democrats‘66,30.66000000000001
-1987-01-01,40,Netherlands,5.0,6.1320000000000014,1986-05-01,Democrats‘66,30.66000000000001
-1988-01-01,40,Netherlands,5.0,6.1320000000000014,1986-05-01,Democrats‘66,30.66000000000001
-1989-01-01,40,Netherlands,4.0,7.887,1989-09-01,Democrats‘66,31.548
-1990-01-01,40,Netherlands,4.0,7.887,1989-09-01,Democrats‘66,31.548
-1991-01-01,40,Netherlands,4.0,7.887,1989-09-01,Democrats‘66,31.548
-1992-01-01,40,Netherlands,4.0,7.887,1989-09-01,Democrats‘66,31.548
-1993-01-01,40,Netherlands,4.0,7.887,1989-09-01,Democrats‘66,31.548
-1994-01-01,40,Netherlands,3.192,15.49,1994-05-01,Democrats‘66,49.44408
-1995-01-01,40,Netherlands,3.192,15.49,1994-05-01,Democrats‘66,49.44408
-1996-01-01,40,Netherlands,3.192,15.49,1994-05-01,Democrats‘66,49.44408
-1997-01-01,40,Netherlands,3.192,15.49,1994-05-01,Democrats‘66,49.44408
-1998-01-01,40,Netherlands,2.7030000000000003,8.99,1998-05-01,Democrats‘66,24.29997
-1999-01-01,40,Netherlands,2.7030000000000003,8.99,1998-05-01,Democrats‘66,24.29997
-2000-01-01,40,Netherlands,2.7030000000000003,8.99,1998-05-01,Democrats‘66,24.29997
-2001-01-01,40,Netherlands,2.7030000000000003,8.99,1998-05-01,Democrats‘66,24.29997
-2002-01-01,40,Netherlands,1.262,5.100000000000001,2002-05-01,Democrats‘66,6.436200000000002
-2003-01-01,40,Netherlands,1.679,4.08,2003-01-01,Democrats‘66,6.85032
-2004-01-01,40,Netherlands,1.679,4.08,2003-01-01,Democrats‘66,6.85032
-2005-01-01,40,Netherlands,1.679,4.08,2003-01-01,Democrats‘66,6.85032
-2006-01-01,40,Netherlands,4.31,1.964,2006-11-01,Democrats‘66,8.464839999999999
-2007-01-01,40,Netherlands,4.31,1.964,2006-11-01,Democrats‘66,8.464839999999999
-2008-01-01,40,Netherlands,4.31,1.964,2006-11-01,Democrats‘66,8.464839999999999
-2009-01-01,40,Netherlands,4.31,1.964,2006-11-01,Democrats‘66,8.464839999999999
-2010-01-01,40,Netherlands,5.5539999999999985,6.943000000000001,2010-06-01,Democrats‘66,38.561422
-2011-01-01,40,Netherlands,5.5539999999999985,6.943000000000001,2010-06-01,Democrats‘66,38.561422
-2012-01-01,40,Netherlands,2.229,8.033,2012-09-01,Democrats‘66,17.905556999999995
-2013-01-01,40,Netherlands,2.229,8.033,2012-09-01,Democrats‘66,17.905556999999995
-2014-01-01,40,Netherlands,2.229,8.033,2012-09-01,Democrats‘66,17.905556999999995
-2015-01-01,40,Netherlands,2.229,8.033,2012-09-01,Democrats‘66,17.905556999999995
-2016-01-01,40,Netherlands,2.229,8.033,2012-09-01,Democrats‘66,17.905556999999995
-2017-01-01,40,Netherlands,6.276,12.227,2017-03-01,Democrats‘66,76.736652
-2018-01-01,40,Netherlands,6.276,12.227,2017-03-01,Democrats‘66,76.736652
-2019-01-01,40,Netherlands,6.276,12.227,2017-03-01,Democrats‘66,76.736652
-2020-01-01,40,Netherlands,6.276,12.227,2017-03-01,Democrats‘66,76.736652
-1967-01-01,40,Netherlands,2.9,10.733,1967-02-01,People’s Party for Freedom and Democracy,31.125699999999995
-1971-01-01,40,Netherlands,3.8,10.341,1971-04-01,People’s Party for Freedom and Democracy,39.29579999999999
-1972-01-01,40,Netherlands,1.6,14.449000000000002,1972-11-01,People’s Party for Freedom and Democracy,23.118400000000005
-1977-01-01,40,Netherlands,2.7,17.945999999999994,1977-05-01,People’s Party for Freedom and Democracy,48.4542
-1981-01-01,40,Netherlands,3.4,17.320999999999998,1981-05-01,People’s Party for Freedom and Democracy,58.89139999999999
-1982-01-01,40,Netherlands,5.100000000000001,23.077,1982-09-01,People’s Party for Freedom and Democracy,117.69270000000004
-1986-01-01,40,Netherlands,3.4,17.410999999999998,1986-05-01,People’s Party for Freedom and Democracy,59.19739999999999
-1989-01-01,40,Netherlands,3.1,14.566,1989-09-01,People’s Party for Freedom and Democracy,45.1546
-1994-01-01,40,Netherlands,0.911,19.956,1994-05-01,People’s Party for Freedom and Democracy,18.179916
-1998-01-01,40,Netherlands,1.491,24.69,1998-05-01,People’s Party for Freedom and Democracy,36.81279
-2002-01-01,40,Netherlands,1.346,15.44,2002-05-01,People’s Party for Freedom and Democracy,20.78224
-2002-01-01,40,Netherlands,3.2260000000000004,1.61,2002-05-01,Livable Netherlands,5.193860000000001
-2003-01-01,40,Netherlands,0.985,17.95,2003-01-01,People’s Party for Freedom and Democracy,17.68075
-2003-01-01,40,Netherlands,2.801,0.403,2003-01-01,Livable Netherlands,1.128803
-2006-01-01,40,Netherlands,2.394,14.67,2006-11-01,People’s Party for Freedom and Democracy,35.11998
-2010-01-01,40,Netherlands,3.614,20.47,2010-06-01,People’s Party for Freedom and Democracy,73.97858000000001
-2012-01-01,40,Netherlands,2.443,26.58,2012-09-01,People’s Party for Freedom and Democracy,64.93494
-2017-01-01,40,Netherlands,2.169,21.285,2017-03-01,People’s Party for Freedom and Democracy,46.167165
-1946-01-01,50,Netherlands,7.9,30.806,1946-05-01,Catholic People’s Party,243.3674
-1947-01-01,50,Netherlands,7.9,30.806,1946-05-01,Catholic People’s Party,243.3674
-1948-01-01,50,Netherlands,6.600000000000001,31.039,1948-07-01,Catholic People’s Party,204.85740000000004
-1949-01-01,50,Netherlands,6.600000000000001,31.039,1948-07-01,Catholic People’s Party,204.85740000000004
-1950-01-01,50,Netherlands,6.600000000000001,31.039,1948-07-01,Catholic People’s Party,204.85740000000004
-1951-01-01,50,Netherlands,6.600000000000001,31.039,1948-07-01,Catholic People’s Party,204.85740000000004
-1952-01-01,50,Netherlands,5.5,28.665,1952-06-01,Catholic People’s Party,157.6575
-1953-01-01,50,Netherlands,5.5,28.665,1952-06-01,Catholic People’s Party,157.6575
-1954-01-01,50,Netherlands,5.5,28.665,1952-06-01,Catholic People’s Party,157.6575
-1955-01-01,50,Netherlands,5.5,28.665,1952-06-01,Catholic People’s Party,157.6575
-1956-01-01,50,Netherlands,4.2,31.693,1956-06-01,Catholic People’s Party,133.1106
-1957-01-01,50,Netherlands,4.2,31.693,1956-06-01,Catholic People’s Party,133.1106
-1958-01-01,50,Netherlands,4.2,31.693,1956-06-01,Catholic People’s Party,133.1106
-1959-01-01,50,Netherlands,2.6,31.601,1959-03-01,Catholic People’s Party,82.1626
-1960-01-01,50,Netherlands,2.6,31.601,1959-03-01,Catholic People’s Party,82.1626
-1961-01-01,50,Netherlands,2.6,31.601,1959-03-01,Catholic People’s Party,82.1626
-1962-01-01,50,Netherlands,2.6,31.601,1959-03-01,Catholic People’s Party,82.1626
-1963-01-01,50,Netherlands,6.100000000000001,31.882,1963-05-01,Catholic People’s Party,194.4802
-1964-01-01,50,Netherlands,6.100000000000001,31.882,1963-05-01,Catholic People’s Party,194.4802
-1965-01-01,50,Netherlands,6.100000000000001,31.882,1963-05-01,Catholic People’s Party,194.4802
-1966-01-01,50,Netherlands,6.100000000000001,31.882,1963-05-01,Catholic People’s Party,194.4802
-1967-01-01,50,Netherlands,3.2,26.503,1967-02-01,Catholic People’s Party,84.8096
-1968-01-01,50,Netherlands,3.2,26.503,1967-02-01,Catholic People’s Party,84.8096
-1969-01-01,50,Netherlands,3.2,26.503,1967-02-01,Catholic People’s Party,84.8096
-1970-01-01,50,Netherlands,3.2,26.503,1967-02-01,Catholic People’s Party,84.8096
-1971-01-01,50,Netherlands,4.600000000000001,21.837,1971-04-01,Catholic People’s Party,100.45020000000002
-1972-01-01,50,Netherlands,6.600000000000001,17.655,1972-11-01,Catholic People’s Party,116.52300000000004
-1973-01-01,50,Netherlands,6.600000000000001,17.655,1972-11-01,Catholic People’s Party,116.52300000000004
-1974-01-01,50,Netherlands,6.600000000000001,17.655,1972-11-01,Catholic People’s Party,116.52300000000004
-1975-01-01,50,Netherlands,6.600000000000001,17.655,1972-11-01,Catholic People’s Party,116.52300000000004
-1976-01-01,50,Netherlands,6.600000000000001,17.655,1972-11-01,Catholic People’s Party,116.52300000000004
-1977-01-01,50,Netherlands,3.3,31.887,1977-05-01,Christian Democratic Appeal,105.22709999999998
-1978-01-01,50,Netherlands,3.3,31.887,1977-05-01,Christian Democratic Appeal,105.22709999999998
-1979-01-01,50,Netherlands,3.3,31.887,1977-05-01,Christian Democratic Appeal,105.22709999999998
-1980-01-01,50,Netherlands,3.3,31.887,1977-05-01,Christian Democratic Appeal,105.22709999999998
-1981-01-01,50,Netherlands,4.0,30.806,1981-05-01,Christian Democratic Appeal,123.224
-1982-01-01,50,Netherlands,5.4,29.387,1982-09-01,Christian Democratic Appeal,158.6898
-1983-01-01,50,Netherlands,5.4,29.387,1982-09-01,Christian Democratic Appeal,158.6898
-1984-01-01,50,Netherlands,5.4,29.387,1982-09-01,Christian Democratic Appeal,158.6898
-1985-01-01,50,Netherlands,5.4,29.387,1982-09-01,Christian Democratic Appeal,158.6898
-1986-01-01,50,Netherlands,3.3,34.593,1986-05-01,Christian Democratic Appeal,114.1569
-1987-01-01,50,Netherlands,3.3,34.593,1986-05-01,Christian Democratic Appeal,114.1569
-1988-01-01,50,Netherlands,3.3,34.593,1986-05-01,Christian Democratic Appeal,114.1569
-1989-01-01,50,Netherlands,3.0,35.313,1989-09-01,Christian Democratic Appeal,105.939
-1990-01-01,50,Netherlands,3.0,35.313,1989-09-01,Christian Democratic Appeal,105.939
-1991-01-01,50,Netherlands,3.0,35.313,1989-09-01,Christian Democratic Appeal,105.939
-1992-01-01,50,Netherlands,3.0,35.313,1989-09-01,Christian Democratic Appeal,105.939
-1993-01-01,50,Netherlands,3.0,35.313,1989-09-01,Christian Democratic Appeal,105.939
-1994-01-01,50,Netherlands,2.544,22.217,1994-05-01,Christian Democratic Appeal,56.520048
-1995-01-01,50,Netherlands,2.544,22.217,1994-05-01,Christian Democratic Appeal,56.520048
-1996-01-01,50,Netherlands,2.544,22.217,1994-05-01,Christian Democratic Appeal,56.520048
-1997-01-01,50,Netherlands,2.544,22.217,1994-05-01,Christian Democratic Appeal,56.520048
-1998-01-01,50,Netherlands,3.797,18.37,1998-05-01,Christian Democratic Appeal,69.75089
-1999-01-01,50,Netherlands,3.797,18.37,1998-05-01,Christian Democratic Appeal,69.75089
-2000-01-01,50,Netherlands,3.797,18.37,1998-05-01,Christian Democratic Appeal,69.75089
-2001-01-01,50,Netherlands,3.797,18.37,1998-05-01,Christian Democratic Appeal,69.75089
-2002-01-01,50,Netherlands,1.742,27.93,2002-05-01,Christian Democratic Appeal,48.65406
-2003-01-01,50,Netherlands,1.742,28.65,2003-01-01,Christian Democratic Appeal,49.9083
-2004-01-01,50,Netherlands,1.742,28.65,2003-01-01,Christian Democratic Appeal,49.9083
-2005-01-01,50,Netherlands,1.742,28.65,2003-01-01,Christian Democratic Appeal,49.9083
-2006-01-01,50,Netherlands,1.843,26.513,2006-11-01,Christian Democratic Appeal,48.86345900000001
-2007-01-01,50,Netherlands,1.843,26.513,2006-11-01,Christian Democratic Appeal,48.86345900000001
-2008-01-01,50,Netherlands,1.843,26.513,2006-11-01,Christian Democratic Appeal,48.86345900000001
-2009-01-01,50,Netherlands,1.843,26.513,2006-11-01,Christian Democratic Appeal,48.86345900000001
-2010-01-01,50,Netherlands,6.0070000000000014,13.62,2010-06-01,Christian Democratic Appeal,81.81534000000002
-2011-01-01,50,Netherlands,6.0070000000000014,13.62,2010-06-01,Christian Democratic Appeal,81.81534000000002
-2012-01-01,50,Netherlands,3.3560000000000003,8.506,2012-09-01,Christian Democratic Appeal,28.546136000000004
-2013-01-01,50,Netherlands,3.3560000000000003,8.506,2012-09-01,Christian Democratic Appeal,28.546136000000004
-2014-01-01,50,Netherlands,3.3560000000000003,8.506,2012-09-01,Christian Democratic Appeal,28.546136000000004
-2015-01-01,50,Netherlands,3.3560000000000003,8.506,2012-09-01,Christian Democratic Appeal,28.546136000000004
-2016-01-01,50,Netherlands,3.3560000000000003,8.506,2012-09-01,Christian Democratic Appeal,28.546136000000004
-2017-01-01,50,Netherlands,2.191,12.379,2017-03-01,Christian Democratic Appeal,27.122389
-2018-01-01,50,Netherlands,2.191,12.379,2017-03-01,Christian Democratic Appeal,27.122389
-2019-01-01,50,Netherlands,2.191,12.379,2017-03-01,Christian Democratic Appeal,27.122389
-2020-01-01,50,Netherlands,2.191,12.379,2017-03-01,Christian Democratic Appeal,27.122389
-1946-01-01,50,Netherlands,4.5,12.901,1946-05-01,Anti-Revolutionary Party,58.0545
-1946-01-01,50,Netherlands,3.2,7.84,1946-05-01,Christian Historical Union,25.088
-1948-01-01,50,Netherlands,4.8,13.209,1948-07-01,Anti-Revolutionary Party,63.40320000000001
-1948-01-01,50,Netherlands,2.9,9.187999999999999,1948-07-01,Christian Historical Union,26.645200000000006
-1952-01-01,50,Netherlands,3.1,11.307,1952-06-01,Anti-Revolutionary Party,35.051700000000004
-1952-01-01,50,Netherlands,4.15,8.925000000000002,1952-06-01,Christian Historical Union,37.038750000000014
-1956-01-01,50,Netherlands,1.5,9.908999999999999,1956-06-01,Anti-Revolutionary Party,14.863500000000002
-1956-01-01,50,Netherlands,5.4,8.431000000000001,1956-06-01,Christian Historical Union,45.52740000000001
-1959-01-01,50,Netherlands,5.600000000000001,9.386000000000001,1959-03-01,Anti-Revolutionary Party,52.56160000000001
-1959-01-01,50,Netherlands,4.7,8.107999999999999,1959-03-01,Christian Historical Union,38.10760000000001
-1963-01-01,50,Netherlands,4.7,8.721,1963-05-01,Anti-Revolutionary Party,40.9887
-1963-01-01,50,Netherlands,9.1,8.577,1963-05-01,Christian Historical Union,78.05069999999998
-1967-01-01,50,Netherlands,6.4,9.902000000000001,1967-02-01,Anti-Revolutionary Party,63.3728
-1967-01-01,50,Netherlands,4.0,8.142000000000001,1967-02-01,Christian Historical Union,32.568000000000005
-1971-01-01,50,Netherlands,5.2,8.59,1971-04-01,Anti-Revolutionary Party,44.668
-1971-01-01,50,Netherlands,7.7,5.329,1971-04-01,Democratic Socialists‘70,41.0333
-1971-01-01,50,Netherlands,2.4,6.317,1971-04-01,Christian Historical Union,15.1608
-1972-01-01,50,Netherlands,6.600000000000001,8.84,1972-11-01,Anti-Revolutionary Party,58.34400000000001
-1972-01-01,50,Netherlands,3.1,4.121,1972-11-01,Democratic Socialists‘70,12.775100000000002
-1972-01-01,50,Netherlands,6.600000000000001,4.794,1972-11-01,Christian Historical Union,31.640400000000003
-1977-01-01,50,Netherlands,4.0,0.715,1977-05-01,Democratic Socialists‘70,2.86
-1981-01-01,50,Netherlands,0.6930000000000001,1.247,1981-05-01,Reformatory Political Federation,0.8641710000000001
-1982-01-01,50,Netherlands,1.6269999999999998,0.8150000000000001,1982-09-01,Reformed Political League,1.326005
-1982-01-01,50,Netherlands,0.6930000000000001,1.508,1982-09-01,Reformatory Political Federation,1.045044
-1989-01-01,50,Netherlands,4.7360000000000015,1.236,1989-09-01,Reformed Political League,5.853696000000001
-1989-01-01,50,Netherlands,5.2810000000000015,0.961,1989-09-01,Reformatory Political Federation,5.0750410000000015
-1994-01-01,50,Netherlands,3.292,1.3,1994-05-01,Reformed Political League,4.2796
-1994-01-01,50,Netherlands,4.851,1.8,1994-05-01,Reformatory Political Federation,8.7318
-1998-01-01,50,Netherlands,6.7570000000000014,1.2,1998-05-01,Reformed Political League,8.108400000000001
-1998-01-01,50,Netherlands,1.408,2.028,1998-05-01,Reformatory Political Federation,2.855424
-2002-01-01,50,Netherlands,2.3,2.54,2002-05-01,Christian Union,5.8420000000000005
-2003-01-01,50,Netherlands,3.67,2.13,2003-01-01,Christian Union,7.817099999999999
-2006-01-01,50,Netherlands,2.33,3.974,2006-11-01,Christian Union,9.25942
-2010-01-01,50,Netherlands,4.435,3.248,2010-06-01,Christian Union,14.404879999999999
-2012-01-01,50,Netherlands,2.255,3.1260000000000003,2012-09-01,Christian Union,7.049130000000001
-2017-01-01,50,Netherlands,3.992,3.388,2017-03-01,Christian Union,13.524896
-1982-01-01,70,Netherlands,5.102,0.8310000000000001,1982-09-01,Centre Party,4.239762000000002
-1983-01-01,70,Netherlands,5.102,0.8310000000000001,1982-09-01,Centre Party,4.239762000000002
-1984-01-01,70,Netherlands,5.102,0.8310000000000001,1982-09-01,Centre Party,4.239762000000002
-1985-01-01,70,Netherlands,5.102,0.8310000000000001,1982-09-01,Centre Party,4.239762000000002
-1986-01-01,70,Netherlands,5.102,0.8310000000000001,1982-09-01,Centre Party,4.239762000000002
-1987-01-01,70,Netherlands,5.102,0.8310000000000001,1982-09-01,Centre Party,4.239762000000002
-1988-01-01,70,Netherlands,5.102,0.8310000000000001,1982-09-01,Centre Party,4.239762000000002
-1989-01-01,70,Netherlands,0.0,0.918,1989-09-01,Centre Democrats,0.0
-1990-01-01,70,Netherlands,0.0,0.918,1989-09-01,Centre Democrats,0.0
-1991-01-01,70,Netherlands,0.0,0.918,1989-09-01,Centre Democrats,0.0
-1992-01-01,70,Netherlands,0.0,0.918,1989-09-01,Centre Democrats,0.0
-1993-01-01,70,Netherlands,0.0,0.918,1989-09-01,Centre Democrats,0.0
-1994-01-01,70,Netherlands,0.258,2.5,1994-05-01,Centre Democrats,0.645
-1995-01-01,70,Netherlands,0.258,2.5,1994-05-01,Centre Democrats,0.645
-1996-01-01,70,Netherlands,0.258,2.5,1994-05-01,Centre Democrats,0.645
-1997-01-01,70,Netherlands,0.258,2.5,1994-05-01,Centre Democrats,0.645
-1998-01-01,70,Netherlands,0.258,2.5,1994-05-01,Centre Democrats,0.645
-1999-01-01,70,Netherlands,0.258,2.5,1994-05-01,Centre Democrats,0.645
-2000-01-01,70,Netherlands,0.258,2.5,1994-05-01,Centre Democrats,0.645
-2001-01-01,70,Netherlands,0.258,2.5,1994-05-01,Centre Democrats,0.645
-2002-01-01,70,Netherlands,5.5120000000000005,17.0,2002-05-01,List Pim Fortuyn,93.704
-2003-01-01,70,Netherlands,1.3730000000000002,5.71,2003-01-01,List Pim Fortuyn,7.839830000000001
-2004-01-01,70,Netherlands,1.3730000000000002,5.71,2003-01-01,List Pim Fortuyn,7.839830000000001
-2005-01-01,70,Netherlands,1.3730000000000002,5.71,2003-01-01,List Pim Fortuyn,7.839830000000001
-2006-01-01,70,Netherlands,0.0,5.89,2006-11-01,Party of Freedom,0.0
-2007-01-01,70,Netherlands,0.0,5.89,2006-11-01,Party of Freedom,0.0
-2008-01-01,70,Netherlands,0.0,5.89,2006-11-01,Party of Freedom,0.0
-2009-01-01,70,Netherlands,0.0,5.89,2006-11-01,Party of Freedom,0.0
-2010-01-01,70,Netherlands,3.392,15.45,2010-06-01,Party of Freedom,52.4064
-2011-01-01,70,Netherlands,3.392,15.45,2010-06-01,Party of Freedom,52.4064
-2012-01-01,70,Netherlands,0.863,10.083,2012-09-01,Party of Freedom,8.701628999999999
-2013-01-01,70,Netherlands,0.863,10.083,2012-09-01,Party of Freedom,8.701628999999999
-2014-01-01,70,Netherlands,0.863,10.083,2012-09-01,Party of Freedom,8.701628999999999
-2015-01-01,70,Netherlands,0.863,10.083,2012-09-01,Party of Freedom,8.701628999999999
-2016-01-01,70,Netherlands,0.863,10.083,2012-09-01,Party of Freedom,8.701628999999999
-2017-01-01,70,Netherlands,0.0,13.056,2017-03-01,Party of Freedom,0.0
-2018-01-01,70,Netherlands,0.0,13.056,2017-03-01,Party of Freedom,0.0
-2019-01-01,70,Netherlands,0.0,13.056,2017-03-01,Party of Freedom,0.0
-2020-01-01,70,Netherlands,0.0,13.056,2017-03-01,Party of Freedom,0.0
-2017-01-01,70,Netherlands,0.0,1.78,2017-03-01,Forum for Democracy,0.0
-1946-01-01,95,Netherlands,4.0,2.138,1946-05-01,Reformed Political Party,8.552
-1947-01-01,95,Netherlands,4.0,2.138,1946-05-01,Reformed Political Party,8.552
-1948-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1949-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1950-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1951-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1952-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1953-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1954-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1955-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1956-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1957-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1958-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1959-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1960-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1961-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1962-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1963-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1964-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1965-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1966-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1967-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1968-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1969-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1970-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1971-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1972-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1973-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1974-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1975-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1976-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1977-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1978-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1979-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1980-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1981-01-01,95,Netherlands,3.509,2.371,1948-07-01,Reformed Political Party,8.319839
-1982-01-01,95,Netherlands,3.576,1.902,1982-09-01,Reformed Political Party,6.801552
-1983-01-01,95,Netherlands,3.576,1.902,1982-09-01,Reformed Political Party,6.801552
-1984-01-01,95,Netherlands,3.576,1.902,1982-09-01,Reformed Political Party,6.801552
-1985-01-01,95,Netherlands,3.576,1.902,1982-09-01,Reformed Political Party,6.801552
-1986-01-01,95,Netherlands,0.0,1.739,1986-05-01,Reformed Political Party,0.0
-1987-01-01,95,Netherlands,0.0,1.739,1986-05-01,Reformed Political Party,0.0
-1988-01-01,95,Netherlands,0.0,1.739,1986-05-01,Reformed Political Party,0.0
-1989-01-01,95,Netherlands,3.039,1.873,1989-09-01,Reformed Political Party,5.6920470000000005
-1990-01-01,95,Netherlands,3.039,1.873,1989-09-01,Reformed Political Party,5.6920470000000005
-1991-01-01,95,Netherlands,3.039,1.873,1989-09-01,Reformed Political Party,5.6920470000000005
-1992-01-01,95,Netherlands,3.039,1.873,1989-09-01,Reformed Political Party,5.6920470000000005
-1993-01-01,95,Netherlands,3.039,1.873,1989-09-01,Reformed Political Party,5.6920470000000005
-1994-01-01,95,Netherlands,5.759,1.729,1994-05-01,Reformed Political Party,9.957311
-1995-01-01,95,Netherlands,5.759,1.729,1994-05-01,Reformed Political Party,9.957311
-1996-01-01,95,Netherlands,5.759,1.729,1994-05-01,Reformed Political Party,9.957311
-1997-01-01,95,Netherlands,5.759,1.729,1994-05-01,Reformed Political Party,9.957311
-1998-01-01,95,Netherlands,3.158,1.781,1998-05-01,Reformed Political Party,5.6243979999999985
-1999-01-01,95,Netherlands,3.158,1.781,1998-05-01,Reformed Political Party,5.6243979999999985
-2000-01-01,95,Netherlands,3.158,1.781,1998-05-01,Reformed Political Party,5.6243979999999985
-2001-01-01,95,Netherlands,3.158,1.781,1998-05-01,Reformed Political Party,5.6243979999999985
-2002-01-01,95,Netherlands,4.962,1.7180000000000002,2002-05-01,Reformed Political Party,8.524716
-2003-01-01,95,Netherlands,4.962,1.7180000000000002,2002-05-01,Reformed Political Party,8.524716
-2004-01-01,95,Netherlands,4.962,1.7180000000000002,2002-05-01,Reformed Political Party,8.524716
-2005-01-01,95,Netherlands,4.962,1.7180000000000002,2002-05-01,Reformed Political Party,8.524716
-2006-01-01,95,Netherlands,1.496,1.829,2006-11-01,Party for the Animals,2.736184
-2007-01-01,95,Netherlands,1.496,1.829,2006-11-01,Party for the Animals,2.736184
-2008-01-01,95,Netherlands,1.496,1.829,2006-11-01,Party for the Animals,2.736184
-2009-01-01,95,Netherlands,1.496,1.829,2006-11-01,Party for the Animals,2.736184
-2010-01-01,95,Netherlands,3.471,1.3,2010-06-01,Party for the Animals,4.5123000000000015
-2011-01-01,95,Netherlands,3.471,1.3,2010-06-01,Party for the Animals,4.5123000000000015
-2012-01-01,95,Netherlands,2.015,1.933,2012-09-01,Party for the Animals,3.8949949999999998
-2013-01-01,95,Netherlands,2.015,1.933,2012-09-01,Party for the Animals,3.8949949999999998
-2014-01-01,95,Netherlands,2.015,1.933,2012-09-01,Party for the Animals,3.8949949999999998
-2015-01-01,95,Netherlands,2.015,1.933,2012-09-01,Party for the Animals,3.8949949999999998
-2016-01-01,95,Netherlands,2.015,1.933,2012-09-01,Party for the Animals,3.8949949999999998
-2017-01-01,95,Netherlands,2.313,3.188,2017-03-01,Party for the Animals,7.373844000000001
-2018-01-01,95,Netherlands,2.313,3.188,2017-03-01,Party for the Animals,7.373844000000001
-2019-01-01,95,Netherlands,2.313,3.188,2017-03-01,Party for the Animals,7.373844000000001
-2020-01-01,95,Netherlands,2.313,3.188,2017-03-01,Party for the Animals,7.373844000000001
-1994-01-01,95,Netherlands,7.553,3.6,1994-05-01,General Elderly Alliance,27.1908
-1994-01-01,95,Netherlands,8.734,0.9,1994-05-01,Union 55+,7.8606
-2006-01-01,95,Netherlands,3.85,1.558,2006-11-01,Reformed Political Party,5.9983
-2010-01-01,95,Netherlands,6.326000000000001,1.74,2010-06-01,Reformed Political Party,11.007240000000005
-2012-01-01,95,Netherlands,1.932,2.088,2012-09-01,Reformed Political Party,4.034016
-2012-01-01,95,Netherlands,3.883,1.885,2012-09-01,50Plus,7.319455
-2017-01-01,95,Netherlands,0.7140000000000001,2.082,2017-03-01,Reformed Political Party,1.486548
-2017-01-01,95,Netherlands,7.475000000000001,3.111,2017-03-01,50Plus,23.25472500000001
+index,parfam,countryname,environ,culture,equality,pervote,rile,electionDate,partyname
+1989-01-01,10,Netherlands,8.700000000000001,3.4,6.100000000000001,4.074,-15.0,1989-09-01,Green Left
+1990-01-01,10,Netherlands,8.700000000000001,3.4,6.100000000000001,4.074,-15.0,1989-09-01,Green Left
+1991-01-01,10,Netherlands,8.700000000000001,3.4,6.100000000000001,4.074,-15.0,1989-09-01,Green Left
+1992-01-01,10,Netherlands,8.700000000000001,3.4,6.100000000000001,4.074,-15.0,1989-09-01,Green Left
+1993-01-01,10,Netherlands,8.700000000000001,3.4,6.100000000000001,4.074,-15.0,1989-09-01,Green Left
+1994-01-01,10,Netherlands,7.797999999999999,1.5119999999999998,2.883,3.467,-15.69,1994-05-01,Green Left
+1995-01-01,10,Netherlands,7.797999999999999,1.5119999999999998,2.883,3.467,-15.69,1994-05-01,Green Left
+1996-01-01,10,Netherlands,7.797999999999999,1.5119999999999998,2.883,3.467,-15.69,1994-05-01,Green Left
+1997-01-01,10,Netherlands,7.797999999999999,1.5119999999999998,2.883,3.467,-15.69,1994-05-01,Green Left
+1998-01-01,10,Netherlands,10.31,1.875,13.265999999999998,7.27,-22.783,1998-05-01,Green Left
+1999-01-01,10,Netherlands,10.31,1.875,13.265999999999998,7.27,-22.783,1998-05-01,Green Left
+2000-01-01,10,Netherlands,10.31,1.875,13.265999999999998,7.27,-22.783,1998-05-01,Green Left
+2001-01-01,10,Netherlands,10.31,1.875,13.265999999999998,7.27,-22.783,1998-05-01,Green Left
+2002-01-01,10,Netherlands,10.455,2.573,2.012,6.95,-9.136000000000001,2002-05-01,Green Left
+2003-01-01,10,Netherlands,6.537000000000001,0.177,6.184,5.13,19.965,2003-01-01,Green Left
+2004-01-01,10,Netherlands,6.537000000000001,0.177,6.184,5.13,19.965,2003-01-01,Green Left
+2005-01-01,10,Netherlands,6.537000000000001,0.177,6.184,5.13,19.965,2003-01-01,Green Left
+2006-01-01,10,Netherlands,9.274,2.537,6.649,4.605,-12.423,2006-11-01,Green Left
+2007-01-01,10,Netherlands,9.274,2.537,6.649,4.605,-12.423,2006-11-01,Green Left
+2008-01-01,10,Netherlands,9.274,2.537,6.649,4.605,-12.423,2006-11-01,Green Left
+2009-01-01,10,Netherlands,9.274,2.537,6.649,4.605,-12.423,2006-11-01,Green Left
+2010-01-01,10,Netherlands,7.322,0.642,14.836,6.67,1.606,2010-06-01,Green Left
+2011-01-01,10,Netherlands,7.322,0.642,14.836,6.67,1.606,2010-06-01,Green Left
+2012-01-01,10,Netherlands,10.311,1.785,7.204,2.333,-9.584,2012-09-01,Green Left
+2013-01-01,10,Netherlands,10.311,1.785,7.204,2.333,-9.584,2012-09-01,Green Left
+2014-01-01,10,Netherlands,10.311,1.785,7.204,2.333,-9.584,2012-09-01,Green Left
+2015-01-01,10,Netherlands,10.311,1.785,7.204,2.333,-9.584,2012-09-01,Green Left
+2016-01-01,10,Netherlands,10.311,1.785,7.204,2.333,-9.584,2012-09-01,Green Left
+2017-01-01,10,Netherlands,7.584000000000001,2.822,9.877,9.125,-9.347,2017-03-01,Green Left
+2018-01-01,10,Netherlands,7.584000000000001,2.822,9.877,9.125,-9.347,2017-03-01,Green Left
+2019-01-01,10,Netherlands,7.584000000000001,2.822,9.877,9.125,-9.347,2017-03-01,Green Left
+2020-01-01,10,Netherlands,7.584000000000001,2.822,9.877,9.125,-9.347,2017-03-01,Green Left
+1946-01-01,20,Netherlands,0.8,4.0,4.0,10.6,-34.4,1946-05-01,Communist Party of the Netherlands
+1947-01-01,20,Netherlands,0.8,4.0,4.0,10.6,-34.4,1946-05-01,Communist Party of the Netherlands
+1948-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1949-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1950-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1951-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1952-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1953-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1954-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1955-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1956-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1957-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1958-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1959-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1960-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1961-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1962-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1963-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1964-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1965-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1966-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1967-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1968-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1969-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1970-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1971-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1972-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1973-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1974-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1975-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1976-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1977-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1978-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1979-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1980-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1981-01-01,20,Netherlands,0.0,3.947,13.158,7.744,-31.579,1948-07-01,Communist Party of the Netherlands
+1982-01-01,20,Netherlands,5.652,3.261,21.522,1.794,-24.783,1982-09-01,Communist Party of the Netherlands
+1983-01-01,20,Netherlands,5.652,3.261,21.522,1.794,-24.783,1982-09-01,Communist Party of the Netherlands
+1984-01-01,20,Netherlands,5.652,3.261,21.522,1.794,-24.783,1982-09-01,Communist Party of the Netherlands
+1985-01-01,20,Netherlands,5.652,3.261,21.522,1.794,-24.783,1982-09-01,Communist Party of the Netherlands
+1986-01-01,20,Netherlands,10.286,2.145,11.771,1.2,-23.542,1986-05-01,Pacifist Socialist Party
+1987-01-01,20,Netherlands,10.286,2.145,11.771,1.2,-23.542,1986-05-01,Pacifist Socialist Party
+1988-01-01,20,Netherlands,10.286,2.145,11.771,1.2,-23.542,1986-05-01,Pacifist Socialist Party
+1989-01-01,20,Netherlands,10.286,2.145,11.771,1.2,-23.542,1986-05-01,Pacifist Socialist Party
+1990-01-01,20,Netherlands,10.286,2.145,11.771,1.2,-23.542,1986-05-01,Pacifist Socialist Party
+1991-01-01,20,Netherlands,10.286,2.145,11.771,1.2,-23.542,1986-05-01,Pacifist Socialist Party
+1992-01-01,20,Netherlands,10.286,2.145,11.771,1.2,-23.542,1986-05-01,Pacifist Socialist Party
+1993-01-01,20,Netherlands,10.286,2.145,11.771,1.2,-23.542,1986-05-01,Pacifist Socialist Party
+1994-01-01,20,Netherlands,7.7189999999999985,0.0,17.544,1.3219999999999998,-19.298,1994-05-01,Socialist Party
+1995-01-01,20,Netherlands,7.7189999999999985,0.0,17.544,1.3219999999999998,-19.298,1994-05-01,Socialist Party
+1996-01-01,20,Netherlands,7.7189999999999985,0.0,17.544,1.3219999999999998,-19.298,1994-05-01,Socialist Party
+1997-01-01,20,Netherlands,7.7189999999999985,0.0,17.544,1.3219999999999998,-19.298,1994-05-01,Socialist Party
+1998-01-01,20,Netherlands,9.337,4.972,3.204,3.528,-18.177,1998-05-01,Socialist Party
+1999-01-01,20,Netherlands,9.337,4.972,3.204,3.528,-18.177,1998-05-01,Socialist Party
+2000-01-01,20,Netherlands,9.337,4.972,3.204,3.528,-18.177,1998-05-01,Socialist Party
+2001-01-01,20,Netherlands,9.337,4.972,3.204,3.528,-18.177,1998-05-01,Socialist Party
+2002-01-01,20,Netherlands,9.337,4.972,3.204,5.9,-18.177,2002-05-01,Socialist Party
+2003-01-01,20,Netherlands,8.583,4.783,3.576,6.33,-16.942,2003-01-01,Socialist Party
+2004-01-01,20,Netherlands,8.583,4.783,3.576,6.33,-16.942,2003-01-01,Socialist Party
+2005-01-01,20,Netherlands,8.583,4.783,3.576,6.33,-16.942,2003-01-01,Socialist Party
+2006-01-01,20,Netherlands,5.131,4.618,6.442,16.575,-8.951000000000002,2006-11-01,Socialist Party
+2007-01-01,20,Netherlands,5.131,4.618,6.442,16.575,-8.951000000000002,2006-11-01,Socialist Party
+2008-01-01,20,Netherlands,5.131,4.618,6.442,16.575,-8.951000000000002,2006-11-01,Socialist Party
+2009-01-01,20,Netherlands,5.131,4.618,6.442,16.575,-8.951000000000002,2006-11-01,Socialist Party
+2010-01-01,20,Netherlands,4.124,3.402,10.206,9.83,-13.093,2010-06-01,Socialist Party
+2011-01-01,20,Netherlands,4.124,3.402,10.206,9.83,-13.093,2010-06-01,Socialist Party
+2012-01-01,20,Netherlands,7.9529999999999985,3.259,6.519,9.654,-20.926,2012-09-01,Socialist Party
+2013-01-01,20,Netherlands,7.9529999999999985,3.259,6.519,9.654,-20.926,2012-09-01,Socialist Party
+2014-01-01,20,Netherlands,7.9529999999999985,3.259,6.519,9.654,-20.926,2012-09-01,Socialist Party
+2015-01-01,20,Netherlands,7.9529999999999985,3.259,6.519,9.654,-20.926,2012-09-01,Socialist Party
+2016-01-01,20,Netherlands,7.9529999999999985,3.259,6.519,9.654,-20.926,2012-09-01,Socialist Party
+2017-01-01,20,Netherlands,7.251,4.0939999999999985,6.082000000000002,9.087,-23.041,2017-03-01,Socialist Party
+2018-01-01,20,Netherlands,7.251,4.0939999999999985,6.082000000000002,9.087,-23.041,2017-03-01,Socialist Party
+2019-01-01,20,Netherlands,7.251,4.0939999999999985,6.082000000000002,9.087,-23.041,2017-03-01,Socialist Party
+2020-01-01,20,Netherlands,7.251,4.0939999999999985,6.082000000000002,9.087,-23.041,2017-03-01,Socialist Party
+1946-01-01,30,Netherlands,2.5,6.2,3.7,28.314,-19.8,1946-05-01,Labour Party
+1947-01-01,30,Netherlands,2.5,6.2,3.7,28.314,-19.8,1946-05-01,Labour Party
+1948-01-01,30,Netherlands,1.7,2.8,5.5,25.604,-14.8,1948-07-01,Labour Party
+1949-01-01,30,Netherlands,1.7,2.8,5.5,25.604,-14.8,1948-07-01,Labour Party
+1950-01-01,30,Netherlands,1.7,2.8,5.5,25.604,-14.8,1948-07-01,Labour Party
+1951-01-01,30,Netherlands,1.7,2.8,5.5,25.604,-14.8,1948-07-01,Labour Party
+1952-01-01,30,Netherlands,0.0,5.100000000000001,10.2,28.972,-22.6,1952-06-01,Labour Party
+1953-01-01,30,Netherlands,0.0,5.100000000000001,10.2,28.972,-22.6,1952-06-01,Labour Party
+1954-01-01,30,Netherlands,0.0,5.100000000000001,10.2,28.972,-22.6,1952-06-01,Labour Party
+1955-01-01,30,Netherlands,0.0,5.100000000000001,10.2,28.972,-22.6,1952-06-01,Labour Party
+1956-01-01,30,Netherlands,1.0,3.8,7.0,32.687,-21.0,1956-06-01,Labour Party
+1957-01-01,30,Netherlands,1.0,3.8,7.0,32.687,-21.0,1956-06-01,Labour Party
+1958-01-01,30,Netherlands,1.0,3.8,7.0,32.687,-21.0,1956-06-01,Labour Party
+1959-01-01,30,Netherlands,0.0,4.1,2.7,30.357,-28.2,1959-03-01,Labour Party
+1960-01-01,30,Netherlands,0.0,4.1,2.7,30.357,-28.2,1959-03-01,Labour Party
+1961-01-01,30,Netherlands,0.0,4.1,2.7,30.357,-28.2,1959-03-01,Labour Party
+1962-01-01,30,Netherlands,0.0,4.1,2.7,30.357,-28.2,1959-03-01,Labour Party
+1963-01-01,30,Netherlands,0.6,3.4,8.4,28.011,-30.6,1963-05-01,Labour Party
+1964-01-01,30,Netherlands,0.6,3.4,8.4,28.011,-30.6,1963-05-01,Labour Party
+1965-01-01,30,Netherlands,0.6,3.4,8.4,28.011,-30.6,1963-05-01,Labour Party
+1966-01-01,30,Netherlands,0.6,3.4,8.4,28.011,-30.6,1963-05-01,Labour Party
+1967-01-01,30,Netherlands,2.6,2.6,12.3,23.555,-24.6,1967-02-01,Labour Party
+1968-01-01,30,Netherlands,2.6,2.6,12.3,23.555,-24.6,1967-02-01,Labour Party
+1969-01-01,30,Netherlands,2.6,2.6,12.3,23.555,-24.6,1967-02-01,Labour Party
+1970-01-01,30,Netherlands,2.6,2.6,12.3,23.555,-24.6,1967-02-01,Labour Party
+1971-01-01,30,Netherlands,5.0,0.7000000000000001,15.7,1.837,-36.3,1971-04-01,Radical Political Party
+1972-01-01,30,Netherlands,9.2,3.1,9.3,4.799,-44.5,1972-11-01,Radical Political Party
+1973-01-01,30,Netherlands,9.2,3.1,9.3,4.799,-44.5,1972-11-01,Radical Political Party
+1974-01-01,30,Netherlands,9.2,3.1,9.3,4.799,-44.5,1972-11-01,Radical Political Party
+1975-01-01,30,Netherlands,9.2,3.1,9.3,4.799,-44.5,1972-11-01,Radical Political Party
+1976-01-01,30,Netherlands,9.2,3.1,9.3,4.799,-44.5,1972-11-01,Radical Political Party
+1977-01-01,30,Netherlands,13.5,2.3,6.5,1.694,-42.4,1977-05-01,Radical Political Party
+1978-01-01,30,Netherlands,13.5,2.3,6.5,1.694,-42.4,1977-05-01,Radical Political Party
+1979-01-01,30,Netherlands,13.5,2.3,6.5,1.694,-42.4,1977-05-01,Radical Political Party
+1980-01-01,30,Netherlands,13.5,2.3,6.5,1.694,-42.4,1977-05-01,Radical Political Party
+1981-01-01,30,Netherlands,7.7,1.15,9.6,1.968,-25.2,1981-05-01,Radical Political Party
+1982-01-01,30,Netherlands,1.9,0.0,12.7,1.6569999999999998,-8.0,1982-09-01,Radical Political Party
+1983-01-01,30,Netherlands,1.9,0.0,12.7,1.6569999999999998,-8.0,1982-09-01,Radical Political Party
+1984-01-01,30,Netherlands,1.9,0.0,12.7,1.6569999999999998,-8.0,1982-09-01,Radical Political Party
+1985-01-01,30,Netherlands,1.9,0.0,12.7,1.6569999999999998,-8.0,1982-09-01,Radical Political Party
+1986-01-01,30,Netherlands,5.4,3.4,8.0,1.256,-12.9,1986-05-01,Radical Political Party
+1987-01-01,30,Netherlands,5.4,3.4,8.0,1.256,-12.9,1986-05-01,Radical Political Party
+1988-01-01,30,Netherlands,5.4,3.4,8.0,1.256,-12.9,1986-05-01,Radical Political Party
+1989-01-01,30,Netherlands,10.0,3.4,5.7,31.881,-20.6,1989-09-01,Labour Party
+1990-01-01,30,Netherlands,10.0,3.4,5.7,31.881,-20.6,1989-09-01,Labour Party
+1991-01-01,30,Netherlands,10.0,3.4,5.7,31.881,-20.6,1989-09-01,Labour Party
+1992-01-01,30,Netherlands,10.0,3.4,5.7,31.881,-20.6,1989-09-01,Labour Party
+1993-01-01,30,Netherlands,10.0,3.4,5.7,31.881,-20.6,1989-09-01,Labour Party
+1994-01-01,30,Netherlands,7.287000000000001,1.668,3.117,23.973000000000006,4.258,1994-05-01,Labour Party
+1995-01-01,30,Netherlands,7.287000000000001,1.668,3.117,23.973000000000006,4.258,1994-05-01,Labour Party
+1996-01-01,30,Netherlands,7.287000000000001,1.668,3.117,23.973000000000006,4.258,1994-05-01,Labour Party
+1997-01-01,30,Netherlands,7.287000000000001,1.668,3.117,23.973000000000006,4.258,1994-05-01,Labour Party
+1998-01-01,30,Netherlands,9.36,3.941,6.847,28.98,-22.069000000000006,1998-05-01,Labour Party
+1999-01-01,30,Netherlands,9.36,3.941,6.847,28.98,-22.069000000000006,1998-05-01,Labour Party
+2000-01-01,30,Netherlands,9.36,3.941,6.847,28.98,-22.069000000000006,1998-05-01,Labour Party
+2001-01-01,30,Netherlands,9.36,3.941,6.847,28.98,-22.069000000000006,1998-05-01,Labour Party
+2002-01-01,30,Netherlands,5.08,3.439,2.735,15.11,-7.581,2002-05-01,Labour Party
+2003-01-01,30,Netherlands,5.5139999999999985,2.256,4.261,27.28,-2.757,2003-01-01,Labour Party
+2004-01-01,30,Netherlands,5.5139999999999985,2.256,4.261,27.28,-2.757,2003-01-01,Labour Party
+2005-01-01,30,Netherlands,5.5139999999999985,2.256,4.261,27.28,-2.757,2003-01-01,Labour Party
+2006-01-01,30,Netherlands,2.734,5.732,7.055,21.193,0.838,2006-11-01,Labour Party
+2007-01-01,30,Netherlands,2.734,5.732,7.055,21.193,0.838,2006-11-01,Labour Party
+2008-01-01,30,Netherlands,2.734,5.732,7.055,21.193,0.838,2006-11-01,Labour Party
+2009-01-01,30,Netherlands,2.734,5.732,7.055,21.193,0.838,2006-11-01,Labour Party
+2010-01-01,30,Netherlands,1.962,1.4269999999999998,11.653,19.63,0.654,2010-06-01,Labour Party
+2011-01-01,30,Netherlands,1.962,1.4269999999999998,11.653,19.63,0.654,2010-06-01,Labour Party
+2012-01-01,30,Netherlands,2.935,2.029,8.187999999999999,24.838,-6.558,2012-09-01,Labour Party
+2013-01-01,30,Netherlands,2.935,2.029,8.187999999999999,24.838,-6.558,2012-09-01,Labour Party
+2014-01-01,30,Netherlands,2.935,2.029,8.187999999999999,24.838,-6.558,2012-09-01,Labour Party
+2015-01-01,30,Netherlands,2.935,2.029,8.187999999999999,24.838,-6.558,2012-09-01,Labour Party
+2016-01-01,30,Netherlands,2.935,2.029,8.187999999999999,24.838,-6.558,2012-09-01,Labour Party
+2017-01-01,30,Netherlands,7.808,4.292,7.945,5.7029999999999985,-13.836,2017-03-01,Labour Party
+2018-01-01,30,Netherlands,7.808,4.292,7.945,5.7029999999999985,-13.836,2017-03-01,Labour Party
+2019-01-01,30,Netherlands,7.808,4.292,7.945,5.7029999999999985,-13.836,2017-03-01,Labour Party
+2020-01-01,30,Netherlands,7.808,4.292,7.945,5.7029999999999985,-13.836,2017-03-01,Labour Party
+1971-01-01,30,Netherlands,4.1,5.3,7.8,24.6,-39.7,1971-04-01,Labour Party
+1972-01-01,30,Netherlands,9.2,3.1,9.3,27.339,-44.5,1972-11-01,Labour Party
+1977-01-01,30,Netherlands,6.100000000000001,2.2,11.5,33.829,-45.6,1977-05-01,Labour Party
+1981-01-01,30,Netherlands,5.100000000000001,3.4,7.100000000000001,28.288,-28.6,1981-05-01,Labour Party
+1982-01-01,30,Netherlands,2.4,2.6,13.2,30.395,-20.7,1982-09-01,Labour Party
+1986-01-01,30,Netherlands,7.5,3.7,6.9,33.271,-20.2,1986-05-01,Labour Party
+2017-01-01,30,Netherlands,1.487,0.0,9.382,2.055,-24.828000000000007,2017-03-01,DENK
+1946-01-01,40,Netherlands,0.0,5.600000000000001,9.7,6.4129999999999985,19.5,1946-05-01,Freedom Party
+1947-01-01,40,Netherlands,0.0,5.600000000000001,9.7,6.4129999999999985,19.5,1946-05-01,Freedom Party
+1948-01-01,40,Netherlands,0.0,4.0,16.0,7.945,20.0,1948-07-01,People’s Party for Freedom and Democracy
+1949-01-01,40,Netherlands,0.0,4.0,16.0,7.945,20.0,1948-07-01,People’s Party for Freedom and Democracy
+1950-01-01,40,Netherlands,0.0,4.0,16.0,7.945,20.0,1948-07-01,People’s Party for Freedom and Democracy
+1951-01-01,40,Netherlands,0.0,4.0,16.0,7.945,20.0,1948-07-01,People’s Party for Freedom and Democracy
+1952-01-01,40,Netherlands,0.0,3.8,9.6,8.827999999999998,32.6,1952-06-01,People’s Party for Freedom and Democracy
+1953-01-01,40,Netherlands,0.0,3.8,9.6,8.827999999999998,32.6,1952-06-01,People’s Party for Freedom and Democracy
+1954-01-01,40,Netherlands,0.0,3.8,9.6,8.827999999999998,32.6,1952-06-01,People’s Party for Freedom and Democracy
+1955-01-01,40,Netherlands,0.0,3.8,9.6,8.827999999999998,32.6,1952-06-01,People’s Party for Freedom and Democracy
+1956-01-01,40,Netherlands,0.0,2.7,3.8,8.774000000000001,10.4,1956-06-01,People’s Party for Freedom and Democracy
+1957-01-01,40,Netherlands,0.0,2.7,3.8,8.774000000000001,10.4,1956-06-01,People’s Party for Freedom and Democracy
+1958-01-01,40,Netherlands,0.0,2.7,3.8,8.774000000000001,10.4,1956-06-01,People’s Party for Freedom and Democracy
+1959-01-01,40,Netherlands,0.0,0.9,6.4,12.212,17.4,1959-03-01,People’s Party for Freedom and Democracy
+1960-01-01,40,Netherlands,0.0,0.9,6.4,12.212,17.4,1959-03-01,People’s Party for Freedom and Democracy
+1961-01-01,40,Netherlands,0.0,0.9,6.4,12.212,17.4,1959-03-01,People’s Party for Freedom and Democracy
+1962-01-01,40,Netherlands,0.0,0.9,6.4,12.212,17.4,1959-03-01,People’s Party for Freedom and Democracy
+1963-01-01,40,Netherlands,1.6,4.9,4.7,10.287,9.7,1963-05-01,People’s Party for Freedom and Democracy
+1964-01-01,40,Netherlands,1.6,4.9,4.7,10.287,9.7,1963-05-01,People’s Party for Freedom and Democracy
+1965-01-01,40,Netherlands,1.6,4.9,4.7,10.287,9.7,1963-05-01,People’s Party for Freedom and Democracy
+1966-01-01,40,Netherlands,1.6,4.9,4.7,10.287,9.7,1963-05-01,People’s Party for Freedom and Democracy
+1967-01-01,40,Netherlands,3.4,1.9,10.7,4.475000000000001,-18.3,1967-02-01,Democrats‘66
+1968-01-01,40,Netherlands,3.4,1.9,10.7,4.475000000000001,-18.3,1967-02-01,Democrats‘66
+1969-01-01,40,Netherlands,3.4,1.9,10.7,4.475000000000001,-18.3,1967-02-01,Democrats‘66
+1970-01-01,40,Netherlands,3.4,1.9,10.7,4.475000000000001,-18.3,1967-02-01,Democrats‘66
+1971-01-01,40,Netherlands,12.4,3.5,4.3,6.775,-21.3,1971-04-01,Democrats‘66
+1972-01-01,40,Netherlands,9.2,3.1,9.3,4.1530000000000005,-44.5,1972-11-01,Democrats‘66
+1973-01-01,40,Netherlands,9.2,3.1,9.3,4.1530000000000005,-44.5,1972-11-01,Democrats‘66
+1974-01-01,40,Netherlands,9.2,3.1,9.3,4.1530000000000005,-44.5,1972-11-01,Democrats‘66
+1975-01-01,40,Netherlands,9.2,3.1,9.3,4.1530000000000005,-44.5,1972-11-01,Democrats‘66
+1976-01-01,40,Netherlands,9.2,3.1,9.3,4.1530000000000005,-44.5,1972-11-01,Democrats‘66
+1977-01-01,40,Netherlands,7.100000000000001,0.0,5.0,5.439,-26.6,1977-05-01,Democrats‘66
+1978-01-01,40,Netherlands,7.100000000000001,0.0,5.0,5.439,-26.6,1977-05-01,Democrats‘66
+1979-01-01,40,Netherlands,7.100000000000001,0.0,5.0,5.439,-26.6,1977-05-01,Democrats‘66
+1980-01-01,40,Netherlands,7.100000000000001,0.0,5.0,5.439,-26.6,1977-05-01,Democrats‘66
+1981-01-01,40,Netherlands,8.3,5.100000000000001,5.600000000000001,11.059,-22.1,1981-05-01,Democrats‘66
+1982-01-01,40,Netherlands,6.9,4.5,7.4,4.265,-12.6,1982-09-01,Democrats‘66
+1983-01-01,40,Netherlands,6.9,4.5,7.4,4.265,-12.6,1982-09-01,Democrats‘66
+1984-01-01,40,Netherlands,6.9,4.5,7.4,4.265,-12.6,1982-09-01,Democrats‘66
+1985-01-01,40,Netherlands,6.9,4.5,7.4,4.265,-12.6,1982-09-01,Democrats‘66
+1986-01-01,40,Netherlands,9.8,3.9,5.0,6.1320000000000014,-4.5,1986-05-01,Democrats‘66
+1987-01-01,40,Netherlands,9.8,3.9,5.0,6.1320000000000014,-4.5,1986-05-01,Democrats‘66
+1988-01-01,40,Netherlands,9.8,3.9,5.0,6.1320000000000014,-4.5,1986-05-01,Democrats‘66
+1989-01-01,40,Netherlands,14.4,4.1,4.0,7.887,-7.5,1989-09-01,Democrats‘66
+1990-01-01,40,Netherlands,14.4,4.1,4.0,7.887,-7.5,1989-09-01,Democrats‘66
+1991-01-01,40,Netherlands,14.4,4.1,4.0,7.887,-7.5,1989-09-01,Democrats‘66
+1992-01-01,40,Netherlands,14.4,4.1,4.0,7.887,-7.5,1989-09-01,Democrats‘66
+1993-01-01,40,Netherlands,14.4,4.1,4.0,7.887,-7.5,1989-09-01,Democrats‘66
+1994-01-01,40,Netherlands,9.318,1.898,3.192,15.49,-8.24,1994-05-01,Democrats‘66
+1995-01-01,40,Netherlands,9.318,1.898,3.192,15.49,-8.24,1994-05-01,Democrats‘66
+1996-01-01,40,Netherlands,9.318,1.898,3.192,15.49,-8.24,1994-05-01,Democrats‘66
+1997-01-01,40,Netherlands,9.318,1.898,3.192,15.49,-8.24,1994-05-01,Democrats‘66
+1998-01-01,40,Netherlands,8.227,6.439,2.7030000000000003,8.99,-17.766,1998-05-01,Democrats‘66
+1999-01-01,40,Netherlands,8.227,6.439,2.7030000000000003,8.99,-17.766,1998-05-01,Democrats‘66
+2000-01-01,40,Netherlands,8.227,6.439,2.7030000000000003,8.99,-17.766,1998-05-01,Democrats‘66
+2001-01-01,40,Netherlands,8.227,6.439,2.7030000000000003,8.99,-17.766,1998-05-01,Democrats‘66
+2002-01-01,40,Netherlands,7.9060000000000015,3.028,1.262,5.100000000000001,-8.831,2002-05-01,Democrats‘66
+2003-01-01,40,Netherlands,3.597,1.918,1.679,4.08,8.392999999999999,2003-01-01,Democrats‘66
+2004-01-01,40,Netherlands,3.597,1.918,1.679,4.08,8.392999999999999,2003-01-01,Democrats‘66
+2005-01-01,40,Netherlands,3.597,1.918,1.679,4.08,8.392999999999999,2003-01-01,Democrats‘66
+2006-01-01,40,Netherlands,5.57,2.387,4.31,1.964,-1.3259999999999998,2006-11-01,Democrats‘66
+2007-01-01,40,Netherlands,5.57,2.387,4.31,1.964,-1.3259999999999998,2006-11-01,Democrats‘66
+2008-01-01,40,Netherlands,5.57,2.387,4.31,1.964,-1.3259999999999998,2006-11-01,Democrats‘66
+2009-01-01,40,Netherlands,5.57,2.387,4.31,1.964,-1.3259999999999998,2006-11-01,Democrats‘66
+2010-01-01,40,Netherlands,4.381,4.691,5.5539999999999985,6.943000000000001,2.863,2010-06-01,Democrats‘66
+2011-01-01,40,Netherlands,4.381,4.691,5.5539999999999985,6.943000000000001,2.863,2010-06-01,Democrats‘66
+2012-01-01,40,Netherlands,3.784,2.696,2.229,8.033,-0.778,2012-09-01,Democrats‘66
+2013-01-01,40,Netherlands,3.784,2.696,2.229,8.033,-0.778,2012-09-01,Democrats‘66
+2014-01-01,40,Netherlands,3.784,2.696,2.229,8.033,-0.778,2012-09-01,Democrats‘66
+2015-01-01,40,Netherlands,3.784,2.696,2.229,8.033,-0.778,2012-09-01,Democrats‘66
+2016-01-01,40,Netherlands,3.784,2.696,2.229,8.033,-0.778,2012-09-01,Democrats‘66
+2017-01-01,40,Netherlands,5.41,2.9410000000000003,6.276,12.227,-6.539,2017-03-01,Democrats‘66
+2018-01-01,40,Netherlands,5.41,2.9410000000000003,6.276,12.227,-6.539,2017-03-01,Democrats‘66
+2019-01-01,40,Netherlands,5.41,2.9410000000000003,6.276,12.227,-6.539,2017-03-01,Democrats‘66
+2020-01-01,40,Netherlands,5.41,2.9410000000000003,6.276,12.227,-6.539,2017-03-01,Democrats‘66
+1967-01-01,40,Netherlands,0.9,5.8,2.9,10.733,10.3,1967-02-01,People’s Party for Freedom and Democracy
+1971-01-01,40,Netherlands,3.2,6.0,3.8,10.341,-1.8,1971-04-01,People’s Party for Freedom and Democracy
+1972-01-01,40,Netherlands,3.3,0.0,1.6,14.449000000000002,21.3,1972-11-01,People’s Party for Freedom and Democracy
+1977-01-01,40,Netherlands,3.1,3.1,2.7,17.945999999999994,13.4,1977-05-01,People’s Party for Freedom and Democracy
+1981-01-01,40,Netherlands,4.0,2.9,3.4,17.320999999999998,7.600000000000001,1981-05-01,People’s Party for Freedom and Democracy
+1982-01-01,40,Netherlands,2.5,1.3,5.100000000000001,23.077,21.0,1982-09-01,People’s Party for Freedom and Democracy
+1986-01-01,40,Netherlands,7.9,3.2,3.4,17.410999999999998,6.600000000000001,1986-05-01,People’s Party for Freedom and Democracy
+1989-01-01,40,Netherlands,9.6,3.8,3.1,14.566,4.5,1989-09-01,People’s Party for Freedom and Democracy
+1994-01-01,40,Netherlands,3.279,0.546,0.911,19.956,15.118,1994-05-01,People’s Party for Freedom and Democracy
+1998-01-01,40,Netherlands,4.792,3.301,1.491,24.69,7.242000000000001,1998-05-01,People’s Party for Freedom and Democracy
+2002-01-01,40,Netherlands,2.019,2.319,1.346,15.44,18.923,2002-05-01,People’s Party for Freedom and Democracy
+2002-01-01,40,Netherlands,3.687,5.069,3.2260000000000004,1.61,10.138,2002-05-01,Livable Netherlands
+2003-01-01,40,Netherlands,1.97,0.493,0.985,17.95,28.079,2003-01-01,People’s Party for Freedom and Democracy
+2003-01-01,40,Netherlands,3.045,3.959,2.801,0.403,-13.764,2003-01-01,Livable Netherlands
+2006-01-01,40,Netherlands,2.762,2.947,2.394,14.67,20.81,2006-11-01,People’s Party for Freedom and Democracy
+2010-01-01,40,Netherlands,1.971,2.037,3.614,20.47,19.382,2010-06-01,People’s Party for Freedom and Democracy
+2012-01-01,40,Netherlands,0.931,1.163,2.443,26.58,22.629,2012-09-01,People’s Party for Freedom and Democracy
+2017-01-01,40,Netherlands,4.516,2.952,2.169,21.285,10.953,2017-03-01,People’s Party for Freedom and Democracy
+1946-01-01,50,Netherlands,0.0,1.3,7.9,30.806,3.9,1946-05-01,Catholic People’s Party
+1947-01-01,50,Netherlands,0.0,1.3,7.9,30.806,3.9,1946-05-01,Catholic People’s Party
+1948-01-01,50,Netherlands,0.0,0.0,6.600000000000001,31.039,6.5,1948-07-01,Catholic People’s Party
+1949-01-01,50,Netherlands,0.0,0.0,6.600000000000001,31.039,6.5,1948-07-01,Catholic People’s Party
+1950-01-01,50,Netherlands,0.0,0.0,6.600000000000001,31.039,6.5,1948-07-01,Catholic People’s Party
+1951-01-01,50,Netherlands,0.0,0.0,6.600000000000001,31.039,6.5,1948-07-01,Catholic People’s Party
+1952-01-01,50,Netherlands,0.6,1.3,5.5,28.665,19.7,1952-06-01,Catholic People’s Party
+1953-01-01,50,Netherlands,0.6,1.3,5.5,28.665,19.7,1952-06-01,Catholic People’s Party
+1954-01-01,50,Netherlands,0.6,1.3,5.5,28.665,19.7,1952-06-01,Catholic People’s Party
+1955-01-01,50,Netherlands,0.6,1.3,5.5,28.665,19.7,1952-06-01,Catholic People’s Party
+1956-01-01,50,Netherlands,0.8,2.6,4.2,31.693,8.6,1956-06-01,Catholic People’s Party
+1957-01-01,50,Netherlands,0.8,2.6,4.2,31.693,8.6,1956-06-01,Catholic People’s Party
+1958-01-01,50,Netherlands,0.8,2.6,4.2,31.693,8.6,1956-06-01,Catholic People’s Party
+1959-01-01,50,Netherlands,1.3,3.9,2.6,31.601,-9.1,1959-03-01,Catholic People’s Party
+1960-01-01,50,Netherlands,1.3,3.9,2.6,31.601,-9.1,1959-03-01,Catholic People’s Party
+1961-01-01,50,Netherlands,1.3,3.9,2.6,31.601,-9.1,1959-03-01,Catholic People’s Party
+1962-01-01,50,Netherlands,1.3,3.9,2.6,31.601,-9.1,1959-03-01,Catholic People’s Party
+1963-01-01,50,Netherlands,0.0,7.0,6.100000000000001,31.882,-13.3,1963-05-01,Catholic People’s Party
+1964-01-01,50,Netherlands,0.0,7.0,6.100000000000001,31.882,-13.3,1963-05-01,Catholic People’s Party
+1965-01-01,50,Netherlands,0.0,7.0,6.100000000000001,31.882,-13.3,1963-05-01,Catholic People’s Party
+1966-01-01,50,Netherlands,0.0,7.0,6.100000000000001,31.882,-13.3,1963-05-01,Catholic People’s Party
+1967-01-01,50,Netherlands,0.6,4.5,3.2,26.503,7.2,1967-02-01,Catholic People’s Party
+1968-01-01,50,Netherlands,0.6,4.5,3.2,26.503,7.2,1967-02-01,Catholic People’s Party
+1969-01-01,50,Netherlands,0.6,4.5,3.2,26.503,7.2,1967-02-01,Catholic People’s Party
+1970-01-01,50,Netherlands,0.6,4.5,3.2,26.503,7.2,1967-02-01,Catholic People’s Party
+1971-01-01,50,Netherlands,2.2,3.8,4.600000000000001,21.837,-26.2,1971-04-01,Catholic People’s Party
+1972-01-01,50,Netherlands,7.9,5.7,6.600000000000001,17.655,-14.0,1972-11-01,Catholic People’s Party
+1973-01-01,50,Netherlands,7.9,5.7,6.600000000000001,17.655,-14.0,1972-11-01,Catholic People’s Party
+1974-01-01,50,Netherlands,7.9,5.7,6.600000000000001,17.655,-14.0,1972-11-01,Catholic People’s Party
+1975-01-01,50,Netherlands,7.9,5.7,6.600000000000001,17.655,-14.0,1972-11-01,Catholic People’s Party
+1976-01-01,50,Netherlands,7.9,5.7,6.600000000000001,17.655,-14.0,1972-11-01,Catholic People’s Party
+1977-01-01,50,Netherlands,5.8,2.6,3.3,31.887,-11.6,1977-05-01,Christian Democratic Appeal
+1978-01-01,50,Netherlands,5.8,2.6,3.3,31.887,-11.6,1977-05-01,Christian Democratic Appeal
+1979-01-01,50,Netherlands,5.8,2.6,3.3,31.887,-11.6,1977-05-01,Christian Democratic Appeal
+1980-01-01,50,Netherlands,5.8,2.6,3.3,31.887,-11.6,1977-05-01,Christian Democratic Appeal
+1981-01-01,50,Netherlands,5.100000000000001,3.1,4.0,30.806,-19.3,1981-05-01,Christian Democratic Appeal
+1982-01-01,50,Netherlands,7.100000000000001,2.2,5.4,29.387,-11.7,1982-09-01,Christian Democratic Appeal
+1983-01-01,50,Netherlands,7.100000000000001,2.2,5.4,29.387,-11.7,1982-09-01,Christian Democratic Appeal
+1984-01-01,50,Netherlands,7.100000000000001,2.2,5.4,29.387,-11.7,1982-09-01,Christian Democratic Appeal
+1985-01-01,50,Netherlands,7.100000000000001,2.2,5.4,29.387,-11.7,1982-09-01,Christian Democratic Appeal
+1986-01-01,50,Netherlands,6.9,5.600000000000001,3.3,34.593,-4.0,1986-05-01,Christian Democratic Appeal
+1987-01-01,50,Netherlands,6.9,5.600000000000001,3.3,34.593,-4.0,1986-05-01,Christian Democratic Appeal
+1988-01-01,50,Netherlands,6.9,5.600000000000001,3.3,34.593,-4.0,1986-05-01,Christian Democratic Appeal
+1989-01-01,50,Netherlands,12.2,3.0,3.0,35.313,-8.800000000000002,1989-09-01,Christian Democratic Appeal
+1990-01-01,50,Netherlands,12.2,3.0,3.0,35.313,-8.800000000000002,1989-09-01,Christian Democratic Appeal
+1991-01-01,50,Netherlands,12.2,3.0,3.0,35.313,-8.800000000000002,1989-09-01,Christian Democratic Appeal
+1992-01-01,50,Netherlands,12.2,3.0,3.0,35.313,-8.800000000000002,1989-09-01,Christian Democratic Appeal
+1993-01-01,50,Netherlands,12.2,3.0,3.0,35.313,-8.800000000000002,1989-09-01,Christian Democratic Appeal
+1994-01-01,50,Netherlands,8.728,0.7979999999999999,2.544,22.217,-2.594,1994-05-01,Christian Democratic Appeal
+1995-01-01,50,Netherlands,8.728,0.7979999999999999,2.544,22.217,-2.594,1994-05-01,Christian Democratic Appeal
+1996-01-01,50,Netherlands,8.728,0.7979999999999999,2.544,22.217,-2.594,1994-05-01,Christian Democratic Appeal
+1997-01-01,50,Netherlands,8.728,0.7979999999999999,2.544,22.217,-2.594,1994-05-01,Christian Democratic Appeal
+1998-01-01,50,Netherlands,6.854,2.761,3.797,18.37,-1.6269999999999998,1998-05-01,Christian Democratic Appeal
+1999-01-01,50,Netherlands,6.854,2.761,3.797,18.37,-1.6269999999999998,1998-05-01,Christian Democratic Appeal
+2000-01-01,50,Netherlands,6.854,2.761,3.797,18.37,-1.6269999999999998,1998-05-01,Christian Democratic Appeal
+2001-01-01,50,Netherlands,6.854,2.761,3.797,18.37,-1.6269999999999998,1998-05-01,Christian Democratic Appeal
+2002-01-01,50,Netherlands,3.628,1.887,1.742,27.93,2.467,2002-05-01,Christian Democratic Appeal
+2003-01-01,50,Netherlands,3.628,1.887,1.742,28.65,2.467,2003-01-01,Christian Democratic Appeal
+2004-01-01,50,Netherlands,3.628,1.887,1.742,28.65,2.467,2003-01-01,Christian Democratic Appeal
+2005-01-01,50,Netherlands,3.628,1.887,1.742,28.65,2.467,2003-01-01,Christian Democratic Appeal
+2006-01-01,50,Netherlands,2.247,2.8760000000000003,1.843,26.513,4.0,2006-11-01,Christian Democratic Appeal
+2007-01-01,50,Netherlands,2.247,2.8760000000000003,1.843,26.513,4.0,2006-11-01,Christian Democratic Appeal
+2008-01-01,50,Netherlands,2.247,2.8760000000000003,1.843,26.513,4.0,2006-11-01,Christian Democratic Appeal
+2009-01-01,50,Netherlands,2.247,2.8760000000000003,1.843,26.513,4.0,2006-11-01,Christian Democratic Appeal
+2010-01-01,50,Netherlands,3.729,2.745,6.0070000000000014,13.62,9.581,2010-06-01,Christian Democratic Appeal
+2011-01-01,50,Netherlands,3.729,2.745,6.0070000000000014,13.62,9.581,2010-06-01,Christian Democratic Appeal
+2012-01-01,50,Netherlands,1.594,0.923,3.3560000000000003,8.506,17.701,2012-09-01,Christian Democratic Appeal
+2013-01-01,50,Netherlands,1.594,0.923,3.3560000000000003,8.506,17.701,2012-09-01,Christian Democratic Appeal
+2014-01-01,50,Netherlands,1.594,0.923,3.3560000000000003,8.506,17.701,2012-09-01,Christian Democratic Appeal
+2015-01-01,50,Netherlands,1.594,0.923,3.3560000000000003,8.506,17.701,2012-09-01,Christian Democratic Appeal
+2016-01-01,50,Netherlands,1.594,0.923,3.3560000000000003,8.506,17.701,2012-09-01,Christian Democratic Appeal
+2017-01-01,50,Netherlands,0.7070000000000001,2.4730000000000003,2.191,12.379,3.604,2017-03-01,Christian Democratic Appeal
+2018-01-01,50,Netherlands,0.7070000000000001,2.4730000000000003,2.191,12.379,3.604,2017-03-01,Christian Democratic Appeal
+2019-01-01,50,Netherlands,0.7070000000000001,2.4730000000000003,2.191,12.379,3.604,2017-03-01,Christian Democratic Appeal
+2020-01-01,50,Netherlands,0.7070000000000001,2.4730000000000003,2.191,12.379,3.604,2017-03-01,Christian Democratic Appeal
+1946-01-01,50,Netherlands,0.0,1.5,4.5,12.901,21.0,1946-05-01,Anti-Revolutionary Party
+1946-01-01,50,Netherlands,0.0,0.0,3.2,7.84,22.1,1946-05-01,Christian Historical Union
+1948-01-01,50,Netherlands,0.0,1.4,4.8,13.209,18.5,1948-07-01,Anti-Revolutionary Party
+1948-01-01,50,Netherlands,0.0,0.0,2.9,9.187999999999999,20.6,1948-07-01,Christian Historical Union
+1952-01-01,50,Netherlands,1.2,1.9,3.1,11.307,15.6,1952-06-01,Anti-Revolutionary Party
+1952-01-01,50,Netherlands,0.0,0.0,4.15,8.925000000000002,23.75,1952-06-01,Christian Historical Union
+1956-01-01,50,Netherlands,2.0,1.5,1.5,9.908999999999999,8.5,1956-06-01,Anti-Revolutionary Party
+1956-01-01,50,Netherlands,0.0,0.0,5.4,8.431000000000001,26.9,1956-06-01,Christian Historical Union
+1959-01-01,50,Netherlands,0.0,2.1,5.600000000000001,9.386000000000001,16.9,1959-03-01,Anti-Revolutionary Party
+1959-01-01,50,Netherlands,0.0,1.6,4.7,8.107999999999999,14.0,1959-03-01,Christian Historical Union
+1963-01-01,50,Netherlands,0.5,1.9,4.7,8.721,2.4,1963-05-01,Anti-Revolutionary Party
+1963-01-01,50,Netherlands,0.0,6.8,9.1,8.577,-2.4,1963-05-01,Christian Historical Union
+1967-01-01,50,Netherlands,1.0,2.8,6.4,9.902000000000001,-5.5,1967-02-01,Anti-Revolutionary Party
+1967-01-01,50,Netherlands,0.8,3.2,4.0,8.142000000000001,10.4,1967-02-01,Christian Historical Union
+1971-01-01,50,Netherlands,3.2,3.8,5.2,8.59,-18.1,1971-04-01,Anti-Revolutionary Party
+1971-01-01,50,Netherlands,7.100000000000001,5.100000000000001,7.7,5.329,-12.9,1971-04-01,Democratic Socialists‘70
+1971-01-01,50,Netherlands,3.1,6.100000000000001,2.4,6.317,-21.4,1971-04-01,Christian Historical Union
+1972-01-01,50,Netherlands,7.9,5.7,6.600000000000001,8.84,-14.0,1972-11-01,Anti-Revolutionary Party
+1972-01-01,50,Netherlands,5.600000000000001,4.8,3.1,4.121,-12.9,1972-11-01,Democratic Socialists‘70
+1972-01-01,50,Netherlands,7.9,5.7,6.600000000000001,4.794,-14.0,1972-11-01,Christian Historical Union
+1977-01-01,50,Netherlands,9.2,4.4,4.0,0.715,-13.6,1977-05-01,Democratic Socialists‘70
+1981-01-01,50,Netherlands,5.081,2.079,0.6930000000000001,1.247,37.644,1981-05-01,Reformatory Political Federation
+1982-01-01,50,Netherlands,4.121,1.844,1.6269999999999998,0.8150000000000001,24.62,1982-09-01,Reformed Political League
+1982-01-01,50,Netherlands,5.081,2.079,0.6930000000000001,1.508,37.644,1982-09-01,Reformatory Political Federation
+1989-01-01,50,Netherlands,9.115,2.055,4.7360000000000015,1.236,28.686,1989-09-01,Reformed Political League
+1989-01-01,50,Netherlands,16.227,1.392,5.2810000000000015,0.961,17.811,1989-09-01,Reformatory Political Federation
+1994-01-01,50,Netherlands,9.187999999999999,2.144,3.292,1.3,24.426,1994-05-01,Reformed Political League
+1994-01-01,50,Netherlands,15.14,2.0580000000000003,4.851,1.8,24.89,1994-05-01,Reformatory Political Federation
+1998-01-01,50,Netherlands,11.873,1.641,6.7570000000000014,1.2,13.803,1998-05-01,Reformed Political League
+1998-01-01,50,Netherlands,8.244,1.877,1.408,2.028,24.598000000000006,1998-05-01,Reformatory Political Federation
+2002-01-01,50,Netherlands,6.899,2.263,2.3,2.54,10.571,2002-05-01,Christian Union
+2003-01-01,50,Netherlands,5.81,0.306,3.67,2.13,32.416,2003-01-01,Christian Union
+2006-01-01,50,Netherlands,7.933,1.19,2.33,3.974,8.825000000000003,2006-11-01,Christian Union
+2010-01-01,50,Netherlands,5.755,1.356,4.435,3.248,18.878,2010-06-01,Christian Union
+2012-01-01,50,Netherlands,5.619,1.072,2.255,3.1260000000000003,10.203,2012-09-01,Christian Union
+2017-01-01,50,Netherlands,5.095,2.548,3.992,3.388,5.475000000000001,2017-03-01,Christian Union
+1982-01-01,70,Netherlands,8.163,5.102,5.102,0.8310000000000001,-4.847,1982-09-01,Centre Party
+1983-01-01,70,Netherlands,8.163,5.102,5.102,0.8310000000000001,-4.847,1982-09-01,Centre Party
+1984-01-01,70,Netherlands,8.163,5.102,5.102,0.8310000000000001,-4.847,1982-09-01,Centre Party
+1985-01-01,70,Netherlands,8.163,5.102,5.102,0.8310000000000001,-4.847,1982-09-01,Centre Party
+1986-01-01,70,Netherlands,8.163,5.102,5.102,0.8310000000000001,-4.847,1982-09-01,Centre Party
+1987-01-01,70,Netherlands,8.163,5.102,5.102,0.8310000000000001,-4.847,1982-09-01,Centre Party
+1988-01-01,70,Netherlands,8.163,5.102,5.102,0.8310000000000001,-4.847,1982-09-01,Centre Party
+1989-01-01,70,Netherlands,7.612,0.0,0.0,0.918,3.114,1989-09-01,Centre Democrats
+1990-01-01,70,Netherlands,7.612,0.0,0.0,0.918,3.114,1989-09-01,Centre Democrats
+1991-01-01,70,Netherlands,7.612,0.0,0.0,0.918,3.114,1989-09-01,Centre Democrats
+1992-01-01,70,Netherlands,7.612,0.0,0.0,0.918,3.114,1989-09-01,Centre Democrats
+1993-01-01,70,Netherlands,7.612,0.0,0.0,0.918,3.114,1989-09-01,Centre Democrats
+1994-01-01,70,Netherlands,7.216,0.773,0.258,2.5,12.629,1994-05-01,Centre Democrats
+1995-01-01,70,Netherlands,7.216,0.773,0.258,2.5,12.629,1994-05-01,Centre Democrats
+1996-01-01,70,Netherlands,7.216,0.773,0.258,2.5,12.629,1994-05-01,Centre Democrats
+1997-01-01,70,Netherlands,7.216,0.773,0.258,2.5,12.629,1994-05-01,Centre Democrats
+1998-01-01,70,Netherlands,7.216,0.773,0.258,2.5,12.629,1994-05-01,Centre Democrats
+1999-01-01,70,Netherlands,7.216,0.773,0.258,2.5,12.629,1994-05-01,Centre Democrats
+2000-01-01,70,Netherlands,7.216,0.773,0.258,2.5,12.629,1994-05-01,Centre Democrats
+2001-01-01,70,Netherlands,7.216,0.773,0.258,2.5,12.629,1994-05-01,Centre Democrats
+2002-01-01,70,Netherlands,0.787,2.362,5.5120000000000005,17.0,14.961,2002-05-01,List Pim Fortuyn
+2003-01-01,70,Netherlands,2.353,3.235,1.3730000000000002,5.71,3.235,2003-01-01,List Pim Fortuyn
+2004-01-01,70,Netherlands,2.353,3.235,1.3730000000000002,5.71,3.235,2003-01-01,List Pim Fortuyn
+2005-01-01,70,Netherlands,2.353,3.235,1.3730000000000002,5.71,3.235,2003-01-01,List Pim Fortuyn
+2006-01-01,70,Netherlands,2.92,0.0,0.0,5.89,38.686,2006-11-01,Party of Freedom
+2007-01-01,70,Netherlands,2.92,0.0,0.0,5.89,38.686,2006-11-01,Party of Freedom
+2008-01-01,70,Netherlands,2.92,0.0,0.0,5.89,38.686,2006-11-01,Party of Freedom
+2009-01-01,70,Netherlands,2.92,0.0,0.0,5.89,38.686,2006-11-01,Party of Freedom
+2010-01-01,70,Netherlands,4.13,1.18,3.392,15.45,13.274,2010-06-01,Party of Freedom
+2011-01-01,70,Netherlands,4.13,1.18,3.392,15.45,13.274,2010-06-01,Party of Freedom
+2012-01-01,70,Netherlands,2.05,0.108,0.863,10.083,15.642,2012-09-01,Party of Freedom
+2013-01-01,70,Netherlands,2.05,0.108,0.863,10.083,15.642,2012-09-01,Party of Freedom
+2014-01-01,70,Netherlands,2.05,0.108,0.863,10.083,15.642,2012-09-01,Party of Freedom
+2015-01-01,70,Netherlands,2.05,0.108,0.863,10.083,15.642,2012-09-01,Party of Freedom
+2016-01-01,70,Netherlands,2.05,0.108,0.863,10.083,15.642,2012-09-01,Party of Freedom
+2017-01-01,70,Netherlands,0.0,0.0,0.0,13.056,20.0,2017-03-01,Party of Freedom
+2018-01-01,70,Netherlands,0.0,0.0,0.0,13.056,20.0,2017-03-01,Party of Freedom
+2019-01-01,70,Netherlands,0.0,0.0,0.0,13.056,20.0,2017-03-01,Party of Freedom
+2020-01-01,70,Netherlands,0.0,0.0,0.0,13.056,20.0,2017-03-01,Party of Freedom
+2017-01-01,70,Netherlands,1.176,0.588,0.0,1.78,16.471,2017-03-01,Forum for Democracy
+1946-01-01,95,Netherlands,0.0,0.0,4.0,2.138,56.0,1946-05-01,Reformed Political Party
+1947-01-01,95,Netherlands,0.0,0.0,4.0,2.138,56.0,1946-05-01,Reformed Political Party
+1948-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1949-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1950-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1951-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1952-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1953-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1954-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1955-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1956-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1957-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1958-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1959-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1960-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1961-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1962-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1963-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1964-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1965-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1966-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1967-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1968-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1969-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1970-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1971-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1972-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1973-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1974-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1975-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1976-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1977-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1978-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1979-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1980-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1981-01-01,95,Netherlands,1.754,0.0,3.509,2.371,54.386,1948-07-01,Reformed Political Party
+1982-01-01,95,Netherlands,2.517,0.795,3.576,1.902,29.801,1982-09-01,Reformed Political Party
+1983-01-01,95,Netherlands,2.517,0.795,3.576,1.902,29.801,1982-09-01,Reformed Political Party
+1984-01-01,95,Netherlands,2.517,0.795,3.576,1.902,29.801,1982-09-01,Reformed Political Party
+1985-01-01,95,Netherlands,2.517,0.795,3.576,1.902,29.801,1982-09-01,Reformed Political Party
+1986-01-01,95,Netherlands,4.449,0.809,0.0,1.739,31.951,1986-05-01,Reformed Political Party
+1987-01-01,95,Netherlands,4.449,0.809,0.0,1.739,31.951,1986-05-01,Reformed Political Party
+1988-01-01,95,Netherlands,4.449,0.809,0.0,1.739,31.951,1986-05-01,Reformed Political Party
+1989-01-01,95,Netherlands,11.666,0.597,3.039,1.873,34.021,1989-09-01,Reformed Political Party
+1990-01-01,95,Netherlands,11.666,0.597,3.039,1.873,34.021,1989-09-01,Reformed Political Party
+1991-01-01,95,Netherlands,11.666,0.597,3.039,1.873,34.021,1989-09-01,Reformed Political Party
+1992-01-01,95,Netherlands,11.666,0.597,3.039,1.873,34.021,1989-09-01,Reformed Political Party
+1993-01-01,95,Netherlands,11.666,0.597,3.039,1.873,34.021,1989-09-01,Reformed Political Party
+1994-01-01,95,Netherlands,7.853,0.524,5.759,1.729,28.796,1994-05-01,Reformed Political Party
+1995-01-01,95,Netherlands,7.853,0.524,5.759,1.729,28.796,1994-05-01,Reformed Political Party
+1996-01-01,95,Netherlands,7.853,0.524,5.759,1.729,28.796,1994-05-01,Reformed Political Party
+1997-01-01,95,Netherlands,7.853,0.524,5.759,1.729,28.796,1994-05-01,Reformed Political Party
+1998-01-01,95,Netherlands,8.664,1.296,3.158,1.781,26.559,1998-05-01,Reformed Political Party
+1999-01-01,95,Netherlands,8.664,1.296,3.158,1.781,26.559,1998-05-01,Reformed Political Party
+2000-01-01,95,Netherlands,8.664,1.296,3.158,1.781,26.559,1998-05-01,Reformed Political Party
+2001-01-01,95,Netherlands,8.664,1.296,3.158,1.781,26.559,1998-05-01,Reformed Political Party
+2002-01-01,95,Netherlands,7.372000000000001,1.371,4.962,1.7180000000000002,18.242,2002-05-01,Reformed Political Party
+2003-01-01,95,Netherlands,7.372000000000001,1.371,4.962,1.7180000000000002,18.242,2002-05-01,Reformed Political Party
+2004-01-01,95,Netherlands,7.372000000000001,1.371,4.962,1.7180000000000002,18.242,2002-05-01,Reformed Political Party
+2005-01-01,95,Netherlands,7.372000000000001,1.371,4.962,1.7180000000000002,18.242,2002-05-01,Reformed Political Party
+2006-01-01,95,Netherlands,62.025,1.151,1.496,1.829,4.373,2006-11-01,Party for the Animals
+2007-01-01,95,Netherlands,62.025,1.151,1.496,1.829,4.373,2006-11-01,Party for the Animals
+2008-01-01,95,Netherlands,62.025,1.151,1.496,1.829,4.373,2006-11-01,Party for the Animals
+2009-01-01,95,Netherlands,62.025,1.151,1.496,1.829,4.373,2006-11-01,Party for the Animals
+2010-01-01,95,Netherlands,62.112,0.295,3.471,1.3,2.363,2010-06-01,Party for the Animals
+2011-01-01,95,Netherlands,62.112,0.295,3.471,1.3,2.363,2010-06-01,Party for the Animals
+2012-01-01,95,Netherlands,41.982,1.092,2.015,1.933,-6.465,2012-09-01,Party for the Animals
+2013-01-01,95,Netherlands,41.982,1.092,2.015,1.933,-6.465,2012-09-01,Party for the Animals
+2014-01-01,95,Netherlands,41.982,1.092,2.015,1.933,-6.465,2012-09-01,Party for the Animals
+2015-01-01,95,Netherlands,41.982,1.092,2.015,1.933,-6.465,2012-09-01,Party for the Animals
+2016-01-01,95,Netherlands,41.982,1.092,2.015,1.933,-6.465,2012-09-01,Party for the Animals
+2017-01-01,95,Netherlands,24.527,2.242,2.313,3.188,-18.851,2017-03-01,Party for the Animals
+2018-01-01,95,Netherlands,24.527,2.242,2.313,3.188,-18.851,2017-03-01,Party for the Animals
+2019-01-01,95,Netherlands,24.527,2.242,2.313,3.188,-18.851,2017-03-01,Party for the Animals
+2020-01-01,95,Netherlands,24.527,2.242,2.313,3.188,-18.851,2017-03-01,Party for the Animals
+1994-01-01,95,Netherlands,4.894,1.064,7.553,3.6,0.851,1994-05-01,General Elderly Alliance
+1994-01-01,95,Netherlands,2.62,0.0,8.734,0.9,5.24,1994-05-01,Union 55+
+2006-01-01,95,Netherlands,2.5660000000000003,0.183,3.85,1.558,29.056,2006-11-01,Reformed Political Party
+2010-01-01,95,Netherlands,2.384,0.389,6.326000000000001,1.74,23.114,2010-06-01,Reformed Political Party
+2012-01-01,95,Netherlands,2.649,0.331,1.932,2.088,26.6,2012-09-01,Reformed Political Party
+2012-01-01,95,Netherlands,2.9130000000000003,1.456,3.883,1.885,-6.311,2012-09-01,50Plus
+2017-01-01,95,Netherlands,5.504,1.513,0.7140000000000001,2.082,24.706,2017-03-01,Reformed Political Party
+2017-01-01,95,Netherlands,4.444,4.04,7.475000000000001,3.111,-31.111,2017-03-01,50Plus
