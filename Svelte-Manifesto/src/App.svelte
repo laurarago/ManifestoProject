@@ -68,11 +68,12 @@
 		</div>
 	</Scroller>
 		</div>
+	<div>
+			<h3>After the big boom in the early 90s, it has taken another 30 years for some countries to increase their environmental protection policies</h3>
+			<p>This is a paragraph that I will write something in here to make it look nice and add some fancy fake SVGs.</p>
+	</div>
 </main>
-<div class="section-2">
-	<h3>This is a subtitle</h3>
-	<p>This is a paragraph that I will write something in here to make it look nice and add some fancy fake SVGs.</p>
-</div>
+
 
 <style>
 	main {
@@ -92,9 +93,9 @@
 		margin: 0 0 2em 0;
 	}
 
-	.section-2 {
+	/* .section-2 {
 		padding-top: 80px;
-	}
+	} */
 
 	.deck {
 		opacity: 0.6;
@@ -129,7 +130,6 @@
 		font-size: 16px;
 	}
 
-	intro
 	.no-events {
 		pointer-events:none;
 	}
