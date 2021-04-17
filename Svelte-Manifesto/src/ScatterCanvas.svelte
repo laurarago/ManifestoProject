@@ -52,7 +52,7 @@
 		.y(d => y(d.environ));
 
     $: color = scaleOrdinal()
-					.domain(extent(data, d => d.data[step].environ))
+					.domain(Object.keys(names))
 					.range(colors)
 	
     $: delaunay = Delaunay.from(data, d => x(d.data[step].rile), d => y(d.data[step].environ))
