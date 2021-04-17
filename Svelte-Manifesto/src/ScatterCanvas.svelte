@@ -23,13 +23,12 @@
 		"LEF": "Socialist or other left parties",
 		"SOC": "Social democratic parties",
 		"LIB": "Liberal parties",
-		"CHR": "Christian democratic parties (in Israel also Jewish parties)",
+		"CHR": "Christian democratic parties",
 		"CON": "Conservative parties",
 		"NAT": "Nationalist parties",
 		"AGR": "Agrarian parties",
 		"ETH": "Ethnic and regional parties",
 		"SIP": "Special issue parties",
-		"DIV": "Electoral alliances of diverse origin without dominant",
 	};
 
 	$: x = scaleLinear()
@@ -52,7 +51,7 @@
 		.y(d => y(d.environ));
 
     $: color = scaleOrdinal()
-					.domain(extent(data, d => d.data[step].environ))
+					.domain(extent(data, d => d.data[step].parfamName))
 					.range(colors)
 	
     $: delaunay = Delaunay.from(data, d => x(d.data[step].rile), d => y(d.data[step].environ))
@@ -82,7 +81,7 @@
 			<Square 
 				x={x(d.data[step].rile)}
 				y={y(d.data[step].environ)} 
-				fill={color(d.data[step].environ)}
+				fill={color(d.data[step].parfamName)}
 				radius={r(d.data[step].avgVote)}
                 stroke={i === picked && "#000"}
 				popup={i === picked && names[d.data[step].parfamName]}

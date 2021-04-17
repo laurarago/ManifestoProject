@@ -41,7 +41,9 @@
 		if(popup) {
 			context.font="1em Barlow Condensed";
 			context.fillStyle = "rgba(0, 0, 0, 0.75)";
-			context.fillText(popup, $_x + 5 , $_y - 5);
+			context.textAlign = "center";
+			context.fillStyle = "black";
+			context.fillText(popup, $_x , $_y - $_radius - 10);
 		}
 	}
 </script>
