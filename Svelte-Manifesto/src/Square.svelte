@@ -9,6 +9,7 @@
 	export let stroke = null; 
     export let strokeWidth = 1;
     export let radius = 1;
+	export let popup = null;
 	
     const _x = tweened(x, { duration: 600, easing:quadOut});
     const _y = tweened(y, { duration: 600, easing:quadOut});
@@ -35,6 +36,12 @@
 			context.stroke();
 		} 
 		context.restore();
+
+		if(popup) {
+			context.font="1em Barlow Condensed";
+			context.fillStyle = "rgba(0, 0, 0, 0.75)";
+			context.fillText(popup, $_x + 5 , $_y - 5);
+		}
 	}
 </script>
 

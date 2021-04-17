@@ -47,7 +47,7 @@
 
 </script>
 <div class="graphic {layout}" bind:clientWidth={width} bind:clientHeight={height}>
-	<h3>{data[0].data[step].yearIndex}</h3>
+	<h3 style="position: absolute">{data[0].data[step].yearIndex}</h3>
 	<Canvas 
 		{width} {height} 
 		style='cursor: pointer'
@@ -71,6 +71,7 @@
 				fill={color(d.data[step].environ)}
 				radius={r(d.data[step].avgVote)}
                 stroke={i === picked && "#000"} 
+				popup={i === picked && d.data[step].parfamName}
 
 			/>
 		{/each}

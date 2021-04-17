@@ -112,7 +112,6 @@
 		font-size: 16px;
 	}
 
-	intro
 	.no-events {
 		pointer-events:none;
 	}
