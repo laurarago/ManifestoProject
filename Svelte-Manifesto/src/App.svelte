@@ -6,6 +6,8 @@
 	let index = 0;
 	$:console.log(index);
 
+	let steps = [30, 0, 30, 0, 30, 0, 30];
+
 
 </script>
 
@@ -22,7 +24,7 @@
 			<Scatter 
 				data={groupedData}
 				layout='fs'
-				step={index}/>
+				step={steps[index]}/>
 		</div>
 
 		<div slot="foreground" style="padding: 0% 20% 10% 20%;">
