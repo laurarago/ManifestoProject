@@ -1,0 +1,589 @@
+year,yearObject,parfam,countryname,environ,culture,equality,pervote,rile,electionDate,partyname
+1945,1945,20,Finland,0.0,0.0,0.976,23.471,-42.927,March 1945,Finnish People’s Democratic Union
+1945,1945,30,Finland,0.0,0.0,0.0,25.08,78.947,March 1945,Finnish Social Democrats
+1945,1945,40,Finland,0.7190000000000001,0.0,4.317,5.174,21.583,March 1945,National Progressive Party
+1945,1945,60,Finland,0.0,0.0,1.471,15.038,4.412,March 1945,National Coalition
+1945,1945,80,Finland,0.0,1.099,4.396,21.353,3.297,March 1945,Agrarian Union
+1945,1945,90,Finland,0.0,0.0,4.762,8.378,4.167,March 1945,Swedish People’s Party
+1945,1946,20,Finland,0.0,0.0,0.976,23.471,-42.927,March 1945,Finnish People’s Democratic Union
+1945,1946,30,Finland,0.0,0.0,0.0,25.08,78.947,March 1945,Finnish Social Democrats
+1945,1946,40,Finland,0.7190000000000001,0.0,4.317,5.174,21.583,March 1945,National Progressive Party
+1945,1946,60,Finland,0.0,0.0,1.471,15.038,4.412,March 1945,National Coalition
+1945,1946,80,Finland,0.0,1.099,4.396,21.353,3.297,March 1945,Agrarian Union
+1945,1946,90,Finland,0.0,0.0,4.762,8.378,4.167,March 1945,Swedish People’s Party
+1945,1947,20,Finland,0.0,0.0,0.976,23.471,-42.927,March 1945,Finnish People’s Democratic Union
+1945,1947,30,Finland,0.0,0.0,0.0,25.08,78.947,March 1945,Finnish Social Democrats
+1945,1947,40,Finland,0.7190000000000001,0.0,4.317,5.174,21.583,March 1945,National Progressive Party
+1945,1947,60,Finland,0.0,0.0,1.471,15.038,4.412,March 1945,National Coalition
+1945,1947,80,Finland,0.0,1.099,4.396,21.353,3.297,March 1945,Agrarian Union
+1945,1947,90,Finland,0.0,0.0,4.762,8.378,4.167,March 1945,Swedish People’s Party
+1948,1948,20,Finland,0.0,0.76,0.38,19.991,12.548,July 1948,Finnish People’s Democratic Union
+1948,1948,30,Finland,0.0,0.0,4.902,26.315,0.98,July 1948,Finnish Social Democrats
+1948,1948,40,Finland,0.7190000000000001,0.0,4.317,3.907,21.583,July 1948,National Progressive Party
+1948,1948,60,Finland,0.0,0.0,5.8820000000000014,17.041,-7.563,July 1948,National Coalition
+1948,1948,80,Finland,0.0,2.326,10.465,24.236,-2.326,July 1948,Agrarian Union
+1948,1948,90,Finland,0.0,0.0,4.255,7.737,21.277,July 1948,Swedish People’s Party
+1948,1949,20,Finland,0.0,0.76,0.38,19.991,12.548,July 1948,Finnish People’s Democratic Union
+1948,1949,30,Finland,0.0,0.0,4.902,26.315,0.98,July 1948,Finnish Social Democrats
+1948,1949,40,Finland,0.7190000000000001,0.0,4.317,3.907,21.583,July 1948,National Progressive Party
+1948,1949,60,Finland,0.0,0.0,5.8820000000000014,17.041,-7.563,July 1948,National Coalition
+1948,1949,80,Finland,0.0,2.326,10.465,24.236,-2.326,July 1948,Agrarian Union
+1948,1949,90,Finland,0.0,0.0,4.255,7.737,21.277,July 1948,Swedish People’s Party
+1948,1950,20,Finland,0.0,0.76,0.38,19.991,12.548,July 1948,Finnish People’s Democratic Union
+1948,1950,30,Finland,0.0,0.0,4.902,26.315,0.98,July 1948,Finnish Social Democrats
+1948,1950,40,Finland,0.7190000000000001,0.0,4.317,3.907,21.583,July 1948,National Progressive Party
+1948,1950,60,Finland,0.0,0.0,5.8820000000000014,17.041,-7.563,July 1948,National Coalition
+1948,1950,80,Finland,0.0,2.326,10.465,24.236,-2.326,July 1948,Agrarian Union
+1948,1950,90,Finland,0.0,0.0,4.255,7.737,21.277,July 1948,Swedish People’s Party
+1951,1951,20,Finland,0.0,3.571,4.464,21.589,-52.679,July 1951,Finnish People’s Democratic Union
+1951,1951,30,Finland,0.0,0.0,0.0,26.52,9.259,July 1951,Finnish Social Democrats
+1951,1951,40,Finland,0.7190000000000001,0.0,4.317,5.678,21.583,July 1951,Finnish People’s Party
+1951,1951,60,Finland,0.0,3.077,4.615,14.565,29.231,July 1951,National Coalition
+1951,1951,80,Finland,0.0,2.419,8.871,23.257,2.419,July 1951,Agrarian Union
+1951,1951,90,Finland,0.0,1.724,8.621,7.567,10.345,July 1951,Swedish People’s Party
+1951,1952,20,Finland,0.0,3.571,4.464,21.589,-52.679,July 1951,Finnish People’s Democratic Union
+1951,1952,30,Finland,0.0,0.0,0.0,26.52,9.259,July 1951,Finnish Social Democrats
+1951,1952,40,Finland,0.7190000000000001,0.0,4.317,5.678,21.583,July 1951,Finnish People’s Party
+1951,1952,60,Finland,0.0,3.077,4.615,14.565,29.231,July 1951,National Coalition
+1951,1952,80,Finland,0.0,2.419,8.871,23.257,2.419,July 1951,Agrarian Union
+1951,1952,90,Finland,0.0,1.724,8.621,7.567,10.345,July 1951,Swedish People’s Party
+1951,1953,20,Finland,0.0,3.571,4.464,21.589,-52.679,July 1951,Finnish People’s Democratic Union
+1951,1953,30,Finland,0.0,0.0,0.0,26.52,9.259,July 1951,Finnish Social Democrats
+1951,1953,40,Finland,0.7190000000000001,0.0,4.317,5.678,21.583,July 1951,Finnish People’s Party
+1951,1953,60,Finland,0.0,3.077,4.615,14.565,29.231,July 1951,National Coalition
+1951,1953,80,Finland,0.0,2.419,8.871,23.257,2.419,July 1951,Agrarian Union
+1951,1953,90,Finland,0.0,1.724,8.621,7.567,10.345,July 1951,Swedish People’s Party
+1954,1954,20,Finland,0.0,1.575,10.236,21.587,-33.858000000000004,March 1954,Finnish People’s Democratic Union
+1954,1954,30,Finland,0.0,0.0,0.0,26.246,-38.824,March 1954,Finnish Social Democrats
+1954,1954,40,Finland,0.7190000000000001,0.0,4.317,7.883999999999999,21.583,March 1954,Finnish People’s Party
+1954,1954,60,Finland,0.0,0.0,5.405,12.798,-10.811,March 1954,National Coalition
+1954,1954,80,Finland,0.0,0.0,7.407,24.098000000000006,37.778,March 1954,Agrarian Union
+1954,1954,90,Finland,0.0,2.469,12.345999999999998,6.978,1.235,March 1954,Swedish People’s Party
+1954,1955,20,Finland,0.0,1.575,10.236,21.587,-33.858000000000004,March 1954,Finnish People’s Democratic Union
+1954,1955,30,Finland,0.0,0.0,0.0,26.246,-38.824,March 1954,Finnish Social Democrats
+1954,1955,40,Finland,0.7190000000000001,0.0,4.317,7.883999999999999,21.583,March 1954,Finnish People’s Party
+1954,1955,60,Finland,0.0,0.0,5.405,12.798,-10.811,March 1954,National Coalition
+1954,1955,80,Finland,0.0,0.0,7.407,24.098000000000006,37.778,March 1954,Agrarian Union
+1954,1955,90,Finland,0.0,2.469,12.345999999999998,6.978,1.235,March 1954,Swedish People’s Party
+1954,1956,20,Finland,0.0,1.575,10.236,21.587,-33.858000000000004,March 1954,Finnish People’s Democratic Union
+1954,1956,30,Finland,0.0,0.0,0.0,26.246,-38.824,March 1954,Finnish Social Democrats
+1954,1956,40,Finland,0.7190000000000001,0.0,4.317,7.883999999999999,21.583,March 1954,Finnish People’s Party
+1954,1956,60,Finland,0.0,0.0,5.405,12.798,-10.811,March 1954,National Coalition
+1954,1956,80,Finland,0.0,0.0,7.407,24.098000000000006,37.778,March 1954,Agrarian Union
+1954,1956,90,Finland,0.0,2.469,12.345999999999998,6.978,1.235,March 1954,Swedish People’s Party
+1954,1957,20,Finland,0.0,1.575,10.236,21.587,-33.858000000000004,March 1954,Finnish People’s Democratic Union
+1954,1957,30,Finland,0.0,0.0,0.0,26.246,-38.824,March 1954,Finnish Social Democrats
+1954,1957,40,Finland,0.7190000000000001,0.0,4.317,7.883999999999999,21.583,March 1954,Finnish People’s Party
+1954,1957,60,Finland,0.0,0.0,5.405,12.798,-10.811,March 1954,National Coalition
+1954,1957,80,Finland,0.0,0.0,7.407,24.098000000000006,37.778,March 1954,Agrarian Union
+1954,1957,90,Finland,0.0,2.469,12.345999999999998,6.978,1.235,March 1954,Swedish People’s Party
+1958,1958,20,Finland,0.0,1.481,12.593,23.171,-24.444000000000006,July 1958,Finnish People’s Democratic Union
+1958,1958,30,Finland,0.0,0.0,6.897,1.746,40.517,July 1958,Social Democratic League of Workers and Smallholders
+1958,1958,30,Finland,0.0,0.0,6.077000000000001,23.156,-14.917,July 1958,Finnish Social Democrats
+1958,1958,40,Finland,0.7190000000000001,0.0,4.317,5.895,21.583,July 1958,Finnish People’s Party
+1958,1958,60,Finland,0.0,0.0,0.0,15.281,-44.0,July 1958,National Coalition
+1958,1958,80,Finland,0.0,0.0,2.609,23.061,10.435,July 1958,Agrarian Union
+1958,1958,90,Finland,0.0,4.348,8.696,6.732,0.87,July 1958,Swedish People’s Party
+1958,1959,20,Finland,0.0,1.481,12.593,23.171,-24.444000000000006,July 1958,Finnish People’s Democratic Union
+1958,1959,30,Finland,0.0,0.0,6.897,1.746,40.517,July 1958,Social Democratic League of Workers and Smallholders
+1958,1959,30,Finland,0.0,0.0,6.077000000000001,23.156,-14.917,July 1958,Finnish Social Democrats
+1958,1959,40,Finland,0.7190000000000001,0.0,4.317,5.895,21.583,July 1958,Finnish People’s Party
+1958,1959,60,Finland,0.0,0.0,0.0,15.281,-44.0,July 1958,National Coalition
+1958,1959,80,Finland,0.0,0.0,2.609,23.061,10.435,July 1958,Agrarian Union
+1958,1959,90,Finland,0.0,4.348,8.696,6.732,0.87,July 1958,Swedish People’s Party
+1958,1960,20,Finland,0.0,1.481,12.593,23.171,-24.444000000000006,July 1958,Finnish People’s Democratic Union
+1958,1960,30,Finland,0.0,0.0,6.897,1.746,40.517,July 1958,Social Democratic League of Workers and Smallholders
+1958,1960,30,Finland,0.0,0.0,6.077000000000001,23.156,-14.917,July 1958,Finnish Social Democrats
+1958,1960,40,Finland,0.7190000000000001,0.0,4.317,5.895,21.583,July 1958,Finnish People’s Party
+1958,1960,60,Finland,0.0,0.0,0.0,15.281,-44.0,July 1958,National Coalition
+1958,1960,80,Finland,0.0,0.0,2.609,23.061,10.435,July 1958,Agrarian Union
+1958,1960,90,Finland,0.0,4.348,8.696,6.732,0.87,July 1958,Swedish People’s Party
+1958,1961,20,Finland,0.0,1.481,12.593,23.171,-24.444000000000006,July 1958,Finnish People’s Democratic Union
+1958,1961,30,Finland,0.0,0.0,6.897,1.746,40.517,July 1958,Social Democratic League of Workers and Smallholders
+1958,1961,30,Finland,0.0,0.0,6.077000000000001,23.156,-14.917,July 1958,Finnish Social Democrats
+1958,1961,40,Finland,0.7190000000000001,0.0,4.317,5.895,21.583,July 1958,Finnish People’s Party
+1958,1961,60,Finland,0.0,0.0,0.0,15.281,-44.0,July 1958,National Coalition
+1958,1961,80,Finland,0.0,0.0,2.609,23.061,10.435,July 1958,Agrarian Union
+1958,1961,90,Finland,0.0,4.348,8.696,6.732,0.87,July 1958,Swedish People’s Party
+1962,1962,20,Finland,0.0,0.0,2.083,22.03,-2.083,February 1962,Finnish People’s Democratic Union
+1962,1962,30,Finland,0.0,0.0,6.897,4.3610000000000015,40.517,February 1962,Social Democratic League of Workers and Smallholders
+1962,1962,30,Finland,0.0,0.0,0.0,19.502,-25.0,February 1962,Finnish Social Democrats
+1962,1962,40,Finland,0.7190000000000001,0.0,4.317,5.948,21.583,February 1962,Finnish People’s Party
+1962,1962,60,Finland,0.0,0.0,5.455,14.646,18.182,February 1962,National Coalition
+1962,1962,80,Finland,1.092,0.4370000000000001,6.545,22.954,-3.298,February 1962,Agrarian Union
+1962,1962,90,Finland,0.0,1.527,9.16,6.414,7.633999999999999,February 1962,Swedish People’s Party
+1962,1963,20,Finland,0.0,0.0,2.083,22.03,-2.083,February 1962,Finnish People’s Democratic Union
+1962,1963,30,Finland,0.0,0.0,6.897,4.3610000000000015,40.517,February 1962,Social Democratic League of Workers and Smallholders
+1962,1963,30,Finland,0.0,0.0,0.0,19.502,-25.0,February 1962,Finnish Social Democrats
+1962,1963,40,Finland,0.7190000000000001,0.0,4.317,5.948,21.583,February 1962,Finnish People’s Party
+1962,1963,60,Finland,0.0,0.0,5.455,14.646,18.182,February 1962,National Coalition
+1962,1963,80,Finland,1.092,0.4370000000000001,6.545,22.954,-3.298,February 1962,Agrarian Union
+1962,1963,90,Finland,0.0,1.527,9.16,6.414,7.633999999999999,February 1962,Swedish People’s Party
+1962,1964,20,Finland,0.0,0.0,2.083,22.03,-2.083,February 1962,Finnish People’s Democratic Union
+1962,1964,30,Finland,0.0,0.0,6.897,4.3610000000000015,40.517,February 1962,Social Democratic League of Workers and Smallholders
+1962,1964,30,Finland,0.0,0.0,0.0,19.502,-25.0,February 1962,Finnish Social Democrats
+1962,1964,40,Finland,0.7190000000000001,0.0,4.317,5.948,21.583,February 1962,Finnish People’s Party
+1962,1964,60,Finland,0.0,0.0,5.455,14.646,18.182,February 1962,National Coalition
+1962,1964,80,Finland,1.092,0.4370000000000001,6.545,22.954,-3.298,February 1962,Agrarian Union
+1962,1964,90,Finland,0.0,1.527,9.16,6.414,7.633999999999999,February 1962,Swedish People’s Party
+1962,1965,20,Finland,0.0,0.0,2.083,22.03,-2.083,February 1962,Finnish People’s Democratic Union
+1962,1965,30,Finland,0.0,0.0,6.897,4.3610000000000015,40.517,February 1962,Social Democratic League of Workers and Smallholders
+1962,1965,30,Finland,0.0,0.0,0.0,19.502,-25.0,February 1962,Finnish Social Democrats
+1962,1965,40,Finland,0.7190000000000001,0.0,4.317,5.948,21.583,February 1962,Finnish People’s Party
+1962,1965,60,Finland,0.0,0.0,5.455,14.646,18.182,February 1962,National Coalition
+1962,1965,80,Finland,1.092,0.4370000000000001,6.545,22.954,-3.298,February 1962,Agrarian Union
+1962,1965,90,Finland,0.0,1.527,9.16,6.414,7.633999999999999,February 1962,Swedish People’s Party
+1966,1966,20,Finland,0.0,0.0,7.143,21.208,-50.0,March 1966,Finnish People’s Democratic Union
+1966,1966,30,Finland,0.0,0.0,6.897,2.585,40.517,March 1966,Social Democratic League of Workers and Smallholders
+1966,1966,30,Finland,0.0,0.0,21.429,27.229,-10.714,March 1966,Finnish Social Democrats
+1966,1966,40,Finland,0.7190000000000001,0.0,4.317,6.466,21.583,March 1966,Liberal People’s Party
+1966,1966,60,Finland,1.064,2.66,6.451000000000001,13.794,12.814,March 1966,National Coalition
+1966,1966,80,Finland,2.1830000000000003,0.873,10.48,21.225,-17.031,March 1966,Centre Party
+1966,1966,70,Finland,0.752,0.0,15.789,1.027,30.075,March 1966,Finnish Smallholders’ Party
+1966,1966,90,Finland,0.0,0.0,4.878,5.978,-53.659,March 1966,Swedish People’s Party
+1966,1967,20,Finland,0.0,0.0,7.143,21.208,-50.0,March 1966,Finnish People’s Democratic Union
+1966,1967,30,Finland,0.0,0.0,6.897,2.585,40.517,March 1966,Social Democratic League of Workers and Smallholders
+1966,1967,30,Finland,0.0,0.0,21.429,27.229,-10.714,March 1966,Finnish Social Democrats
+1966,1967,40,Finland,0.7190000000000001,0.0,4.317,6.466,21.583,March 1966,Liberal People’s Party
+1966,1967,60,Finland,1.064,2.66,6.451000000000001,13.794,12.814,March 1966,National Coalition
+1966,1967,80,Finland,2.1830000000000003,0.873,10.48,21.225,-17.031,March 1966,Centre Party
+1966,1967,70,Finland,0.752,0.0,15.789,1.027,30.075,March 1966,Finnish Smallholders’ Party
+1966,1967,90,Finland,0.0,0.0,4.878,5.978,-53.659,March 1966,Swedish People’s Party
+1966,1968,20,Finland,0.0,0.0,7.143,21.208,-50.0,March 1966,Finnish People’s Democratic Union
+1966,1968,30,Finland,0.0,0.0,6.897,2.585,40.517,March 1966,Social Democratic League of Workers and Smallholders
+1966,1968,30,Finland,0.0,0.0,21.429,27.229,-10.714,March 1966,Finnish Social Democrats
+1966,1968,40,Finland,0.7190000000000001,0.0,4.317,6.466,21.583,March 1966,Liberal People’s Party
+1966,1968,60,Finland,1.064,2.66,6.451000000000001,13.794,12.814,March 1966,National Coalition
+1966,1968,80,Finland,2.1830000000000003,0.873,10.48,21.225,-17.031,March 1966,Centre Party
+1966,1968,70,Finland,0.752,0.0,15.789,1.027,30.075,March 1966,Finnish Smallholders’ Party
+1966,1968,90,Finland,0.0,0.0,4.878,5.978,-53.659,March 1966,Swedish People’s Party
+1966,1969,20,Finland,0.0,0.0,7.143,21.208,-50.0,March 1966,Finnish People’s Democratic Union
+1966,1969,30,Finland,0.0,0.0,6.897,2.585,40.517,March 1966,Social Democratic League of Workers and Smallholders
+1966,1969,30,Finland,0.0,0.0,21.429,27.229,-10.714,March 1966,Finnish Social Democrats
+1966,1969,40,Finland,0.7190000000000001,0.0,4.317,6.466,21.583,March 1966,Liberal People’s Party
+1966,1969,60,Finland,1.064,2.66,6.451000000000001,13.794,12.814,March 1966,National Coalition
+1966,1969,80,Finland,2.1830000000000003,0.873,10.48,21.225,-17.031,March 1966,Centre Party
+1966,1969,70,Finland,0.752,0.0,15.789,1.027,30.075,March 1966,Finnish Smallholders’ Party
+1966,1969,90,Finland,0.0,0.0,4.878,5.978,-53.659,March 1966,Swedish People’s Party
+1970,1970,20,Finland,1.911,1.911,14.013,16.585,-52.229,March 1970,Finnish People’s Democratic Union
+1970,1970,30,Finland,0.0,0.0,20.714,23.432,-34.357,March 1970,Finnish Social Democrats
+1970,1970,40,Finland,10.204,0.0,6.122000000000001,5.948,22.449,March 1970,Liberal People’s Party
+1970,1970,50,Finland,0.0,0.0,1.923,1.126,78.846,March 1970,Finnish Christian Union
+1970,1970,60,Finland,2.128,5.319,7.447,18.045,7.447,March 1970,National Coalition
+1970,1970,80,Finland,4.425,0.0,7.08,17.121,-15.929,March 1970,Centre Party
+1970,1970,70,Finland,0.752,0.0,15.789,10.487,30.075,March 1970,Finnish Rural Party
+1970,1970,90,Finland,3.1910000000000003,0.0,8.113,5.6960000000000015,-41.014,March 1970,Swedish People’s Party
+1970,1971,20,Finland,1.911,1.911,14.013,16.585,-52.229,March 1970,Finnish People’s Democratic Union
+1970,1971,30,Finland,0.0,0.0,20.714,23.432,-34.357,March 1970,Finnish Social Democrats
+1970,1971,40,Finland,10.204,0.0,6.122000000000001,5.948,22.449,March 1970,Liberal People’s Party
+1970,1971,50,Finland,0.0,0.0,1.923,1.126,78.846,March 1970,Finnish Christian Union
+1970,1971,60,Finland,2.128,5.319,7.447,18.045,7.447,March 1970,National Coalition
+1970,1971,80,Finland,4.425,0.0,7.08,17.121,-15.929,March 1970,Centre Party
+1970,1971,70,Finland,0.752,0.0,15.789,10.487,30.075,March 1970,Finnish Rural Party
+1970,1971,90,Finland,3.1910000000000003,0.0,8.113,5.6960000000000015,-41.014,March 1970,Swedish People’s Party
+1972,1972,20,Finland,0.0,0.0,10.0,17.02,-12.5,January 1972,Finnish People’s Democratic Union
+1972,1972,30,Finland,0.0,0.0,20.0,25.785,-58.0,January 1972,Finnish Social Democrats
+1972,1972,40,Finland,8.602,0.0,5.061,5.157,8.224,January 1972,Liberal People’s Party
+1972,1972,50,Finland,0.0,0.0,5.405,2.53,35.135,January 1972,Finnish Christian Union
+1972,1972,60,Finland,0.0,0.0,25.532,17.589000000000002,38.298,January 1972,National Coalition
+1972,1972,80,Finland,0.0,0.0,12.765999999999998,16.41,4.255,January 1972,Centre Party
+1972,1972,70,Finland,0.0,0.0,17.647000000000006,9.163,20.588,January 1972,Finnish Rural Party
+1972,1972,90,Finland,6.382999999999999,0.0,11.348,5.356,-28.369,January 1972,Swedish People’s Party
+1972,1973,20,Finland,0.0,0.0,10.0,17.02,-12.5,January 1972,Finnish People’s Democratic Union
+1972,1973,30,Finland,0.0,0.0,20.0,25.785,-58.0,January 1972,Finnish Social Democrats
+1972,1973,40,Finland,8.602,0.0,5.061,5.157,8.224,January 1972,Liberal People’s Party
+1972,1973,50,Finland,0.0,0.0,5.405,2.53,35.135,January 1972,Finnish Christian Union
+1972,1973,60,Finland,0.0,0.0,25.532,17.589000000000002,38.298,January 1972,National Coalition
+1972,1973,80,Finland,0.0,0.0,12.765999999999998,16.41,4.255,January 1972,Centre Party
+1972,1973,70,Finland,0.0,0.0,17.647000000000006,9.163,20.588,January 1972,Finnish Rural Party
+1972,1973,90,Finland,6.382999999999999,0.0,11.348,5.356,-28.369,January 1972,Swedish People’s Party
+1972,1974,20,Finland,0.0,0.0,10.0,17.02,-12.5,January 1972,Finnish People’s Democratic Union
+1972,1974,30,Finland,0.0,0.0,20.0,25.785,-58.0,January 1972,Finnish Social Democrats
+1972,1974,40,Finland,8.602,0.0,5.061,5.157,8.224,January 1972,Liberal People’s Party
+1972,1974,50,Finland,0.0,0.0,5.405,2.53,35.135,January 1972,Finnish Christian Union
+1972,1974,60,Finland,0.0,0.0,25.532,17.589000000000002,38.298,January 1972,National Coalition
+1972,1974,80,Finland,0.0,0.0,12.765999999999998,16.41,4.255,January 1972,Centre Party
+1972,1974,70,Finland,0.0,0.0,17.647000000000006,9.163,20.588,January 1972,Finnish Rural Party
+1972,1974,90,Finland,6.382999999999999,0.0,11.348,5.356,-28.369,January 1972,Swedish People’s Party
+1975,1975,20,Finland,4.255,0.0,10.638,18.892,-42.553,September 1975,Finnish People’s Democratic Union
+1975,1975,30,Finland,2.778,2.778,25.0,24.859,-33.333,September 1975,Finnish Social Democrats
+1975,1975,40,Finland,8.602,0.0,5.061,4.347,8.224,September 1975,Liberal People’s Party
+1975,1975,50,Finland,0.0,0.0,2.9410000000000003,3.295,44.118,September 1975,Finnish Christian Union
+1975,1975,60,Finland,0.0,0.0,12.765999999999998,18.37,2.482,September 1975,National Coalition
+1975,1975,80,Finland,4.878,0.0,9.756,17.629,-40.244,September 1975,Centre Party
+1975,1975,70,Finland,0.0,0.0,20.0,3.594,16.0,September 1975,Finnish Rural Party
+1975,1975,90,Finland,7.462999999999999,0.0,8.955,5.007,-14.179,September 1975,Swedish People’s Party
+1975,1976,20,Finland,4.255,0.0,10.638,18.892,-42.553,September 1975,Finnish People’s Democratic Union
+1975,1976,30,Finland,2.778,2.778,25.0,24.859,-33.333,September 1975,Finnish Social Democrats
+1975,1976,40,Finland,8.602,0.0,5.061,4.347,8.224,September 1975,Liberal People’s Party
+1975,1976,50,Finland,0.0,0.0,2.9410000000000003,3.295,44.118,September 1975,Finnish Christian Union
+1975,1976,60,Finland,0.0,0.0,12.765999999999998,18.37,2.482,September 1975,National Coalition
+1975,1976,80,Finland,4.878,0.0,9.756,17.629,-40.244,September 1975,Centre Party
+1975,1976,70,Finland,0.0,0.0,20.0,3.594,16.0,September 1975,Finnish Rural Party
+1975,1976,90,Finland,7.462999999999999,0.0,8.955,5.007,-14.179,September 1975,Swedish People’s Party
+1975,1977,20,Finland,4.255,0.0,10.638,18.892,-42.553,September 1975,Finnish People’s Democratic Union
+1975,1977,30,Finland,2.778,2.778,25.0,24.859,-33.333,September 1975,Finnish Social Democrats
+1975,1977,40,Finland,8.602,0.0,5.061,4.347,8.224,September 1975,Liberal People’s Party
+1975,1977,50,Finland,0.0,0.0,2.9410000000000003,3.295,44.118,September 1975,Finnish Christian Union
+1975,1977,60,Finland,0.0,0.0,12.765999999999998,18.37,2.482,September 1975,National Coalition
+1975,1977,80,Finland,4.878,0.0,9.756,17.629,-40.244,September 1975,Centre Party
+1975,1977,70,Finland,0.0,0.0,20.0,3.594,16.0,September 1975,Finnish Rural Party
+1975,1977,90,Finland,7.462999999999999,0.0,8.955,5.007,-14.179,September 1975,Swedish People’s Party
+1975,1978,20,Finland,4.255,0.0,10.638,18.892,-42.553,September 1975,Finnish People’s Democratic Union
+1975,1978,30,Finland,2.778,2.778,25.0,24.859,-33.333,September 1975,Finnish Social Democrats
+1975,1978,40,Finland,8.602,0.0,5.061,4.347,8.224,September 1975,Liberal People’s Party
+1975,1978,50,Finland,0.0,0.0,2.9410000000000003,3.295,44.118,September 1975,Finnish Christian Union
+1975,1978,60,Finland,0.0,0.0,12.765999999999998,18.37,2.482,September 1975,National Coalition
+1975,1978,80,Finland,4.878,0.0,9.756,17.629,-40.244,September 1975,Centre Party
+1975,1978,70,Finland,0.0,0.0,20.0,3.594,16.0,September 1975,Finnish Rural Party
+1975,1978,90,Finland,7.462999999999999,0.0,8.955,5.007,-14.179,September 1975,Swedish People’s Party
+1979,1979,20,Finland,3.0610000000000004,1.02,16.327,17.898,-13.265,March 1979,Finnish People’s Democratic Union
+1979,1979,30,Finland,4.938,2.469,13.58,23.891,-40.12300000000001,March 1979,Finnish Social Democrats
+1979,1979,40,Finland,7.0,0.0,4.0,3.682,-6.0,March 1979,Liberal People’s Party
+1979,1979,50,Finland,0.0,0.0,1.961,4.776,23.529,March 1979,Finnish Christian Union
+1979,1979,60,Finland,0.0,0.0,0.0,21.654,-33.333,March 1979,National Coalition
+1979,1979,80,Finland,8.333,2.5,18.333,17.291,-24.167,March 1979,Centre Party
+1979,1979,70,Finland,5.127999999999999,0.0,10.255999999999998,4.576000000000001,38.462,March 1979,Finnish Rural Party
+1979,1979,90,Finland,3.939,0.0,7.576000000000001,4.55,6.364,March 1979,Swedish People’s Party
+1979,1980,20,Finland,3.0610000000000004,1.02,16.327,17.898,-13.265,March 1979,Finnish People’s Democratic Union
+1979,1980,30,Finland,4.938,2.469,13.58,23.891,-40.12300000000001,March 1979,Finnish Social Democrats
+1979,1980,40,Finland,7.0,0.0,4.0,3.682,-6.0,March 1979,Liberal People’s Party
+1979,1980,50,Finland,0.0,0.0,1.961,4.776,23.529,March 1979,Finnish Christian Union
+1979,1980,60,Finland,0.0,0.0,0.0,21.654,-33.333,March 1979,National Coalition
+1979,1980,80,Finland,8.333,2.5,18.333,17.291,-24.167,March 1979,Centre Party
+1979,1980,70,Finland,5.127999999999999,0.0,10.255999999999998,4.576000000000001,38.462,March 1979,Finnish Rural Party
+1979,1980,90,Finland,3.939,0.0,7.576000000000001,4.55,6.364,March 1979,Swedish People’s Party
+1979,1981,20,Finland,3.0610000000000004,1.02,16.327,17.898,-13.265,March 1979,Finnish People’s Democratic Union
+1979,1981,30,Finland,4.938,2.469,13.58,23.891,-40.12300000000001,March 1979,Finnish Social Democrats
+1979,1981,40,Finland,7.0,0.0,4.0,3.682,-6.0,March 1979,Liberal People’s Party
+1979,1981,50,Finland,0.0,0.0,1.961,4.776,23.529,March 1979,Finnish Christian Union
+1979,1981,60,Finland,0.0,0.0,0.0,21.654,-33.333,March 1979,National Coalition
+1979,1981,80,Finland,8.333,2.5,18.333,17.291,-24.167,March 1979,Centre Party
+1979,1981,70,Finland,5.127999999999999,0.0,10.255999999999998,4.576000000000001,38.462,March 1979,Finnish Rural Party
+1979,1981,90,Finland,3.939,0.0,7.576000000000001,4.55,6.364,March 1979,Swedish People’s Party
+1979,1982,20,Finland,3.0610000000000004,1.02,16.327,17.898,-13.265,March 1979,Finnish People’s Democratic Union
+1979,1982,30,Finland,4.938,2.469,13.58,23.891,-40.12300000000001,March 1979,Finnish Social Democrats
+1979,1982,40,Finland,7.0,0.0,4.0,3.682,-6.0,March 1979,Liberal People’s Party
+1979,1982,50,Finland,0.0,0.0,1.961,4.776,23.529,March 1979,Finnish Christian Union
+1979,1982,60,Finland,0.0,0.0,0.0,21.654,-33.333,March 1979,National Coalition
+1979,1982,80,Finland,8.333,2.5,18.333,17.291,-24.167,March 1979,Centre Party
+1979,1982,70,Finland,5.127999999999999,0.0,10.255999999999998,4.576000000000001,38.462,March 1979,Finnish Rural Party
+1979,1982,90,Finland,3.939,0.0,7.576000000000001,4.55,6.364,March 1979,Swedish People’s Party
+1983,1983,10,Finland,39.604,3.96,0.0,1.411,-38.614,March 1983,Green Union
+1983,1983,20,Finland,3.571,2.143,7.143,13.97,-64.286,March 1983,Finnish People’s Democratic Union
+1983,1983,30,Finland,16.215999999999998,0.0,8.107999999999999,26.713,43.243,March 1983,Finnish Social Democrats
+1983,1983,50,Finland,5.556,0.0,0.926,3.034,37.963,March 1983,Finnish Christian Union
+1983,1983,60,Finland,16.667,0.0,0.0,22.119,-16.667,March 1983,National Coalition
+1983,1983,80,Finland,10.204,0.0,20.408,17.625999999999994,-36.735,March 1983,Centre Party
+1983,1983,70,Finland,6.818000000000001,0.0,4.545,9.689,-9.091000000000001,March 1983,Finnish Rural Party
+1983,1983,90,Finland,6.593,0.0,8.791,4.9289999999999985,6.593,March 1983,Swedish People’s Party
+1983,1984,10,Finland,39.604,3.96,0.0,1.411,-38.614,March 1983,Green Union
+1983,1984,20,Finland,3.571,2.143,7.143,13.97,-64.286,March 1983,Finnish People’s Democratic Union
+1983,1984,30,Finland,16.215999999999998,0.0,8.107999999999999,26.713,43.243,March 1983,Finnish Social Democrats
+1983,1984,50,Finland,5.556,0.0,0.926,3.034,37.963,March 1983,Finnish Christian Union
+1983,1984,60,Finland,16.667,0.0,0.0,22.119,-16.667,March 1983,National Coalition
+1983,1984,80,Finland,10.204,0.0,20.408,17.625999999999994,-36.735,March 1983,Centre Party
+1983,1984,70,Finland,6.818000000000001,0.0,4.545,9.689,-9.091000000000001,March 1983,Finnish Rural Party
+1983,1984,90,Finland,6.593,0.0,8.791,4.9289999999999985,6.593,March 1983,Swedish People’s Party
+1983,1985,10,Finland,39.604,3.96,0.0,1.411,-38.614,March 1983,Green Union
+1983,1985,20,Finland,3.571,2.143,7.143,13.97,-64.286,March 1983,Finnish People’s Democratic Union
+1983,1985,30,Finland,16.215999999999998,0.0,8.107999999999999,26.713,43.243,March 1983,Finnish Social Democrats
+1983,1985,50,Finland,5.556,0.0,0.926,3.034,37.963,March 1983,Finnish Christian Union
+1983,1985,60,Finland,16.667,0.0,0.0,22.119,-16.667,March 1983,National Coalition
+1983,1985,80,Finland,10.204,0.0,20.408,17.625999999999994,-36.735,March 1983,Centre Party
+1983,1985,70,Finland,6.818000000000001,0.0,4.545,9.689,-9.091000000000001,March 1983,Finnish Rural Party
+1983,1985,90,Finland,6.593,0.0,8.791,4.9289999999999985,6.593,March 1983,Swedish People’s Party
+1983,1986,10,Finland,39.604,3.96,0.0,1.411,-38.614,March 1983,Green Union
+1983,1986,20,Finland,3.571,2.143,7.143,13.97,-64.286,March 1983,Finnish People’s Democratic Union
+1983,1986,30,Finland,16.215999999999998,0.0,8.107999999999999,26.713,43.243,March 1983,Finnish Social Democrats
+1983,1986,50,Finland,5.556,0.0,0.926,3.034,37.963,March 1983,Finnish Christian Union
+1983,1986,60,Finland,16.667,0.0,0.0,22.119,-16.667,March 1983,National Coalition
+1983,1986,80,Finland,10.204,0.0,20.408,17.625999999999994,-36.735,March 1983,Centre Party
+1983,1986,70,Finland,6.818000000000001,0.0,4.545,9.689,-9.091000000000001,March 1983,Finnish Rural Party
+1983,1986,90,Finland,6.593,0.0,8.791,4.9289999999999985,6.593,March 1983,Swedish People’s Party
+1987,1987,10,Finland,39.604,3.96,0.0,4.027,-38.614,March 1987,Green Union
+1987,1987,20,Finland,4.545,15.606,8.182,9.39,-46.515,March 1987,Finnish People’s Democratic Union
+1987,1987,20,Finland,8.219,1.37,4.566,4.242,-42.466,March 1987,Democratic Alternative
+1987,1987,30,Finland,7.792000000000002,0.0,0.0,24.143,-45.455,March 1987,Finnish Social Democrats
+1987,1987,50,Finland,1.058,11.64,0.0,2.577,25.926,March 1987,Finnish Christian Union
+1987,1987,60,Finland,10.638,0.0,0.0,23.132,-30.496,March 1987,National Coalition
+1987,1987,80,Finland,8.017000000000001,8.439,0.0,17.62,-10.549,March 1987,Centre Party
+1987,1987,70,Finland,13.095,0.0,10.714,6.317,-23.81,March 1987,Finnish Rural Party
+1987,1987,90,Finland,7.382999999999999,0.0,0.0,5.625,-29.53,March 1987,Swedish People’s Party
+1987,1988,10,Finland,39.604,3.96,0.0,4.027,-38.614,March 1987,Green Union
+1987,1988,20,Finland,4.545,15.606,8.182,9.39,-46.515,March 1987,Finnish People’s Democratic Union
+1987,1988,20,Finland,8.219,1.37,4.566,4.242,-42.466,March 1987,Democratic Alternative
+1987,1988,30,Finland,7.792000000000002,0.0,0.0,24.143,-45.455,March 1987,Finnish Social Democrats
+1987,1988,50,Finland,1.058,11.64,0.0,2.577,25.926,March 1987,Finnish Christian Union
+1987,1988,60,Finland,10.638,0.0,0.0,23.132,-30.496,March 1987,National Coalition
+1987,1988,80,Finland,8.017000000000001,8.439,0.0,17.62,-10.549,March 1987,Centre Party
+1987,1988,70,Finland,13.095,0.0,10.714,6.317,-23.81,March 1987,Finnish Rural Party
+1987,1988,90,Finland,7.382999999999999,0.0,0.0,5.625,-29.53,March 1987,Swedish People’s Party
+1987,1989,10,Finland,39.604,3.96,0.0,4.027,-38.614,March 1987,Green Union
+1987,1989,20,Finland,4.545,15.606,8.182,9.39,-46.515,March 1987,Finnish People’s Democratic Union
+1987,1989,20,Finland,8.219,1.37,4.566,4.242,-42.466,March 1987,Democratic Alternative
+1987,1989,30,Finland,7.792000000000002,0.0,0.0,24.143,-45.455,March 1987,Finnish Social Democrats
+1987,1989,50,Finland,1.058,11.64,0.0,2.577,25.926,March 1987,Finnish Christian Union
+1987,1989,60,Finland,10.638,0.0,0.0,23.132,-30.496,March 1987,National Coalition
+1987,1989,80,Finland,8.017000000000001,8.439,0.0,17.62,-10.549,March 1987,Centre Party
+1987,1989,70,Finland,13.095,0.0,10.714,6.317,-23.81,March 1987,Finnish Rural Party
+1987,1989,90,Finland,7.382999999999999,0.0,0.0,5.625,-29.53,March 1987,Swedish People’s Party
+1987,1990,10,Finland,39.604,3.96,0.0,4.027,-38.614,March 1987,Green Union
+1987,1990,20,Finland,4.545,15.606,8.182,9.39,-46.515,March 1987,Finnish People’s Democratic Union
+1987,1990,20,Finland,8.219,1.37,4.566,4.242,-42.466,March 1987,Democratic Alternative
+1987,1990,30,Finland,7.792000000000002,0.0,0.0,24.143,-45.455,March 1987,Finnish Social Democrats
+1987,1990,50,Finland,1.058,11.64,0.0,2.577,25.926,March 1987,Finnish Christian Union
+1987,1990,60,Finland,10.638,0.0,0.0,23.132,-30.496,March 1987,National Coalition
+1987,1990,80,Finland,8.017000000000001,8.439,0.0,17.62,-10.549,March 1987,Centre Party
+1987,1990,70,Finland,13.095,0.0,10.714,6.317,-23.81,March 1987,Finnish Rural Party
+1987,1990,90,Finland,7.382999999999999,0.0,0.0,5.625,-29.53,March 1987,Swedish People’s Party
+1991,1991,10,Finland,39.604,3.96,0.0,6.82,-38.614,March 1991,Green Union
+1991,1991,20,Finland,19.643,0.0,5.357,10.075,-30.357,March 1991,Left Wing Alliance
+1991,1991,30,Finland,12.941,2.353,0.0,22.124,1.176,March 1991,Finnish Social Democrats
+1991,1991,40,Finland,7.0,0.0,4.0,0.778,-6.0,March 1991,Liberal People’s Party
+1991,1991,50,Finland,10.0,3.571,6.4289999999999985,3.05,5.0,March 1991,Finnish Christian Union
+1991,1991,60,Finland,10.448,0.0,1.493,19.314,-4.478,March 1991,National Coalition
+1991,1991,80,Finland,11.392,0.0,0.0,24.825,1.266,March 1991,Finnish Centre
+1991,1991,70,Finland,10.28,0.0,12.15,4.847,13.084,March 1991,Finnish Rural Party
+1991,1991,90,Finland,19.231,0.0,2.3080000000000003,5.826000000000001,-7.692,March 1991,Swedish People’s Party
+1991,1992,10,Finland,39.604,3.96,0.0,6.82,-38.614,March 1991,Green Union
+1991,1992,20,Finland,19.643,0.0,5.357,10.075,-30.357,March 1991,Left Wing Alliance
+1991,1992,30,Finland,12.941,2.353,0.0,22.124,1.176,March 1991,Finnish Social Democrats
+1991,1992,40,Finland,7.0,0.0,4.0,0.778,-6.0,March 1991,Liberal People’s Party
+1991,1992,50,Finland,10.0,3.571,6.4289999999999985,3.05,5.0,March 1991,Finnish Christian Union
+1991,1992,60,Finland,10.448,0.0,1.493,19.314,-4.478,March 1991,National Coalition
+1991,1992,80,Finland,11.392,0.0,0.0,24.825,1.266,March 1991,Finnish Centre
+1991,1992,70,Finland,10.28,0.0,12.15,4.847,13.084,March 1991,Finnish Rural Party
+1991,1992,90,Finland,19.231,0.0,2.3080000000000003,5.826000000000001,-7.692,March 1991,Swedish People’s Party
+1991,1993,10,Finland,39.604,3.96,0.0,6.82,-38.614,March 1991,Green Union
+1991,1993,20,Finland,19.643,0.0,5.357,10.075,-30.357,March 1991,Left Wing Alliance
+1991,1993,30,Finland,12.941,2.353,0.0,22.124,1.176,March 1991,Finnish Social Democrats
+1991,1993,40,Finland,7.0,0.0,4.0,0.778,-6.0,March 1991,Liberal People’s Party
+1991,1993,50,Finland,10.0,3.571,6.4289999999999985,3.05,5.0,March 1991,Finnish Christian Union
+1991,1993,60,Finland,10.448,0.0,1.493,19.314,-4.478,March 1991,National Coalition
+1991,1993,80,Finland,11.392,0.0,0.0,24.825,1.266,March 1991,Finnish Centre
+1991,1993,70,Finland,10.28,0.0,12.15,4.847,13.084,March 1991,Finnish Rural Party
+1991,1993,90,Finland,19.231,0.0,2.3080000000000003,5.826000000000001,-7.692,March 1991,Swedish People’s Party
+1991,1994,10,Finland,39.604,3.96,0.0,6.82,-38.614,March 1991,Green Union
+1991,1994,20,Finland,19.643,0.0,5.357,10.075,-30.357,March 1991,Left Wing Alliance
+1991,1994,30,Finland,12.941,2.353,0.0,22.124,1.176,March 1991,Finnish Social Democrats
+1991,1994,40,Finland,7.0,0.0,4.0,0.778,-6.0,March 1991,Liberal People’s Party
+1991,1994,50,Finland,10.0,3.571,6.4289999999999985,3.05,5.0,March 1991,Finnish Christian Union
+1991,1994,60,Finland,10.448,0.0,1.493,19.314,-4.478,March 1991,National Coalition
+1991,1994,80,Finland,11.392,0.0,0.0,24.825,1.266,March 1991,Finnish Centre
+1991,1994,70,Finland,10.28,0.0,12.15,4.847,13.084,March 1991,Finnish Rural Party
+1991,1994,90,Finland,19.231,0.0,2.3080000000000003,5.826000000000001,-7.692,March 1991,Swedish People’s Party
+1995,1995,10,Finland,22.388,0.0,22.388,6.516,-13.433,March 1995,Green Union
+1995,1995,20,Finland,2.128,8.511000000000001,14.894,11.16,-14.894,March 1995,Left Wing Alliance
+1995,1995,30,Finland,5.8820000000000014,1.961,31.373,28.251,-13.725,March 1995,Finnish Social Democrats
+1995,1995,40,Finland,0.0,0.0,3.774,2.807,15.094,March 1995,Young Finnish Party
+1995,1995,50,Finland,14.019,0.0,4.673,2.96,24.299,March 1995,Finnish Christian Union
+1995,1995,60,Finland,3.509,3.509,12.865,17.894000000000005,14.62,March 1995,National Coalition
+1995,1995,80,Finland,21.951,0.0,4.878,19.85,26.829,March 1995,Finnish Centre
+1995,1995,70,Finland,10.28,0.0,12.15,1.301,13.084,March 1995,Finnish Rural Party
+1995,1995,90,Finland,4.663,0.0,11.399,5.494,4.145,March 1995,Swedish People’s Party
+1995,1996,10,Finland,22.388,0.0,22.388,6.516,-13.433,March 1995,Green Union
+1995,1996,20,Finland,2.128,8.511000000000001,14.894,11.16,-14.894,March 1995,Left Wing Alliance
+1995,1996,30,Finland,5.8820000000000014,1.961,31.373,28.251,-13.725,March 1995,Finnish Social Democrats
+1995,1996,40,Finland,0.0,0.0,3.774,2.807,15.094,March 1995,Young Finnish Party
+1995,1996,50,Finland,14.019,0.0,4.673,2.96,24.299,March 1995,Finnish Christian Union
+1995,1996,60,Finland,3.509,3.509,12.865,17.894000000000005,14.62,March 1995,National Coalition
+1995,1996,80,Finland,21.951,0.0,4.878,19.85,26.829,March 1995,Finnish Centre
+1995,1996,70,Finland,10.28,0.0,12.15,1.301,13.084,March 1995,Finnish Rural Party
+1995,1996,90,Finland,4.663,0.0,11.399,5.494,4.145,March 1995,Swedish People’s Party
+1995,1997,10,Finland,22.388,0.0,22.388,6.516,-13.433,March 1995,Green Union
+1995,1997,20,Finland,2.128,8.511000000000001,14.894,11.16,-14.894,March 1995,Left Wing Alliance
+1995,1997,30,Finland,5.8820000000000014,1.961,31.373,28.251,-13.725,March 1995,Finnish Social Democrats
+1995,1997,40,Finland,0.0,0.0,3.774,2.807,15.094,March 1995,Young Finnish Party
+1995,1997,50,Finland,14.019,0.0,4.673,2.96,24.299,March 1995,Finnish Christian Union
+1995,1997,60,Finland,3.509,3.509,12.865,17.894000000000005,14.62,March 1995,National Coalition
+1995,1997,80,Finland,21.951,0.0,4.878,19.85,26.829,March 1995,Finnish Centre
+1995,1997,70,Finland,10.28,0.0,12.15,1.301,13.084,March 1995,Finnish Rural Party
+1995,1997,90,Finland,4.663,0.0,11.399,5.494,4.145,March 1995,Swedish People’s Party
+1995,1998,10,Finland,22.388,0.0,22.388,6.516,-13.433,March 1995,Green Union
+1995,1998,20,Finland,2.128,8.511000000000001,14.894,11.16,-14.894,March 1995,Left Wing Alliance
+1995,1998,30,Finland,5.8820000000000014,1.961,31.373,28.251,-13.725,March 1995,Finnish Social Democrats
+1995,1998,40,Finland,0.0,0.0,3.774,2.807,15.094,March 1995,Young Finnish Party
+1995,1998,50,Finland,14.019,0.0,4.673,2.96,24.299,March 1995,Finnish Christian Union
+1995,1998,60,Finland,3.509,3.509,12.865,17.894000000000005,14.62,March 1995,National Coalition
+1995,1998,80,Finland,21.951,0.0,4.878,19.85,26.829,March 1995,Finnish Centre
+1995,1998,70,Finland,10.28,0.0,12.15,1.301,13.084,March 1995,Finnish Rural Party
+1995,1998,90,Finland,4.663,0.0,11.399,5.494,4.145,March 1995,Swedish People’s Party
+1999,1999,10,Finland,24.609,1.953,8.594,7.27,-6.25,March 1999,Green Union
+1999,1999,20,Finland,3.3080000000000003,0.763,11.959,10.878,-38.168,March 1999,Left Wing Alliance
+1999,1999,30,Finland,2.74,0.0,8.219,22.86,-1.37,March 1999,Finnish Social Democrats
+1999,1999,50,Finland,2.778,0.0,4.167,4.127,19.444000000000006,March 1999,Finnish Christian Union
+1999,1999,60,Finland,1.786,0.0,5.357,21.03,29.464,March 1999,National Coalition
+1999,1999,80,Finland,4.1960000000000015,0.0,5.5939999999999985,22.399,-1.0490000000000002,March 1999,Finnish Centre
+1999,1999,70,Finland,5.8820000000000014,0.0,2.674,0.99,-5.8820000000000014,March 1999,True Finns
+1999,1999,90,Finland,7.257999999999999,0.0,10.484000000000002,5.51,14.515999999999998,March 1999,Swedish People’s Party
+1999,2000,10,Finland,24.609,1.953,8.594,7.27,-6.25,March 1999,Green Union
+1999,2000,20,Finland,3.3080000000000003,0.763,11.959,10.878,-38.168,March 1999,Left Wing Alliance
+1999,2000,30,Finland,2.74,0.0,8.219,22.86,-1.37,March 1999,Finnish Social Democrats
+1999,2000,50,Finland,2.778,0.0,4.167,4.127,19.444000000000006,March 1999,Finnish Christian Union
+1999,2000,60,Finland,1.786,0.0,5.357,21.03,29.464,March 1999,National Coalition
+1999,2000,80,Finland,4.1960000000000015,0.0,5.5939999999999985,22.399,-1.0490000000000002,March 1999,Finnish Centre
+1999,2000,70,Finland,5.8820000000000014,0.0,2.674,0.99,-5.8820000000000014,March 1999,True Finns
+1999,2000,90,Finland,7.257999999999999,0.0,10.484000000000002,5.51,14.515999999999998,March 1999,Swedish People’s Party
+1999,2001,10,Finland,24.609,1.953,8.594,7.27,-6.25,March 1999,Green Union
+1999,2001,20,Finland,3.3080000000000003,0.763,11.959,10.878,-38.168,March 1999,Left Wing Alliance
+1999,2001,30,Finland,2.74,0.0,8.219,22.86,-1.37,March 1999,Finnish Social Democrats
+1999,2001,50,Finland,2.778,0.0,4.167,4.127,19.444000000000006,March 1999,Finnish Christian Union
+1999,2001,60,Finland,1.786,0.0,5.357,21.03,29.464,March 1999,National Coalition
+1999,2001,80,Finland,4.1960000000000015,0.0,5.5939999999999985,22.399,-1.0490000000000002,March 1999,Finnish Centre
+1999,2001,70,Finland,5.8820000000000014,0.0,2.674,0.99,-5.8820000000000014,March 1999,True Finns
+1999,2001,90,Finland,7.257999999999999,0.0,10.484000000000002,5.51,14.515999999999998,March 1999,Swedish People’s Party
+1999,2002,10,Finland,24.609,1.953,8.594,7.27,-6.25,March 1999,Green Union
+1999,2002,20,Finland,3.3080000000000003,0.763,11.959,10.878,-38.168,March 1999,Left Wing Alliance
+1999,2002,30,Finland,2.74,0.0,8.219,22.86,-1.37,March 1999,Finnish Social Democrats
+1999,2002,50,Finland,2.778,0.0,4.167,4.127,19.444000000000006,March 1999,Finnish Christian Union
+1999,2002,60,Finland,1.786,0.0,5.357,21.03,29.464,March 1999,National Coalition
+1999,2002,80,Finland,4.1960000000000015,0.0,5.5939999999999985,22.399,-1.0490000000000002,March 1999,Finnish Centre
+1999,2002,70,Finland,5.8820000000000014,0.0,2.674,0.99,-5.8820000000000014,March 1999,True Finns
+1999,2002,90,Finland,7.257999999999999,0.0,10.484000000000002,5.51,14.515999999999998,March 1999,Swedish People’s Party
+2003,2003,10,Finland,25.284,6.818000000000001,4.261,8.008000000000001,-33.523,March 2003,Green Union
+2003,2003,20,Finland,2.7030000000000003,0.0,2.7030000000000003,9.927999999999999,-45.94600000000001,March 2003,Left Wing Alliance
+2003,2003,30,Finland,4.6389999999999985,6.186,6.701000000000001,24.473000000000006,-24.742,March 2003,Finnish Social Democrats
+2003,2003,50,Finland,9.375,0.0,7.813,5.3370000000000015,7.813,March 2003,Christian Democrats in Finland
+2003,2003,60,Finland,5.366000000000001,0.0,0.0,18.551,9.756,March 2003,National Coalition
+2003,2003,80,Finland,7.455,0.0,6.0,24.694000000000006,-7.636,March 2003,Finnish Centre
+2003,2003,70,Finland,5.8820000000000014,0.0,2.674,1.569,-5.8820000000000014,March 2003,True Finns
+2003,2003,90,Finland,13.402,0.0,3.4360000000000004,4.614,-19.931,March 2003,Swedish People’s Party
+2003,2004,10,Finland,25.284,6.818000000000001,4.261,8.008000000000001,-33.523,March 2003,Green Union
+2003,2004,20,Finland,2.7030000000000003,0.0,2.7030000000000003,9.927999999999999,-45.94600000000001,March 2003,Left Wing Alliance
+2003,2004,30,Finland,4.6389999999999985,6.186,6.701000000000001,24.473000000000006,-24.742,March 2003,Finnish Social Democrats
+2003,2004,50,Finland,9.375,0.0,7.813,5.3370000000000015,7.813,March 2003,Christian Democrats in Finland
+2003,2004,60,Finland,5.366000000000001,0.0,0.0,18.551,9.756,March 2003,National Coalition
+2003,2004,80,Finland,7.455,0.0,6.0,24.694000000000006,-7.636,March 2003,Finnish Centre
+2003,2004,70,Finland,5.8820000000000014,0.0,2.674,1.569,-5.8820000000000014,March 2003,True Finns
+2003,2004,90,Finland,13.402,0.0,3.4360000000000004,4.614,-19.931,March 2003,Swedish People’s Party
+2003,2005,10,Finland,25.284,6.818000000000001,4.261,8.008000000000001,-33.523,March 2003,Green Union
+2003,2005,20,Finland,2.7030000000000003,0.0,2.7030000000000003,9.927999999999999,-45.94600000000001,March 2003,Left Wing Alliance
+2003,2005,30,Finland,4.6389999999999985,6.186,6.701000000000001,24.473000000000006,-24.742,March 2003,Finnish Social Democrats
+2003,2005,50,Finland,9.375,0.0,7.813,5.3370000000000015,7.813,March 2003,Christian Democrats in Finland
+2003,2005,60,Finland,5.366000000000001,0.0,0.0,18.551,9.756,March 2003,National Coalition
+2003,2005,80,Finland,7.455,0.0,6.0,24.694000000000006,-7.636,March 2003,Finnish Centre
+2003,2005,70,Finland,5.8820000000000014,0.0,2.674,1.569,-5.8820000000000014,March 2003,True Finns
+2003,2005,90,Finland,13.402,0.0,3.4360000000000004,4.614,-19.931,March 2003,Swedish People’s Party
+2003,2006,10,Finland,25.284,6.818000000000001,4.261,8.008000000000001,-33.523,March 2003,Green Union
+2003,2006,20,Finland,2.7030000000000003,0.0,2.7030000000000003,9.927999999999999,-45.94600000000001,March 2003,Left Wing Alliance
+2003,2006,30,Finland,4.6389999999999985,6.186,6.701000000000001,24.473000000000006,-24.742,March 2003,Finnish Social Democrats
+2003,2006,50,Finland,9.375,0.0,7.813,5.3370000000000015,7.813,March 2003,Christian Democrats in Finland
+2003,2006,60,Finland,5.366000000000001,0.0,0.0,18.551,9.756,March 2003,National Coalition
+2003,2006,80,Finland,7.455,0.0,6.0,24.694000000000006,-7.636,March 2003,Finnish Centre
+2003,2006,70,Finland,5.8820000000000014,0.0,2.674,1.569,-5.8820000000000014,March 2003,True Finns
+2003,2006,90,Finland,13.402,0.0,3.4360000000000004,4.614,-19.931,March 2003,Swedish People’s Party
+2007,2007,10,Finland,20.588,2.059,12.059,8.46,-21.471,March 2007,Green Union
+2007,2007,20,Finland,5.641,5.641,14.103,8.82,-42.051,March 2007,Left Wing Alliance
+2007,2007,30,Finland,4.523,2.261,5.025,21.44,-36.432,March 2007,Finnish Social Democrats
+2007,2007,50,Finland,9.353,0.0,4.317,4.97,-15.108,March 2007,Christian Democrats in Finland
+2007,2007,60,Finland,6.667000000000002,0.0,6.667000000000002,22.26,-20.556,March 2007,National Coalition
+2007,2007,80,Finland,4.476,1.4069999999999998,5.8820000000000014,23.11,-15.09,March 2007,Finnish Centre
+2007,2007,70,Finland,2.9160000000000004,0.0,7.7189999999999985,4.05,-6.518,March 2007,True Finns
+2007,2007,90,Finland,7.5470000000000015,4.717000000000001,6.604,4.97,-25.472,March 2007,Swedish People’s Party
+2007,2008,10,Finland,20.588,2.059,12.059,8.46,-21.471,March 2007,Green Union
+2007,2008,20,Finland,5.641,5.641,14.103,8.82,-42.051,March 2007,Left Wing Alliance
+2007,2008,30,Finland,4.523,2.261,5.025,21.44,-36.432,March 2007,Finnish Social Democrats
+2007,2008,50,Finland,9.353,0.0,4.317,4.97,-15.108,March 2007,Christian Democrats in Finland
+2007,2008,60,Finland,6.667000000000002,0.0,6.667000000000002,22.26,-20.556,March 2007,National Coalition
+2007,2008,80,Finland,4.476,1.4069999999999998,5.8820000000000014,23.11,-15.09,March 2007,Finnish Centre
+2007,2008,70,Finland,2.9160000000000004,0.0,7.7189999999999985,4.05,-6.518,March 2007,True Finns
+2007,2008,90,Finland,7.5470000000000015,4.717000000000001,6.604,4.97,-25.472,March 2007,Swedish People’s Party
+2007,2009,10,Finland,20.588,2.059,12.059,8.46,-21.471,March 2007,Green Union
+2007,2009,20,Finland,5.641,5.641,14.103,8.82,-42.051,March 2007,Left Wing Alliance
+2007,2009,30,Finland,4.523,2.261,5.025,21.44,-36.432,March 2007,Finnish Social Democrats
+2007,2009,50,Finland,9.353,0.0,4.317,4.97,-15.108,March 2007,Christian Democrats in Finland
+2007,2009,60,Finland,6.667000000000002,0.0,6.667000000000002,22.26,-20.556,March 2007,National Coalition
+2007,2009,80,Finland,4.476,1.4069999999999998,5.8820000000000014,23.11,-15.09,March 2007,Finnish Centre
+2007,2009,70,Finland,2.9160000000000004,0.0,7.7189999999999985,4.05,-6.518,March 2007,True Finns
+2007,2009,90,Finland,7.5470000000000015,4.717000000000001,6.604,4.97,-25.472,March 2007,Swedish People’s Party
+2007,2010,10,Finland,20.588,2.059,12.059,8.46,-21.471,March 2007,Green Union
+2007,2010,20,Finland,5.641,5.641,14.103,8.82,-42.051,March 2007,Left Wing Alliance
+2007,2010,30,Finland,4.523,2.261,5.025,21.44,-36.432,March 2007,Finnish Social Democrats
+2007,2010,50,Finland,9.353,0.0,4.317,4.97,-15.108,March 2007,Christian Democrats in Finland
+2007,2010,60,Finland,6.667000000000002,0.0,6.667000000000002,22.26,-20.556,March 2007,National Coalition
+2007,2010,80,Finland,4.476,1.4069999999999998,5.8820000000000014,23.11,-15.09,March 2007,Finnish Centre
+2007,2010,70,Finland,2.9160000000000004,0.0,7.7189999999999985,4.05,-6.518,March 2007,True Finns
+2007,2010,90,Finland,7.5470000000000015,4.717000000000001,6.604,4.97,-25.472,March 2007,Swedish People’s Party
+2011,2011,10,Finland,14.425,1.621,7.6179999999999986,7.252000000000002,-27.715,April 2011,Green Union
+2011,2011,20,Finland,3.488,2.326,11.628,8.132,-44.767,April 2011,Left Wing Alliance
+2011,2011,30,Finland,0.7010000000000001,0.35,3.853,19.103,-11.384,April 2011,Finnish Social Democrats
+2011,2011,50,Finland,3.292,0.784,4.3889999999999985,4.03,-16.771,April 2011,Christian Democrats in Finland
+2011,2011,60,Finland,5.25,0.0,2.0,20.382,13.75,April 2011,National Coalition
+2011,2011,80,Finland,2.9360000000000004,4.64,3.788,15.76,-16.383,April 2011,Finnish Centre
+2011,2011,70,Finland,1.011,0.27,4.248,19.053,0.472,April 2011,True Finns
+2011,2011,90,Finland,4.0939999999999985,2.924,3.509,4.279,-23.392,April 2011,Swedish People’s Party
+2011,2012,10,Finland,14.425,1.621,7.6179999999999986,7.252000000000002,-27.715,April 2011,Green Union
+2011,2012,20,Finland,3.488,2.326,11.628,8.132,-44.767,April 2011,Left Wing Alliance
+2011,2012,30,Finland,0.7010000000000001,0.35,3.853,19.103,-11.384,April 2011,Finnish Social Democrats
+2011,2012,50,Finland,3.292,0.784,4.3889999999999985,4.03,-16.771,April 2011,Christian Democrats in Finland
+2011,2012,60,Finland,5.25,0.0,2.0,20.382,13.75,April 2011,National Coalition
+2011,2012,80,Finland,2.9360000000000004,4.64,3.788,15.76,-16.383,April 2011,Finnish Centre
+2011,2012,70,Finland,1.011,0.27,4.248,19.053,0.472,April 2011,True Finns
+2011,2012,90,Finland,4.0939999999999985,2.924,3.509,4.279,-23.392,April 2011,Swedish People’s Party
+2011,2013,10,Finland,14.425,1.621,7.6179999999999986,7.252000000000002,-27.715,April 2011,Green Union
+2011,2013,20,Finland,3.488,2.326,11.628,8.132,-44.767,April 2011,Left Wing Alliance
+2011,2013,30,Finland,0.7010000000000001,0.35,3.853,19.103,-11.384,April 2011,Finnish Social Democrats
+2011,2013,50,Finland,3.292,0.784,4.3889999999999985,4.03,-16.771,April 2011,Christian Democrats in Finland
+2011,2013,60,Finland,5.25,0.0,2.0,20.382,13.75,April 2011,National Coalition
+2011,2013,80,Finland,2.9360000000000004,4.64,3.788,15.76,-16.383,April 2011,Finnish Centre
+2011,2013,70,Finland,1.011,0.27,4.248,19.053,0.472,April 2011,True Finns
+2011,2013,90,Finland,4.0939999999999985,2.924,3.509,4.279,-23.392,April 2011,Swedish People’s Party
+2011,2014,10,Finland,14.425,1.621,7.6179999999999986,7.252000000000002,-27.715,April 2011,Green Union
+2011,2014,20,Finland,3.488,2.326,11.628,8.132,-44.767,April 2011,Left Wing Alliance
+2011,2014,30,Finland,0.7010000000000001,0.35,3.853,19.103,-11.384,April 2011,Finnish Social Democrats
+2011,2014,50,Finland,3.292,0.784,4.3889999999999985,4.03,-16.771,April 2011,Christian Democrats in Finland
+2011,2014,60,Finland,5.25,0.0,2.0,20.382,13.75,April 2011,National Coalition
+2011,2014,80,Finland,2.9360000000000004,4.64,3.788,15.76,-16.383,April 2011,Finnish Centre
+2011,2014,70,Finland,1.011,0.27,4.248,19.053,0.472,April 2011,True Finns
+2011,2014,90,Finland,4.0939999999999985,2.924,3.509,4.279,-23.392,April 2011,Swedish People’s Party
+2015,2015,10,Finland,23.022,0.36,12.95,8.526,-37.05,April 2015,Green Union
+2015,2015,20,Finland,8.556000000000001,8.556000000000001,9.447000000000001,7.1320000000000014,-42.78100000000001,April 2015,Left Wing Alliance
+2015,2015,30,Finland,3.2260000000000004,2.016,10.484000000000002,16.51,-27.016,April 2015,Finnish Social Democrats
+2015,2015,50,Finland,6.457000000000002,0.4970000000000001,2.152,3.542,4.967000000000001,April 2015,Christian Democrats in Finland
+2015,2015,60,Finland,8.078,0.0,1.114,18.198,-12.535,April 2015,National Coalition
+2015,2015,80,Finland,5.217000000000001,1.304,2.609,21.096,-4.348,April 2015,Finnish Centre
+2015,2015,70,Finland,0.7759999999999999,0.721,4.271,17.654,-4.936,April 2015,True Finns
+2015,2015,90,Finland,6.616000000000001,1.272,4.58,4.878,-20.865,April 2015,Swedish People’s Party
+2015,2016,10,Finland,23.022,0.36,12.95,8.526,-37.05,April 2015,Green Union
+2015,2016,20,Finland,8.556000000000001,8.556000000000001,9.447000000000001,7.1320000000000014,-42.78100000000001,April 2015,Left Wing Alliance
+2015,2016,30,Finland,3.2260000000000004,2.016,10.484000000000002,16.51,-27.016,April 2015,Finnish Social Democrats
+2015,2016,50,Finland,6.457000000000002,0.4970000000000001,2.152,3.542,4.967000000000001,April 2015,Christian Democrats in Finland
+2015,2016,60,Finland,8.078,0.0,1.114,18.198,-12.535,April 2015,National Coalition
+2015,2016,80,Finland,5.217000000000001,1.304,2.609,21.096,-4.348,April 2015,Finnish Centre
+2015,2016,70,Finland,0.7759999999999999,0.721,4.271,17.654,-4.936,April 2015,True Finns
+2015,2016,90,Finland,6.616000000000001,1.272,4.58,4.878,-20.865,April 2015,Swedish People’s Party
+2015,2017,10,Finland,23.022,0.36,12.95,8.526,-37.05,April 2015,Green Union
+2015,2017,20,Finland,8.556000000000001,8.556000000000001,9.447000000000001,7.1320000000000014,-42.78100000000001,April 2015,Left Wing Alliance
+2015,2017,30,Finland,3.2260000000000004,2.016,10.484000000000002,16.51,-27.016,April 2015,Finnish Social Democrats
+2015,2017,50,Finland,6.457000000000002,0.4970000000000001,2.152,3.542,4.967000000000001,April 2015,Christian Democrats in Finland
+2015,2017,60,Finland,8.078,0.0,1.114,18.198,-12.535,April 2015,National Coalition
+2015,2017,80,Finland,5.217000000000001,1.304,2.609,21.096,-4.348,April 2015,Finnish Centre
+2015,2017,70,Finland,0.7759999999999999,0.721,4.271,17.654,-4.936,April 2015,True Finns
+2015,2017,90,Finland,6.616000000000001,1.272,4.58,4.878,-20.865,April 2015,Swedish People’s Party
+2015,2018,10,Finland,23.022,0.36,12.95,8.526,-37.05,April 2015,Green Union
+2015,2018,20,Finland,8.556000000000001,8.556000000000001,9.447000000000001,7.1320000000000014,-42.78100000000001,April 2015,Left Wing Alliance
+2015,2018,30,Finland,3.2260000000000004,2.016,10.484000000000002,16.51,-27.016,April 2015,Finnish Social Democrats
+2015,2018,50,Finland,6.457000000000002,0.4970000000000001,2.152,3.542,4.967000000000001,April 2015,Christian Democrats in Finland
+2015,2018,60,Finland,8.078,0.0,1.114,18.198,-12.535,April 2015,National Coalition
+2015,2018,80,Finland,5.217000000000001,1.304,2.609,21.096,-4.348,April 2015,Finnish Centre
+2015,2018,70,Finland,0.7759999999999999,0.721,4.271,17.654,-4.936,April 2015,True Finns
+2015,2018,90,Finland,6.616000000000001,1.272,4.58,4.878,-20.865,April 2015,Swedish People’s Party
+2019,2019,10,Finland,17.617,0.0,10.622,11.493,-38.601,April 2019,Green Union
+2019,2019,20,Finland,12.675999999999998,1.761,15.845,8.171,-41.021,April 2019,Left Wing Alliance
+2019,2019,30,Finland,12.136,2.05,8.366,17.732,-23.413,April 2019,Finnish Social Democrats
+2019,2019,40,Finland,16.667,0.0,2.222,2.253,-32.222,April 2019,Movement Now
+2019,2019,50,Finland,10.018,1.61,4.114,3.898,-9.481,April 2019,Christian Democrats in Finland
+2019,2019,60,Finland,10.8,2.0,6.8,17.000999999999998,1.2,April 2019,National Coalition
+2019,2019,80,Finland,9.639,2.008,6.225000000000001,13.755,-21.687,April 2019,Finnish Centre
+2019,2019,70,Finland,5.255,1.112,4.948,17.483,-13.809,April 2019,True Finns
+2019,2019,90,Finland,5.8820000000000014,1.826,6.491000000000001,4.909,-14.199000000000002,April 2019,Swedish People’s Party
+2019,2020,10,Finland,17.617,0.0,10.622,11.493,-38.601,April 2019,Green Union
+2019,2020,20,Finland,12.675999999999998,1.761,15.845,8.171,-41.021,April 2019,Left Wing Alliance
+2019,2020,30,Finland,12.136,2.05,8.366,17.732,-23.413,April 2019,Finnish Social Democrats
+2019,2020,40,Finland,16.667,0.0,2.222,2.253,-32.222,April 2019,Movement Now
+2019,2020,50,Finland,10.018,1.61,4.114,3.898,-9.481,April 2019,Christian Democrats in Finland
+2019,2020,60,Finland,10.8,2.0,6.8,17.000999999999998,1.2,April 2019,National Coalition
+2019,2020,80,Finland,9.639,2.008,6.225000000000001,13.755,-21.687,April 2019,Finnish Centre
+2019,2020,70,Finland,5.255,1.112,4.948,17.483,-13.809,April 2019,True Finns
+2019,2020,90,Finland,5.8820000000000014,1.826,6.491000000000001,4.909,-14.199000000000002,April 2019,Swedish People’s Party
