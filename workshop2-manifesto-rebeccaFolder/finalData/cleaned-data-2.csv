@@ -1499,7 +1499,6 @@ year,parfam,countryname,environ,culture,equality,pervote,rile,electionDate,party
 2009-01-01,20,Greece,0.0,0.0,0.0,7.541,70.58800000000002,October 2009,Communist Party of Greece
 2009-01-01,30,Greece,9.667,4.718,4.022,43.923,-20.726999999999997,October 2009,Panhellenic Socialist Movement
 2009-01-01,50,Greece,18.252,0.0,3.221,33.477,-16.258,October 2009,New Democracy
-2009-01-01,70,Greece,,,,5.63,,October 2009,Popular Orthodox Rally
 2012-01-01,20,Greece,1.111,0.741,3.7039999999999997,16.781,-35.556,May 2012,Coalition of the Radical Left
 2012-01-01,20,Greece,0.0,0.0,2.218,8.477,23.475,May 2012,Communist Party of Greece
 2012-01-01,20,Greece,5.252999999999999,3.228,2.785,6.106,-6.709000000000001,May 2012,Democratic Left
@@ -1524,14 +1523,10 @@ year,parfam,countryname,environ,culture,equality,pervote,rile,electionDate,party
 2015-01-01,70,Greece,0.0,0.0,7.692,4.635,46.153999999999996,January 2015,Independent Greeks
 2015-01-01,20,Greece,0.0,0.0,0.0,5.417999999999999,-44.348,September 2015,Communist Party of Greece
 2015-01-01,20,Greece,2.081,2.8789999999999996,1.7690000000000001,35.46,-22.234,September 2015,Coalition of the Radical Left
-2015-01-01,20,Greece,,,,0.74,,September 2015,Democratic Left
 2015-01-01,20,Greece,0.426,1.702,0.0,2.86,-40.426,September 2015,Popular Unity
 2015-01-01,30,Greece,0.726,0.242,0.484,5.54,-24.455,September 2015,Panhellenic Socialist Movement
-2015-01-01,30,Greece,,,,3.9930000000000003,,September 2015,The River
 2015-01-01,40,Greece,1.525,0.862,1.061,3.352,-1.393,September 2015,Union of Centrists
 2015-01-01,50,Greece,0.204,1.222,0.0,27.414,17.515,September 2015,New Democracy
-2015-01-01,70,Greece,,,,6.82,,September 2015,Golden Dawn
-2015-01-01,70,Greece,,,,3.602,,September 2015,Independent Greeks
 1975-01-01,20,Portugal,0.0,0.0,4.959000000000001,0.84,-55.372,April 1975,Popular Democratic Union
 1975-01-01,20,Portugal,0.0,0.0,0.0,13.46,-44.586000000000006,April 1975,Portuguese Communist Party
 1975-01-01,30,Portugal,0.0,3.03,1.515,4.43,-37.879,April 1975,Popular Democratic Movement
@@ -2010,7 +2005,6 @@ year,parfam,countryname,environ,culture,equality,pervote,rile,electionDate,party
 2014-01-01,50,Bulgaria,2.374,2.374,0.838,32.666,-1.2570000000000001,October 2014,Citizens for European Development of Bulgaria
 2014-01-01,60,Bulgaria,1.272,5.598,1.272,5.694,-6.107,October 2014,Bulgaria without Censorship
 2014-01-01,70,Bulgaria,0.0,0.0,3.488,4.516,-11.628,October 2014,National Union Attack
-2014-01-01,90,Bulgaria,,,,14.837,,October 2014,Movement for Rights and Freedoms
 2017-01-01,70,Bulgaria,2.041,2.041,0.0,9.066,24.49,March 2017,United Patriots
 2017-01-01,30,Bulgaria,0.0,3.4930000000000003,2.62,27.195,6.987,March 2017,BSP for Bulgaria
 2017-01-01,50,Bulgaria,3.863,5.96,0.773,32.655,7.726,March 2017,Citizens for European Development of Bulgaria
@@ -2061,7 +2055,6 @@ year,parfam,countryname,environ,culture,equality,pervote,rile,electionDate,party
 2003-01-01,80,Croatia,7.3839999999999995,2.3209999999999997,0.633,7.155,-5.907,November 2003,Croatian Peasant Party
 2003-01-01,90,Croatia,0.0,0.0,8.824,,-5.8820000000000014,November 2003,Independent Democratic Serbian Party
 2003-01-01,95,Croatia,1.19,1.786,5.357,3.975,-24.405,November 2003,Croatian Party of Pensioners
-2007-01-01,999,Croatia,5.225000000000001,3.048,3.483,6.516,-25.689,November 2007,"Coalition of the Croatian Peasant Party, the Croatian Social-liberal Party and the Primorian-Goranski Union"
 2007-01-01,20,Croatia,0.221,0.0,4.857,31.234,-9.272,November 2007,Social Democratic Party of Croatia
 2007-01-01,70,Croatia,3.903,3.24,0.442,36.552,5.596,November 2007,Croatian Democratic Union
 2007-01-01,40,Croatia,1.286,0.0,2.251,6.8,-5.145,November 2007,Croatian People’s Party - Liberal Democrats
@@ -2083,7 +2076,6 @@ year,parfam,countryname,environ,culture,equality,pervote,rile,electionDate,party
 2015-01-01,95,Croatia,0.0,0.0,0.0,1.287,31.818,November 2015,Croatian Democratic Assembly of Slavonia and Baranja
 2015-01-01,95,Croatia,3.162,0.0,8.943,4.01,-41.012,November 2015,Human Shield
 2015-01-01,95,Croatia,1.639,0.0,16.393,3.1919999999999997,16.393,November 2015,Milan Bandić 365 - The Party of Labour and Solidarity
-2016-01-01,20,Croatia,,,,6.037999999999999,,September 2016,The Only Option Coalition
 2016-01-01,30,Croatia,3.835,3.2539999999999996,3.2539999999999996,32.795,-10.052,September 2016,People's coalition
 2016-01-01,40,Croatia,0.8370000000000001,1.6740000000000002,3.766,3.966,-32.218,September 2016,Coalition for Prime Minister
 2016-01-01,90,Croatia,4.093999999999999,1.754,1.17,2.224,14.035,September 2016,Even Stronger Istria Coalition
