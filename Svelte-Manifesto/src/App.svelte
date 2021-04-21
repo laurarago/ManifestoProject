@@ -8,7 +8,7 @@
 	let index = 0;
 	$:console.log(index);
 
-	let steps = [30, 0, 5, 10, 15, 20, 25];
+	let steps = [35, 0, 5, 10, 15, 20, 25];
 
 </script>
 
@@ -138,38 +138,46 @@
 
 		<div slot="foreground" style="padding: 0% 20% 10% 20%;">
             <section class="top">
-				<h3>By 2020, most political parties have mentioned environment protections in their manifestos.</h3>
-                <p><span class="ECO"><strong>Ecological parties</strong></span> and those that lean left, tend towards a higher number of mentions in their manifestos. However, right-leaning parties are also not far behind.
-				</p>
+				<div class="white-bg">
+					<h3>By 2020, most political parties have mentioned environment protections in their manifestos.</h3>
+					<p><span class="ECO"><strong>Ecological parties</strong></span> and those that <span class="LEFT-LEAN"><strong>lean left</strong></span> , tend towards a higher number of mentions in their manifestos. However, <span class="RIGHT-LEAN"><strong>right-leaning</strong></span> parties are also not far behind.</p>
+				</div>
 			</section>
             <section>
-				<h3>But, it all began to explode in the early&nbsp;90s.</h3>
-                <p>This was the year that ecological parties, even Romania and Croatia, saw a huge increase in mentions&nbsp;of environmental protection policies.
-				</p>
+				<div class="white-bg">
+					<h3>How did we get to here? In the 80s, there was very little mention of environmental policy.</h3>
+					<p>Prior to most of these countries in Europe taking part in democratic elections, there were few ecological parties.</p>
+				</div>
 			</section>
             <section>
-				<h3>In 1995, ecological parties began to drop their mentions.</h3>
-                <p>And, right-leaning parties began to increase slightly perhaps encouraged by conversations leading up to the Kyoto Protocol, signed in 1997. 
-				</p>
+				<div class="white-bg">
+					<h3>It all began to explode in the early&nbsp;90s.</h3>
+					<p>This was the year that <span class="ECO"><strong>ecological parties</strong></span>, even Romania and Croatia, saw a huge increase in mentions&nbsp;of environmental protection policies.</p>
+				</div>
 			</section>
             <section>
-				<h3>2005</h3>
-                <p>The majority of the parties have embrace the green agenda, except the far-right ones.
-				</p>
+				<div class="white-bg">
+					<h3>In 1995, ecological parties began to drop their mentions.</h3>
+					<p>And, right-leaning parties began to increase slightly perhaps encouraged by conversations leading up to the Kyoto Protocol, signed in 1997.</p>
+				</div>
 			</section>
             <section>
-				<h3>2000</h3>
-                <p>The majority of the parties have embrace the green agenda, except the far-right ones.
-				</p>
-			</section>
-            <section><h3>1995</h3>
-                <p>The majority of the parties have embrace the green agenda, except the far-right ones.
-				</p>
+				<div class="white-bg">
+					<h3>2005</h3>
+					<p>The majority of the parties have embrace the green agenda, except the far-right ones.</p>
+				</div>
 			</section>
             <section>
-				<h3>1990</h3>
-                <p>The majority of the parties have embrace the green agenda, except the far-right ones.
-				</p>
+				<div class="white-bg">
+					<h3>2005</h3>
+					<p>The majority of the parties have embrace the green agenda, except the far-right ones.</p>
+				</div>
+			</section>
+            <section>
+				<div class="white-bg">
+					<h3>2005</h3>
+					<p>The majority of the parties have embrace the green agenda, except the far-right ones.</p>
+				</div>
 			</section>
 		</div>
 	</Scroller>
@@ -200,7 +208,7 @@
 		color: #191919;
 		text-align: center;
 		padding: 1em;
-		padding-top: 35vh;
+		padding-top: 30vh;
 		margin: 0 0 2em 0;
 		padding-top:50vh;
 	}
@@ -222,11 +230,31 @@
 		text-align: left;
 	}
 
-	.ECO {
-		background-color:#3A828E;
+	.LEFT-LEAN  {
+		background-color:#e31a1c;
 		display: inline;
 		border-radius: 5px;
-		border: 2px solid #3A828E;
+		border: 2px solid #e31a1c;
+		color: white;
+		padding: 1px;
+
+	}
+
+	.RIGHT-LEAN {
+		background-color:#1f78b4;
+		display: inline;
+		border-radius: 5px;
+		border: 2px solid #1f78b4;
+		color: white;
+		padding: 1px;
+
+	}
+
+	.ECO {
+		background-color:#33a02c;
+		display: inline;
+		border-radius: 5px;
+		border: 2px solid #33a02c;
 		color: white;
 		padding: 1px;
 
@@ -236,7 +264,7 @@
 		width: 400px;
 		margin: 0 auto;
 		opacity: 1;
-		line-height: 20px;
+		line-height: 24px;
 		padding-bottom: 30px;
 		text-align: left;
 		font-size: 16px;
@@ -251,6 +279,13 @@
 		width: 400px;
 		margin: 0 auto;
 		padding-bottom: 15px;
+	}
+
+	.white-bg {
+		background-color: hsla(0,0%,100%,.8);
+		width: 400px;
+		margin: 0 auto;
+		padding: 10px;
 	}
 
 	@media (min-width: 640px) {

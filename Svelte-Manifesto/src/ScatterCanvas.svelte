@@ -16,19 +16,19 @@
 	const margin = { top: 10, right: 10, bottom: 25, left: 25 }
 	let width, height = 400;
 	let picked = null, click = false;
-	let colors = ["#72E5EF", "#088490", "#9AB9F9", "#1E438D", "#9072DB", "#1932BF", "#FBACF6", "#A91A90", "#EF66F0", "#6108E8"];
+	let colors = ["#33a02c", "#e31a1c", "#fb9a99", "#fdbf6f", "#a6cee3", "#1f78b4", "#1f78b4", "#b15928", "#999999", "#999999"];
 
 	const names = {
-		"ECO": "Environment party",
-		"LEF": "Socialist or other left parties",
-		"SOC": "Social democratic parties",
-		"LIB": "Liberal parties",
-		"CHR": "Christian democratic parties",
-		"CON": "Conservative parties",
-		"NAT": "Nationalist parties",
-		"AGR": "Agrarian parties",
-		"ETH": "Ethnic and regional parties",
-		"SIP": "Special issue parties",
+		"ECO": "Ecological parties",
+		"LEF": "Socialist or other left",
+		"SOC": "Social democratic",
+		"LIB": "Liberal",
+		"CHR": "Christian democratic",
+		"CON": "Conservative",
+		"NAT": "Nationalist",
+		"AGR": "Agrarian",
+		"ETH": "Ethnic and regional",
+		"SIP": "Special issue",
 	};
 
 	$: x = scaleLinear()
