@@ -2,8 +2,10 @@
 	import Scatter from './ScatterCanvas.svelte';
 	import Scroller from '@sveltejs/svelte-scroller'
 	export let groupedData;
+	export let groupedData2;
 
 	console.log(groupedData)
+	console.log(groupedData2)
 
 	let index = 0;
 	$:console.log(index);
@@ -186,6 +188,10 @@
 			<h3>After the big boom in the early 90s, it has taken another 30 years for some countries to increase their environmental protection policies</h3>
 			<p>This is a paragraph that I will write something in here to make it look nice and add some fancy fake SVGs.</p>
 	</div>
+	<!-- <Scatter 
+		data={groupedData2}
+		layout='fs'
+		step={steps[index]}/> -->
 </main>
 
 
