@@ -10,7 +10,7 @@
 	let index = 0;
 	$:console.log(index);
 
-	let steps = [35, 0, 5, 10, 15, 20, 25];
+	let steps = [35, 0, 5, 10, 20, 30, 35];
 
 </script>
 
@@ -154,31 +154,33 @@
             <section>
 				<div class="white-bg">
 					<h3>It all began to explode in the early&nbsp;90s.</h3>
-					<p>This was the year that <span class="ECO"><strong>ecological parties</strong></span>, even Romania and Croatia, saw a huge increase in mentions&nbsp;of environmental protection policies.</p>
+					<p>This was the year that <span class="ECO"><strong>ecological parties</strong></span>, even Romania and Croatia, saw a huge increase in mentions&nbsp;of environmental protection policies.
+					<br>Also in this year, the UN sets the 21 Agenda, a non-binding action plan of the United Nations with regard to sustainable development.</p>
 				</div>
 			</section>
             <section>
 				<div class="white-bg">
 					<h3>In 1995, ecological parties began to drop their mentions.</h3>
-					<p>And, right-leaning parties began to increase slightly perhaps encouraged by conversations leading up to the Kyoto Protocol, signed in 1997.</p>
+					<p>And, <span class="RIGHT-LEAN">right-leaning parties</span> began to increase slightly perhaps encouraged by conversations leading up to the Kyoto Protocol, signed in 1997.</p>
 				</div>
 			</section>
             <section>
 				<div class="white-bg">
-					<h3>2005</h3>
-					<p>The majority of the parties have embrace the green agenda, except the far-right ones.</p>
+					<h3>In the 21st century, the ecological parties continued to drop their mentions</h3>
+					<p>As they lowered their mentions to environmental policies, the rest of the political spectrum begun to develop the green agenda.
+					</p>
 				</div>
 			</section>
             <section>
 				<div class="white-bg">
-					<h3>2005</h3>
-					<p>The majority of the parties have embrace the green agenda, except the far-right ones.</p>
+					<h3>In 2015, the left parties substantially increase the green mentions</h3>
+					<p>Almost 20 years after the Kyoto Protocol, the <span class="LEFT-LEAN">lean left</span> parties embrace the green agenda while the lean right still resist to incorporate the green mentions in their manifestos.</p>
 				</div>
 			</section>
             <section>
 				<div class="white-bg">
-					<h3>2005</h3>
-					<p>The majority of the parties have embrace the green agenda, except the far-right ones.</p>
+					<h3>Back to 2020 the majority of the parties have embraced the green agenda </h3>
+					<p>Following the path of the the left parties, the <span class="RIGHT-LEAN">lean right parties</span> also start adding green mentions to their manifestos. The agrarian parties are the ones that still resist to include environmental policies.</p>
 				</div>
 			</section>
 		</div>
