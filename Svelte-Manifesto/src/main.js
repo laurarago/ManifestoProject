@@ -12,7 +12,7 @@ const groupedData = json('groupedData.json',  {encoding: 'utf8'})
         })
     });
 
-const groupedData2 = json('groupedData.json',  {encoding: 'utf8'})
+const groupedData2 = json('spain_groupedByPartyName.json',  {encoding: 'utf8'})
 	.then(data => { const app = new App({
             target: document.body,
             props: {

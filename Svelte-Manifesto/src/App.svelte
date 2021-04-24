@@ -1,11 +1,13 @@
 <script>
 	import Scatter from './ScatterCanvas.svelte';
 	import Scroller from '@sveltejs/svelte-scroller'
+	import Exploratory from './ExploratoryCanvas.svelte'
 	export let groupedData;
 	export let groupedData2;
 
 	console.log(groupedData)
 	console.log(groupedData2)
+	
 
 	let index = 0;
 	$:console.log(index);
@@ -187,9 +189,17 @@
 	</Scroller>
 		</div>
 	<div>
-			<h3>After the big boom in the early 90s, it has taken another 30 years for some countries to increase their environmental protection policies</h3>
-			<p>This is a paragraph that I will write something in here to make it look nice and add some fancy fake SVGs.</p>
+			<p>After the big boom in the early 90s, it has taken another 30 years for some countries to increase their environmental protection policies</p>
+			<p>This is a paragraph that I will write something in here to make it look nice.</p>
+			<p>Here I will put a svg chart to make it look nice</p>
+			<p>This is a paragraph that I will write something in here to make it look nice.</p>
+			<p>This is a paragraph that I will write something in here to make it look nice.</p>
 	</div>
+	<!-- This is a try to create another scatterplot
+		<Exploratory 
+		data={groupedData2}
+		layout='fs'/>-->
+
 	<!-- <Scatter 
 		data={groupedData2}
 		layout='fs'
