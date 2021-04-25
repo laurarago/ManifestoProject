@@ -8,8 +8,8 @@
   </script>
 
 <RangeSlider
-		min={1993}
-    max={2019}
+		min={1990}
+    max={2020}
     step={1}
     float={true}
     pips first='label' 
