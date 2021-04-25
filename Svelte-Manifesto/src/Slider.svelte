@@ -22,10 +22,10 @@
 />
 
 <style>
-	:global(body) { 
+	/* :global(body) { 
 		padding: 50px;
 		width: 60%;
 	  font-family: Barlow, sans-serif;
 		font-size: 0.5em;
-	}
+	} */
 </style>
