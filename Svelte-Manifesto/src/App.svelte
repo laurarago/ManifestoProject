@@ -13,6 +13,10 @@
 	$:console.log(index);
 
 	let steps = [35, 0, 5, 10, 20, 30, 35];
+	let steps2 = [1, 1, 3, 4, 5];
+	let scatterStep;
+
+
 
 </script>
 
@@ -194,11 +198,14 @@
 			<p>Here I will put a svg chart to make it look nice</p>
 			<p>This is a paragraph that I will write something in here to make it look nice.</p>
 			<p>This is a paragraph that I will write something in here to make it look nice.</p>
-	</div>
-	<!-- This is a try to create another scatterplot
-		<Exploratory 
-		data={groupedData2}
-		layout='fs'/>-->
+	
+			<button on:click={() => scatterStep = 0}>Arrange like so</button>
+			<button on:click={() => scatterStep = 1}>Rearrange again</button>
+		<!-- 	<Exploratory 
+				data={groupedData2}
+				layout='fs'
+				step2={scatterStep}/></div>-->
+		
 
 	<!-- <Scatter 
 		data={groupedData2}
