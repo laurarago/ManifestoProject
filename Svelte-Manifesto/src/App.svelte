@@ -133,7 +133,6 @@
 	</div>
 
 	<div class="text-container">
-		<!-- <p>In the charts below, you will see how support for environmental protections have grown, and waivered, over the years. The data is taken from the political manifestos of countries in the European Union.</p> -->
 	</div>
 	<div class="no-events">
 	<Scroller top={0} bottom={1} bind:index>
@@ -192,12 +191,255 @@
 		</div>
 	</Scroller>
 		</div>
-	<div>
-			<p>After the big boom in the early 90s, it has taken another 30 years for some countries to increase their environmental protection policies</p>
-			<p>This is a paragraph that I will write something in here to make it look nice.</p>
-			<p>Here I will put a svg chart to make it look nice</p>
-			<p>This is a paragraph that I will write something in here to make it look nice.</p>
-			<p>This is a paragraph that I will write something in here to make it look nice.</p>
+	<div class="text-content">
+			<p>In the last 30 years, Europe has gone from completely ignoring the climate agenda to incorporating it into its speeches and political manifestos. In 1985, 10 years before the Kyoto protocol, there was almost no concern for the environment.</p> 
+			<p>According to the calculations made from the Manifesto Project data, in that year the mentions of environmental policies in the manifestos of the political parties barely totaled 257.</p>
+		
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 689.36 394.55">
+				<defs>
+				  <style>
+					.a, .f, .k {
+					  fill: none;
+					}
+			  
+					.a {
+					  stroke: #eee;
+					  stroke-width: 1.5px;
+					}
+			  
+					.b, .c, .e {
+					  isolation: isolate;
+					}
+			  
+					.b {
+					  font-size: 14px;
+					  fill: #aaa;
+					  font-family: BarlowCondensed-Regular, Barlow Condensed;
+					}
+			  
+					.d {
+					  letter-spacing: -0.03em;
+					}
+			  
+					.e {
+					  fill: #33a02c;
+					  opacity: 0.9;
+					}
+			  
+					.g {
+					  font-size: 28px;
+					  font-family: BarlowCondensed-Bold, Barlow Condensed;
+					  font-weight: 700;
+					}
+			  
+					.h {
+					  font-family: BarlowCondensed-Light, Barlow Condensed;
+					  font-weight: 300;
+					}
+			  
+					.i {
+					  letter-spacing: 0em;
+					}
+			  
+					.j {
+					  letter-spacing: 0em;
+					}
+			  
+					.k {
+					  stroke: #231f20;
+					}
+			  
+					.l {
+					  fill: #231f20;
+					}
+				  </style>
+				</defs>
+				<g>
+				  <g>
+					<line class="a" x1="46.34" y1="371.69" x2="681" y2="371.69"/>
+					<line class="a" x1="46.34" y1="127.46" x2="681" y2="127.46"/>
+				  </g>
+				  <g>
+					<g>
+					  <line class="a" x1="58.7" y1="371.69" x2="58.7" y2="376.62"/>
+					  <line class="a" x1="99.91" y1="371.69" x2="99.91" y2="376.62"/>
+					  <path class="a" d="M113.1,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M121.34,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M129.59,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M137.83,378.17" transform="translate(-4.95 -6.48)"/>
+					  <line class="a" x1="141.12" y1="371.69" x2="141.12" y2="376.62"/>
+					  <path class="a" d="M154.31,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M162.55,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M170.8,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M179,378.17" transform="translate(-4.95 -6.48)"/>
+					  <line class="a" x1="182.34" y1="371.69" x2="182.34" y2="376.62"/>
+					  <path class="a" d="M195.52,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M203.77,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M212,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M220.25,378.17" transform="translate(-4.95 -6.48)"/>
+					  <line class="a" x1="223.55" y1="371.69" x2="223.55" y2="376.62"/>
+					  <path class="a" d="M236.74,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M245,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M253.22,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M261.46,378.17" transform="translate(-4.95 -6.48)"/>
+					  <line class="a" x1="264.76" y1="371.69" x2="264.76" y2="376.62"/>
+					  <path class="a" d="M278,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M286.19,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M294.43,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M302.67,378.17" transform="translate(-4.95 -6.48)"/>
+					  <line class="a" x1="305.97" y1="371.69" x2="305.97" y2="376.62"/>
+					  <path class="a" d="M319.16,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M327.4,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M335.64,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M343.89,378.17" transform="translate(-4.95 -6.48)"/>
+					  <line class="a" x1="347.18" y1="371.69" x2="347.18" y2="376.62"/>
+					  <path class="a" d="M360.37,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M368.61,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M376.86,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M385.1,378.17" transform="translate(-4.95 -6.48)"/>
+					  <line class="a" x1="388.39" y1="371.69" x2="388.39" y2="376.62"/>
+					  <path class="a" d="M401.58,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M409.82,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M418.07,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M426.31,378.17" transform="translate(-4.95 -6.48)"/>
+					  <line class="a" x1="429.61" y1="371.69" x2="429.61" y2="376.62"/>
+					  <path class="a" d="M442.79,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M451,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M459.28,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M467.52,378.17" transform="translate(-4.95 -6.48)"/>
+					  <line class="a" x1="470.82" y1="371.69" x2="470.82" y2="376.62"/>
+					  <line class="a" x1="512.03" y1="371.69" x2="512.03" y2="376.62"/>
+					  <path class="a" d="M525.22,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M533.46,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M541.7,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M549.94,378.17" transform="translate(-4.95 -6.48)"/>
+					  <line class="a" x1="553.24" y1="371.69" x2="553.24" y2="376.62"/>
+					  <path class="a" d="M566.43,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M574.67,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M582.91,378.17" transform="translate(-4.95 -6.48)"/>
+					  <path class="a" d="M591.16,378.17" transform="translate(-4.95 -6.48)"/>
+					  <line class="a" x1="594.45" y1="371.69" x2="594.45" y2="376.62"/>
+					  <text x="-4.95" y="-6.48"/>        <line class="a" x1="635.66" y1="371.69" x2="635.66" y2="376.62"/>
+					  <g>
+						<line class="a" x1="676.88" y1="371.69" x2="676.88" y2="376.62"/>
+						<text class="b" transform="translate(658.19 388.98) scale(1.32 1)">2020</text>
+						<text class="b" transform="translate(578.55 388.98) scale(1.32 1)">2010</text>
+						<text class="b" transform="translate(496.9 388.98) scale(1.32 1)">2000</text>
+						<text class="b" transform="translate(411.95 388.98) scale(1.32 1)">1990</text>
+						<text class="b" transform="translate(332.06 388.98) scale(1.32 1)">1980</text>
+						<text class="b" transform="translate(247.57 388.98) scale(1.32 1)">1970</text>
+						<text class="b" transform="translate(165.15 388.98) scale(1.32 1)">1960</text>
+						<text class="b" transform="translate(83.54 390.01) scale(1.32 1)">1950</text>
+						<g class="c">
+						  <text class="c" x="-4.95" y="-6.48"/>          </g>
+					  </g>
+					</g>
+					<g>
+					  <g>
+						<line class="a" x1="46.34" y1="371.69" x2="5.34" y2="371.69"/>
+						<text class="b" transform="translate(4.65 369.02) scale(1.32 1)">0</text>
+					  </g>
+					  <g>
+						<line class="a" x1="46.34" y1="127.46" x2="5.34" y2="127.46"/>
+						<g class="c">
+						  <text class="b" transform="translate(0.85 122.8) scale(1.32 1)">500<tspan class="d" x="18.16" y="0">,</tspan><tspan x="20.15" y="0">000</tspan></text>
+						</g>
+					  </g>
+					</g>
+				  </g>
+				</g>
+				<g>
+				  <path class="e" d="M52.31,378.17h0Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M60.56,378.17h0Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M68.8,378.15H75v0H68.8Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M77,378.15h6.18v0H77Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M85.28,376.09h6.18v2.08H85.28Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M93.53,375.4h6.18v2.77H93.53Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M101.77,375.65H108v2.52h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M110,375.65h6.18v2.52H110Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M118.25,378.16h0Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M126.49,378.16h0Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M134.74,378.16h0Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M143,378.16h0Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M151.22,375.86h6.18v2.31h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M159.46,375.86h6.19v2.31h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M167.71,372.25h6.18v5.92h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M176,375.9h6.18v2.27H176Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M184.19,376.2h6.18v2h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M192.43,368.55h6.19v9.62h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M200.68,367.53h6.18v10.64h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M208.92,374.07h6.18v4.1h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M217.16,368.87h6.18v9.3h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M225.4,359h6.18v19.13H225.4Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M233.65,376.89h6.18v1.28h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M241.89,372.28h6.18v5.89h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M250.13,372.35h6.18v5.82h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M258.37,372.37h6.18v5.8h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M266.61,354.9h6.19v23.27h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M274.86,332.61H281v45.56h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M283.1,316h6.18v62.18H283.1Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M291.34,340.32h6.18v37.85h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M299.58,299.44h6.19v78.73h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M307.83,373H314v5.2h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M316.07,313.62h6.18v64.55h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M324.31,299h6.18v79.2h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M332.55,304.54h6.18v73.63h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M340.8,368.42H347v9.75H340.8Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M349,311.41h6.18v66.76H349Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M357.28,316.08h6.18v62.09h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M365.52,310.7h6.18v67.47h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M373.76,239.1H380V378.17h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M382,267.59h6.18V378.17H382Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M390.25,252.25h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M398.49,229.66h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M406.73,146.83h6.19V378.17h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M415,183.11h6.18V378.17H415Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M423.22,204.58h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M431.46,234.35h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M439.7,263.83h6.19V378.17H439.7Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M448,65.09h6.18V378.17H448Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M456.19,122.35h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M464.43,170.07h6.18v208.1h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M472.67,79.4h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M480.92,42.44h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M489.16,114.13h6.18v264h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M497.4,83.77h6.18v294.4H497.4Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M505.64,139.18h6.18v239h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M513.88,134.32h6.19V378.17h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M522.13,117.3h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M530.37,222.88h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M538.61,100.18h6.18v278h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M546.85,181.29H553V378.17h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M555.1,175h6.18V378.17H555.1Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M563.34,83.33h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M571.58,231.14h6.18v147h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M579.82,268H586V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M588.07,200.35h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M596.31,38.92h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M604.55,181.38h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M612.79,245.11H619V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M621,305.42h6.19v72.75H621Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M629.28,157.27h6.18v220.9h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M637.52,321.65h6.18v56.52h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M645.76,293.47h6.18v84.7h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M654,120.82h6.19V378.17H654Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M662.25,219h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M670.49,250.23h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="e" d="M678.73,250.23h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				</g>
+				<line class="f" x2="8.8"/>
+				<text class="g" transform="translate(351.14 58.61) scale(1.04 1)">1997<tspan class="h"><tspan x="-91.61" y="21">K</tspan><tspan class="i" x="-79.24" y="21">y</tspan><tspan x="-69.47" y="21">oto P</tspan><tspan class="j" x="-21.56" y="21">r</tspan><tspan x="-13.69" y="21">otocol</tspan></tspan></text>
+				<g>
+				  <path class="k" d="M395.4,35.78s42.49-20.14,76-7.21" transform="translate(-4.95 -6.48)"/>
+				  <polygon class="l" points="463.04 26.13 472.96 25.1 467.12 17.02 463.04 26.13"/>
+				</g>
+			  </svg>
+			  
+						  
+			<p>In 2017, exactly 20 years after the Kyoto agreement, the green agenda has penetrated the manifestos of practically all political families.
+			Mentions of the green agenda have doubled and now reach the total sum of 526. This increase, however, is still not enough to solve the challenges posed by climate change for the next century.			</p>
+			<p>Explore the next chart to see how other politicals trends have modified european manifestos in the last 30 years</p>
+
 	
 			<button on:click={() => scatterStep = 0}>Arrange like so</button>
 			<button on:click={() => scatterStep = 1}>Rearrange again</button>
@@ -218,11 +460,10 @@
 	main {
 		text-align: center;
 		padding: 1em;
-		max-width: 240px;
 		margin: 0 auto;
 	}
 
-	svg {
+	.intro svg {
 		width: 200px;
 		margin: 0 auto;
 	}
@@ -244,7 +485,6 @@
 
 	.deck {
 		opacity: 0.6;
-		width: 600px;
 		margin: 0 auto;
 		line-height: 34px;
 		text-align: center;
@@ -293,6 +533,23 @@
 		padding-bottom: 30px;
 		text-align: left;
 		font-size: 16px;
+
+	}
+
+	.text-content p {
+		width: 500px;
+		margin: 0 auto;
+		opacity: 1;
+		line-height: 24px;
+		padding-bottom: 30px;
+		text-align: left;
+		font-size: 16px;
+		text-align: justify;
+	}
+
+	.text-content svg {
+	width: 350px;
+	margin-bottom: 5vh;
 	}
 
 	.no-events {
@@ -313,9 +570,11 @@
 		padding: 10px;
 	}
 
-	@media (min-width: 640px) {
+	@media (min-width: 200px) {
 		main {
-			max-width: none;
+			text-align: center;
+			padding: 1em;
+			margin: auto;
 		}
 	}
 </style>

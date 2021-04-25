@@ -34,7 +34,7 @@
 			context.fillStyle = "rgba(0, 0, 0, 0.75)";
 			context.fillText("FAR LEFT", scale(-34),0);
 			context.fillText("CENTER-LEFT", scale(-15),0);
-			context.fillText("FAR RIGHT", scale(24),0);
+			context.fillText("FAR RIGHT", scale(22),0);
 			context.fillText("CENTER-RIGHT", scale(5),0);
 
 		} 
