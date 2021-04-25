@@ -144,7 +144,7 @@ import { create_in_transition } from 'svelte/internal';
 				step={steps[index]}/>
 		</div>
 
-		<div slot="foreground" style="padding: 0% 20% 10% 20%;">
+		<div slot="foreground" class = "foreGround">
             <section class="top">
 				<div class="white-bg">
 					<h3>By 2020, most political parties have mentioned environment protections, or green policies, in their manifestos.</h3>
@@ -193,7 +193,7 @@ import { create_in_transition } from 'svelte/internal';
 	</Scroller>
 		</div>
 	<div class="text-content">
-			<p>over the last 30 years, Europe has gone from completely ignoring the climate agenda to incorporating it into its speeches and political manifestos. In 1985, 10 years before the Kyoto protocol, there was almost no mentions of green agenda policies.</p> 
+			<p>Over the last 30 years, Europe has gone from completely ignoring the climate agenda to incorporating it into its speeches and political manifestos. In 1985, 10 years before the Kyoto protocol, there was almost no mentions of green agenda policies.</p> 
 			<p>According to the data collected by the <a href="https://manifesto-project.wzb.eu/">Manifesto Project</a>, in that year the mentions of environmental policies in the manifestos of the political parties barely totaled 257.</p>
 		
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 682.43 400.4">
@@ -447,23 +447,21 @@ import { create_in_transition } from 'svelte/internal';
 			layout='fs'
 			step={steps[index]}/> -->
 	</div>
-	<div class="footer-methodology">
-		<h1>Methodology</h1>
-		<p>For this report we've used the data from Manifesto Project that gathers and analyze political manifestos from over 1,000 parties from 1945 until today and covers 50 different countries on five continents.
-		<p>We have analysed the data by grouping across political families in order to compare changes towards the green agenda among parties of similar ideologies. The analysis involves only those countries who are currently part of the European Union.
-		<p>The data analyzes how European parties have been giving more space to green policies in their manifestos. You can see the full dataset in our <a href="https://github.com/laurarago/ManifestoProject">Github repository</a> or you can also download the free dataset at <a href="https://manifesto-project.wzb.eu/">The Manifesto Project</a>.</p>
-		<h1>Ethical considerations</h1>
-		<p>When dealing with a dataset that is encoding words, it is important to take into consideration the way in which the data itself was encoded. We researched the origins of the dataset and their methodology to ensure there was no potential bias or any need for us to to de-bias in our analysis later. We were quite happy to see that each sentence of a manifesto was broken down into 'quasi-sentences' so that they could be encoded separately as one major concern was the political dialogue has a tendency to be contradictory within a sentence or phrase.</p>
-		<p>Another aspect of note, was the level of detail with the people tasked with encoding the 'quasi-sentences' into subjects or groupings. Each were handpicked for their country and were therefore, sensitive to the political intricacies of their location. They even have to pass a test in order to qualify.</p>
-		</div>
-	
-	<div class = "credits">
-		<p>This project was created by students Ànnia, <a href="https://www.linkedin.com/in/larago/">Laura Aragó</a>
-			and <a href="https://www.linkedin.com/in/rebeccapazos/">Rebecca Pazos</a> for the <a href="http://www.mastervisualtoolsudg.com/">Masters in Visual Tools to Empower Citizens</a> with the University of Girona. They were assisted by mentors <a href="http://xocas.com/">Xaquín GV</a> and <a href="https://www.linkedin.com/in/mosbrn/">Matt Osborn</a>.</p>
-	</div>
-		
 </main>
+<div class="footer-methodology">
+	<h1>Methodology</h1>
+	<p>For this report we've used the data from Manifesto Project that gathers and analyze political manifestos from over 1,000 parties from 1945 until today and covers 50 different countries on five continents.
+	<p>We have analysed the data by grouping across political families in order to compare changes towards the green agenda among parties of similar ideologies. The analysis involves only those countries who are currently part of the European Union.
+	<p>The data analyzes how European parties have been giving more space to green policies in their manifestos. You can see the full dataset in our <a href="https://github.com/laurarago/ManifestoProject">Github repository</a> or you can also download the free dataset at <a href="https://manifesto-project.wzb.eu/">The Manifesto Project</a>.</p>
+	<h1>Ethical considerations</h1>
+	<p>When dealing with a dataset that is encoding words, it is important to take into consideration the way in which the data itself was encoded. We researched the origins of the dataset and their methodology to ensure there was no potential bias or any need for us to to de-bias in our analysis later. We were quite happy to see that each sentence of a manifesto was broken down into 'quasi-sentences' so that they could be encoded separately as one major concern was the political dialogue has a tendency to be contradictory within a sentence or phrase.</p>
+	<p class = "last-par">Another aspect of note, was the level of detail with the people tasked with encoding the 'quasi-sentences' into subjects or groupings. Each were handpicked for their country and were therefore, sensitive to the political intricacies of their location. They even have to pass a test in order to qualify.</p>
+	</div>
 
+<div class = "credits">
+	<p>This project was created by students Ànnia, <a href="https://www.linkedin.com/in/larago/">Laura Aragó</a>
+		and <a href="https://www.linkedin.com/in/rebeccapazos/">Rebecca Pazos</a> for the <a href="http://www.mastervisualtoolsudg.com/">Masters in Visual Tools to Empower Citizens</a> with the University of Girona. They were assisted by mentors <a href="http://xocas.com/">Xaquín GV</a> and <a href="https://www.linkedin.com/in/mosbrn/">Matt Osborn</a>.</p>
+</div>
 
 <style>
 	main {
@@ -484,7 +482,6 @@ import { create_in_transition } from 'svelte/internal';
 		color: #191919;
 		text-align: center;
 		padding: 1em;
-		padding-top: 30vh;
 		margin: 0 0 2em 0;
 		padding-top:50vh;
 	}
@@ -500,6 +497,10 @@ import { create_in_transition } from 'svelte/internal';
 	h3 {
 		text-align: left;
 	}
+
+	.foreGround {
+		padding: 0% 20% 10% 20%;
+		}
 
 	.LEFT-LEAN  {
 		background-color:#e31a1c;
@@ -532,7 +533,7 @@ import { create_in_transition } from 'svelte/internal';
 	}
 
 	p {
-		max-width: 600px;
+		max-width: 500px;
 		margin: 0 auto;
 		opacity: 1;
 		line-height: 24px;
@@ -542,8 +543,12 @@ import { create_in_transition } from 'svelte/internal';
 
 	}
 
+	.last-par {
+		padding-bottom: 4vh;
+	}
+
 	.text-content p {
-		width: 500px;
+		max-width: 500px;
 		margin: 0 auto;
 		opacity: 1;
 		line-height: 24px;
@@ -562,16 +567,22 @@ import { create_in_transition } from 'svelte/internal';
 		pointer-events:none;
 	}
 
+	h1 {
+		max-width: 500px;
+		margin: 20px auto;
+		text-align: center;
+	}
+
 	h3 {
 		font-size: 1.17em;
-		width: 400px;
+		max-width: 500px;
 		margin: 0 auto;
 		padding-bottom: 15px;
 	}
 
 	.white-bg {
 		background-color: hsla(0,0%,95%,.8);
-		width: 400px;
+		max-width: 500px;
 		margin: 0 auto;
 		padding: 10px;
 	}
@@ -584,8 +595,7 @@ import { create_in_transition } from 'svelte/internal';
 
 	.credits {
 		background-color: #b9b9b9;
-		width: 100%;
-		padding-top: 30px;
+		padding: 30px 0 30px 0;
 	}
 
 	@media (min-width: 200px) {
@@ -595,4 +605,27 @@ import { create_in_transition } from 'svelte/internal';
 			margin: 0 auto;
 		}
 	}
+
+	@media only screen and (max-width:600px){
+		.footer-methodology h1 {
+			padding: 2vh 3vw 2vh 3vw;
+		} 
+
+		.footer-methodology p {
+			padding: 2vh 3vw 2vh 3vw;
+		}
+		
+		.credits {
+		padding: 2vh 3vw 2vh 3vw;
+		}
+		
+		.credits p {
+			max-width: 400px;
+		}
+
+		.foreGround {
+			padding: 0%;
+		}
+	}	
+
 </style>
