@@ -195,10 +195,10 @@
 			<p>In the last 30 years, Europe has gone from completely ignoring the climate agenda to incorporating it into its speeches and political manifestos. In 1985, 10 years before the Kyoto protocol, there was almost no concern for the environment.</p> 
 			<p>According to the calculations made from the Manifesto Project data, in that year the mentions of environmental policies in the manifestos of the political parties barely totaled 257.</p>
 		
-			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 689.36 394.55">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 682.43 400.4">
 				<defs>
 				  <style>
-					.a, .f, .k {
+					.a, .g, .l {
 					  fill: none;
 					}
 			  
@@ -207,14 +207,17 @@
 					  stroke-width: 1.5px;
 					}
 			  
-					.b, .c, .e {
+					.b, .c, .f {
 					  isolation: isolate;
 					}
 			  
 					.b {
-					  font-size: 14px;
-					  fill: #aaa;
+					  font-size: 21px;
 					  font-family: BarlowCondensed-Regular, Barlow Condensed;
+					}
+			  
+					.b, .m {
+					  fill: #231f20;
 					}
 			  
 					.d {
@@ -222,23 +225,23 @@
 					}
 			  
 					.e {
+					  letter-spacing: 0em;
+					}
+			  
+					.f {
 					  fill: #33a02c;
 					  opacity: 0.9;
 					}
 			  
-					.g {
+					.h {
 					  font-size: 28px;
 					  font-family: BarlowCondensed-Bold, Barlow Condensed;
 					  font-weight: 700;
 					}
 			  
-					.h {
+					.i {
 					  font-family: BarlowCondensed-Light, Barlow Condensed;
 					  font-weight: 300;
-					}
-			  
-					.i {
-					  letter-spacing: 0em;
 					}
 			  
 					.j {
@@ -246,11 +249,11 @@
 					}
 			  
 					.k {
-					  stroke: #231f20;
+					  letter-spacing: 0em;
 					}
 			  
 					.l {
-					  fill: #231f20;
+					  stroke: #231f20;
 					}
 				  </style>
 				</defs>
@@ -322,14 +325,8 @@
 					  <text x="-4.95" y="-6.48"/>        <line class="a" x1="635.66" y1="371.69" x2="635.66" y2="376.62"/>
 					  <g>
 						<line class="a" x1="676.88" y1="371.69" x2="676.88" y2="376.62"/>
-						<text class="b" transform="translate(658.19 388.98) scale(1.32 1)">2020</text>
-						<text class="b" transform="translate(578.55 388.98) scale(1.32 1)">2010</text>
-						<text class="b" transform="translate(496.9 388.98) scale(1.32 1)">2000</text>
-						<text class="b" transform="translate(411.95 388.98) scale(1.32 1)">1990</text>
-						<text class="b" transform="translate(332.06 388.98) scale(1.32 1)">1980</text>
-						<text class="b" transform="translate(247.57 388.98) scale(1.32 1)">1970</text>
-						<text class="b" transform="translate(165.15 388.98) scale(1.32 1)">1960</text>
-						<text class="b" transform="translate(83.54 390.01) scale(1.32 1)">1950</text>
+						<text class="b" transform="translate(635.66 394.98) scale(1.32 1)">2020</text>
+						<text class="b" transform="translate(83.54 396.01) scale(1.32 1)">1950</text>
 						<g class="c">
 						  <text class="c" x="-4.95" y="-6.48"/>          </g>
 					  </g>
@@ -341,99 +338,98 @@
 					  </g>
 					  <g>
 						<line class="a" x1="46.34" y1="127.46" x2="5.34" y2="127.46"/>
-						<g class="c">
-						  <text class="b" transform="translate(0.85 122.8) scale(1.32 1)">500<tspan class="d" x="18.16" y="0">,</tspan><tspan x="20.15" y="0">000</tspan></text>
-						</g>
+						<text class="b" transform="translate(0.85 122.8) scale(1.32 1)">500<tspan class="d" x="27.24" y="0">,</tspan><tspan class="e" x="30.22" y="0">000</tspan></text>
 					  </g>
 					</g>
 				  </g>
 				</g>
 				<g>
-				  <path class="e" d="M52.31,378.17h0Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M60.56,378.17h0Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M68.8,378.15H75v0H68.8Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M77,378.15h6.18v0H77Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M85.28,376.09h6.18v2.08H85.28Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M93.53,375.4h6.18v2.77H93.53Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M101.77,375.65H108v2.52h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M110,375.65h6.18v2.52H110Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M118.25,378.16h0Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M126.49,378.16h0Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M134.74,378.16h0Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M143,378.16h0Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M151.22,375.86h6.18v2.31h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M159.46,375.86h6.19v2.31h-6.19Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M167.71,372.25h6.18v5.92h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M176,375.9h6.18v2.27H176Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M184.19,376.2h6.18v2h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M192.43,368.55h6.19v9.62h-6.19Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M200.68,367.53h6.18v10.64h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M208.92,374.07h6.18v4.1h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M217.16,368.87h6.18v9.3h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M225.4,359h6.18v19.13H225.4Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M233.65,376.89h6.18v1.28h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M241.89,372.28h6.18v5.89h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M250.13,372.35h6.18v5.82h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M258.37,372.37h6.18v5.8h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M266.61,354.9h6.19v23.27h-6.19Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M274.86,332.61H281v45.56h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M283.1,316h6.18v62.18H283.1Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M291.34,340.32h6.18v37.85h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M299.58,299.44h6.19v78.73h-6.19Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M307.83,373H314v5.2h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M316.07,313.62h6.18v64.55h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M324.31,299h6.18v79.2h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M332.55,304.54h6.18v73.63h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M340.8,368.42H347v9.75H340.8Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M349,311.41h6.18v66.76H349Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M357.28,316.08h6.18v62.09h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M365.52,310.7h6.18v67.47h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M373.76,239.1H380V378.17h-6.19Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M382,267.59h6.18V378.17H382Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M390.25,252.25h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M398.49,229.66h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M406.73,146.83h6.19V378.17h-6.19Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M415,183.11h6.18V378.17H415Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M423.22,204.58h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M431.46,234.35h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M439.7,263.83h6.19V378.17H439.7Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M448,65.09h6.18V378.17H448Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M456.19,122.35h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M464.43,170.07h6.18v208.1h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M472.67,79.4h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M480.92,42.44h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M489.16,114.13h6.18v264h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M497.4,83.77h6.18v294.4H497.4Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M505.64,139.18h6.18v239h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M513.88,134.32h6.19V378.17h-6.19Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M522.13,117.3h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M530.37,222.88h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M538.61,100.18h6.18v278h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M546.85,181.29H553V378.17h-6.19Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M555.1,175h6.18V378.17H555.1Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M563.34,83.33h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M571.58,231.14h6.18v147h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M579.82,268H586V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M588.07,200.35h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M596.31,38.92h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M604.55,181.38h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M612.79,245.11H619V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M621,305.42h6.19v72.75H621Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M629.28,157.27h6.18v220.9h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M637.52,321.65h6.18v56.52h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M645.76,293.47h6.18v84.7h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M654,120.82h6.19V378.17H654Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M662.25,219h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M670.49,250.23h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
-				  <path class="e" d="M678.73,250.23h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M52.31,378.17h0Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M60.56,378.17h0Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M68.8,378.15H75v0H68.8Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M77,378.15h6.18v0H77Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M85.28,376.09h6.18v2.08H85.28Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M93.53,375.4h6.18v2.77H93.53Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M101.77,375.65H108v2.52h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M110,375.65h6.18v2.52H110Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M118.25,378.16h0Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M126.49,378.16h0Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M134.74,378.16h0Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M143,378.16h0Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M151.22,375.86h6.18v2.31h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M159.46,375.86h6.19v2.31h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M167.71,372.25h6.18v5.92h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M176,375.9h6.18v2.27H176Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M184.19,376.2h6.18v2h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M192.43,368.55h6.19v9.62h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M200.68,367.53h6.18v10.64h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M208.92,374.07h6.18v4.1h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M217.16,368.87h6.18v9.3h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M225.4,359h6.18v19.13H225.4Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M233.65,376.89h6.18v1.28h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M241.89,372.28h6.18v5.89h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M250.13,372.35h6.18v5.82h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M258.37,372.37h6.18v5.8h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M266.61,354.9h6.19v23.27h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M274.86,332.61H281v45.56h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M283.1,316h6.18v62.18H283.1Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M291.34,340.32h6.18v37.85h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M299.58,299.44h6.19v78.73h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M307.83,373H314v5.2h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M316.07,313.62h6.18v64.55h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M324.31,299h6.18v79.2h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M332.55,304.54h6.18v73.63h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M340.8,368.42H347v9.75H340.8Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M349,311.41h6.18v66.76H349Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M357.28,316.08h6.18v62.09h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M365.52,310.7h6.18v67.47h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M373.76,239.1H380V378.17h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M382,267.59h6.18V378.17H382Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M390.25,252.25h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M398.49,229.66h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M406.73,146.83h6.19V378.17h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M415,183.11h6.18V378.17H415Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M423.22,204.58h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M431.46,234.35h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M439.7,263.83h6.19V378.17H439.7Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M448,65.09h6.18V378.17H448Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M456.19,122.35h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M464.43,170.07h6.18v208.1h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M472.67,79.4h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M480.92,42.44h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M489.16,114.13h6.18v264h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M497.4,83.77h6.18v294.4H497.4Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M505.64,139.18h6.18v239h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M513.88,134.32h6.19V378.17h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M522.13,117.3h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M530.37,222.88h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M538.61,100.18h6.18v278h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M546.85,181.29H553V378.17h-6.19Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M555.1,175h6.18V378.17H555.1Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M563.34,83.33h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M571.58,231.14h6.18v147h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M579.82,268H586V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M588.07,200.35h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M596.31,38.92h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M604.55,181.38h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M612.79,245.11H619V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M621,305.42h6.19v72.75H621Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M629.28,157.27h6.18v220.9h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M637.52,321.65h6.18v56.52h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M645.76,293.47h6.18v84.7h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M654,120.82h6.19V378.17H654Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M662.25,219h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M670.49,250.23h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
+				  <path class="f" d="M678.73,250.23h6.18V378.17h-6.18Z" transform="translate(-4.95 -6.48)"/>
 				</g>
-				<line class="f" x2="8.8"/>
-				<text class="g" transform="translate(351.14 58.61) scale(1.04 1)">1997<tspan class="h"><tspan x="-91.61" y="21">K</tspan><tspan class="i" x="-79.24" y="21">y</tspan><tspan x="-69.47" y="21">oto P</tspan><tspan class="j" x="-21.56" y="21">r</tspan><tspan x="-13.69" y="21">otocol</tspan></tspan></text>
+				<line class="g" x2="8.8"/>
+				<text class="h" transform="translate(351.14 58.61) scale(1.04 1)">1997<tspan class="i"><tspan x="-91.61" y="23">K</tspan><tspan class="j" x="-79.24" y="23">y</tspan><tspan x="-69.47" y="23">oto P</tspan><tspan class="k" x="-21.56" y="23">r</tspan><tspan x="-13.69" y="23">otocol</tspan></tspan></text>
 				<g>
-				  <path class="k" d="M395.4,35.78s42.49-20.14,76-7.21" transform="translate(-4.95 -6.48)"/>
-				  <polygon class="l" points="463.04 26.13 472.96 25.1 467.12 17.02 463.04 26.13"/>
+				  <path class="l" d="M395.4,35.78s42.49-20.14,76-7.21" transform="translate(-4.95 -6.48)"/>
+				  <polygon class="m" points="463.04 26.13 472.96 25.1 467.12 17.02 463.04 26.13"/>
 				</g>
 			  </svg>
+			  
 			  
 						  
 			<p>In 2017, exactly 20 years after the Kyoto agreement, the green agenda has penetrated the manifestos of practically all political families.
