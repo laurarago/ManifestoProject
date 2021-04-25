@@ -2,6 +2,7 @@
 	import Scatter from './ScatterCanvas.svelte';
 	import Scroller from '@sveltejs/svelte-scroller'
 	import Exploratory from './ExploratoryCanvas.svelte'
+import { create_in_transition } from 'svelte/internal';
 	export let groupedData;
 	export let groupedData2;
 
@@ -146,54 +147,54 @@
 		<div slot="foreground" style="padding: 0% 20% 10% 20%;">
             <section class="top">
 				<div class="white-bg">
-					<h3>By 2020, most political parties have mentioned environment protections in their manifestos.</h3>
-					<p><span class="ECO"><strong>Ecological parties</strong></span> and those that <span class="LEFT-LEAN"><strong>lean left</strong></span> , tend towards a higher number of mentions in their manifestos. However, <span class="RIGHT-LEAN"><strong>right-leaning</strong></span> parties are also not far behind.</p>
+					<h3>By 2020, most political parties have mentioned environment protections, or green policies, in their manifestos.</h3>
+					<p><span class="ECO"><strong>Ecological parties</strong></span> and those that <span class="LEFT-LEAN"><strong>lean left </strong></span>, tend towards a higher number of mentions in their manifestos. However, <span class="RIGHT-LEAN"><strong>right-leaning</strong></span> parties are also not far behind.</p>
 				</div>
 			</section>
             <section>
 				<div class="white-bg">
-					<h3>How did we get to here? In the 80s, there was very little mention of environmental policy.</h3>
-					<p>Prior to most of these countries in Europe taking part in democratic elections, there were few ecological parties.</p>
+					<h3>Hold up! How far have we come? In the 80s, there was very little mention of green policies...</h3>
+					<p>Before most countries in Europe took part in democratic elections, there were few ecological parties and a smaller number of mentions of green policies for almost all parties.</p>
 				</div>
 			</section>
             <section>
 				<div class="white-bg">
 					<h3>It all began to explode in the early&nbsp;90s.</h3>
-					<p>This was the year that <span class="ECO"><strong>ecological parties</strong></span>, even Romania and Croatia, saw a huge increase in mentions&nbsp;of environmental protection policies.
-					<br>Also in this year, the UN sets the 21 Agenda, a non-binding action plan of the United Nations with regard to sustainable development.</p>
+					<p>This was the year that <span class="ECO"><strong>ecological parties</strong></span>, even in Romania and Croatia, saw a huge increase in mentions&nbsp;of environmental protection policies.
+					<br>Around this time, the United Nations sets the 21 Agenda, a non-binding sustainable development action plan.</p>
 				</div>
 			</section>
             <section>
 				<div class="white-bg">
-					<h3>In 1995, ecological parties began to drop their mentions.</h3>
+					<h3>But it all starts crashing in the mid-90s, ecological parties begin to drop their mentions.</h3>
 					<p>And, <span class="RIGHT-LEAN">right-leaning parties</span> began to increase slightly perhaps encouraged by conversations leading up to the Kyoto Protocol, signed in 1997.</p>
 				</div>
 			</section>
             <section>
 				<div class="white-bg">
-					<h3>In the 21st century, the ecological parties continued to drop their mentions</h3>
-					<p>As they lowered their mentions to environmental policies, the rest of the political spectrum begun to develop the green agenda.
+					<h3>By 2005, the ecological parties continued to drop mentions of their green agenda, while left-leaning parties had just begun.</h3>
+					<p>As they lowered their mentions perhaps in favour of widening to a broader audience to capture more voters, the rest of the political spectrum began to develop their green agendas.
 					</p>
 				</div>
 			</section>
             <section>
 				<div class="white-bg">
 					<h3>In 2015, the left parties substantially increase the green mentions</h3>
-					<p>Almost 20 years after the Kyoto Protocol, the <span class="LEFT-LEAN">lean left</span> parties embrace the green agenda while the lean right still resist to incorporate the green mentions in their manifestos.</p>
+					<p>Almost 20 years after the Kyoto Protocol, the <span class="LEFT-LEAN">left-leaning</span> parties embrace the green agenda, though only slightly more than <span class="RIGHT-LEAN">right-leaning</span> parties.</p>
 				</div>
 			</section>
             <section>
 				<div class="white-bg">
-					<h3>Back to 2020 the majority of the parties have embraced the green agenda </h3>
-					<p>Following the path of the the left parties, the <span class="RIGHT-LEAN">lean right parties</span> also start adding green mentions to their manifestos. The agrarian parties are the ones that still resist to include environmental policies.</p>
+					<h3>Over the last few decades, most of the parties have increased their green agenda policies, some more than others - but is it enough? </h3>
+					<p>Even though there has been an increase, it isn't hugely different from the level of mentions in the late 80s. Also, agrarian parties have gone in the opposite direction and now have less mentions than 30 years ago.</p>
 				</div>
 			</section>
 		</div>
 	</Scroller>
 		</div>
 	<div class="text-content">
-			<p>In the last 30 years, Europe has gone from completely ignoring the climate agenda to incorporating it into its speeches and political manifestos. In 1985, 10 years before the Kyoto protocol, there was almost no concern for the environment.</p> 
-			<p>According to the calculations made from the Manifesto Project data, in that year the mentions of environmental policies in the manifestos of the political parties barely totaled 257.</p>
+			<p>over the last 30 years, Europe has gone from completely ignoring the climate agenda to incorporating it into its speeches and political manifestos. In 1985, 10 years before the Kyoto protocol, there was almost no mentions of green agenda policies.</p> 
+			<p>According to the data collected by the <a href="https://manifesto-project.wzb.eu/">Manifesto Project</a>, in that year the mentions of environmental policies in the manifestos of the political parties barely totaled 257.</p>
 		
 			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 682.43 400.4">
 				<defs>
@@ -428,15 +429,11 @@
 				  <path class="l" d="M395.4,35.78s42.49-20.14,76-7.21" transform="translate(-4.95 -6.48)"/>
 				  <polygon class="m" points="463.04 26.13 472.96 25.1 467.12 17.02 463.04 26.13"/>
 				</g>
-			  </svg>
-			  
-			  
-						  
+			</svg>
+			  		
 			<p>In 2017, exactly 20 years after the Kyoto agreement, the green agenda has penetrated the manifestos of practically all political families.
-			Mentions of the green agenda have doubled and now reach the total sum of 526. This increase, however, is still not enough to solve the challenges posed by climate change for the next century.			</p>
-			<p>Explore the next chart to see how other politicals trends have modified european manifestos in the last 30 years</p>
+			<p>Explore the next chart to see how other politicals trends have changed in European manifestos.</p>
 
-	
 			<button on:click={() => scatterStep = 0}>Arrange like so</button>
 			<button on:click={() => scatterStep = 1}>Rearrange again</button>
 		<!-- 	<Exploratory 
@@ -445,18 +442,25 @@
 				step2={scatterStep}/></div>-->
 		
 
-	<!-- <Scatter 
-		data={groupedData2}
-		layout='fs'
-		step={steps[index]}/> -->
+		<!-- <Scatter 
+			data={groupedData2}
+			layout='fs'
+			step={steps[index]}/> -->
 	</div>
 	<div class="footer-methodology">
 		<h1>Methodology</h1>
-		<p>For this report we've used the data from Manifesto Project that gathers and analyze political manifestos from over 1000 parties from 2945 until today and cover 50 different countries on five continents.
-			We have  grouped the data by their political family in order to analyze how the european parties have been mentioning more and more green policies on their manifestos. You can see the full dataset in our github repository. </p>
+		<p>For this report we've used the data from Manifesto Project that gathers and analyze political manifestos from over 1,000 parties from 1945 until today and covers 50 different countries on five continents.
+		<p>We have analysed the data by grouping across political families in order to compare changes towards the green agenda among parties of similar ideologies. The analysis involves only those countries who are currently part of the European Union.
+		<p>The data analyzes how European parties have been giving more space to green policies in their manifestos. You can see the full dataset in our <a href="https://github.com/laurarago/ManifestoProject">Github repository</a> or you can also download the free dataset at <a href="https://manifesto-project.wzb.eu/">The Manifesto Project</a>.</p>
+		<h1>Ethical considerations</h1>
+		<p>When dealing with a dataset that is encoding words, it is important to take into consideration the way in which the data itself was encoded. We researched the origins of the dataset and their methodology to ensure there was no potential bias or any need for us to to de-bias in our analysis later. We were quite happy to see that each sentence of a manifesto was broken down into 'quasi-sentences' so that they could be encoded separately as one major concern was the political dialogue has a tendency to be contradictory within a sentence or phrase.</p>
+		<p>Another aspect of note, was the level of detail with the people tasked with encoding the 'quasi-sentences' into subjects or groupings. Each were handpicked for their country and were therefore, sensitive to the political intricacies of their location. They even have to pass a test in order to qualify.</p>
 		</div>
 	
-
+	<div class = "credits">
+		<p>This project was created by students Ànnia, <a href="https://www.linkedin.com/in/larago/">Laura Aragó</a>
+			and <a href="https://www.linkedin.com/in/rebeccapazos/">Rebecca Pazos</a> for the <a href="http://www.mastervisualtoolsudg.com/">Masters in Visual Tools to Empower Citizens</a> with the University of Girona. They were assisted by mentors <a href="http://xocas.com/">Xaquín GV</a> and <a href="https://www.linkedin.com/in/mosbrn/">Matt Osborn</a>.</p>
+	</div>
 		
 </main>
 
@@ -466,6 +470,7 @@
 		text-align: center;
 		padding: 1em;
 		margin: 0 auto;
+		background-color: #f3f3f3;
 	}
 
 	.intro svg {
@@ -483,10 +488,6 @@
 		margin: 0 0 2em 0;
 		padding-top:50vh;
 	}
-
-	/* .section-2 {
-		padding-top: 80px;
-	} */
 
 	.deck {
 		opacity: 0.6;
@@ -531,7 +532,7 @@
 	}
 
 	p {
-		width: 400px;
+		max-width: 600px;
 		margin: 0 auto;
 		opacity: 1;
 		line-height: 24px;
@@ -553,7 +554,7 @@
 	}
 
 	.text-content svg {
-	width: 350px;
+	max-width: 500px;
 	margin-bottom: 5vh;
 	}
 
@@ -569,16 +570,22 @@
 	}
 
 	.white-bg {
-		background-color: hsla(0,0%,100%,.8);
+		background-color: hsla(0,0%,95%,.8);
 		width: 400px;
 		margin: 0 auto;
 		padding: 10px;
 	}
 
 	.footer-methodology {
-		background-color:  rgb(240, 240, 240);
+		background-color: hsla(0, 0%, 73%,.6);
 		width: 100%;
 		padding-top: 1vh;
+	}
+
+	.credits {
+		background-color: #b9b9b9;
+		width: 100%;
+		padding-top: 30px;
 	}
 
 	@media (min-width: 200px) {
