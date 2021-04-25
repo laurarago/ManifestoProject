@@ -455,6 +455,9 @@
 		<p>For this report we've used the data from Manifesto Project that gathers and analyze political manifestos from over 1000 parties from 2945 until today and cover 50 different countries on five continents.
 			We have  grouped the data by their political family in order to analyze how the european parties have been mentioning more and more green policies on their manifestos. You can see the full dataset in our github repository. </p>
 		</div>
+	
+
+		
 </main>
 
 

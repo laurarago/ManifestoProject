@@ -4,6 +4,7 @@
 	import { scaleLinear } from 'd3-scale'
     import { Delaunay } from 'd3-delaunay'
 	import Circle from './CircleExploratory.svelte'
+	import Slider from './Slider.svelte'
 
 	export let data;
 	export let layout;
@@ -43,6 +44,7 @@
 				fill="#00336633"			/>
 		{/each}
 	</Canvas>
+	<Slider />
 </div>
 
 <style>
