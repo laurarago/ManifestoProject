@@ -449,6 +449,12 @@
 		data={groupedData2}
 		layout='fs'
 		step={steps[index]}/> -->
+	</div>
+	<div class="footer-methodology">
+		<h1>Methodology</h1>
+		<p>For this report we've used the data from Manifesto Project that gathers and analyze political manifestos from over 1000 parties from 2945 until today and cover 50 different countries on five continents.
+			We have  grouped the data by their political family in order to analyze how the european parties have been mentioning more and more green policies on their manifestos. You can see the full dataset in our github repository. </p>
+		</div>
 </main>
 
 
@@ -566,11 +572,17 @@
 		padding: 10px;
 	}
 
+	.footer-methodology {
+		background-color:  rgb(240, 240, 240);
+		width: 100%;
+		padding-top: 1vh;
+	}
+
 	@media (min-width: 200px) {
 		main {
 			text-align: center;
 			padding: 1em;
-			margin: auto;
+			margin: 0 auto;
 		}
 	}
 </style>
