@@ -8,19 +8,24 @@
   </script>
 
 <RangeSlider
-    min={1993}
+		min={1993}
     max={2019}
     step={1}
     float={true}
-    pips={true}
-    pipstep={1}
-    first={true}
-    last={true}
+    pips first='label' 
+		last='label'
     values={[value]}
     on:change={(e) => { 
         value=e.detail.value; 
         dispatch("change", { value }); 
     }} 
 />
-  
 
+<style>
+	:global(body) { 
+		padding: 50px;
+		width: 60%;
+	  font-family: Barlow, sans-serif;
+		font-size: 0.5em;
+	}
+</style>
