@@ -1,89 +1,89 @@
-yearIndex,parfamName,partyname,culture,environ,equality,parfamCount,pervote,rile,staticRile,avgVote,countryname
-1949,CHR,Austrian People’s Party,0.0,0.0,8.9,1,44.032,32.2,6.13,44.032,Austria
-1949,NAT,League of Independents,2.9,0.0,8.6,1,11.667,4.7,10.25,11.667,Austria
-1949,SOC,Austrian Social Democratic Party,1.7,1.7,3.4,1,38.713,-13.6,-14.0,38.713,Austria
-1953,CHR,Austrian People’s Party,2.4,0.0,6.5,1,41.257,29.5,6.13,41.257,Austria
-1953,NAT,League of Independents,3.8,0.0,7.7,1,10.949000000000002,-3.6,10.25,10.949000000000002,Austria
-1953,SOC,Austrian Social Democratic Party,2.6,0.0,11.5,1,42.108,-16.5,-14.0,42.108,Austria
-1956,CHR,Austrian People’s Party,0.0,0.0,6.3,1,45.957,45.9,6.13,45.957,Austria
-1956,NAT,Austrian Freedom Party,8.3,0.0,4.2,1,6.52,-4.2,10.25,6.52,Austria
-1956,SOC,Austrian Social Democratic Party,2.9,1.0,6.9,1,43.045,-16.9,-14.0,43.045,Austria
-1959,CHR,Austrian People’s Party,6.7,0.0,1.3,1,44.192,24.0,6.13,44.192,Austria
-1959,NAT,Austrian Freedom Party,2.0,0.0,2.0,1,7.704,21.2,10.25,7.704,Austria
-1959,SOC,Austrian Social Democratic Party,0.0,0.0,12.0,1,44.786,-16.0,-14.0,44.786,Austria
-1962,CHR,Austrian People’s Party,9.8,0.0,7.7,1,45.432,11.2,6.13,45.432,Austria
-1962,NAT,Austrian Freedom Party,1.8,0.0,1.8,1,7.044,-24.6,10.25,7.044,Austria
-1962,SOC,Austrian Social Democratic Party,0.7000000000000001,0.0,13.6,1,44.0,-13.5,-14.0,44.0,Austria
-1966,CHR,Austrian People’s Party,3.5,0.0,8.800000000000002,1,48.349,5.8,6.13,48.349,Austria
-1966,NAT,Austrian Freedom Party,1.8,0.0,6.9,1,5.353,-28.95,10.25,5.353,Austria
-1966,SOC,Austrian Social Democratic Party,6.5,0.6,4.9,1,42.565,-15.8,-14.0,42.565,Austria
-1970,CHR,Austrian People’s Party,6.100000000000001,1.9,6.600000000000001,1,44.694,-6.8,6.13,44.694,Austria
-1970,NAT,Austrian Freedom Party,1.8,0.0,12.0,1,5.522,-33.3,10.25,5.522,Austria
-1970,SOC,Austrian Social Democratic Party,0.0,0.0,0.0,1,48.42,-54.3,-14.0,48.42,Austria
-1971,CHR,Austrian People’s Party,9.9,0.0,3.8,1,43.114,25.3,6.13,43.114,Austria
-1971,NAT,Austrian Freedom Party,0.4,1.9,5.600000000000001,1,5.4529999999999985,-6.600000000000001,10.25,5.4529999999999985,Austria
-1971,SOC,Austrian Social Democratic Party,2.6,5.600000000000001,6.100000000000001,1,50.037,-13.8,-14.0,50.037,Austria
-1975,CHR,Austrian People’s Party,4.1,1.0,3.5,1,42.94600000000001,3.1,6.13,42.94600000000001,Austria
-1975,NAT,Austrian Freedom Party,2.8,8.3,4.600000000000001,1,5.407,-11.9,10.25,5.407,Austria
-1975,SOC,Austrian Social Democratic Party,3.4,6.100000000000001,12.0,1,50.422,-18.9,-14.0,50.422,Austria
-1979,CHR,Austrian People’s Party,1.4,2.9,5.7,1,41.904,-17.1,6.13,41.904,Austria
-1979,NAT,Austrian Freedom Party,1.1,9.1,6.9,1,6.063,-3.5,10.25,6.063,Austria
-1979,SOC,Austrian Social Democratic Party,0.7000000000000001,4.8,5.4,1,51.028,-5.7,-14.0,51.028,Austria
-1983,CHR,Austrian People’s Party,1.1,6.600000000000001,4.9,1,43.223,1.0,6.13,43.223,Austria
-1983,NAT,Austrian Freedom Party,3.7,7.0,3.7,1,4.982,15.1,10.25,4.982,Austria
-1983,SOC,Austrian Social Democratic Party,3.3,9.3,7.7,1,47.647,-21.2,-14.0,47.647,Austria
-1986,CHR,Austrian People’s Party,0.0,6.7,5.0,1,41.294,29.1,6.13,41.294,Austria
-1986,ECO,Green Alternative,1.8,18.4,9.2,1,4.823,-15.2,-13.65,4.823,Austria
-1986,NAT,Austrian Freedom Party,0.0,10.9,3.5,1,9.732000000000001,-5.9,10.25,9.732000000000001,Austria
-1986,SOC,Austrian Social Democratic Party,4.8,9.9,6.2,1,43.115,-7.100000000000001,-14.0,43.115,Austria
-1990,CHR,Austrian People’s Party,0.9,14.2,3.1,1,32.064,4.8,6.13,32.064,Austria
-1990,ECO,Green Alternative,3.0,20.9,6.9,1,4.784,-12.4,-13.65,4.784,Austria
-1990,NAT,Austrian Freedom Party,0.0,6.2,1.3,1,16.635,14.9,10.25,16.635,Austria
-1990,SOC,Austrian Social Democratic Party,5.2,17.8,6.9,1,42.78100000000001,-7.600000000000001,-14.0,42.78100000000001,Austria
-1994,CHR,Austrian People’s Party,0.638,7.468,1.1840000000000002,1,27.667,24.59,6.13,27.667,Austria
-1994,ECO,The Greens,0.0,30.799,0.387,1,7.307,6.572,-13.65,7.307,Austria
-1994,LIB,Liberal Forum,2.667,4.0,10.667,1,5.97,34.0,4.61,5.97,Austria
-1994,NAT,Austrian Freedom Party,0.379,2.655,3.287,1,22.497,47.788,10.25,22.497,Austria
-1994,SOC,Austrian Social Democratic Party,4.455,7.756,6.601,1,34.918,-11.056,-14.0,34.918,Austria
-1995,CHR,Austrian People’s Party,0.0,0.833,0.833,1,28.291,40.417,6.13,28.291,Austria
-1995,ECO,The Greens,0.0,7.692,11.966,1,4.815,19.658,-13.65,4.815,Austria
-1995,LIB,Liberal Forum,0.0,5.8820000000000014,14.706,1,5.513,64.706,4.61,5.513,Austria
-1995,NAT,Freedom Movement,0.0,2.685,6.04,1,21.885,55.705,10.25,21.885,Austria
-1995,SOC,Austrian Social Democratic Party,0.0,1.931,17.761,1,38.059,20.849,-14.0,38.059,Austria
-1999,CHR,Austrian People’s Party,0.8390000000000001,1.605,4.05,1,26.91,-3.612,6.13,26.91,Austria
-1999,ECO,The Greens,0.7140000000000001,8.776,20.204,1,7.4,-15.102,-13.65,7.4,Austria
-1999,NAT,Austrian Freedom Party,5.167999999999998,6.01,1.803,1,26.91,24.639,10.25,26.91,Austria
-1999,SOC,Austrian Social Democratic Party,3.56,3.56,11.123,1,33.2,-13.348,-14.0,33.2,Austria
-2002,CHR,Austrian People’s Party,5.266,3.51,4.711,1,42.3,-15.704,6.13,42.3,Austria
-2002,ECO,The Greens,3.358,8.029,14.599,1,9.47,-20.876,-13.65,9.47,Austria
-2002,LEF,Austrian Communist Party,0.0,0.461,4.608000000000001,1,0.562,-26.267,-23.66,0.562,Austria
-2002,NAT,Austrian Freedom Party,2.886,3.148,6.6720000000000015,1,10.01,-18.028,10.25,10.01,Austria
-2002,SOC,Austrian Social Democratic Party,3.823,4.257,11.468,1,36.51,-21.199,-14.0,36.51,Austria
-2006,CHR,Austrian People’s Party,5.582999999999998,5.582999999999998,9.854,1,34.33,-2.9610000000000003,6.13,34.33,Austria
-2006,ECO,The Greens,6.926,8.947000000000003,11.977,1,11.05,-20.058,-13.65,11.05,Austria
-2006,NAT,Alliance for the Future of Austria,0.8959999999999999,3.2260000000000004,5.556,1,4.11,-3.584,10.25,4.11,Austria
-2006,NAT,Austrian Freedom Party,2.154,15.077,4.308,1,11.04,-4.308,10.25,11.04,Austria
-2006,SOC,Austrian Social Democratic Party,4.438,4.022,14.424,1,35.34,-15.118,-14.0,35.34,Austria
-2008,CHR,Austrian People’s Party,0.16399999999999998,0.4920000000000001,14.262,1,25.98,-1.148,6.13,25.98,Austria
-2008,ECO,The Greens,2.439,12.195,18.364,1,10.43,-9.469,-13.65,10.43,Austria
-2008,LEF,Austrian Communist Party,0.0,0.0,27.826,1,0.76,-17.391,-23.66,0.76,Austria
-2008,NAT,Alliance for the Future of Austria,0.0,4.07,17.733,1,10.7,-8.721,10.25,10.7,Austria
-2008,NAT,Austrian Freedom Party,3.03,4.329,10.823,1,17.54,-1.2990000000000002,10.25,17.54,Austria
-2008,SOC,Austrian Social Democratic Party,5.985,4.1560000000000015,16.625,1,29.26,-17.872,-14.0,29.26,Austria
-2013,CHR,Austrian People’s Party,4.3889999999999985,3.442,5.938,1,23.991,-5.507999999999999,6.13,23.991,Austria
-2013,ECO,The Greens,2.462,9.265,11.311,1,12.416,-13.94,-13.65,12.416,Austria
-2013,LIB,The New Austria,0.098,6.2620000000000005,6.36,1,4.964,-13.796,4.61,4.964,Austria
-2013,NAT,Austrian Freedom Party,0.0,0.0,6.0870000000000015,1,20.506,12.174,10.25,20.506,Austria
-2013,SIP,Team Stronach for Austria,4.854,3.479,5.178,1,5.725000000000001,0.971,3.36,5.725000000000001,Austria
-2013,SOC,Austrian Social Democratic Party,6.759,1.655,12.276,1,26.819000000000006,-38.483,-14.0,26.819000000000006,Austria
-2017,CHR,Austrian People’s Party,3.363,2.075,4.723,1,31.47,10.161,6.13,31.47,Austria
-2017,ECO,Peter Pilz List,0.0,1.408,5.634,1,4.409,-7.042000000000002,-13.65,4.409,Austria
-2017,ECO,The Greens,3.687,12.627,12.903,1,3.8,-22.212,-13.65,3.8,Austria
-2017,LIB,The New Austria and Liberal Forum,0.0,0.0,12.698,1,5.296,-2.381,4.61,5.296,Austria
-2017,NAT,Austrian Freedom Party,2.655,5.973,5.752000000000002,1,25.966,9.292,10.25,25.966,Austria
-2017,SOC,Austrian Social Democratic Party,2.239,1.7990000000000002,12.812,1,26.859,-21.916,-14.0,26.859,Austria
-2019,CHR,Austrian People’s Party,3.06,2.9210000000000003,5.563,1,37.457,2.086,6.13,37.457,Austria
-2019,ECO,The Greens,3.513,11.814,9.135,1,13.9,-21.695,-13.65,13.9,Austria
-2019,LIB,The New Austria and Liberal Forum,2.818,3.16,5.978,1,8.103,-10.077,4.61,8.103,Austria
-2019,NAT,Austrian Freedom Party,0.0,10.811,2.252,1,16.174,2.7030000000000003,10.25,16.174,Austria
-2019,SOC,Austrian Social Democratic Party,3.665,4.503,15.079,1,21.181,-39.424,-14.0,21.181,Austria
+partyname,yearIndex,parfamName,culture,environ,equality,parfamCount,pervote,rile,staticRile,avgVote,countryname
+Alliance for the Future of Austria,2006,NAT,0.8959999999999999,3.2260000000000004,5.556,1,4.11,-3.584,10.25,4.11,Austria
+Alliance for the Future of Austria,2008,NAT,0.0,4.07,17.733,1,10.7,-8.721,10.25,10.7,Austria
+Austrian Communist Party,2002,LEF,0.0,0.461,4.608000000000001,1,0.562,-26.267,-23.66,0.562,Austria
+Austrian Communist Party,2008,LEF,0.0,0.0,27.826,1,0.76,-17.391,-23.66,0.76,Austria
+Austrian Freedom Party,1956,NAT,8.3,0.0,4.2,1,6.52,-4.2,10.25,6.52,Austria
+Austrian Freedom Party,1959,NAT,2.0,0.0,2.0,1,7.704,21.2,10.25,7.704,Austria
+Austrian Freedom Party,1962,NAT,1.8,0.0,1.8,1,7.044,-24.6,10.25,7.044,Austria
+Austrian Freedom Party,1966,NAT,1.8,0.0,6.9,1,5.353,-28.95,10.25,5.353,Austria
+Austrian Freedom Party,1970,NAT,1.8,0.0,12.0,1,5.522,-33.3,10.25,5.522,Austria
+Austrian Freedom Party,1971,NAT,0.4,1.9,5.600000000000001,1,5.4529999999999985,-6.600000000000001,10.25,5.4529999999999985,Austria
+Austrian Freedom Party,1975,NAT,2.8,8.3,4.600000000000001,1,5.407,-11.9,10.25,5.407,Austria
+Austrian Freedom Party,1979,NAT,1.1,9.1,6.9,1,6.063,-3.5,10.25,6.063,Austria
+Austrian Freedom Party,1983,NAT,3.7,7.0,3.7,1,4.982,15.1,10.25,4.982,Austria
+Austrian Freedom Party,1986,NAT,0.0,10.9,3.5,1,9.732000000000001,-5.9,10.25,9.732000000000001,Austria
+Austrian Freedom Party,1990,NAT,0.0,6.2,1.3,1,16.635,14.9,10.25,16.635,Austria
+Austrian Freedom Party,1994,NAT,0.379,2.655,3.287,1,22.497,47.788,10.25,22.497,Austria
+Austrian Freedom Party,1999,NAT,5.167999999999998,6.01,1.803,1,26.91,24.639,10.25,26.91,Austria
+Austrian Freedom Party,2002,NAT,2.886,3.148,6.6720000000000015,1,10.01,-18.028,10.25,10.01,Austria
+Austrian Freedom Party,2006,NAT,2.154,15.077,4.308,1,11.04,-4.308,10.25,11.04,Austria
+Austrian Freedom Party,2008,NAT,3.03,4.329,10.823,1,17.54,-1.2990000000000002,10.25,17.54,Austria
+Austrian Freedom Party,2013,NAT,0.0,0.0,6.0870000000000015,1,20.506,12.174,10.25,20.506,Austria
+Austrian Freedom Party,2017,NAT,2.655,5.973,5.752000000000002,1,25.966,9.292,10.25,25.966,Austria
+Austrian Freedom Party,2019,NAT,0.0,10.811,2.252,1,16.174,2.7030000000000003,10.25,16.174,Austria
+Austrian People’s Party,1949,CHR,0.0,0.0,8.9,1,44.032,32.2,6.13,44.032,Austria
+Austrian People’s Party,1953,CHR,2.4,0.0,6.5,1,41.257,29.5,6.13,41.257,Austria
+Austrian People’s Party,1956,CHR,0.0,0.0,6.3,1,45.957,45.9,6.13,45.957,Austria
+Austrian People’s Party,1959,CHR,6.7,0.0,1.3,1,44.192,24.0,6.13,44.192,Austria
+Austrian People’s Party,1962,CHR,9.8,0.0,7.7,1,45.432,11.2,6.13,45.432,Austria
+Austrian People’s Party,1966,CHR,3.5,0.0,8.800000000000002,1,48.349,5.8,6.13,48.349,Austria
+Austrian People’s Party,1970,CHR,6.100000000000001,1.9,6.600000000000001,1,44.694,-6.8,6.13,44.694,Austria
+Austrian People’s Party,1971,CHR,9.9,0.0,3.8,1,43.114,25.3,6.13,43.114,Austria
+Austrian People’s Party,1975,CHR,4.1,1.0,3.5,1,42.94600000000001,3.1,6.13,42.94600000000001,Austria
+Austrian People’s Party,1979,CHR,1.4,2.9,5.7,1,41.904,-17.1,6.13,41.904,Austria
+Austrian People’s Party,1983,CHR,1.1,6.600000000000001,4.9,1,43.223,1.0,6.13,43.223,Austria
+Austrian People’s Party,1986,CHR,0.0,6.7,5.0,1,41.294,29.1,6.13,41.294,Austria
+Austrian People’s Party,1990,CHR,0.9,14.2,3.1,1,32.064,4.8,6.13,32.064,Austria
+Austrian People’s Party,1994,CHR,0.638,7.468,1.1840000000000002,1,27.667,24.59,6.13,27.667,Austria
+Austrian People’s Party,1995,CHR,0.0,0.833,0.833,1,28.291,40.417,6.13,28.291,Austria
+Austrian People’s Party,1999,CHR,0.8390000000000001,1.605,4.05,1,26.91,-3.612,6.13,26.91,Austria
+Austrian People’s Party,2002,CHR,5.266,3.51,4.711,1,42.3,-15.704,6.13,42.3,Austria
+Austrian People’s Party,2006,CHR,5.582999999999998,5.582999999999998,9.854,1,34.33,-2.9610000000000003,6.13,34.33,Austria
+Austrian People’s Party,2008,CHR,0.16399999999999998,0.4920000000000001,14.262,1,25.98,-1.148,6.13,25.98,Austria
+Austrian People’s Party,2013,CHR,4.3889999999999985,3.442,5.938,1,23.991,-5.507999999999999,6.13,23.991,Austria
+Austrian People’s Party,2017,CHR,3.363,2.075,4.723,1,31.47,10.161,6.13,31.47,Austria
+Austrian People’s Party,2019,CHR,3.06,2.9210000000000003,5.563,1,37.457,2.086,6.13,37.457,Austria
+Austrian Social Democratic Party,1949,SOC,1.7,1.7,3.4,1,38.713,-13.6,-14.0,38.713,Austria
+Austrian Social Democratic Party,1953,SOC,2.6,0.0,11.5,1,42.108,-16.5,-14.0,42.108,Austria
+Austrian Social Democratic Party,1956,SOC,2.9,1.0,6.9,1,43.045,-16.9,-14.0,43.045,Austria
+Austrian Social Democratic Party,1959,SOC,0.0,0.0,12.0,1,44.786,-16.0,-14.0,44.786,Austria
+Austrian Social Democratic Party,1962,SOC,0.7000000000000001,0.0,13.6,1,44.0,-13.5,-14.0,44.0,Austria
+Austrian Social Democratic Party,1966,SOC,6.5,0.6,4.9,1,42.565,-15.8,-14.0,42.565,Austria
+Austrian Social Democratic Party,1970,SOC,0.0,0.0,0.0,1,48.42,-54.3,-14.0,48.42,Austria
+Austrian Social Democratic Party,1971,SOC,2.6,5.600000000000001,6.100000000000001,1,50.037,-13.8,-14.0,50.037,Austria
+Austrian Social Democratic Party,1975,SOC,3.4,6.100000000000001,12.0,1,50.422,-18.9,-14.0,50.422,Austria
+Austrian Social Democratic Party,1979,SOC,0.7000000000000001,4.8,5.4,1,51.028,-5.7,-14.0,51.028,Austria
+Austrian Social Democratic Party,1983,SOC,3.3,9.3,7.7,1,47.647,-21.2,-14.0,47.647,Austria
+Austrian Social Democratic Party,1986,SOC,4.8,9.9,6.2,1,43.115,-7.100000000000001,-14.0,43.115,Austria
+Austrian Social Democratic Party,1990,SOC,5.2,17.8,6.9,1,42.78100000000001,-7.600000000000001,-14.0,42.78100000000001,Austria
+Austrian Social Democratic Party,1994,SOC,4.455,7.756,6.601,1,34.918,-11.056,-14.0,34.918,Austria
+Austrian Social Democratic Party,1995,SOC,0.0,1.931,17.761,1,38.059,20.849,-14.0,38.059,Austria
+Austrian Social Democratic Party,1999,SOC,3.56,3.56,11.123,1,33.2,-13.348,-14.0,33.2,Austria
+Austrian Social Democratic Party,2002,SOC,3.823,4.257,11.468,1,36.51,-21.199,-14.0,36.51,Austria
+Austrian Social Democratic Party,2006,SOC,4.438,4.022,14.424,1,35.34,-15.118,-14.0,35.34,Austria
+Austrian Social Democratic Party,2008,SOC,5.985,4.1560000000000015,16.625,1,29.26,-17.872,-14.0,29.26,Austria
+Austrian Social Democratic Party,2013,SOC,6.759,1.655,12.276,1,26.819000000000006,-38.483,-14.0,26.819000000000006,Austria
+Austrian Social Democratic Party,2017,SOC,2.239,1.7990000000000002,12.812,1,26.859,-21.916,-14.0,26.859,Austria
+Austrian Social Democratic Party,2019,SOC,3.665,4.503,15.079,1,21.181,-39.424,-14.0,21.181,Austria
+Freedom Movement,1995,NAT,0.0,2.685,6.04,1,21.885,55.705,10.25,21.885,Austria
+Green Alternative,1986,ECO,1.8,18.4,9.2,1,4.823,-15.2,-13.65,4.823,Austria
+Green Alternative,1990,ECO,3.0,20.9,6.9,1,4.784,-12.4,-13.65,4.784,Austria
+League of Independents,1949,NAT,2.9,0.0,8.6,1,11.667,4.7,10.25,11.667,Austria
+League of Independents,1953,NAT,3.8,0.0,7.7,1,10.949000000000002,-3.6,10.25,10.949000000000002,Austria
+Liberal Forum,1994,LIB,2.667,4.0,10.667,1,5.97,34.0,4.61,5.97,Austria
+Liberal Forum,1995,LIB,0.0,5.8820000000000014,14.706,1,5.513,64.706,4.61,5.513,Austria
+Peter Pilz List,2017,ECO,0.0,1.408,5.634,1,4.409,-7.042000000000002,-13.65,4.409,Austria
+Team Stronach for Austria,2013,SIP,4.854,3.479,5.178,1,5.725000000000001,0.971,3.36,5.725000000000001,Austria
+The Greens,1994,ECO,0.0,30.799,0.387,1,7.307,6.572,-13.65,7.307,Austria
+The Greens,1995,ECO,0.0,7.692,11.966,1,4.815,19.658,-13.65,4.815,Austria
+The Greens,1999,ECO,0.7140000000000001,8.776,20.204,1,7.4,-15.102,-13.65,7.4,Austria
+The Greens,2002,ECO,3.358,8.029,14.599,1,9.47,-20.876,-13.65,9.47,Austria
+The Greens,2006,ECO,6.926,8.947000000000003,11.977,1,11.05,-20.058,-13.65,11.05,Austria
+The Greens,2008,ECO,2.439,12.195,18.364,1,10.43,-9.469,-13.65,10.43,Austria
+The Greens,2013,ECO,2.462,9.265,11.311,1,12.416,-13.94,-13.65,12.416,Austria
+The Greens,2017,ECO,3.687,12.627,12.903,1,3.8,-22.212,-13.65,3.8,Austria
+The Greens,2019,ECO,3.513,11.814,9.135,1,13.9,-21.695,-13.65,13.9,Austria
+The New Austria,2013,LIB,0.098,6.2620000000000005,6.36,1,4.964,-13.796,4.61,4.964,Austria
+The New Austria and Liberal Forum,2017,LIB,0.0,0.0,12.698,1,5.296,-2.381,4.61,5.296,Austria
+The New Austria and Liberal Forum,2019,LIB,2.818,3.16,5.978,1,8.103,-10.077,4.61,8.103,Austria

@@ -1,183 +1,183 @@
-yearIndex,parfamName,partyname,culture,environ,equality,parfamCount,pervote,rile,staticRile,avgVote,countryname
-1946,CHR,Francophone Christian Social Party and Flemish Christian People’s Party,1.0,0.0,8.1,1,42.538,30.1,6.13,42.538,Belgium
-1946,LIB,Liberal Party,0.0,0.0,5.8,1,9.24,15.3,4.61,9.24,Belgium
-1946,SOC,Belgian Socialist Party,0.0,0.8,3.4,1,32.85,-13.5,-14.0,32.85,Belgium
-1949,CHR,Francophone Christian Social Party and Flemish Christian People’s Party,0.8,0.3,3.9,1,43.549,2.4,6.13,43.549,Belgium
-1949,LIB,Liberal Party,0.0,0.0,3.0,1,15.249,31.8,4.61,15.249,Belgium
-1949,SOC,Belgian Socialist Party,0.6,0.2,26.6,1,29.747,-50.0,-14.0,29.747,Belgium
-1950,CHR,Francophone Christian Social Party and Flemish Christian People’s Party,0.8,0.0,3.8,1,47.678,1.6,6.13,47.678,Belgium
-1950,LIB,Liberal Party,2.3,0.0,1.2,1,11.61,21.7,4.61,11.61,Belgium
-1950,SOC,Belgian Socialist Party,0.0,0.0,6.8,1,35.91,-13.5,-14.0,35.91,Belgium
-1954,CHR,Francophone Christian Social Party and Flemish Christian People’s Party,0.5,0.6,3.2,1,41.147,4.2,6.13,41.147,Belgium
-1954,ETH,Flemish Christian Peoples’ Union,2.092,0.0,0.0,1,2.202,1.255,-9.04,2.202,Belgium
-1954,LIB,Liberal Party,0.4,0.4,0.0,1,12.63,38.8,4.61,12.63,Belgium
-1954,SOC,Belgian Socialist Party,2.0,0.0,5.0,1,38.99,-31.0,-14.0,38.99,Belgium
-1958,CHR,Francophone Christian Social Party and Flemish Christian People’s Party,0.9520000000000001,0.0,14.286,1,46.499,-3.81,6.13,46.499,Belgium
-1958,ETH,Peoples’ Union,2.092,0.0,0.0,1,1.977,1.255,-9.04,1.977,Belgium
-1958,LIB,Liberal Party,0.262,0.524,5.759,1,11.47,4.712,4.61,11.47,Belgium
-1958,SOC,Belgian Socialist Party,0.958,0.319,7.987,1,37.47,-19.489,-14.0,37.47,Belgium
-1961,CHR,Francophone Christian Social Party and Flemish Christian People’s Party,0.0,0.0,1.587,1,41.456,-9.524,6.13,41.456,Belgium
-1961,ETH,Peoples’ Union,2.092,0.0,0.0,1,3.465,1.255,-9.04,3.465,Belgium
-1961,LIB,Party of Liberty and Progress,0.0,0.0,3.797,1,12.334,17.722,4.61,12.334,Belgium
-1961,SOC,Belgian Socialist Party,1.5630000000000002,0.0,1.5630000000000002,1,36.722,-19.531,-14.0,36.722,Belgium
-1965,CHR,Francophone Christian Social Party and Flemish Christian People’s Party,2.3080000000000003,0.769,5.385,1,34.451,-3.846,6.13,34.451,Belgium
-1965,ETH,Francophone Democratic Front of Francophones of Brussels,0.0,1.376,1.376,1,1.331,0.459,-9.04,1.331,Belgium
-1965,ETH,Peoples’ Union,3.774,0.0,0.27,1,6.434,-1.617,-9.04,6.434,Belgium
-1965,LIB,Party of Liberty and Progress,0.302,0.604,0.906,1,21.615,8.308,4.61,21.615,Belgium
-1965,SOC,Belgian Socialist Party,9.722,0.397,3.373,1,28.281,-30.952,-14.0,28.281,Belgium
-1968,CHR,Christian People’s Party,2.677,4.015,0.956,1,20.033,-12.811,6.13,20.033,Belgium
-1968,CHR,Christian Social Party,3.559,0.35600000000000004,2.135,1,11.709,-13.167,6.13,11.709,Belgium
-1968,ETH,Francophone Democratic Front of Francophones of Brussels,0.0,1.376,1.376,1,2.516,0.459,-9.04,2.516,Belgium
-1968,ETH,Peoples’ Union,0.762,0.381,1.524,1,9.786,-17.143,-9.04,9.786,Belgium
-1968,ETH,Walloon Rally,0.0,0.4270000000000001,1.2819999999999998,1,3.383,-16.667,-9.04,3.383,Belgium
-1968,LIB,Party of Liberty and Progress,1.6909999999999998,0.0,1.268,1,20.879,27.696,4.61,20.879,Belgium
-1968,SOC,Belgian Socialist Party,9.045,0.0,1.508,1,27.987,0.503,-14.0,27.987,Belgium
-1971,CHR,Christian People’s Party,7.798999999999999,6.407,2.507,1,19.672,-17.27,6.13,19.672,Belgium
-1971,CHR,Christian Social Party,3.175,6.349,0.0,1,10.379,-22.222,6.13,10.379,Belgium
-1971,ETH,Francophone Democratic Front of Francophones of Brussels,1.024,8.02,1.024,1,4.541,3.4130000000000003,-9.04,4.541,Belgium
-1971,ETH,Peoples’ Union,4.067,6.654,5.36,1,11.112,-23.845,-9.04,11.112,Belgium
-1971,ETH,Walloon Rally,0.0,0.4270000000000001,1.2819999999999998,1,6.691,-16.667,-9.04,6.691,Belgium
-1971,LIB,Brussels Liberal Party,1.25,0.0,0.0,1,1.31,9.375,4.61,1.31,Belgium
-1971,LIB,Party of Liberty and Progress,15.702,9.918000000000003,9.918000000000003,2,15.140999999999998,-3.099,4.61,7.570499999999999,Belgium
-1971,SOC,Belgian Socialist Party,1.974,4.934,2.632,1,27.238000000000003,-25.329,-14.0,27.238000000000003,Belgium
-1974,CHR,Christian People’s Party,15.668,9.217,0.461,1,23.251,-11.982,6.13,23.251,Belgium
-1974,CHR,Christian Social Party,26.316,2.105,0.0,1,9.094,-5.263,6.13,9.094,Belgium
-1974,ETH,Francophone Democratic Front of Francophones of Brussels,1.198,5.749000000000001,3.234,1,3.81,-11.737,-9.04,3.81,Belgium
-1974,ETH,Peoples’ Union,6.332000000000002,5.409,5.277,1,10.198,-18.602,-9.04,10.198,Belgium
-1974,ETH,Walloon Rally,0.982,5.401,10.311,1,5.857,-9.165,-9.04,5.857,Belgium
-1974,LIB,Liberal Democratic and Pluralist Party,0.0,2.439,2.439,1,1.27,7.317,4.61,1.27,Belgium
-1974,LIB,Party of Liberty and Progress,7.407,1.852,5.725,2,15.191,11.1165,4.61,7.5955,Belgium
-1974,SOC,Belgian Socialist Party,2.857,1.905,6.19,1,26.656,-39.048,-14.0,26.656,Belgium
-1977,CHR,Christian People’s Party,8.704,4.836,0.967,1,26.192,-4.836,6.13,26.192,Belgium
-1977,CHR,Christian Social Party,35.429,1.143,0.5710000000000001,1,9.752,-7.4289999999999985,6.13,9.752,Belgium
-1977,ETH,Francophone Democratic Front of Francophones of Brussels,4.762,6.916,2.494,1,4.257,-0.68,-9.04,4.257,Belgium
-1977,ETH,Peoples’ Union,0.909,5.0,4.545,1,10.04,-6.364,-9.04,10.04,Belgium
-1977,ETH,Walloon Rally,1.905,2.857,0.0,1,2.959,-9.524,-9.04,2.959,Belgium
-1977,LIB,Liberal Party,3.67,4.587,3.67,1,1.131,12.844,4.61,1.131,Belgium
-1977,LIB,Party of Liberty and Progress,5.2189999999999985,5.6370000000000005,0.626,1,8.538,14.405,4.61,8.538,Belgium
-1977,LIB,Party of Walloon Reform and Liberty,5.187,4.035,2.017,1,5.895,-2.882,4.61,5.895,Belgium
-1977,SOC,Belgian Socialist Party,4.292,2.897,7.511,1,27.035,-26.073,-14.0,27.035,Belgium
-1978,CHR,Christian People’s Party,1.954,1.954,4.723,1,26.134,1.3030000000000002,6.13,26.134,Belgium
-1978,CHR,Christian Social Party,8.309000000000001,4.373,5.539,1,10.131,5.102,6.13,10.131,Belgium
-1978,ETH,Francophone Democratic Front of Francophones of Brussels,0.846,2.398,3.385,1,4.25,-0.987,-9.04,4.25,Belgium
-1978,ETH,Peoples’ Union,2.927,0.488,3.902,1,7.019,15.122,-9.04,7.019,Belgium
-1978,ETH,Walloon Rally,0.633,0.9490000000000001,1.392,1,2.866,-7.9060000000000015,-9.04,2.866,Belgium
-1978,LIB,Liberal Party,5.556,1.852,3.704,1,0.762,1.852,4.61,0.762,Belgium
-1978,LIB,Party of Liberty and Progress,0.364,2.182,3.636,1,10.347,26.182,4.61,10.347,Belgium
-1978,LIB,Party of Walloon Reform and Liberty,5.15,3.147,4.578,1,5.204,3.29,4.61,5.204,Belgium
-1978,NAT,Flemish Bloc,4.956,3.499,0.875,1,1.371,-2.915,10.25,1.371,Belgium
-1978,SOC,Flemish Socialist Party,2.628,3.043,7.0539999999999985,1,12.37,-29.461,-14.0,12.37,Belgium
-1978,SOC,Francophone Socialist Party,1.793,3.713,7.297999999999999,1,13.011,0.512,-14.0,13.011,Belgium
-1981,CHR,Christian People’s Party,0.0,7.461,1.973,1,19.339,1.544,6.13,19.339,Belgium
-1981,CHR,Christian Social Party,3.015,1.173,1.34,1,7.149,8.543000000000001,6.13,7.149,Belgium
-1981,ECO,Ecologists,2.546,8.072000000000001,1.029,1,2.54,-1.517,-13.65,2.54,Belgium
-1981,ECO,Live Differently,4.482,0.28,0.56,1,2.299,-3.922,-13.65,2.299,Belgium
-1981,ETH,Francophone Democratic Front of Francophones of Brussels,9.503,4.538,4.966,1,2.5,-10.531,-9.04,2.5,Belgium
-1981,ETH,Peoples’ Union,0.0,1.493,4.975000000000001,1,9.767000000000001,2.488,-9.04,9.767000000000001,Belgium
-1981,ETH,Walloon Rally,2.432,2.664,4.69,1,1.711,-12.102,-9.04,1.711,Belgium
-1981,LIB,Liberal Reformation Party,0.879,1.758,0.22,1,8.568999999999999,25.275,4.61,8.568999999999999,Belgium
-1981,LIB,Party of Liberty and Progress,1.01,3.535,1.01,1,12.895,36.364,4.61,12.895,Belgium
-1981,NAT,Flemish Bloc,4.956,3.499,0.875,1,1.102,-2.915,10.25,1.102,Belgium
-1981,SOC,Flemish Socialist Party,2.849,4.558,3.846,1,12.359000000000002,-23.362,-14.0,12.359000000000002,Belgium
-1981,SOC,Francophone Socialist Party,3.621,3.621,8.147,1,12.698,-19.862,-14.0,12.698,Belgium
-1985,CHR,Christian People’s Party,4.11,6.164,2.055,1,21.293000000000006,14.795,6.13,21.293000000000006,Belgium
-1985,CHR,Christian Social Party,0.0,2.455,2.902,1,7.952000000000001,13.616,6.13,7.952000000000001,Belgium
-1985,ECO,Ecologists,2.546,8.072000000000001,1.029,1,2.514,-1.517,-13.65,2.514,Belgium
-1985,ECO,Live Differently,4.482,0.28,0.56,1,3.739,-3.922,-13.65,3.739,Belgium
-1985,ETH,Francophone Democratic Front of Francophones,12.635,18.49,0.924,1,1.193,-3.852,-9.04,1.193,Belgium
-1985,ETH,Peoples’ Union,0.0,0.606,0.0,1,7.877999999999999,14.545,-9.04,7.877999999999999,Belgium
-1985,LIB,Liberal Reformation Party,4.307,1.378,1.2919999999999998,1,10.214,25.151,4.61,10.214,Belgium
-1985,LIB,Party of Liberty and Progress,5.0280000000000005,3.492,0.419,1,10.748,15.922,4.61,10.748,Belgium
-1985,NAT,Flemish Bloc,4.956,3.499,0.875,1,1.408,-2.915,10.25,1.408,Belgium
-1985,SOC,Flemish Socialist Party,4.173,8.245000000000001,4.726,1,14.548,-19.155,-14.0,14.548,Belgium
-1985,SOC,Francophone Socialist Party,5.987,5.096,1.274,1,13.761,-14.522,-14.0,13.761,Belgium
-1987,CHR,Christian People’s Party,6.488,8.039,4.372,1,19.454,6.629,6.13,19.454,Belgium
-1987,CHR,Christian Social Party,9.398,7.229,0.0,1,8.009,-6.506,6.13,8.009,Belgium
-1987,ECO,Ecologists,2.546,8.072000000000001,1.029,1,2.573,-1.517,-13.65,2.573,Belgium
-1987,ECO,Live Differently,4.482,0.28,0.56,1,4.4830000000000005,-3.922,-13.65,4.4830000000000005,Belgium
-1987,ETH,Francophone Democratic Front of Francophones,9.002000000000002,10.923,1.133,1,1.162,-4.443000000000001,-9.04,1.162,Belgium
-1987,ETH,Peoples’ Union,10.096,3.846,2.404,1,8.048,-2.885,-9.04,8.048,Belgium
-1987,LIB,Liberal Reformation Party,5.8,1.7619999999999998,1.028,1,9.41,4.772,4.61,9.41,Belgium
-1987,LIB,Party of Liberty and Progress,3.846,6.922999999999999,0.0,1,11.547,6.922999999999999,4.61,11.547,Belgium
-1987,NAT,Flemish Bloc,4.956,3.499,0.875,1,1.896,-2.915,10.25,1.896,Belgium
-1987,SOC,Flemish Socialist Party,6.857,5.714,6.857,1,14.883,-28.0,-14.0,14.883,Belgium
-1987,SOC,Francophone Socialist Party,7.815,3.908,1.954,1,15.655,-13.677,-14.0,15.655,Belgium
-1991,CHR,Christian People’s Party,1.39,3.529,2.995,1,16.815,6.631,6.13,16.815,Belgium
-1991,CHR,Christian Social Party,1.494,2.74,4.608000000000001,1,7.7360000000000015,-11.208,6.13,7.7360000000000015,Belgium
-1991,ECO,Ecologists,2.546,8.072000000000001,1.029,1,5.073,-1.517,-13.65,5.073,Belgium
-1991,ECO,Live Differently,4.482,0.28,0.56,1,4.8610000000000015,-3.922,-13.65,4.8610000000000015,Belgium
-1991,ETH,Francophone Democratic Front of Francophones,5.369,3.3560000000000003,1.342,1,1.474,-5.034,-9.04,1.474,Belgium
-1991,ETH,Peoples’ Union,5.341,3.264,1.484,1,5.893,-3.858,-9.04,5.893,Belgium
-1991,LIB,Liberal Reformation Party,2.522,8.27,0.762,1,8.141,-2.346,4.61,8.141,Belgium
-1991,LIB,Party of Liberty and Progress,5.851,4.255,1.596,1,11.977,-10.638,4.61,11.977,Belgium
-1991,NAT,Flemish Bloc,4.956,3.499,0.875,1,6.576000000000001,-2.915,10.25,6.576000000000001,Belgium
-1991,SOC,Flemish Socialist Party,3.85,6.97,4.182,1,11.976,-11.218,-14.0,11.976,Belgium
-1991,SOC,Francophone Socialist Party,2.32,4.51,3.415,1,13.489,-9.601,-14.0,13.489,Belgium
-1995,CHR,Christian People’s Party,1.951,0.244,1.829,1,17.176,-3.1710000000000003,6.13,17.176,Belgium
-1995,CHR,Christian Social Party,2.009,2.827,5.432,1,7.726,-6.101,6.13,7.726,Belgium
-1995,ECO,Ecologists,2.065,14.159,6.785,1,4.008,-20.944000000000006,-13.65,4.008,Belgium
-1995,ECO,Live Differently,4.462,0.525,0.787,1,4.431,-2.887,-13.65,4.431,Belgium
-1995,ETH,Peoples’ Union,2.642,8.805,0.8809999999999999,1,4.669,-1.887,-9.04,4.669,Belgium
-1995,LIB,Flemish Liberals and Democrats,2.885,5.2879999999999985,2.885,1,13.148,-2.404,4.61,13.148,Belgium
-1995,LIB,Liberal Reformation Party - Francophone Democratic Front,4.921,3.333,1.27,1,10.264,-4.127,4.61,10.264,Belgium
-1995,NAT,Flemish Bloc,2.793,9.877,0.8170000000000001,1,7.834000000000001,-2.997,10.25,7.834000000000001,Belgium
-1995,SOC,Flemish Socialist Party,1.41,4.23,5.405,1,12.557,-15.629,-14.0,12.557,Belgium
-1995,SOC,Francophone Socialist Party,1.239,4.225,4.507,1,11.871,-22.986,-14.0,11.871,Belgium
-1999,CHR,Christian Democratic and Flemish,2.886,3.463,2.525,1,14.088,-4.185,6.13,14.088,Belgium
-1999,CHR,Christian Social Party,1.634,1.634,5.8820000000000014,1,5.879,-11.928,6.13,5.879,Belgium
-1999,ECO,Ecologists,3.219,7.397,4.178,1,7.359,-19.763,-13.65,7.359,Belgium
-1999,ECO,Live Differently,3.132,11.511,3.72,1,6.991000000000001,-16.68,-13.65,6.991000000000001,Belgium
-1999,ETH,People’s Union - Complete Democracy for the 21st century,2.818,2.4930000000000003,3.686,1,5.561,-6.612,-9.04,5.561,Belgium
-1999,LIB,Flemish Liberals and Democrats,4.752,1.539,4.351,1,14.304,5.556,4.61,14.304,Belgium
-1999,LIB,Liberal Reformation Party - Francophone Democratic Front - Citizens’ Movement for Change,1.601,1.868,1.935,1,10.14,-7.8050000000000015,4.61,10.14,Belgium
-1999,NAT,Flemish Bloc,2.793,9.877,0.8170000000000001,1,9.87,-2.997,10.25,9.87,Belgium
-1999,SOC,Flemish Socialist Party,1.905,8.413,4.127,1,9.549,-1.429,-14.0,9.549,Belgium
-1999,SOC,Francophone Socialist Party,0.181,2.629,6.437,1,10.165,-14.869000000000002,-14.0,10.165,Belgium
-2003,CHR,Christian Democratic and Flemish,0.935,0.234,3.738,1,13.249,1.869,6.13,13.249,Belgium
-2003,CHR,Humanist Democratic Centre,4.22,5.803,5.877999999999999,1,5.472,-12.133,6.13,5.472,Belgium
-2003,ECO,Ecologists,1.903,10.782,13.953,1,3.06,-17.336,-13.65,3.06,Belgium
-2003,ECO,Live Differently,0.0,12.065,5.521,1,2.47,-21.575,-13.65,2.47,Belgium
-2003,ETH,New Flemish Alliance,0.0,3.636,0.909,1,3.064,-7.576000000000001,-9.04,3.064,Belgium
-2003,LIB,Flemish Liberals and Democrats,0.0,1.493,1.493,1,15.356,0.373,4.61,15.356,Belgium
-2003,LIB,Reform Movement,0.299,0.599,5.3889999999999985,1,11.396,-29.641,4.61,11.396,Belgium
-2003,NAT,Flemish Bloc,2.793,9.877,0.8170000000000001,1,11.68,-2.997,10.25,11.68,Belgium
-2003,SOC,Francophone Socialist Party,1.235,0.772,14.815,1,13.024,-25.309,-14.0,13.024,Belgium
-2003,SOC,Socialist Party Different - Spirit,0.238,2.619,11.905,1,14.908,-13.571,-14.0,14.908,Belgium
-2007,CHR,Christian Democratic and Flemish,0.0,1.614,6.688,1,14.808,11.393,6.13,14.808,Belgium
-2007,CHR,Humanist Democratic Centre,0.638,3.169,5.621,1,6.057,-26.769,6.13,6.057,Belgium
-2007,ECO,Ecologists,2.867,4.342000000000001,7.7360000000000015,1,5.102,-20.32,-13.65,5.102,Belgium
-2007,ECO,Green!,0.03,9.787,7.715,1,3.985,-3.753,-13.65,3.985,Belgium
-2007,ETH,New Flemish Alliance,0.097,5.502000000000002,4.826000000000001,1,3.702,27.51,-9.04,3.702,Belgium
-2007,LIB,List Dedecker,0.0,5.612,2.806,1,4.027,33.782,4.61,4.027,Belgium
-2007,LIB,Open Flemish Liberals and Democrats,0.0,0.755,9.462,1,11.83,13.488,4.61,11.83,Belgium
-2007,LIB,Reform Movement,2.21,2.672,4.518,1,12.517,-20.861,4.61,12.517,Belgium
-2007,NAT,Flemish Interest,3.258,1.409,3.0380000000000003,1,11.99,24.571,10.25,11.99,Belgium
-2007,SOC,Francophone Socialist Party,1.254,2.549,12.349,1,10.864,-32.261,-14.0,10.864,Belgium
-2007,SOC,"Social, Progressive, International, Regionalist, Integrally Democartic  and Forward-Looking",1.189,1.784,11.298,1,0.0,-17.939,-14.0,0.0,Belgium
-2007,SOC,Socialist Party Different,0.637,1.911,19.108,1,0.0,-26.752,-14.0,0.0,Belgium
-2007,SOC,Socialist Party Different - Spirit,0.0,1.042,14.583,1,10.259,-3.646,-14.0,10.259,Belgium
-2010,CHR,Christian Democratic and Flemish,0.0,0.6859999999999999,6.2189999999999985,1,10.845999999999998,7.247999999999998,6.13,10.845999999999998,Belgium
-2010,CHR,Humanist Democratic Centre,0.162,1.604,8.092,1,5.522,-24.555,6.13,5.522,Belgium
-2010,ECO,Ecologists,0.626,3.192,5.102,1,4.796,-31.299,-13.65,4.796,Belgium
-2010,ECO,Green!,0.0,3.972,12.167,1,4.381,-0.855,-13.65,4.381,Belgium
-2010,ETH,New Flemish Alliance,0.0,0.294,3.309,1,17.398,11.691,-9.04,17.398,Belgium
-2010,LIB,List Dedecker,0.0,0.0,4.878,1,2.307,41.463,4.61,2.307,Belgium
-2010,LIB,Open Flemish Liberals and Democrats,0.0,0.9359999999999999,5.926,1,8.639,12.726,4.61,8.639,Belgium
-2010,LIB,Reform Movement,1.987,2.533,4.009,1,9.278,-0.2,4.61,9.278,Belgium
-2010,NAT,Flemish Interest,0.0,0.44,0.44,1,7.763,39.44300000000001,10.25,7.763,Belgium
-2010,SOC,Francophone Socialist Party,1.475,2.19,10.684,1,13.704,-26.688,-14.0,13.704,Belgium
-2010,SOC,Socialist Party Different,0.0,1.957,10.109,1,9.236,-12.609000000000002,-14.0,9.236,Belgium
-2014,CHR,Christian Democratic and Flemish,5.6960000000000015,4.876,8.851000000000003,1,11.61,-0.102,6.13,11.61,Belgium
-2014,ECO,Green!,5.602,8.654,15.494000000000002,1,5.322,-18.063,-13.65,5.322,Belgium
-2014,ETH,New Flemish Alliance,4.98,2.49,4.868,1,20.259,8.584,-9.04,20.259,Belgium
-2014,LEF,Workers' Party of Belgium,0.048,2.679,22.512,1,1.971,-34.785,-23.66,1.971,Belgium
-2014,LIB,Open Flemish Liberals and Democrats,2.6010000000000004,0.8390000000000001,8.641,1,9.631,-3.859,4.61,9.631,Belgium
-2014,NAT,Flemish Interest,1.966,1.311,4.063,1,3.673,17.3,10.25,3.673,Belgium
-2014,SOC,Socialist Party Different,4.093,2.969,17.826,1,8.829000000000002,-15.502,-14.0,8.829000000000002,Belgium
-2019,CHR,Christian Democratic and Flemish,2.509,5.399,18.487,1,8.886000000000003,-11.903,6.13,8.886000000000003,Belgium
-2019,ECO,Green!,2.162,8.048,15.697,1,6.103,-21.849,-13.65,6.103,Belgium
-2019,ETH,New Flemish Alliance,2.8680000000000003,4.178,7.79,1,16.028,4.78,-9.04,16.028,Belgium
-2019,LEF,Workers' Party of Belgium,1.945,5.249,21.081,1,8.622,-33.681,-23.66,8.622,Belgium
-2019,LIB,Open Flemish Liberals and Democrats,2.182,2.494,8.727,1,8.544,-8.0,4.61,8.544,Belgium
-2019,NAT,Flemish Interest,2.419,2.5,7.621,1,11.949000000000002,8.387,10.25,11.949000000000002,Belgium
-2019,SOC,Socialist Party Different,2.431,4.144,28.039,1,6.711,-19.199,-14.0,6.711,Belgium
+partyname,yearIndex,parfamName,culture,environ,equality,parfamCount,pervote,rile,staticRile,avgVote,countryname
+Belgian Socialist Party,1946,SOC,0.0,0.8,3.4,1,32.85,-13.5,-14.0,32.85,Belgium
+Belgian Socialist Party,1949,SOC,0.6,0.2,26.6,1,29.747,-50.0,-14.0,29.747,Belgium
+Belgian Socialist Party,1950,SOC,0.0,0.0,6.8,1,35.91,-13.5,-14.0,35.91,Belgium
+Belgian Socialist Party,1954,SOC,2.0,0.0,5.0,1,38.99,-31.0,-14.0,38.99,Belgium
+Belgian Socialist Party,1958,SOC,0.958,0.319,7.987,1,37.47,-19.489,-14.0,37.47,Belgium
+Belgian Socialist Party,1961,SOC,1.5630000000000002,0.0,1.5630000000000002,1,36.722,-19.531,-14.0,36.722,Belgium
+Belgian Socialist Party,1965,SOC,9.722,0.397,3.373,1,28.281,-30.952,-14.0,28.281,Belgium
+Belgian Socialist Party,1968,SOC,9.045,0.0,1.508,1,27.987,0.503,-14.0,27.987,Belgium
+Belgian Socialist Party,1971,SOC,1.974,4.934,2.632,1,27.238000000000003,-25.329,-14.0,27.238000000000003,Belgium
+Belgian Socialist Party,1974,SOC,2.857,1.905,6.19,1,26.656,-39.048,-14.0,26.656,Belgium
+Belgian Socialist Party,1977,SOC,4.292,2.897,7.511,1,27.035,-26.073,-14.0,27.035,Belgium
+Brussels Liberal Party,1971,LIB,1.25,0.0,0.0,1,1.31,9.375,4.61,1.31,Belgium
+Christian Democratic and Flemish,1999,CHR,2.886,3.463,2.525,1,14.088,-4.185,6.13,14.088,Belgium
+Christian Democratic and Flemish,2003,CHR,0.935,0.234,3.738,1,13.249,1.869,6.13,13.249,Belgium
+Christian Democratic and Flemish,2007,CHR,0.0,1.614,6.688,1,14.808,11.393,6.13,14.808,Belgium
+Christian Democratic and Flemish,2010,CHR,0.0,0.6859999999999999,6.2189999999999985,1,10.845999999999998,7.247999999999998,6.13,10.845999999999998,Belgium
+Christian Democratic and Flemish,2014,CHR,5.6960000000000015,4.876,8.851000000000003,1,11.61,-0.102,6.13,11.61,Belgium
+Christian Democratic and Flemish,2019,CHR,2.509,5.399,18.487,1,8.886000000000003,-11.903,6.13,8.886000000000003,Belgium
+Christian People’s Party,1968,CHR,2.677,4.015,0.956,1,20.033,-12.811,6.13,20.033,Belgium
+Christian People’s Party,1971,CHR,7.798999999999999,6.407,2.507,1,19.672,-17.27,6.13,19.672,Belgium
+Christian People’s Party,1974,CHR,15.668,9.217,0.461,1,23.251,-11.982,6.13,23.251,Belgium
+Christian People’s Party,1977,CHR,8.704,4.836,0.967,1,26.192,-4.836,6.13,26.192,Belgium
+Christian People’s Party,1978,CHR,1.954,1.954,4.723,1,26.134,1.3030000000000002,6.13,26.134,Belgium
+Christian People’s Party,1981,CHR,0.0,7.461,1.973,1,19.339,1.544,6.13,19.339,Belgium
+Christian People’s Party,1985,CHR,4.11,6.164,2.055,1,21.293000000000006,14.795,6.13,21.293000000000006,Belgium
+Christian People’s Party,1987,CHR,6.488,8.039,4.372,1,19.454,6.629,6.13,19.454,Belgium
+Christian People’s Party,1991,CHR,1.39,3.529,2.995,1,16.815,6.631,6.13,16.815,Belgium
+Christian People’s Party,1995,CHR,1.951,0.244,1.829,1,17.176,-3.1710000000000003,6.13,17.176,Belgium
+Christian Social Party,1968,CHR,3.559,0.35600000000000004,2.135,1,11.709,-13.167,6.13,11.709,Belgium
+Christian Social Party,1971,CHR,3.175,6.349,0.0,1,10.379,-22.222,6.13,10.379,Belgium
+Christian Social Party,1974,CHR,26.316,2.105,0.0,1,9.094,-5.263,6.13,9.094,Belgium
+Christian Social Party,1977,CHR,35.429,1.143,0.5710000000000001,1,9.752,-7.4289999999999985,6.13,9.752,Belgium
+Christian Social Party,1978,CHR,8.309000000000001,4.373,5.539,1,10.131,5.102,6.13,10.131,Belgium
+Christian Social Party,1981,CHR,3.015,1.173,1.34,1,7.149,8.543000000000001,6.13,7.149,Belgium
+Christian Social Party,1985,CHR,0.0,2.455,2.902,1,7.952000000000001,13.616,6.13,7.952000000000001,Belgium
+Christian Social Party,1987,CHR,9.398,7.229,0.0,1,8.009,-6.506,6.13,8.009,Belgium
+Christian Social Party,1991,CHR,1.494,2.74,4.608000000000001,1,7.7360000000000015,-11.208,6.13,7.7360000000000015,Belgium
+Christian Social Party,1995,CHR,2.009,2.827,5.432,1,7.726,-6.101,6.13,7.726,Belgium
+Christian Social Party,1999,CHR,1.634,1.634,5.8820000000000014,1,5.879,-11.928,6.13,5.879,Belgium
+Ecologists,1981,ECO,2.546,8.072000000000001,1.029,1,2.54,-1.517,-13.65,2.54,Belgium
+Ecologists,1985,ECO,2.546,8.072000000000001,1.029,1,2.514,-1.517,-13.65,2.514,Belgium
+Ecologists,1987,ECO,2.546,8.072000000000001,1.029,1,2.573,-1.517,-13.65,2.573,Belgium
+Ecologists,1991,ECO,2.546,8.072000000000001,1.029,1,5.073,-1.517,-13.65,5.073,Belgium
+Ecologists,1995,ECO,2.065,14.159,6.785,1,4.008,-20.944000000000006,-13.65,4.008,Belgium
+Ecologists,1999,ECO,3.219,7.397,4.178,1,7.359,-19.763,-13.65,7.359,Belgium
+Ecologists,2003,ECO,1.903,10.782,13.953,1,3.06,-17.336,-13.65,3.06,Belgium
+Ecologists,2007,ECO,2.867,4.342000000000001,7.7360000000000015,1,5.102,-20.32,-13.65,5.102,Belgium
+Ecologists,2010,ECO,0.626,3.192,5.102,1,4.796,-31.299,-13.65,4.796,Belgium
+Flemish Bloc,1978,NAT,4.956,3.499,0.875,1,1.371,-2.915,10.25,1.371,Belgium
+Flemish Bloc,1981,NAT,4.956,3.499,0.875,1,1.102,-2.915,10.25,1.102,Belgium
+Flemish Bloc,1985,NAT,4.956,3.499,0.875,1,1.408,-2.915,10.25,1.408,Belgium
+Flemish Bloc,1987,NAT,4.956,3.499,0.875,1,1.896,-2.915,10.25,1.896,Belgium
+Flemish Bloc,1991,NAT,4.956,3.499,0.875,1,6.576000000000001,-2.915,10.25,6.576000000000001,Belgium
+Flemish Bloc,1995,NAT,2.793,9.877,0.8170000000000001,1,7.834000000000001,-2.997,10.25,7.834000000000001,Belgium
+Flemish Bloc,1999,NAT,2.793,9.877,0.8170000000000001,1,9.87,-2.997,10.25,9.87,Belgium
+Flemish Bloc,2003,NAT,2.793,9.877,0.8170000000000001,1,11.68,-2.997,10.25,11.68,Belgium
+Flemish Christian Peoples’ Union,1954,ETH,2.092,0.0,0.0,1,2.202,1.255,-9.04,2.202,Belgium
+Flemish Interest,2007,NAT,3.258,1.409,3.0380000000000003,1,11.99,24.571,10.25,11.99,Belgium
+Flemish Interest,2010,NAT,0.0,0.44,0.44,1,7.763,39.44300000000001,10.25,7.763,Belgium
+Flemish Interest,2014,NAT,1.966,1.311,4.063,1,3.673,17.3,10.25,3.673,Belgium
+Flemish Interest,2019,NAT,2.419,2.5,7.621,1,11.949000000000002,8.387,10.25,11.949000000000002,Belgium
+Flemish Liberals and Democrats,1995,LIB,2.885,5.2879999999999985,2.885,1,13.148,-2.404,4.61,13.148,Belgium
+Flemish Liberals and Democrats,1999,LIB,4.752,1.539,4.351,1,14.304,5.556,4.61,14.304,Belgium
+Flemish Liberals and Democrats,2003,LIB,0.0,1.493,1.493,1,15.356,0.373,4.61,15.356,Belgium
+Flemish Socialist Party,1978,SOC,2.628,3.043,7.0539999999999985,1,12.37,-29.461,-14.0,12.37,Belgium
+Flemish Socialist Party,1981,SOC,2.849,4.558,3.846,1,12.359000000000002,-23.362,-14.0,12.359000000000002,Belgium
+Flemish Socialist Party,1985,SOC,4.173,8.245000000000001,4.726,1,14.548,-19.155,-14.0,14.548,Belgium
+Flemish Socialist Party,1987,SOC,6.857,5.714,6.857,1,14.883,-28.0,-14.0,14.883,Belgium
+Flemish Socialist Party,1991,SOC,3.85,6.97,4.182,1,11.976,-11.218,-14.0,11.976,Belgium
+Flemish Socialist Party,1995,SOC,1.41,4.23,5.405,1,12.557,-15.629,-14.0,12.557,Belgium
+Flemish Socialist Party,1999,SOC,1.905,8.413,4.127,1,9.549,-1.429,-14.0,9.549,Belgium
+Francophone Christian Social Party and Flemish Christian People’s Party,1946,CHR,1.0,0.0,8.1,1,42.538,30.1,6.13,42.538,Belgium
+Francophone Christian Social Party and Flemish Christian People’s Party,1949,CHR,0.8,0.3,3.9,1,43.549,2.4,6.13,43.549,Belgium
+Francophone Christian Social Party and Flemish Christian People’s Party,1950,CHR,0.8,0.0,3.8,1,47.678,1.6,6.13,47.678,Belgium
+Francophone Christian Social Party and Flemish Christian People’s Party,1954,CHR,0.5,0.6,3.2,1,41.147,4.2,6.13,41.147,Belgium
+Francophone Christian Social Party and Flemish Christian People’s Party,1958,CHR,0.9520000000000001,0.0,14.286,1,46.499,-3.81,6.13,46.499,Belgium
+Francophone Christian Social Party and Flemish Christian People’s Party,1961,CHR,0.0,0.0,1.587,1,41.456,-9.524,6.13,41.456,Belgium
+Francophone Christian Social Party and Flemish Christian People’s Party,1965,CHR,2.3080000000000003,0.769,5.385,1,34.451,-3.846,6.13,34.451,Belgium
+Francophone Democratic Front of Francophones,1985,ETH,12.635,18.49,0.924,1,1.193,-3.852,-9.04,1.193,Belgium
+Francophone Democratic Front of Francophones,1987,ETH,9.002000000000002,10.923,1.133,1,1.162,-4.443000000000001,-9.04,1.162,Belgium
+Francophone Democratic Front of Francophones,1991,ETH,5.369,3.3560000000000003,1.342,1,1.474,-5.034,-9.04,1.474,Belgium
+Francophone Democratic Front of Francophones of Brussels,1965,ETH,0.0,1.376,1.376,1,1.331,0.459,-9.04,1.331,Belgium
+Francophone Democratic Front of Francophones of Brussels,1968,ETH,0.0,1.376,1.376,1,2.516,0.459,-9.04,2.516,Belgium
+Francophone Democratic Front of Francophones of Brussels,1971,ETH,1.024,8.02,1.024,1,4.541,3.4130000000000003,-9.04,4.541,Belgium
+Francophone Democratic Front of Francophones of Brussels,1974,ETH,1.198,5.749000000000001,3.234,1,3.81,-11.737,-9.04,3.81,Belgium
+Francophone Democratic Front of Francophones of Brussels,1977,ETH,4.762,6.916,2.494,1,4.257,-0.68,-9.04,4.257,Belgium
+Francophone Democratic Front of Francophones of Brussels,1978,ETH,0.846,2.398,3.385,1,4.25,-0.987,-9.04,4.25,Belgium
+Francophone Democratic Front of Francophones of Brussels,1981,ETH,9.503,4.538,4.966,1,2.5,-10.531,-9.04,2.5,Belgium
+Francophone Socialist Party,1978,SOC,1.793,3.713,7.297999999999999,1,13.011,0.512,-14.0,13.011,Belgium
+Francophone Socialist Party,1981,SOC,3.621,3.621,8.147,1,12.698,-19.862,-14.0,12.698,Belgium
+Francophone Socialist Party,1985,SOC,5.987,5.096,1.274,1,13.761,-14.522,-14.0,13.761,Belgium
+Francophone Socialist Party,1987,SOC,7.815,3.908,1.954,1,15.655,-13.677,-14.0,15.655,Belgium
+Francophone Socialist Party,1991,SOC,2.32,4.51,3.415,1,13.489,-9.601,-14.0,13.489,Belgium
+Francophone Socialist Party,1995,SOC,1.239,4.225,4.507,1,11.871,-22.986,-14.0,11.871,Belgium
+Francophone Socialist Party,1999,SOC,0.181,2.629,6.437,1,10.165,-14.869000000000002,-14.0,10.165,Belgium
+Francophone Socialist Party,2003,SOC,1.235,0.772,14.815,1,13.024,-25.309,-14.0,13.024,Belgium
+Francophone Socialist Party,2007,SOC,1.254,2.549,12.349,1,10.864,-32.261,-14.0,10.864,Belgium
+Francophone Socialist Party,2010,SOC,1.475,2.19,10.684,1,13.704,-26.688,-14.0,13.704,Belgium
+Green!,2007,ECO,0.03,9.787,7.715,1,3.985,-3.753,-13.65,3.985,Belgium
+Green!,2010,ECO,0.0,3.972,12.167,1,4.381,-0.855,-13.65,4.381,Belgium
+Green!,2014,ECO,5.602,8.654,15.494000000000002,1,5.322,-18.063,-13.65,5.322,Belgium
+Green!,2019,ECO,2.162,8.048,15.697,1,6.103,-21.849,-13.65,6.103,Belgium
+Humanist Democratic Centre,2003,CHR,4.22,5.803,5.877999999999999,1,5.472,-12.133,6.13,5.472,Belgium
+Humanist Democratic Centre,2007,CHR,0.638,3.169,5.621,1,6.057,-26.769,6.13,6.057,Belgium
+Humanist Democratic Centre,2010,CHR,0.162,1.604,8.092,1,5.522,-24.555,6.13,5.522,Belgium
+Liberal Democratic and Pluralist Party,1974,LIB,0.0,2.439,2.439,1,1.27,7.317,4.61,1.27,Belgium
+Liberal Party,1946,LIB,0.0,0.0,5.8,1,9.24,15.3,4.61,9.24,Belgium
+Liberal Party,1949,LIB,0.0,0.0,3.0,1,15.249,31.8,4.61,15.249,Belgium
+Liberal Party,1950,LIB,2.3,0.0,1.2,1,11.61,21.7,4.61,11.61,Belgium
+Liberal Party,1954,LIB,0.4,0.4,0.0,1,12.63,38.8,4.61,12.63,Belgium
+Liberal Party,1958,LIB,0.262,0.524,5.759,1,11.47,4.712,4.61,11.47,Belgium
+Liberal Party,1977,LIB,3.67,4.587,3.67,1,1.131,12.844,4.61,1.131,Belgium
+Liberal Party,1978,LIB,5.556,1.852,3.704,1,0.762,1.852,4.61,0.762,Belgium
+Liberal Reformation Party,1981,LIB,0.879,1.758,0.22,1,8.568999999999999,25.275,4.61,8.568999999999999,Belgium
+Liberal Reformation Party,1985,LIB,4.307,1.378,1.2919999999999998,1,10.214,25.151,4.61,10.214,Belgium
+Liberal Reformation Party,1987,LIB,5.8,1.7619999999999998,1.028,1,9.41,4.772,4.61,9.41,Belgium
+Liberal Reformation Party,1991,LIB,2.522,8.27,0.762,1,8.141,-2.346,4.61,8.141,Belgium
+Liberal Reformation Party - Francophone Democratic Front,1995,LIB,4.921,3.333,1.27,1,10.264,-4.127,4.61,10.264,Belgium
+Liberal Reformation Party - Francophone Democratic Front - Citizens’ Movement for Change,1999,LIB,1.601,1.868,1.935,1,10.14,-7.8050000000000015,4.61,10.14,Belgium
+List Dedecker,2007,LIB,0.0,5.612,2.806,1,4.027,33.782,4.61,4.027,Belgium
+List Dedecker,2010,LIB,0.0,0.0,4.878,1,2.307,41.463,4.61,2.307,Belgium
+Live Differently,1981,ECO,4.482,0.28,0.56,1,2.299,-3.922,-13.65,2.299,Belgium
+Live Differently,1985,ECO,4.482,0.28,0.56,1,3.739,-3.922,-13.65,3.739,Belgium
+Live Differently,1987,ECO,4.482,0.28,0.56,1,4.4830000000000005,-3.922,-13.65,4.4830000000000005,Belgium
+Live Differently,1991,ECO,4.482,0.28,0.56,1,4.8610000000000015,-3.922,-13.65,4.8610000000000015,Belgium
+Live Differently,1995,ECO,4.462,0.525,0.787,1,4.431,-2.887,-13.65,4.431,Belgium
+Live Differently,1999,ECO,3.132,11.511,3.72,1,6.991000000000001,-16.68,-13.65,6.991000000000001,Belgium
+Live Differently,2003,ECO,0.0,12.065,5.521,1,2.47,-21.575,-13.65,2.47,Belgium
+New Flemish Alliance,2003,ETH,0.0,3.636,0.909,1,3.064,-7.576000000000001,-9.04,3.064,Belgium
+New Flemish Alliance,2007,ETH,0.097,5.502000000000002,4.826000000000001,1,3.702,27.51,-9.04,3.702,Belgium
+New Flemish Alliance,2010,ETH,0.0,0.294,3.309,1,17.398,11.691,-9.04,17.398,Belgium
+New Flemish Alliance,2014,ETH,4.98,2.49,4.868,1,20.259,8.584,-9.04,20.259,Belgium
+New Flemish Alliance,2019,ETH,2.8680000000000003,4.178,7.79,1,16.028,4.78,-9.04,16.028,Belgium
+Open Flemish Liberals and Democrats,2007,LIB,0.0,0.755,9.462,1,11.83,13.488,4.61,11.83,Belgium
+Open Flemish Liberals and Democrats,2010,LIB,0.0,0.9359999999999999,5.926,1,8.639,12.726,4.61,8.639,Belgium
+Open Flemish Liberals and Democrats,2014,LIB,2.6010000000000004,0.8390000000000001,8.641,1,9.631,-3.859,4.61,9.631,Belgium
+Open Flemish Liberals and Democrats,2019,LIB,2.182,2.494,8.727,1,8.544,-8.0,4.61,8.544,Belgium
+Party of Liberty and Progress,1961,LIB,0.0,0.0,3.797,1,12.334,17.722,4.61,12.334,Belgium
+Party of Liberty and Progress,1965,LIB,0.302,0.604,0.906,1,21.615,8.308,4.61,21.615,Belgium
+Party of Liberty and Progress,1968,LIB,1.6909999999999998,0.0,1.268,1,20.879,27.696,4.61,20.879,Belgium
+Party of Liberty and Progress,1971,LIB,15.702,9.918000000000003,9.918000000000003,2,15.140999999999998,-3.099,4.61,7.570499999999999,Belgium
+Party of Liberty and Progress,1974,LIB,7.407,1.852,5.725,2,15.191,11.1165,4.61,7.5955,Belgium
+Party of Liberty and Progress,1977,LIB,5.2189999999999985,5.6370000000000005,0.626,1,8.538,14.405,4.61,8.538,Belgium
+Party of Liberty and Progress,1978,LIB,0.364,2.182,3.636,1,10.347,26.182,4.61,10.347,Belgium
+Party of Liberty and Progress,1981,LIB,1.01,3.535,1.01,1,12.895,36.364,4.61,12.895,Belgium
+Party of Liberty and Progress,1985,LIB,5.0280000000000005,3.492,0.419,1,10.748,15.922,4.61,10.748,Belgium
+Party of Liberty and Progress,1987,LIB,3.846,6.922999999999999,0.0,1,11.547,6.922999999999999,4.61,11.547,Belgium
+Party of Liberty and Progress,1991,LIB,5.851,4.255,1.596,1,11.977,-10.638,4.61,11.977,Belgium
+Party of Walloon Reform and Liberty,1977,LIB,5.187,4.035,2.017,1,5.895,-2.882,4.61,5.895,Belgium
+Party of Walloon Reform and Liberty,1978,LIB,5.15,3.147,4.578,1,5.204,3.29,4.61,5.204,Belgium
+Peoples’ Union,1958,ETH,2.092,0.0,0.0,1,1.977,1.255,-9.04,1.977,Belgium
+Peoples’ Union,1961,ETH,2.092,0.0,0.0,1,3.465,1.255,-9.04,3.465,Belgium
+Peoples’ Union,1965,ETH,3.774,0.0,0.27,1,6.434,-1.617,-9.04,6.434,Belgium
+Peoples’ Union,1968,ETH,0.762,0.381,1.524,1,9.786,-17.143,-9.04,9.786,Belgium
+Peoples’ Union,1971,ETH,4.067,6.654,5.36,1,11.112,-23.845,-9.04,11.112,Belgium
+Peoples’ Union,1974,ETH,6.332000000000002,5.409,5.277,1,10.198,-18.602,-9.04,10.198,Belgium
+Peoples’ Union,1977,ETH,0.909,5.0,4.545,1,10.04,-6.364,-9.04,10.04,Belgium
+Peoples’ Union,1978,ETH,2.927,0.488,3.902,1,7.019,15.122,-9.04,7.019,Belgium
+Peoples’ Union,1981,ETH,0.0,1.493,4.975000000000001,1,9.767000000000001,2.488,-9.04,9.767000000000001,Belgium
+Peoples’ Union,1985,ETH,0.0,0.606,0.0,1,7.877999999999999,14.545,-9.04,7.877999999999999,Belgium
+Peoples’ Union,1987,ETH,10.096,3.846,2.404,1,8.048,-2.885,-9.04,8.048,Belgium
+Peoples’ Union,1991,ETH,5.341,3.264,1.484,1,5.893,-3.858,-9.04,5.893,Belgium
+Peoples’ Union,1995,ETH,2.642,8.805,0.8809999999999999,1,4.669,-1.887,-9.04,4.669,Belgium
+People’s Union - Complete Democracy for the 21st century,1999,ETH,2.818,2.4930000000000003,3.686,1,5.561,-6.612,-9.04,5.561,Belgium
+Reform Movement,2003,LIB,0.299,0.599,5.3889999999999985,1,11.396,-29.641,4.61,11.396,Belgium
+Reform Movement,2007,LIB,2.21,2.672,4.518,1,12.517,-20.861,4.61,12.517,Belgium
+Reform Movement,2010,LIB,1.987,2.533,4.009,1,9.278,-0.2,4.61,9.278,Belgium
+"Social, Progressive, International, Regionalist, Integrally Democartic  and Forward-Looking",2007,SOC,1.189,1.784,11.298,1,0.0,-17.939,-14.0,0.0,Belgium
+Socialist Party Different,2007,SOC,0.637,1.911,19.108,1,0.0,-26.752,-14.0,0.0,Belgium
+Socialist Party Different,2010,SOC,0.0,1.957,10.109,1,9.236,-12.609000000000002,-14.0,9.236,Belgium
+Socialist Party Different,2014,SOC,4.093,2.969,17.826,1,8.829000000000002,-15.502,-14.0,8.829000000000002,Belgium
+Socialist Party Different,2019,SOC,2.431,4.144,28.039,1,6.711,-19.199,-14.0,6.711,Belgium
+Socialist Party Different - Spirit,2003,SOC,0.238,2.619,11.905,1,14.908,-13.571,-14.0,14.908,Belgium
+Socialist Party Different - Spirit,2007,SOC,0.0,1.042,14.583,1,10.259,-3.646,-14.0,10.259,Belgium
+Walloon Rally,1968,ETH,0.0,0.4270000000000001,1.2819999999999998,1,3.383,-16.667,-9.04,3.383,Belgium
+Walloon Rally,1971,ETH,0.0,0.4270000000000001,1.2819999999999998,1,6.691,-16.667,-9.04,6.691,Belgium
+Walloon Rally,1974,ETH,0.982,5.401,10.311,1,5.857,-9.165,-9.04,5.857,Belgium
+Walloon Rally,1977,ETH,1.905,2.857,0.0,1,2.959,-9.524,-9.04,2.959,Belgium
+Walloon Rally,1978,ETH,0.633,0.9490000000000001,1.392,1,2.866,-7.9060000000000015,-9.04,2.866,Belgium
+Walloon Rally,1981,ETH,2.432,2.664,4.69,1,1.711,-12.102,-9.04,1.711,Belgium
+Workers' Party of Belgium,2014,LEF,0.048,2.679,22.512,1,1.971,-34.785,-23.66,1.971,Belgium
+Workers' Party of Belgium,2019,LEF,1.945,5.249,21.081,1,8.622,-33.681,-23.66,8.622,Belgium
