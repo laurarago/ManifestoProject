@@ -73,10 +73,11 @@
 				stroke={i === picked && "#000"}
 				popup={i === picked && names[d.data[step2].partyName]}/>
 		{/each}
-	</Canvas>
 	<div class="slider">
-		<Slider/>
-		</div>
+			<Slider/>
+			</div>
+	</Canvas>
+	
 	
 </div>
 
@@ -88,7 +89,7 @@
 		width: 60%;
 	  	font-family: Barlow Condensed, sans-serif;
 		font-size: 1em;
-		margin: 20px auto;
+		margin: 1vh auto;
 
 	}
 </style>

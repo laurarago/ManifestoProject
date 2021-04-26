@@ -737,6 +737,7 @@
 		background-color: hsla(0, 0%, 73%,.6);
 		width: 100%;
 		padding-top: 1vh;
+		margin-top: 80px;;
 	}
 
 	.credits {
