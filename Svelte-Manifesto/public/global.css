@@ -28,6 +28,11 @@ a:hover {
 	height: 75vh;
 	margin: 0 auto;
 }
+.ls {
+	width: 70%;
+	height: 75vh;
+	margin: 0 auto;
+}
 
 a:visited {
 	color: rgb(0,80,160);

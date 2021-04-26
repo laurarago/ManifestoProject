@@ -74,11 +74,21 @@
 				popup={i === picked && names[d.data[step2].partyName]}/>
 		{/each}
 	</Canvas>
-	<Slider />
+	<div class="slider">
+		<Slider/>
+		</div>
+	
 </div>
 
 <style>
     .canvas {
         position:relative;
     }
+	.slider {
+		width: 60%;
+	  	font-family: Barlow Condensed, sans-serif;
+		font-size: 1em;
+		margin: 20px auto;
+
+	}
 </style>

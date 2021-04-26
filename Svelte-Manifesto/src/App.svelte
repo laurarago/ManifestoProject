@@ -587,19 +587,12 @@
 			  		
 			<p>In 2017, exactly 20 years after the Kyoto agreement, the green agenda has penetrated the manifestos of practically all political families.
 			<p>Explore the next chart to see how other politicals trends have changed in European manifestos.</p>
-
+<div>
 	<Exploratory 
-				data={groupedData2}
-				layout='fs'
-				step2={scatterStep}/>
-		
-
-		<!-- <Scatter 
-			data={groupedData2}
-			layout='fs'
-			step={steps[index]}/> -->
-	</div>
-</main>
+		data={groupedData2}
+		layout='ls'
+		step2={scatterStep}/>
+			</div>
 <div class="footer-methodology">
 	<h1>Methodology</h1>
 	<p>For this report we've used the data from Manifesto Project that gathers and analyze political manifestos from over 1,000 parties from 1945 until today and covers 50 different countries on five continents.
@@ -611,9 +604,10 @@
 	</div>
 
 <div class = "credits">
-	<p>This project was created by students Ànnia, <a href="https://www.linkedin.com/in/larago/">Laura Aragó</a>
+	<p>This project was created by students Ànnia Monreal, <a href="https://www.linkedin.com/in/larago/">Laura Aragó</a>
 		and <a href="https://www.linkedin.com/in/rebeccapazos/">Rebecca Pazos</a> for the <a href="http://www.mastervisualtoolsudg.com/">Masters in Visual Tools to Empower Citizens</a> with the University of Girona. They were assisted by mentors <a href="http://xocas.com/">Xaquín GV</a> and <a href="https://www.linkedin.com/in/mosbrn/">Matt Osborn</a>.</p>
 </div>
+</main>
 
 <style>
 	main {
