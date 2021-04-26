@@ -635,6 +635,7 @@
 		padding: 1em;
 		margin: 0 0 2em 0;
 		padding-top:50vh;
+		font-family: Barlow Condensed, sans-serif;
 	}
 
 	.deck {
@@ -690,7 +691,7 @@
 		line-height: 24px;
 		padding-bottom: 30px;
 		text-align: left;
-		font-size: 16px;
+		font-size: 21px;
 
 	}
 
@@ -703,10 +704,11 @@
 		margin: 0 auto;
 		opacity: 1;
 		line-height: 24px;
-		padding-bottom: 30px;
+		padding-bottom: 40px;
 		text-align: left;
-		font-size: 16px;
+		font-size: 22px;
 		text-align: justify;
+		font-family: Barlow Condensed, sans-serif;
 	}
 
 	.text-content svg {
@@ -738,16 +740,24 @@
 		padding: 10px;
 	}
 
+	.exploratory-chart {
+		font-family: Barlow Condensed, sans-serif;
+		font-size: 20px;
+	}
+
 	.footer-methodology {
 		background-color: hsla(0, 0%, 73%,.6);
 		width: 100%;
 		padding-top: 1vh;
-		margin-top: 80px;;
+		margin-top: 80px;
+		font-family: Barlow Condensed, sans-serif;
+		font-size: 1em;
 	}
 
 	.credits {
 		background-color: #b9b9b9;
 		padding: 30px 0 30px 0;
+		font-family: Barlow Condensed, sans-serif;
 	}
 
 	@media (min-width: 200px) {
