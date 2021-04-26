@@ -588,13 +588,16 @@
 			</svg>
 			  		
 			<p>In 2017, exactly 20 years after the Kyoto agreement, the green agenda has penetrated the manifestos of practically all political families.
-			<p>Explore the next chart to see how other politicals trends have changed in European manifestos.</p>
+			<p>Explore the next chart to see how other politicals trends have changed in European manifestos.</p><br><br>
 <div>
+<div class="exploratory-chart">
+		<h2>The green agenda of political parties across the years by country</h2>
+		</div><br><br>	
 	<Exploratory 
 		data={mergedData}
 		layout='ls'
 		step2={scatterStep}/>
-			</div>
+			</div><br><br>
 <div class="footer-methodology">
 	<h1>Methodology</h1>
 	<p>For this report we've used the data from Manifesto Project that gathers and analyze political manifestos from over 1,000 parties from 1945 until today and covers 50 different countries on five continents.

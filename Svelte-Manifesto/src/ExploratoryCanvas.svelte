@@ -83,10 +83,10 @@
 
 <style>
     .canvas {
-        position:relative;
+        position:relative;			
     }
 	.slider {
-		width: 60%;
+		width: 45%;
 	  	font-family: Barlow Condensed, sans-serif;
 		font-size: 1em;
 		margin: 1vh auto;
