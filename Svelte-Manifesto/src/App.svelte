@@ -5,9 +5,11 @@
 	import { create_in_transition } from 'svelte/internal';
 	export let groupedData;
 	export let groupedData2;
+	export let mergedData;
 
 	console.log(groupedData)
 	console.log(groupedData2)
+	console.log(mergedData)
 	
 
 	let index = 0;
@@ -589,7 +591,7 @@
 			<p>Explore the next chart to see how other politicals trends have changed in European manifestos.</p>
 <div>
 	<Exploratory 
-		data={groupedData2}
+		data={mergedData}
 		layout='ls'
 		step2={scatterStep}/>
 			</div>

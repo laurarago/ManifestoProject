@@ -23,9 +23,11 @@
   },
   "dependencies": {
     "@sveltejs/svelte-scroller": "^2.0.6",
+    "bufferutil": "^4.0.3",
     "d3": "^6.7.0",
     "d3-fetch": "^2.0.0",
     "sirv-cli": "^1.0.0",
-    "svelte-canvas": "^0.6.1"
+    "svelte-canvas": "^0.6.1",
+    "utf-8-validate": "^5.0.4"
   }
 }
