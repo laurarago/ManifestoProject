@@ -2,9 +2,9 @@
 	import Scatter from './ScatterCanvas.svelte';
 	import Scroller from '@sveltejs/svelte-scroller'
 	import Exploratory from './ExploratoryCanvas.svelte'
-	import groupedData from './data/groupedData.json'
-	import groupedData2 from './data/spain_groupedByPartyName.json'
 	import { create_in_transition } from 'svelte/internal';
+	export let groupedData;
+	export let groupedData2;
 
 	console.log(groupedData)
 	console.log(groupedData2)
@@ -15,7 +15,7 @@
 
 	let steps = [35, 0, 5, 10, 20, 30, 35];
 	let steps2 = [1, 1, 3, 4, 5];
-	let scatterStep;
+	let scatterStep = 0;
 
 
 
@@ -588,12 +588,12 @@
 			<p>In 2017, exactly 20 years after the Kyoto agreement, the green agenda has penetrated the manifestos of practically all political families.
 			<p>Explore the next chart to see how other politicals trends have changed in European manifestos.</p>
 
-			<button on:click={() => scatterStep = 0}>Arrange like so</button>
-			<button on:click={() => scatterStep = 1}>Rearrange again</button>
-		<Exploratory 
+	<Exploratory 
 				data={groupedData2}
 				layout='fs'
 				step2={scatterStep}/>
+		
+
 		<!-- <Scatter 
 			data={groupedData2}
 			layout='fs'
