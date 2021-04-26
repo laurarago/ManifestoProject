@@ -2,9 +2,9 @@
 	import Scatter from './ScatterCanvas.svelte';
 	import Scroller from '@sveltejs/svelte-scroller'
 	import Exploratory from './ExploratoryCanvas.svelte'
-import { create_in_transition } from 'svelte/internal';
-	export let groupedData;
-	export let groupedData2;
+	import groupedData from './data/groupedData.json'
+	import groupedData2 from './data/spain_groupedByPartyName.json'
+	import { create_in_transition } from 'svelte/internal';
 
 	console.log(groupedData)
 	console.log(groupedData2)
@@ -590,12 +590,10 @@ import { create_in_transition } from 'svelte/internal';
 
 			<button on:click={() => scatterStep = 0}>Arrange like so</button>
 			<button on:click={() => scatterStep = 1}>Rearrange again</button>
-		<!-- 	<Exploratory 
+		<Exploratory 
 				data={groupedData2}
 				layout='fs'
-				step2={scatterStep}/></div>-->
-		
-
+				step2={scatterStep}/>
 		<!-- <Scatter 
 			data={groupedData2}
 			layout='fs'

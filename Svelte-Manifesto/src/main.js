@@ -1,24 +1,12 @@
 import App from './App.svelte';
-import {json} from "d3-fetch";
+import data from './data/groupedData.json'
+import data_spain from './data/spain_groupedByPartyName.json'
 
-const groupedData = json('groupedData.json',  {encoding: 'utf8'})
-	.then(data => { const app = new App({
-            target: document.body,
-            props: {
-                groupedData: data
-                
-            }
-        })
-    });
-
-const groupedData2 = json('spain_groupedByPartyName.json',  {encoding: 'utf8'})
-	.then(data => { const app = new App({
-            target: document.body,
-            props: {
-                groupedData2: data
-                
-            }
-        })
-    });
-
+const app = new App({
+    target: document.body,
+    props: {
+        groupedData: data,
+        groupedData2: data_spain
+    }
+})
 export default app;
