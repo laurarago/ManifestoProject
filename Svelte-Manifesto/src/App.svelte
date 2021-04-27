@@ -8,18 +8,28 @@
 
 	$:index = index < 7 ? index : 6;
 
+
 	let steps = [35, 0, 5, 10, 20, 30, 35];
-	let setCountry = 0;
 	let setYear = 1993;
+	let setCountry = 0;
+	let finalData = groupedData2[0].parties;
 
-	console.log(groupedData)
 
-	const countryOptions = [
-		{ color: 'Spain', setCountry : 0},
-		{ color: 'Italy', setCountry : 1},
+	let countries = [
+		{ Country: 'Spain', Index : 0},
+		{ Country: 'Italy', Index : 1},
 	];
-	let selected = countryOptions[0];
+	let selectedCountry = countries[0];
 
+
+	function setCountryIndex(selectedCountry) {
+		console.log(selectedCountry)
+		setCountry = countries.find(country => country.Index == selectedCountry.Index).Index
+		console.log(setCountry)
+		finalData = groupedData2[setCountry].parties;
+	}
+
+console.log(groupedData2[1].parties)
 
 </script>
 
@@ -590,15 +600,18 @@
 	<div class="exploratory-chart">
 		<h2>The green agenda of political parties across the years by country</h2>
 		</div><br><br>	
-		<select bind:value={selected}>
-			{#each countryOptions as option}
-				<option value={option}>{option.color}</option>
+		<select bind:value={selectedCountry} on:change={setCountryIndex(selectedCountry)}>
+			{#each countries as option}
+				<option value={option}>{option.Country}</option>
 			{/each}
-		</select>		
+		</select>	
+		<h1>{setCountry}</h1>
+		{#key setCountry}
 			<Exploratory 
-			raw={groupedData2[setCountry].parties}
+			raw={finalData}
 			layout='ls'
 			stepYear={setYear}/>
+		{/key}
 			</div>
 		</main>
 

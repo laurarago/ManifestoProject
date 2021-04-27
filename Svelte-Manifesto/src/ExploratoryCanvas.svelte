@@ -9,7 +9,7 @@
 
 	export let raw;
 	export let layout;
-	export let stepYear = 1993;
+	export let stepYear = 1996;
 	
 	let data = raw.map((d) => { return {...d, data: d.data.filter((d) => d.yearIndex === stepYear)}
 				}).filter(d => d.data.length > 0)
