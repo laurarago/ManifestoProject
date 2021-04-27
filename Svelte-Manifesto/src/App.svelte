@@ -605,7 +605,6 @@ console.log(groupedData2[1].parties)
 				<option value={option}>{option.Country}</option>
 			{/each}
 		</select>	
-		<h1>{setCountry}</h1>
 		{#key setCountry}
 			<Exploratory 
 			raw={finalData}
