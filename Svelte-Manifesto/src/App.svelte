@@ -301,7 +301,7 @@
             <section class="top">
 				<div class="white-bg">
 					<h3>By 2020, most political parties have mentioned environment protections, or green policies, in their manifestos.</h3>
-					<p><span class="ECO"><strong>Ecological parties</strong></span> and those that <span class="LEFT-LEAN"><strong>lean left </strong></span>, tend towards a higher number of mentions in their manifestos. However, <span class="RIGHT-LEAN"><strong>right-leaning</strong></span> parties are also not far behind.</p>
+					<p><span class="ECO">Ecological parties</span> and those that <span class="LEFT-LEAN">lean left</span>, tend towards a higher number of mentions in their manifestos. However, <span class="RIGHT-LEAN">right-leaning</span> parties are also not far behind.</p>
 				</div>
 			</section>
             <section>
@@ -313,8 +313,8 @@
             <section>
 				<div class="white-bg">
 					<h3>It all began to explode in the early&nbsp;90s.</h3>
-					<p>This was the year that <span class="ECO"><strong>ecological parties</strong></span>, even in Romania and Croatia, saw a huge increase in mentions&nbsp;of environmental protection policies.
-					<br>Around this time, the United Nations sets the 21 Agenda, a non-binding sustainable development action plan.</p>
+					<p>This was the year that <span class="ECO">ecological parties</span>, even in Romania and Croatia, saw a huge increase in mentions&nbsp;of environmental protection policies.</p>
+					<p>Around this time, the United Nations sets the 21 Agenda, a non-binding sustainable development action plan.</p>
 				</div>
 			</section>
             <section>
@@ -585,9 +585,11 @@
 			</svg>
 			  		
 			<p>In 2017, exactly 20 years after the Kyoto agreement, the green agenda has penetrated the manifestos of practically all political families.
-			<p>Explore the next chart to see how other politicals trends have changed in European manifestos.</p>
+			<p>Explore the next chart to see how other politicals trends have changed in European manifestos.</p><br><br>
 <div>
-		
+	<div class="exploratory-chart">
+		<h2>The green agenda of political parties across the years by country</h2>
+		</div><br><br>			
 	<Exploratory 
 	raw={groupedData2[setCountry].parties}
 	layout='ls'
@@ -615,13 +617,13 @@
 <style>
 	main {
 		text-align: center;
-		padding: 1em;
+		padding: 0;
 		margin: 0 auto;
 		background-color: #f3f3f3;
 	}
 
 	.intro svg {
-		width: 250px;
+		width: 300px;
 		margin: 0 auto;
 	}
 
@@ -633,6 +635,7 @@
 		padding: 1em;
 		margin: 0 0 2em 0;
 		padding-top:50vh;
+		font-family: Barlow Condensed, sans-serif;
 	}
 
 	.deck {
@@ -641,10 +644,6 @@
 		line-height: 34px;
 		text-align: center;
 		font-size: 30px;
-	}
-
-	h3 {
-		text-align: left;
 	}
 
 	.foreGround {
@@ -658,6 +657,7 @@
 		border: 2px solid #e31a1c;
 		color: white;
 		padding: 1px;
+		font-weight: 500;
 
 	}
 
@@ -667,7 +667,8 @@
 		border-radius: 5px;
 		border: 2px solid #1f78b4;
 		color: white;
-		padding: 1px;
+		padding: 0.5px;
+		font-weight: 500;
 
 	}
 
@@ -678,6 +679,7 @@
 		border: 2px solid #33a02c;
 		color: white;
 		padding: 1px;
+		font-weight: 500;
 
 	}
 
@@ -685,10 +687,10 @@
 		max-width: 500px;
 		margin: 0 auto;
 		opacity: 1;
-		line-height: 24px;
+		line-height: 26px;
 		padding-bottom: 30px;
 		text-align: left;
-		font-size: 16px;
+		font-size: 21px;
 
 	}
 
@@ -700,11 +702,12 @@
 		max-width: 500px;
 		margin: 0 auto;
 		opacity: 1;
-		line-height: 24px;
+		line-height: 28px;
 		padding-bottom: 30px;
 		text-align: left;
-		font-size: 16px;
-		text-align: justify;
+		font-size: 22px;
+		text-align: left;
+		font-family: Barlow Condensed, sans-serif;
 	}
 
 	.text-content svg {
@@ -718,15 +721,19 @@
 
 	h1 {
 		max-width: 500px;
-		margin: 20px auto;
+		margin: 0 auto;
 		text-align: center;
+		padding-top: 5vh;
+		padding-bottom: 2vh;
 	}
 
 	h3 {
-		font-size: 1.17em;
+		font-size: 25px;
 		max-width: 500px;
 		margin: 0 auto;
 		padding-bottom: 15px;
+		text-align: left;
+		font-weight: 500;
 	}
 
 	.white-bg {
@@ -736,25 +743,30 @@
 		padding: 10px;
 	}
 
+	.exploratory-chart {
+		font-family: Barlow Condensed, sans-serif;
+		font-size: 20px;
+	}
+
 	.footer-methodology {
 		background-color: hsla(0, 0%, 73%,.6);
 		width: 100%;
 		padding-top: 1vh;
 		margin-top: 80px;
-		padding-right: 0px !important;
-		padding-left: 0px !important;
-
+		font-family: Barlow Condensed, sans-serif;
+		font-size: 1em;
 	}
 
 	.credits {
 		background-color: #b9b9b9;
 		padding: 30px 0 30px 0;
+		font-family: Barlow Condensed, sans-serif;
 	}
 
 	@media (min-width: 200px) {
 		main {
 			text-align: center;
-			padding: 1em;
+			/* padding: 1em; */
 			margin: 0 auto;
 		}
 	}
@@ -769,7 +781,7 @@
 		}
 		
 		.credits {
-		padding: 2vh 3vw 2vh 3vw;
+			padding: 2vh 3vw 2vh 3vw;
 		}
 		
 		.credits p {
@@ -779,6 +791,24 @@
 		.foreGround {
 			padding: 0%;
 		}
+
+		h3 {
+		font-size: 20px;
+		margin: 0 auto;
+		padding-bottom: 15px;
+		max-width: 500px;
+		}
+
+		p {
+		max-width: 500px;
+		margin: 0 auto;
+		opacity: 1;
+		line-height: 25px;
+		text-align: left;
+		font-size: 15px;
+
+	}
+
 	}	
 
 </style>
