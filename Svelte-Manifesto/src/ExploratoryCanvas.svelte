@@ -72,7 +72,7 @@
 			radius={r(d.data[0].avgVote)}
 			fill={color(d.data[0].parfamName)}
 			stroke={i === picked && "#000"}
-			popup={i === picked && names[d.partyName]}/>
+			popup={i === picked && names[d.data[0].partyname]}/>
 		{/each}
 	<div class="slider">
 			<Slider/>

@@ -14,6 +14,13 @@
 
 	console.log(groupedData)
 
+	const countryOptions = [
+		{ color: 'Spain', setCountry : 0},
+		{ color: 'Italy', setCountry : 1},
+	];
+	let selected = countryOptions[0];
+
+
 </script>
 
 <main>
@@ -582,7 +589,12 @@
 <div>
 	<div class="exploratory-chart">
 		<h2>The green agenda of political parties across the years by country</h2>
-		</div><br><br>			
+		</div><br><br>	
+		<select bind:value={selected}>
+			{#each countryOptions as option}
+				<option value={option}>{option.color}</option>
+			{/each}
+		</select>		
 			<Exploratory 
 			raw={groupedData2[setCountry].parties}
 			layout='ls'
