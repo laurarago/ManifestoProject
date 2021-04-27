@@ -6,16 +6,18 @@
 	export let groupedData;
 	export let groupedData2;
 
-	console.log(groupedData)
-	console.log(groupedData2)
+	console.log(groupedData[0].data[0])
+	console.log(groupedData2[0].parties[1].data[1])
+	console.log(groupedData2[0].parties)
 	
+	
+	$:index = index < 7 ? index : 6;
 
-	let index = 0;
-	$:console.log(index);
 
 	let steps = [35, 0, 5, 10, 20, 30, 35];
-	let steps2 = [1, 1, 3, 4, 5];
-	let scatterStep = 0;
+	let setCountry = 0;
+	let setYear = 1993;
+
 
 
 
@@ -285,9 +287,6 @@
 					v0.3C24.7,74.2,24.7,74.3,24.6,74.3z"/>
 			</g>
 		</svg>
-	</div>
-
-	<div class="text-container">
 	</div>
 	<div class="no-events">
 	<Scroller top={0} bottom={1} bind:index>
@@ -588,11 +587,16 @@
 			<p>In 2017, exactly 20 years after the Kyoto agreement, the green agenda has penetrated the manifestos of practically all political families.
 			<p>Explore the next chart to see how other politicals trends have changed in European manifestos.</p>
 <div>
+		
 	<Exploratory 
-		data={groupedData2}
-		layout='ls'
-		step2={scatterStep}/>
+	raw={groupedData2[setCountry].parties}
+	layout='ls'
+	stepYear={setYear}/>
+		  
+
 			</div>
+		</main>
+
 <div class="footer-methodology">
 	<h1>Methodology</h1>
 	<p>For this report we've used the data from Manifesto Project that gathers and analyze political manifestos from over 1,000 parties from 1945 until today and covers 50 different countries on five continents.
@@ -607,7 +611,6 @@
 	<p>This project was created by students Ànnia Monreal, <a href="https://www.linkedin.com/in/larago/">Laura Aragó</a>
 		and <a href="https://www.linkedin.com/in/rebeccapazos/">Rebecca Pazos</a> for the <a href="http://www.mastervisualtoolsudg.com/">Masters in Visual Tools to Empower Citizens</a> with the University of Girona. They were assisted by mentors <a href="http://xocas.com/">Xaquín GV</a> and <a href="https://www.linkedin.com/in/mosbrn/">Matt Osborn</a>.</p>
 </div>
-</main>
 
 <style>
 	main {
@@ -737,7 +740,10 @@
 		background-color: hsla(0, 0%, 73%,.6);
 		width: 100%;
 		padding-top: 1vh;
-		margin-top: 80px;;
+		margin-top: 80px;
+		padding-right: 0px !important;
+		padding-left: 0px !important;
+
 	}
 
 	.credits {

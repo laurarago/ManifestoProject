@@ -5,14 +5,19 @@
     import { Delaunay } from 'd3-delaunay'
 	import Circle from './CircleExploratory.svelte'
 	import Slider from './Slider.svelte'
-	import Axis from './Axis.svelte'
+	import Axis from './AxisExploratory.svelte'
 
-	export let data;
+	export let raw;
 	export let layout;
-	export let step2 = 0;
+	export let stepYear = 1993;
 	
+	let data = raw.map((d) => { return {...d, data: d.data.filter((d) => d.yearIndex === stepYear)}
+				}).filter(d => d.data.length > 0)
+  
 
-	const margin = { top: 10, right: 10, bottom: 25, left: 25 }
+	console.log(data)
+
+	const margin = { top: 25, right: 10, bottom: 25, left: 25 }
 	let width, height;
 	let picked = null, click = false
 	let colors = ["#33a02c", "#e31a1c", "#fb9a99", "#fdbf6f", "#a6cee3", "#1f78b4", "#1f78b4", "#b15928", "#999999", "#999999"];
@@ -38,7 +43,7 @@
 					.range([height - margin.bottom, margin.top])
 					.nice()
 	$: r = scaleSqrt()
-					.domain(extent(data, d => d.data[step2].avgVote))
+					.domain([0,60])
 					.range([5, 30])
 					.nice();
 
@@ -47,7 +52,7 @@
 					.range(colors)
 
 	
-    $: delaunay = Delaunay.from(data, d => x(d.data[step2].rile), d => y(d.data[step2].environ))
+    $: delaunay = Delaunay.from(data, d => x(d.data[0].rile), d => y(d.data[0].environ))
 	$: console.log(data[picked?picked:0].partyname)
 
 
@@ -65,13 +70,13 @@
 	<Axis type="y" scale={y} tickNumber={8} {margin} />
 
 		{#each data as d, i}
-			<Circle
-				x={x(d.data[step2].rile)}
-				y={y(d.data[step2].environ)}
-				radius={r(d.data[step2].avgVote)}
-				fill={color(d.data[step2].parfamName)}
-				stroke={i === picked && "#000"}
-				popup={i === picked && names[d.data[step2].partyName]}/>
+				<Circle
+					x={x(d.rile)}
+					y={y(d.environ)}
+					radius={r(d.avgVote)}
+					fill={color(d.parfamName)}
+					stroke={i === picked && "#000"}
+					popup={i === picked && names[d.partyName]}/>
 		{/each}
 	<div class="slider">
 			<Slider/>
@@ -91,5 +96,9 @@
 		font-size: 1em;
 		margin: 1vh auto;
 
+	}
+
+	.graphic {
+		pointer-events: all;
 	}
 </style>
