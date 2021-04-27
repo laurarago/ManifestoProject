@@ -5,6 +5,10 @@
     export let value = 1996;
     const dispatch = createEventDispatcher();
     
+    export let min;
+    export let max;
+
+
   </script>
 
 <RangeSlider
@@ -20,12 +24,3 @@
         dispatch("change", { value }); 
     }} 
 />
-
-<style>
-	/* :global(body) { 
-		padding: 50px;
-		width: 60%;
-	  font-family: Barlow, sans-serif;
-		font-size: 0.5em;
-	} */
-</style>

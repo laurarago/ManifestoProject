@@ -9,12 +9,18 @@
 
 	export let raw;
 	export let layout;
-	export let stepYear = 1996;
+	let stepYear = 1996;
 	
 	let data = raw.map((d) => { return {...d, data: d.data.filter((d) => d.yearIndex === stepYear)}
 				}).filter(d => d.data.length > 0)
   
 	console.log(data)
+
+	
+
+
+
+
 
 	const margin = { top: 25, right: 10, bottom: 25, left: 25 }
 	let width, height;
@@ -49,11 +55,16 @@
 	$: color = scaleOrdinal()
 					.domain(Object.keys(names))
 					.range(colors)
+	
+	$: years = scaleOrdinal()
+					.domain(Object.keys(names))
+					.range(5)
 
     $: delaunay = Delaunay.from(data, d => x(d.data[0].rile), d => y(d.data[0].environ))
 
 </script>
 <div class="graphic {layout}" bind:clientWidth={width} bind:clientHeight={height}>
+
 	<Canvas 
 		{width} {height} 
 		style='cursor: pointer'
@@ -74,9 +85,6 @@
 			stroke={i === picked && "#000"}
 			popup={i === picked && names[d.data[0].partyname]}/>
 		{/each}
-	<div class="slider">
-			<Slider/>
-			</div>
 	</Canvas>
 	
 	

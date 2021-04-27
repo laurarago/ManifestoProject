@@ -22,6 +22,7 @@
 	let selectedCountry = countries[0];
 
 
+
 	function setCountryIndex(selectedCountry) {
 		console.log(selectedCountry)
 		setCountry = countries.find(country => country.Index == selectedCountry.Index).Index
@@ -29,7 +30,6 @@
 		finalData = groupedData2[setCountry].parties;
 	}
 
-console.log(groupedData2[1].parties)
 
 </script>
 
@@ -604,7 +604,10 @@ console.log(groupedData2[1].parties)
 			{#each countries as option}
 				<option value={option}>{option.Country}</option>
 			{/each}
-		</select>	
+		</select>
+	
+		
+		
 		{#key setCountry}
 			<Exploratory 
 			raw={finalData}
