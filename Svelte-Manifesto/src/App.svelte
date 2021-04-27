@@ -6,20 +6,13 @@
 	export let groupedData;
 	export let groupedData2;
 
-	console.log(groupedData[0].data[0])
-	console.log(groupedData2[0].parties[1].data[1])
-	console.log(groupedData2[0].parties)
-	
-	
 	$:index = index < 7 ? index : 6;
-
 
 	let steps = [35, 0, 5, 10, 20, 30, 35];
 	let setCountry = 0;
 	let setYear = 1993;
 
-
-
+	console.log(groupedData)
 
 </script>
 
@@ -590,12 +583,10 @@
 	<div class="exploratory-chart">
 		<h2>The green agenda of political parties across the years by country</h2>
 		</div><br><br>			
-	<Exploratory 
-	raw={groupedData2[setCountry].parties}
-	layout='ls'
-	stepYear={setYear}/>
-		  
-
+			<Exploratory 
+			raw={groupedData2[setCountry].parties}
+			layout='ls'
+			stepYear={setYear}/>
 			</div>
 		</main>
 

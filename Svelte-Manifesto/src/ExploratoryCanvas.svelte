@@ -14,7 +14,6 @@
 	let data = raw.map((d) => { return {...d, data: d.data.filter((d) => d.yearIndex === stepYear)}
 				}).filter(d => d.data.length > 0)
   
-
 	console.log(data)
 
 	const margin = { top: 25, right: 10, bottom: 25, left: 25 }
@@ -51,10 +50,7 @@
 					.domain(Object.keys(names))
 					.range(colors)
 
-	
     $: delaunay = Delaunay.from(data, d => x(d.data[0].rile), d => y(d.data[0].environ))
-	$: console.log(data[picked?picked:0].partyname)
-
 
 </script>
 <div class="graphic {layout}" bind:clientWidth={width} bind:clientHeight={height}>
@@ -70,13 +66,13 @@
 	<Axis type="y" scale={y} tickNumber={8} {margin} />
 
 		{#each data as d, i}
-				<Circle
-					x={x(d.rile)}
-					y={y(d.environ)}
-					radius={r(d.avgVote)}
-					fill={color(d.parfamName)}
-					stroke={i === picked && "#000"}
-					popup={i === picked && names[d.partyName]}/>
+		<Circle
+			x={x(d.data[0].rile)}
+			y={y(d.data[0].environ)}
+			radius={r(d.data[0].avgVote)}
+			fill={color(d.data[0].parfamName)}
+			stroke={i === picked && "#000"}
+			popup={i === picked && names[d.partyName]}/>
 		{/each}
 	<div class="slider">
 			<Slider/>
