@@ -21,12 +21,8 @@
 	];
 	let selectedCountry = countries[0];
 
-
-
 	function setCountryIndex(selectedCountry) {
-		console.log(selectedCountry)
 		setCountry = countries.find(country => country.Index == selectedCountry.Index).Index
-		console.log(setCountry)
 		finalData = groupedData2[setCountry].parties;
 	}
 
@@ -606,14 +602,12 @@
 			{/each}
 		</select>
 	
-		
-		
-		{#key setCountry}
 			<Exploratory 
-			raw={finalData}
+			raw={groupedData2}
 			layout='ls'
-			stepYear={setYear}/>
-		{/key}
+			stepYear={setYear}
+			country={setCountry}/>
+
 			</div>
 		</main>
 
