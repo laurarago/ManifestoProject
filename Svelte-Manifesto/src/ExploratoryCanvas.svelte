@@ -1,36 +1,36 @@
 <script>
 	import { Canvas } from 'svelte-canvas'
-	import { extent } from 'd3-array'
 	import { scaleLinear, scaleSqrt, scaleOrdinal} from 'd3-scale'
-    import { Delaunay } from 'd3-delaunay'
+	import { Delaunay } from 'd3-delaunay'
 	import Circle from './CircleExploratory.svelte'
-	import Slider from './Slider.svelte'
 	import Axis from './AxisExploratory.svelte'
 
 	export let raw;
 	export let layout;
 	export let country;
 
-	$:_data = raw[country].parties;
-	
-	$:data = _data.map((d) => { return {...d, data: d.data.filter((d) => d.yearIndex === stepYear)}
-				}).filter(d => d.data.length > 0);
+	$: dataPoints = raw[country].parties
+		.map(d => d.data)
+		.flat()
+		.filter(d => d.yearIndex === stepYear)
 
-	$:years = [
-		...new Set(
-			_data.map(d => 
-			d.data.flat())
+	function getUniqueYears(countryData) {
+		const allYears = countryData.parties
+			.map(d => d.data)
 			.flat()
 			.map(d => d.yearIndex)
-		)].sort()
-		
-	$:stepYear = years[0]
+		return [...new Set(allYears)].sort(); // return unique sorted list
+	}
+
+	$:years = getUniqueYears(raw[country]);
+
+	$:stepYear = years[0];
 
 	const margin = { top: 25, right: 10, bottom: 25, left: 25 }
 	let width, height;
 	let picked = null, click = false
 	let colors = ["#33a02c", "#e31a1c", "#fb9a99", "#fdbf6f", "#a6cee3", "#1f78b4", "#1f78b4", "#b15928", "#999999", "#999999"];
-	
+
 	const names = {
 		"ECO": "Ecological parties",
 		"LEF": "Socialist or other left",
@@ -60,12 +60,8 @@
 	$: color = scaleOrdinal()
 					.domain(Object.keys(names))
 					.range(colors)
-	
-	$: years = scaleOrdinal()
-					.domain(Object.keys(names))
-					.range(5)
 
-    $: delaunay = Delaunay.from(data, d => x(d.data[0].rile), d => y(d.data[0].environ))
+	$: delaunay = Delaunay.from(dataPoints, d => x(d.rile), d => y(d.environ))
 
 </script>
 {#each years as year}
@@ -73,8 +69,8 @@
 {/each}
 <div class="graphic {layout}" bind:clientWidth={width} bind:clientHeight={height}>
 
-	<Canvas 
-		{width} {height} 
+	<Canvas
+		{width} {height}
 		style='cursor: pointer'
 		on:mousemove={({ offsetX: x, offsetY: y }) => picked = delaunay.find(x, y)}
 		on:mouseout={() => picked = null}
@@ -84,12 +80,12 @@
 	<Axis type="x" scale={x} tickNumber={8} {margin} />
 	<Axis type="y" scale={y} tickNumber={8} {margin} />
 
-		{#each data as d, i}
+		{#each dataPoints as d, i (d.partyname)}
 		<Circle
-			x={x(d.data[0].rile)}
-			y={y(d.data[0].environ)}
-			radius={r(d.data[0].avgVote)}
-			fill={color(d.data[0].parfamName)}
+			x={x(d.rile)}
+			y={y(d.environ)}
+			radius={r(d.avgVote)}
+			fill={color(d.parfamName)}
 			stroke={i === picked && "#000"}
 			popup={i === picked && d.partyname}/>
 		{/each}
@@ -98,9 +94,9 @@
 </div>
 
 <style>
-    .canvas {
-        position:relative;			
-    }
+	.canvas {
+		position:relative;
+	}
 	.slider {
 		width: 45%;
 	  	font-family: Barlow Condensed, sans-serif;
