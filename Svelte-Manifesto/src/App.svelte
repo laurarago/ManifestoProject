@@ -18,6 +18,7 @@
 	let countries = [
 		{ Country: 'Spain', Index : 0},
 		{ Country: 'Italy', Index : 1},
+		{ Country: 'Austria', Index : 2}
 	];
 	let selectedCountry = countries[0];
 
