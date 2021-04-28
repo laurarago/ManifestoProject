@@ -630,7 +630,6 @@
 				<option value={option}>{option.Country}</option>
 			{/each}
 		</select>
-	
 			<Exploratory 
 			raw={groupedData2}
 			layout='ls'
@@ -639,7 +638,6 @@
 
 			</div>
 		</main>
-
 <div class="footer-methodology">
 	<h1>Methodology</h1>
 	<p>For this report we've used the data from Manifesto Project that gathers and analyze political manifestos from over 1,000 parties from 1945 until today and covers 50 different countries on five continents.
@@ -775,6 +773,12 @@
 		padding-bottom: 15px;
 		text-align: left;
 		font-weight: 500;
+	}
+
+	select {
+		font-family: Barlow Condensed, sans-serif;
+		font-weight: 400;
+		margin-bottom: 70px;
 	}
 
 	.white-bg {

@@ -112,4 +112,8 @@
 	.graphic {
 		pointer-events: all;
 	}
+
+	button {
+		font-family: Barlow Condensed, sans-serif;
+	}
 </style>
