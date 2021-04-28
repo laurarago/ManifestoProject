@@ -18,6 +18,8 @@
 
 
 	let countries = [
+		{ Country: 'Spain', Index : 0},
+		{ Country: 'Italy', Index : 1},
 		{ Country: 'Austria', Index : 2},
 		{ Country: 'Belgium', Index : 3},
 		{ Country: 'Bulgaria', Index : 4},
@@ -31,7 +33,6 @@
 		{ Country: 'Greece', Index : 13},
 		{ Country: 'Hungary', Index : 14},
 		{ Country: 'Ireland', Index : 15},
-		{ Country: 'Italy', Index : 1},
 		{ Country: 'Latvia', Index : 16},
 		{ Country: 'Lithuania', Index : 17},
 		{ Country: 'Luxembourg', Index : 18},
@@ -42,7 +43,6 @@
 		{ Country: 'Romania', Index : 23},
 		{ Country: 'Slovakia', Index : 24},
 		{ Country: 'Slovenia', Index : 25},
-		{ Country: 'Spain', Index : 0},
 		{ Country: 'Sweden', Index : 26}
 
 
