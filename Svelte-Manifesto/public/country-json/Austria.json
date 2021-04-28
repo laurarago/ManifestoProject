@@ -1,1 +1,679 @@
-[{"partyname":"Alliance for the Future of Austria","data":[{"partyname":"Alliance for the Future of Austria","parfamName":"NAT","yearIndex":2006,"culture":0.8959999999999999,"environ":3.2260000000000004,"equality":5.556,"parfamCount":1,"rile":-3.584,"staticRile":10.25,"avgVote":4.11},{"partyname":"Alliance for the Future of Austria","parfamName":"NAT","yearIndex":2008,"culture":0,"environ":4.07,"equality":17.733,"parfamCount":1,"rile":-8.721,"staticRile":10.25,"avgVote":10.7}]},{"partyname":"Austrian Communist Party","data":[{"partyname":"Austrian Communist Party","parfamName":"LEF","yearIndex":2002,"culture":0,"environ":0.461,"equality":4.608000000000001,"parfamCount":1,"rile":-26.267,"staticRile":-23.66,"avgVote":0.562},{"partyname":"Austrian Communist Party","parfamName":"LEF","yearIndex":2008,"culture":0,"environ":0,"equality":27.826,"parfamCount":1,"rile":-17.391,"staticRile":-23.66,"avgVote":0.76}]},{"partyname":"Austrian Freedom Party","data":[{"partyname":"Austrian Freedom Party","parfamName":"NAT","yearIndex":1990,"culture":0,"environ":6.2,"equality":1.3,"parfamCount":1,"rile":14.9,"staticRile":10.25,"avgVote":16.635},{"partyname":"Austrian Freedom Party","parfamName":"NAT","yearIndex":1994,"culture":0.379,"environ":2.655,"equality":3.287,"parfamCount":1,"rile":47.788,"staticRile":10.25,"avgVote":22.497},{"partyname":"Austrian Freedom Party","parfamName":"NAT","yearIndex":1999,"culture":5.167999999999998,"environ":6.01,"equality":1.803,"parfamCount":1,"rile":24.639,"staticRile":10.25,"avgVote":26.91},{"partyname":"Austrian Freedom Party","parfamName":"NAT","yearIndex":2002,"culture":2.886,"environ":3.148,"equality":6.6720000000000015,"parfamCount":1,"rile":-18.028,"staticRile":10.25,"avgVote":10.01},{"partyname":"Austrian Freedom Party","parfamName":"NAT","yearIndex":2006,"culture":2.154,"environ":15.077,"equality":4.308,"parfamCount":1,"rile":-4.308,"staticRile":10.25,"avgVote":11.04},{"partyname":"Austrian Freedom Party","parfamName":"NAT","yearIndex":2008,"culture":3.03,"environ":4.329,"equality":10.823,"parfamCount":1,"rile":-1.2990000000000002,"staticRile":10.25,"avgVote":17.54},{"partyname":"Austrian Freedom Party","parfamName":"NAT","yearIndex":2013,"culture":0,"environ":0,"equality":6.0870000000000015,"parfamCount":1,"rile":12.174,"staticRile":10.25,"avgVote":20.506},{"partyname":"Austrian Freedom Party","parfamName":"NAT","yearIndex":2017,"culture":2.655,"environ":5.973,"equality":5.752000000000002,"parfamCount":1,"rile":9.292,"staticRile":10.25,"avgVote":25.966},{"partyname":"Austrian Freedom Party","parfamName":"NAT","yearIndex":2019,"culture":0,"environ":10.811,"equality":2.252,"parfamCount":1,"rile":2.7030000000000003,"staticRile":10.25,"avgVote":16.174}]},{"partyname":"Austrian People’s Party","data":[{"partyname":"Austrian People’s Party","parfamName":"CHR","yearIndex":1990,"culture":0.9,"environ":14.2,"equality":3.1,"parfamCount":1,"rile":4.8,"staticRile":6.13,"avgVote":32.064},{"partyname":"Austrian People’s Party","parfamName":"CHR","yearIndex":1994,"culture":0.638,"environ":7.468,"equality":1.1840000000000002,"parfamCount":1,"rile":24.59,"staticRile":6.13,"avgVote":27.667},{"partyname":"Austrian People’s Party","parfamName":"CHR","yearIndex":1995,"culture":0,"environ":0.833,"equality":0.833,"parfamCount":1,"rile":40.417,"staticRile":6.13,"avgVote":28.291},{"partyname":"Austrian People’s Party","parfamName":"CHR","yearIndex":1999,"culture":0.8390000000000001,"environ":1.605,"equality":4.05,"parfamCount":1,"rile":-3.612,"staticRile":6.13,"avgVote":26.91},{"partyname":"Austrian People’s Party","parfamName":"CHR","yearIndex":2002,"culture":5.266,"environ":3.51,"equality":4.711,"parfamCount":1,"rile":-15.704,"staticRile":6.13,"avgVote":42.3},{"partyname":"Austrian People’s Party","parfamName":"CHR","yearIndex":2006,"culture":5.582999999999998,"environ":5.582999999999998,"equality":9.854,"parfamCount":1,"rile":-2.9610000000000003,"staticRile":6.13,"avgVote":34.33},{"partyname":"Austrian People’s Party","parfamName":"CHR","yearIndex":2008,"culture":0.16399999999999998,"environ":0.4920000000000001,"equality":14.262,"parfamCount":1,"rile":-1.148,"staticRile":6.13,"avgVote":25.98},{"partyname":"Austrian People’s Party","parfamName":"CHR","yearIndex":2013,"culture":4.3889999999999985,"environ":3.442,"equality":5.938,"parfamCount":1,"rile":-5.507999999999999,"staticRile":6.13,"avgVote":23.991},{"partyname":"Austrian People’s Party","parfamName":"CHR","yearIndex":2017,"culture":3.363,"environ":2.075,"equality":4.723,"parfamCount":1,"rile":10.161,"staticRile":6.13,"avgVote":31.47},{"partyname":"Austrian People’s Party","parfamName":"CHR","yearIndex":2019,"culture":3.06,"environ":2.9210000000000003,"equality":5.563,"parfamCount":1,"rile":2.086,"staticRile":6.13,"avgVote":37.457}]},{"partyname":"Austrian Social Democratic Party","data":[{"partyname":"Austrian Social Democratic Party","parfamName":"SOC","yearIndex":1990,"culture":5.2,"environ":17.8,"equality":6.9,"parfamCount":1,"rile":-7.600000000000001,"staticRile":-14,"avgVote":42.78100000000001},{"partyname":"Austrian Social Democratic Party","parfamName":"SOC","yearIndex":1994,"culture":4.455,"environ":7.756,"equality":6.601,"parfamCount":1,"rile":-11.056,"staticRile":-14,"avgVote":34.918},{"partyname":"Austrian Social Democratic Party","parfamName":"SOC","yearIndex":1995,"culture":0,"environ":1.931,"equality":17.761,"parfamCount":1,"rile":20.849,"staticRile":-14,"avgVote":38.059},{"partyname":"Austrian Social Democratic Party","parfamName":"SOC","yearIndex":1999,"culture":3.56,"environ":3.56,"equality":11.123,"parfamCount":1,"rile":-13.348,"staticRile":-14,"avgVote":33.2},{"partyname":"Austrian Social Democratic Party","parfamName":"SOC","yearIndex":2002,"culture":3.823,"environ":4.257,"equality":11.468,"parfamCount":1,"rile":-21.199,"staticRile":-14,"avgVote":36.51},{"partyname":"Austrian Social Democratic Party","parfamName":"SOC","yearIndex":2006,"culture":4.438,"environ":4.022,"equality":14.424,"parfamCount":1,"rile":-15.118,"staticRile":-14,"avgVote":35.34},{"partyname":"Austrian Social Democratic Party","parfamName":"SOC","yearIndex":2008,"culture":5.985,"environ":4.1560000000000015,"equality":16.625,"parfamCount":1,"rile":-17.872,"staticRile":-14,"avgVote":29.26},{"partyname":"Austrian Social Democratic Party","parfamName":"SOC","yearIndex":2013,"culture":6.759,"environ":1.655,"equality":12.276,"parfamCount":1,"rile":-38.483,"staticRile":-14,"avgVote":26.819000000000006},{"partyname":"Austrian Social Democratic Party","parfamName":"SOC","yearIndex":2017,"culture":2.239,"environ":1.7990000000000002,"equality":12.812,"parfamCount":1,"rile":-21.916,"staticRile":-14,"avgVote":26.859},{"partyname":"Austrian Social Democratic Party","parfamName":"SOC","yearIndex":2019,"culture":3.665,"environ":4.503,"equality":15.079,"parfamCount":1,"rile":-39.424,"staticRile":-14,"avgVote":21.181}]},{"partyname":"Freedom Movement","data":[{"partyname":"Freedom Movement","parfamName":"NAT","yearIndex":1995,"culture":0,"environ":2.685,"equality":6.04,"parfamCount":1,"rile":55.705,"staticRile":10.25,"avgVote":21.885}]},{"partyname":"Green Alternative","data":[{"partyname":"Green Alternative","parfamName":"ECO","yearIndex":1990,"culture":3,"environ":20.9,"equality":6.9,"parfamCount":1,"rile":-12.4,"staticRile":-13.65,"avgVote":4.784}]},{"partyname":"Liberal Forum","data":[{"partyname":"Liberal Forum","parfamName":"LIB","yearIndex":1994,"culture":2.667,"environ":4,"equality":10.667,"parfamCount":1,"rile":34,"staticRile":4.61,"avgVote":5.97},{"partyname":"Liberal Forum","parfamName":"LIB","yearIndex":1995,"culture":0,"environ":5.8820000000000014,"equality":14.706,"parfamCount":1,"rile":64.706,"staticRile":4.61,"avgVote":5.513}]},{"partyname":"Peter Pilz List","data":[{"partyname":"Peter Pilz List","parfamName":"ECO","yearIndex":2017,"culture":0,"environ":1.408,"equality":5.634,"parfamCount":1,"rile":-7.042000000000002,"staticRile":-13.65,"avgVote":4.409}]},{"partyname":"Team Stronach for Austria","data":[{"partyname":"Team Stronach for Austria","parfamName":"SIP","yearIndex":2013,"culture":4.854,"environ":3.479,"equality":5.178,"parfamCount":1,"rile":0.971,"staticRile":3.36,"avgVote":5.725000000000001}]},{"partyname":"The Greens","data":[{"partyname":"The Greens","parfamName":"ECO","yearIndex":1994,"culture":0,"environ":30.799,"equality":0.387,"parfamCount":1,"rile":6.572,"staticRile":-13.65,"avgVote":7.307},{"partyname":"The Greens","parfamName":"ECO","yearIndex":1995,"culture":0,"environ":7.692,"equality":11.966,"parfamCount":1,"rile":19.658,"staticRile":-13.65,"avgVote":4.815},{"partyname":"The Greens","parfamName":"ECO","yearIndex":1999,"culture":0.7140000000000001,"environ":8.776,"equality":20.204,"parfamCount":1,"rile":-15.102,"staticRile":-13.65,"avgVote":7.4},{"partyname":"The Greens","parfamName":"ECO","yearIndex":2002,"culture":3.358,"environ":8.029,"equality":14.599,"parfamCount":1,"rile":-20.876,"staticRile":-13.65,"avgVote":9.47},{"partyname":"The Greens","parfamName":"ECO","yearIndex":2006,"culture":6.926,"environ":8.947000000000003,"equality":11.977,"parfamCount":1,"rile":-20.058,"staticRile":-13.65,"avgVote":11.05},{"partyname":"The Greens","parfamName":"ECO","yearIndex":2008,"culture":2.439,"environ":12.195,"equality":18.364,"parfamCount":1,"rile":-9.469,"staticRile":-13.65,"avgVote":10.43},{"partyname":"The Greens","parfamName":"ECO","yearIndex":2013,"culture":2.462,"environ":9.265,"equality":11.311,"parfamCount":1,"rile":-13.94,"staticRile":-13.65,"avgVote":12.416},{"partyname":"The Greens","parfamName":"ECO","yearIndex":2017,"culture":3.687,"environ":12.627,"equality":12.903,"parfamCount":1,"rile":-22.212,"staticRile":-13.65,"avgVote":3.8},{"partyname":"The Greens","parfamName":"ECO","yearIndex":2019,"culture":3.513,"environ":11.814,"equality":9.135,"parfamCount":1,"rile":-21.695,"staticRile":-13.65,"avgVote":13.9}]},{"partyname":"The New Austria","data":[{"partyname":"The New Austria","parfamName":"LIB","yearIndex":2013,"culture":0.098,"environ":6.2620000000000005,"equality":6.36,"parfamCount":1,"rile":-13.796,"staticRile":4.61,"avgVote":4.964}]},{"partyname":"The New Austria and Liberal Forum","data":[{"partyname":"The New Austria and Liberal Forum","parfamName":"LIB","yearIndex":2017,"culture":0,"environ":0,"equality":12.698,"parfamCount":1,"rile":-2.381,"staticRile":4.61,"avgVote":5.296},{"partyname":"The New Austria and Liberal Forum","parfamName":"LIB","yearIndex":2019,"culture":2.818,"environ":3.16,"equality":5.978,"parfamCount":1,"rile":-10.077,"staticRile":4.61,"avgVote":8.103}]}]}]
+[
+  {
+    "partyname": "Alliance for the Future of Austria",
+    "data": [
+      {
+        "partyname": "Alliance for the Future of Austria",
+        "parfamName": "NAT",
+        "yearIndex": 2006,
+        "culture": 0.8959999999999999,
+        "environ": 3.2260000000000004,
+        "equality": 5.556,
+        "parfamCount": 1,
+        "rile": -3.584,
+        "staticRile": 10.25,
+        "avgVote": 4.11
+      },
+      {
+        "partyname": "Alliance for the Future of Austria",
+        "parfamName": "NAT",
+        "yearIndex": 2008,
+        "culture": 0,
+        "environ": 4.07,
+        "equality": 17.733,
+        "parfamCount": 1,
+        "rile": -8.721,
+        "staticRile": 10.25,
+        "avgVote": 10.7
+      }
+    ]
+  },
+  {
+    "partyname": "Austrian Communist Party",
+    "data": [
+      {
+        "partyname": "Austrian Communist Party",
+        "parfamName": "LEF",
+        "yearIndex": 2002,
+        "culture": 0,
+        "environ": 0.461,
+        "equality": 4.608000000000001,
+        "parfamCount": 1,
+        "rile": -26.267,
+        "staticRile": -23.66,
+        "avgVote": 0.562
+      },
+      {
+        "partyname": "Austrian Communist Party",
+        "parfamName": "LEF",
+        "yearIndex": 2008,
+        "culture": 0,
+        "environ": 0,
+        "equality": 27.826,
+        "parfamCount": 1,
+        "rile": -17.391,
+        "staticRile": -23.66,
+        "avgVote": 0.76
+      }
+    ]
+  },
+  {
+    "partyname": "Austrian Freedom Party",
+    "data": [
+      {
+        "partyname": "Austrian Freedom Party",
+        "parfamName": "NAT",
+        "yearIndex": 1990,
+        "culture": 0,
+        "environ": 6.2,
+        "equality": 1.3,
+        "parfamCount": 1,
+        "rile": 14.9,
+        "staticRile": 10.25,
+        "avgVote": 16.635
+      },
+      {
+        "partyname": "Austrian Freedom Party",
+        "parfamName": "NAT",
+        "yearIndex": 1994,
+        "culture": 0.379,
+        "environ": 2.655,
+        "equality": 3.287,
+        "parfamCount": 1,
+        "rile": 47.788,
+        "staticRile": 10.25,
+        "avgVote": 22.497
+      },
+      {
+        "partyname": "Austrian Freedom Party",
+        "parfamName": "NAT",
+        "yearIndex": 1999,
+        "culture": 5.167999999999998,
+        "environ": 6.01,
+        "equality": 1.803,
+        "parfamCount": 1,
+        "rile": 24.639,
+        "staticRile": 10.25,
+        "avgVote": 26.91
+      },
+      {
+        "partyname": "Austrian Freedom Party",
+        "parfamName": "NAT",
+        "yearIndex": 2002,
+        "culture": 2.886,
+        "environ": 3.148,
+        "equality": 6.6720000000000015,
+        "parfamCount": 1,
+        "rile": -18.028,
+        "staticRile": 10.25,
+        "avgVote": 10.01
+      },
+      {
+        "partyname": "Austrian Freedom Party",
+        "parfamName": "NAT",
+        "yearIndex": 2006,
+        "culture": 2.154,
+        "environ": 15.077,
+        "equality": 4.308,
+        "parfamCount": 1,
+        "rile": -4.308,
+        "staticRile": 10.25,
+        "avgVote": 11.04
+      },
+      {
+        "partyname": "Austrian Freedom Party",
+        "parfamName": "NAT",
+        "yearIndex": 2008,
+        "culture": 3.03,
+        "environ": 4.329,
+        "equality": 10.823,
+        "parfamCount": 1,
+        "rile": -1.2990000000000002,
+        "staticRile": 10.25,
+        "avgVote": 17.54
+      },
+      {
+        "partyname": "Austrian Freedom Party",
+        "parfamName": "NAT",
+        "yearIndex": 2013,
+        "culture": 0,
+        "environ": 0,
+        "equality": 6.0870000000000015,
+        "parfamCount": 1,
+        "rile": 12.174,
+        "staticRile": 10.25,
+        "avgVote": 20.506
+      },
+      {
+        "partyname": "Austrian Freedom Party",
+        "parfamName": "NAT",
+        "yearIndex": 2017,
+        "culture": 2.655,
+        "environ": 5.973,
+        "equality": 5.752000000000002,
+        "parfamCount": 1,
+        "rile": 9.292,
+        "staticRile": 10.25,
+        "avgVote": 25.966
+      },
+      {
+        "partyname": "Austrian Freedom Party",
+        "parfamName": "NAT",
+        "yearIndex": 2019,
+        "culture": 0,
+        "environ": 10.811,
+        "equality": 2.252,
+        "parfamCount": 1,
+        "rile": 2.7030000000000003,
+        "staticRile": 10.25,
+        "avgVote": 16.174
+      }
+    ]
+  },
+  {
+    "partyname": "Austrian People’s Party",
+    "data": [
+      {
+        "partyname": "Austrian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 1990,
+        "culture": 0.9,
+        "environ": 14.2,
+        "equality": 3.1,
+        "parfamCount": 1,
+        "rile": 4.8,
+        "staticRile": 6.13,
+        "avgVote": 32.064
+      },
+      {
+        "partyname": "Austrian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 1994,
+        "culture": 0.638,
+        "environ": 7.468,
+        "equality": 1.1840000000000002,
+        "parfamCount": 1,
+        "rile": 24.59,
+        "staticRile": 6.13,
+        "avgVote": 27.667
+      },
+      {
+        "partyname": "Austrian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 1995,
+        "culture": 0,
+        "environ": 0.833,
+        "equality": 0.833,
+        "parfamCount": 1,
+        "rile": 40.417,
+        "staticRile": 6.13,
+        "avgVote": 28.291
+      },
+      {
+        "partyname": "Austrian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 1999,
+        "culture": 0.8390000000000001,
+        "environ": 1.605,
+        "equality": 4.05,
+        "parfamCount": 1,
+        "rile": -3.612,
+        "staticRile": 6.13,
+        "avgVote": 26.91
+      },
+      {
+        "partyname": "Austrian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 2002,
+        "culture": 5.266,
+        "environ": 3.51,
+        "equality": 4.711,
+        "parfamCount": 1,
+        "rile": -15.704,
+        "staticRile": 6.13,
+        "avgVote": 42.3
+      },
+      {
+        "partyname": "Austrian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 2006,
+        "culture": 5.582999999999998,
+        "environ": 5.582999999999998,
+        "equality": 9.854,
+        "parfamCount": 1,
+        "rile": -2.9610000000000003,
+        "staticRile": 6.13,
+        "avgVote": 34.33
+      },
+      {
+        "partyname": "Austrian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 2008,
+        "culture": 0.16399999999999998,
+        "environ": 0.4920000000000001,
+        "equality": 14.262,
+        "parfamCount": 1,
+        "rile": -1.148,
+        "staticRile": 6.13,
+        "avgVote": 25.98
+      },
+      {
+        "partyname": "Austrian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 2013,
+        "culture": 4.3889999999999985,
+        "environ": 3.442,
+        "equality": 5.938,
+        "parfamCount": 1,
+        "rile": -5.507999999999999,
+        "staticRile": 6.13,
+        "avgVote": 23.991
+      },
+      {
+        "partyname": "Austrian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 2017,
+        "culture": 3.363,
+        "environ": 2.075,
+        "equality": 4.723,
+        "parfamCount": 1,
+        "rile": 10.161,
+        "staticRile": 6.13,
+        "avgVote": 31.47
+      },
+      {
+        "partyname": "Austrian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 2019,
+        "culture": 3.06,
+        "environ": 2.9210000000000003,
+        "equality": 5.563,
+        "parfamCount": 1,
+        "rile": 2.086,
+        "staticRile": 6.13,
+        "avgVote": 37.457
+      }
+    ]
+  },
+  {
+    "partyname": "Austrian Social Democratic Party",
+    "data": [
+      {
+        "partyname": "Austrian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1990,
+        "culture": 5.2,
+        "environ": 17.8,
+        "equality": 6.9,
+        "parfamCount": 1,
+        "rile": -7.600000000000001,
+        "staticRile": -14,
+        "avgVote": 42.78100000000001
+      },
+      {
+        "partyname": "Austrian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1994,
+        "culture": 4.455,
+        "environ": 7.756,
+        "equality": 6.601,
+        "parfamCount": 1,
+        "rile": -11.056,
+        "staticRile": -14,
+        "avgVote": 34.918
+      },
+      {
+        "partyname": "Austrian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1995,
+        "culture": 0,
+        "environ": 1.931,
+        "equality": 17.761,
+        "parfamCount": 1,
+        "rile": 20.849,
+        "staticRile": -14,
+        "avgVote": 38.059
+      },
+      {
+        "partyname": "Austrian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1999,
+        "culture": 3.56,
+        "environ": 3.56,
+        "equality": 11.123,
+        "parfamCount": 1,
+        "rile": -13.348,
+        "staticRile": -14,
+        "avgVote": 33.2
+      },
+      {
+        "partyname": "Austrian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2002,
+        "culture": 3.823,
+        "environ": 4.257,
+        "equality": 11.468,
+        "parfamCount": 1,
+        "rile": -21.199,
+        "staticRile": -14,
+        "avgVote": 36.51
+      },
+      {
+        "partyname": "Austrian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2006,
+        "culture": 4.438,
+        "environ": 4.022,
+        "equality": 14.424,
+        "parfamCount": 1,
+        "rile": -15.118,
+        "staticRile": -14,
+        "avgVote": 35.34
+      },
+      {
+        "partyname": "Austrian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2008,
+        "culture": 5.985,
+        "environ": 4.1560000000000015,
+        "equality": 16.625,
+        "parfamCount": 1,
+        "rile": -17.872,
+        "staticRile": -14,
+        "avgVote": 29.26
+      },
+      {
+        "partyname": "Austrian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2013,
+        "culture": 6.759,
+        "environ": 1.655,
+        "equality": 12.276,
+        "parfamCount": 1,
+        "rile": -38.483,
+        "staticRile": -14,
+        "avgVote": 26.819000000000006
+      },
+      {
+        "partyname": "Austrian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2017,
+        "culture": 2.239,
+        "environ": 1.7990000000000002,
+        "equality": 12.812,
+        "parfamCount": 1,
+        "rile": -21.916,
+        "staticRile": -14,
+        "avgVote": 26.859
+      },
+      {
+        "partyname": "Austrian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2019,
+        "culture": 3.665,
+        "environ": 4.503,
+        "equality": 15.079,
+        "parfamCount": 1,
+        "rile": -39.424,
+        "staticRile": -14,
+        "avgVote": 21.181
+      }
+    ]
+  },
+  {
+    "partyname": "Freedom Movement",
+    "data": [
+      {
+        "partyname": "Freedom Movement",
+        "parfamName": "NAT",
+        "yearIndex": 1995,
+        "culture": 0,
+        "environ": 2.685,
+        "equality": 6.04,
+        "parfamCount": 1,
+        "rile": 55.705,
+        "staticRile": 10.25,
+        "avgVote": 21.885
+      }
+    ]
+  },
+  {
+    "partyname": "Green Alternative",
+    "data": [
+      {
+        "partyname": "Green Alternative",
+        "parfamName": "ECO",
+        "yearIndex": 1990,
+        "culture": 3,
+        "environ": 20.9,
+        "equality": 6.9,
+        "parfamCount": 1,
+        "rile": -12.4,
+        "staticRile": -13.65,
+        "avgVote": 4.784
+      }
+    ]
+  },
+  {
+    "partyname": "Liberal Forum",
+    "data": [
+      {
+        "partyname": "Liberal Forum",
+        "parfamName": "LIB",
+        "yearIndex": 1994,
+        "culture": 2.667,
+        "environ": 4,
+        "equality": 10.667,
+        "parfamCount": 1,
+        "rile": 34,
+        "staticRile": 4.61,
+        "avgVote": 5.97
+      },
+      {
+        "partyname": "Liberal Forum",
+        "parfamName": "LIB",
+        "yearIndex": 1995,
+        "culture": 0,
+        "environ": 5.8820000000000014,
+        "equality": 14.706,
+        "parfamCount": 1,
+        "rile": 64.706,
+        "staticRile": 4.61,
+        "avgVote": 5.513
+      }
+    ]
+  },
+  {
+    "partyname": "Peter Pilz List",
+    "data": [
+      {
+        "partyname": "Peter Pilz List",
+        "parfamName": "ECO",
+        "yearIndex": 2017,
+        "culture": 0,
+        "environ": 1.408,
+        "equality": 5.634,
+        "parfamCount": 1,
+        "rile": -7.042000000000002,
+        "staticRile": -13.65,
+        "avgVote": 4.409
+      }
+    ]
+  },
+  {
+    "partyname": "Team Stronach for Austria",
+    "data": [
+      {
+        "partyname": "Team Stronach for Austria",
+        "parfamName": "SIP",
+        "yearIndex": 2013,
+        "culture": 4.854,
+        "environ": 3.479,
+        "equality": 5.178,
+        "parfamCount": 1,
+        "rile": 0.971,
+        "staticRile": 3.36,
+        "avgVote": 5.725000000000001
+      }
+    ]
+  },
+  {
+    "partyname": "The Greens",
+    "data": [
+      {
+        "partyname": "The Greens",
+        "parfamName": "ECO",
+        "yearIndex": 1994,
+        "culture": 0,
+        "environ": 30.799,
+        "equality": 0.387,
+        "parfamCount": 1,
+        "rile": 6.572,
+        "staticRile": -13.65,
+        "avgVote": 7.307
+      },
+      {
+        "partyname": "The Greens",
+        "parfamName": "ECO",
+        "yearIndex": 1995,
+        "culture": 0,
+        "environ": 7.692,
+        "equality": 11.966,
+        "parfamCount": 1,
+        "rile": 19.658,
+        "staticRile": -13.65,
+        "avgVote": 4.815
+      },
+      {
+        "partyname": "The Greens",
+        "parfamName": "ECO",
+        "yearIndex": 1999,
+        "culture": 0.7140000000000001,
+        "environ": 8.776,
+        "equality": 20.204,
+        "parfamCount": 1,
+        "rile": -15.102,
+        "staticRile": -13.65,
+        "avgVote": 7.4
+      },
+      {
+        "partyname": "The Greens",
+        "parfamName": "ECO",
+        "yearIndex": 2002,
+        "culture": 3.358,
+        "environ": 8.029,
+        "equality": 14.599,
+        "parfamCount": 1,
+        "rile": -20.876,
+        "staticRile": -13.65,
+        "avgVote": 9.47
+      },
+      {
+        "partyname": "The Greens",
+        "parfamName": "ECO",
+        "yearIndex": 2006,
+        "culture": 6.926,
+        "environ": 8.947000000000003,
+        "equality": 11.977,
+        "parfamCount": 1,
+        "rile": -20.058,
+        "staticRile": -13.65,
+        "avgVote": 11.05
+      },
+      {
+        "partyname": "The Greens",
+        "parfamName": "ECO",
+        "yearIndex": 2008,
+        "culture": 2.439,
+        "environ": 12.195,
+        "equality": 18.364,
+        "parfamCount": 1,
+        "rile": -9.469,
+        "staticRile": -13.65,
+        "avgVote": 10.43
+      },
+      {
+        "partyname": "The Greens",
+        "parfamName": "ECO",
+        "yearIndex": 2013,
+        "culture": 2.462,
+        "environ": 9.265,
+        "equality": 11.311,
+        "parfamCount": 1,
+        "rile": -13.94,
+        "staticRile": -13.65,
+        "avgVote": 12.416
+      },
+      {
+        "partyname": "The Greens",
+        "parfamName": "ECO",
+        "yearIndex": 2017,
+        "culture": 3.687,
+        "environ": 12.627,
+        "equality": 12.903,
+        "parfamCount": 1,
+        "rile": -22.212,
+        "staticRile": -13.65,
+        "avgVote": 3.8
+      },
+      {
+        "partyname": "The Greens",
+        "parfamName": "ECO",
+        "yearIndex": 2019,
+        "culture": 3.513,
+        "environ": 11.814,
+        "equality": 9.135,
+        "parfamCount": 1,
+        "rile": -21.695,
+        "staticRile": -13.65,
+        "avgVote": 13.9
+      }
+    ]
+  },
+  {
+    "partyname": "The New Austria",
+    "data": [
+      {
+        "partyname": "The New Austria",
+        "parfamName": "LIB",
+        "yearIndex": 2013,
+        "culture": 0.098,
+        "environ": 6.2620000000000005,
+        "equality": 6.36,
+        "parfamCount": 1,
+        "rile": -13.796,
+        "staticRile": 4.61,
+        "avgVote": 4.964
+      }
+    ]
+  },
+  {
+    "partyname": "The New Austria and Liberal Forum",
+    "data": [
+      {
+        "partyname": "The New Austria and Liberal Forum",
+        "parfamName": "LIB",
+        "yearIndex": 2017,
+        "culture": 0,
+        "environ": 0,
+        "equality": 12.698,
+        "parfamCount": 1,
+        "rile": -2.381,
+        "staticRile": 4.61,
+        "avgVote": 5.296
+      },
+      {
+        "partyname": "The New Austria and Liberal Forum",
+        "parfamName": "LIB",
+        "yearIndex": 2019,
+        "culture": 2.818,
+        "environ": 3.16,
+        "equality": 5.978,
+        "parfamCount": 1,
+        "rile": -10.077,
+        "staticRile": 4.61,
+        "avgVote": 8.103
+      }
+    ]
+  }
+]

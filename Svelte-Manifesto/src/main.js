@@ -1,6 +1,6 @@
 import App from './App.svelte';
 import data from './data/groupedData.json'
-import data_spain from './data/spain_groupedByPartyName.json'
+import data_spain from './data/countryData.json'
 
 const app = new App({
     target: document.body,

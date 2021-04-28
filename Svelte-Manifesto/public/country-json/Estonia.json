@@ -1,1 +1,696 @@
-[{"partyname":"Coalition Party","data":[{"partyname":"Coalition Party","parfamName":"AGR","yearIndex":1995,"culture":4.545,"environ":0.9570000000000001,"equality":0.478,"parfamCount":1,"rile":5.742000000000001,"staticRile":1.01,"avgVote":0},{"partyname":"Coalition Party","parfamName":"AGR","yearIndex":1999,"culture":5.479,"environ":1.37,"equality":1.37,"parfamCount":1,"rile":6.849,"staticRile":1.01,"avgVote":7.632999999999999}]},{"partyname":"Coalition Party and Rural Union","data":[{"partyname":"Coalition Party and Rural Union","parfamName":"AGR","yearIndex":1995,"culture":4.545,"environ":0.9570000000000001,"equality":0.478,"parfamCount":1,"rile":5.742000000000001,"staticRile":1.01,"avgVote":32.23}]},{"partyname":"Conservative People's Party of Estonia","data":[{"partyname":"Conservative People's Party of Estonia","parfamName":"NAT","yearIndex":2015,"culture":4.27,"environ":3.82,"equality":1.124,"parfamCount":1,"rile":12.809,"staticRile":10.25,"avgVote":8.146}]},{"partyname":"Electoral Union Pro Patria and Estonian National Independence Party","data":[{"partyname":"Electoral Union Pro Patria and Estonian National Independence Party","parfamName":"CON","yearIndex":1995,"culture":3.681,"environ":5.521,"equality":0,"parfamCount":1,"rile":9.202,"staticRile":11.64,"avgVote":7.859}]},{"partyname":"Electoral Union ‘Estonian Citizen'","data":[{"partyname":"Electoral Union ‘Estonian Citizen'","parfamName":"AGR","yearIndex":1992,"culture":4,"environ":0,"equality":0,"parfamCount":1,"rile":44,"staticRile":1.01,"avgVote":6.881}]},{"partyname":"Electoral Union ‘Independent Royalists'","data":[{"partyname":"Electoral Union ‘Independent Royalists'","parfamName":"SIP","yearIndex":1992,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":62.5,"staticRile":3.36,"avgVote":7.122000000000001}]},{"partyname":"Electoral Union ‘Our Home is Estonia'","data":[{"partyname":"Electoral Union ‘Our Home is Estonia'","parfamName":"ETH","yearIndex":1995,"culture":1.98,"environ":0,"equality":1.98,"parfamCount":1,"rile":-13.861,"staticRile":-9.04,"avgVote":5.874000000000001}]},{"partyname":"Electoral Union ‘Popular Front'","data":[{"partyname":"Electoral Union ‘Popular Front'","parfamName":"LIB","yearIndex":1992,"culture":0,"environ":9.028,"equality":2.778,"parfamCount":1,"rile":0.34700000000000003,"staticRile":4.61,"avgVote":12.248}]},{"partyname":"Electoral Union ‘Secure Home'","data":[{"partyname":"Electoral Union ‘Secure Home'","parfamName":"LEF","yearIndex":1992,"culture":1.515,"environ":0,"equality":0,"parfamCount":1,"rile":31.818,"staticRile":-23.66,"avgVote":13.602}]},{"partyname":"Electoral coalition Estonian Rural Center Party - Estonian Social Democratic Party","data":[{"partyname":"Electoral coalition Estonian Rural Center Party - Estonian Social Democratic Party","parfamName":"SOC","yearIndex":1992,"culture":3.614,"environ":7.229,"equality":0,"parfamCount":1,"rile":-10.241,"staticRile":-14,"avgVote":9.728},{"partyname":"Electoral coalition Estonian Rural Center Party - Estonian Social Democratic Party","parfamName":"SOC","yearIndex":1995,"culture":2.83,"environ":0.472,"equality":0.943,"parfamCount":1,"rile":-2.83,"staticRile":-14,"avgVote":5.989}]},{"partyname":"Estonian Center Party","data":[{"partyname":"Estonian Center Party","parfamName":"LIB","yearIndex":1995,"culture":1.389,"environ":0,"equality":0,"parfamCount":1,"rile":-15.278,"staticRile":4.61,"avgVote":14.173},{"partyname":"Estonian Center Party","parfamName":"LIB","yearIndex":1999,"culture":2.024,"environ":0.405,"equality":7.287000000000001,"parfamCount":1,"rile":16.194000000000006,"staticRile":4.61,"avgVote":23.414},{"partyname":"Estonian Center Party","parfamName":"LIB","yearIndex":2003,"culture":7.222,"environ":6.667000000000002,"equality":6.3889999999999985,"parfamCount":1,"rile":0.833,"staticRile":4.61,"avgVote":25.403},{"partyname":"Estonian Center Party","parfamName":"LIB","yearIndex":2007,"culture":8.951000000000002,"environ":3.5810000000000004,"equality":3.069,"parfamCount":1,"rile":-29.156,"staticRile":4.61,"avgVote":26.08},{"partyname":"Estonian Center Party","parfamName":"LIB","yearIndex":2011,"culture":5.593,"environ":3.132,"equality":5.369,"parfamCount":1,"rile":-12.975,"staticRile":4.61,"avgVote":23.321},{"partyname":"Estonian Center Party","parfamName":"LIB","yearIndex":2015,"culture":5.36,"environ":4.5939999999999985,"equality":4.5939999999999985,"parfamCount":1,"rile":-21.746,"staticRile":4.61,"avgVote":24.812}]},{"partyname":"Estonian Greens","data":[{"partyname":"Estonian Greens","parfamName":"ECO","yearIndex":2007,"culture":0.909,"environ":17.273,"equality":1.364,"parfamCount":1,"rile":-14.545,"staticRile":-13.65,"avgVote":7.1400000000000015},{"partyname":"Estonian Greens","parfamName":"ECO","yearIndex":2011,"culture":7.225000000000001,"environ":8.960000000000003,"equality":1.734,"parfamCount":1,"rile":-5.78,"staticRile":-13.65,"avgVote":3.795}]},{"partyname":"Estonian National Independence Party","data":[{"partyname":"Estonian National Independence Party","parfamName":"CON","yearIndex":1992,"culture":4.5939999999999985,"environ":7.774,"equality":0,"parfamCount":1,"rile":14.488,"staticRile":11.64,"avgVote":8.786}]},{"partyname":"Estonian People’s Union","data":[{"partyname":"Estonian People’s Union","parfamName":"AGR","yearIndex":2003,"culture":0.8370000000000001,"environ":0,"equality":7.95,"parfamCount":1,"rile":5.439,"staticRile":1.01,"avgVote":13.027},{"partyname":"Estonian People’s Union","parfamName":"AGR","yearIndex":2007,"culture":5.0360000000000005,"environ":5.755,"equality":10.072,"parfamCount":1,"rile":-9.353,"staticRile":1.01,"avgVote":7.13},{"partyname":"Estonian People’s Union","parfamName":"AGR","yearIndex":2011,"culture":7.57,"environ":6.7730000000000015,"equality":2.789,"parfamCount":1,"rile":0,"staticRile":1.01,"avgVote":2.1180000000000003}]},{"partyname":"Estonian Reform Party","data":[{"partyname":"Estonian Reform Party","parfamName":"LIB","yearIndex":1995,"culture":1.818,"environ":1.818,"equality":0,"parfamCount":1,"rile":12.727,"staticRile":4.61,"avgVote":16.188},{"partyname":"Estonian Reform Party","parfamName":"LIB","yearIndex":1999,"culture":0,"environ":0,"equality":7.0310000000000015,"parfamCount":1,"rile":8.594,"staticRile":4.61,"avgVote":15.919},{"partyname":"Estonian Reform Party","parfamName":"LIB","yearIndex":2003,"culture":7.782,"environ":4.28,"equality":3.502,"parfamCount":1,"rile":3.891,"staticRile":4.61,"avgVote":17.711},{"partyname":"Estonian Reform Party","parfamName":"LIB","yearIndex":2007,"culture":7.317,"environ":5.401,"equality":0.6970000000000001,"parfamCount":1,"rile":7.143,"staticRile":4.61,"avgVote":27.82},{"partyname":"Estonian Reform Party","parfamName":"LIB","yearIndex":2011,"culture":10.816,"environ":4.898,"equality":1.02,"parfamCount":1,"rile":3.0610000000000004,"staticRile":4.61,"avgVote":28.559},{"partyname":"Estonian Reform Party","parfamName":"LIB","yearIndex":2015,"culture":9.381,"environ":5.556,"equality":1.093,"parfamCount":1,"rile":0.546,"staticRile":4.61,"avgVote":27.688}]},{"partyname":"Estonian Rural People’s Party","data":[{"partyname":"Estonian Rural People’s Party","parfamName":"AGR","yearIndex":1999,"culture":3.165,"environ":0.633,"equality":1.899,"parfamCount":1,"rile":-12.658,"staticRile":1.01,"avgVote":7.27}]},{"partyname":"Estonian Social Democratic Party","data":[{"partyname":"Estonian Social Democratic Party","parfamName":"SOC","yearIndex":1992,"culture":1.977,"environ":3.39,"equality":6.215,"parfamCount":1,"rile":-12.147,"staticRile":-14,"avgVote":0}]},{"partyname":"Estonian United People’s Party","data":[{"partyname":"Estonian United People’s Party","parfamName":"ETH","yearIndex":1999,"culture":2.564,"environ":0,"equality":5.127999999999999,"parfamCount":1,"rile":-24.359,"staticRile":-9.04,"avgVote":6.13}]},{"partyname":"Free Party","data":[{"partyname":"Free Party","parfamName":"CON","yearIndex":2015,"culture":3.935,"environ":1.764,"equality":2.5780000000000003,"parfamCount":1,"rile":-7.327000000000001,"staticRile":11.64,"avgVote":8.687999999999999}]},{"partyname":"National Coalition Pro Patria","data":[{"partyname":"National Coalition Pro Patria","parfamName":"CON","yearIndex":1992,"culture":5.866000000000001,"environ":1.3969999999999998,"equality":0.279,"parfamCount":1,"rile":1.955,"staticRile":11.64,"avgVote":22.003}]},{"partyname":"People’s Party Moderates","data":[{"partyname":"People’s Party Moderates","parfamName":"SOC","yearIndex":1999,"culture":1.198,"environ":2.994,"equality":1.198,"parfamCount":1,"rile":-10.18,"staticRile":-14,"avgVote":15.205},{"partyname":"People’s Party Moderates","parfamName":"SOC","yearIndex":2003,"culture":3.268,"environ":5.8820000000000014,"equality":5.229,"parfamCount":1,"rile":-1.307,"staticRile":-14,"avgVote":7.0360000000000005}]},{"partyname":"Pro Patria Union","data":[{"partyname":"Pro Patria Union","parfamName":"CON","yearIndex":1999,"culture":0,"environ":0,"equality":1.235,"parfamCount":1,"rile":22.222,"staticRile":11.64,"avgVote":16.09},{"partyname":"Pro Patria Union","parfamName":"CON","yearIndex":2003,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":24.468000000000004,"staticRile":11.64,"avgVote":7.3}]},{"partyname":"Pro Patria and Res Publica Union","data":[{"partyname":"Pro Patria and Res Publica Union","parfamName":"CON","yearIndex":2007,"culture":3.169,"environ":2.641,"equality":2.113,"parfamCount":1,"rile":5.81,"staticRile":11.64,"avgVote":17.87},{"partyname":"Pro Patria and Res Publica Union","parfamName":"CON","yearIndex":2011,"culture":4.338,"environ":4.338,"equality":0.868,"parfamCount":1,"rile":3.254,"staticRile":11.64,"avgVote":20.521},{"partyname":"Pro Patria and Res Publica Union","parfamName":"CON","yearIndex":2015,"culture":7.315,"environ":2.202,"equality":2.415,"parfamCount":1,"rile":9.304,"staticRile":11.64,"avgVote":13.7}]},{"partyname":"Republican and Conservative People’s Party ‘Right-wingers'","data":[{"partyname":"Republican and Conservative People’s Party ‘Right-wingers'","parfamName":"CON","yearIndex":1995,"culture":5.176,"environ":9.294,"equality":0,"parfamCount":1,"rile":5.765,"staticRile":11.64,"avgVote":5.003}]},{"partyname":"Social Democratic Party","data":[{"partyname":"Social Democratic Party","parfamName":"SOC","yearIndex":2007,"culture":10.35,"environ":4.895,"equality":4.336,"parfamCount":1,"rile":-9.231,"staticRile":-14,"avgVote":10.06},{"partyname":"Social Democratic Party","parfamName":"SOC","yearIndex":2011,"culture":7.916,"environ":5.977,"equality":5.17,"parfamCount":1,"rile":-8.238999999999999,"staticRile":-14,"avgVote":17.093},{"partyname":"Social Democratic Party","parfamName":"SOC","yearIndex":2015,"culture":4.995,"environ":3.932,"equality":4.57,"parfamCount":1,"rile":-11.69,"staticRile":-14,"avgVote":15.186}]},{"partyname":"Union for the Republic","data":[{"partyname":"Union for the Republic","parfamName":"CON","yearIndex":2003,"culture":0,"environ":0.585,"equality":4.0939999999999985,"parfamCount":1,"rile":-1.754,"staticRile":11.64,"avgVote":24.615}]}]
+[
+  {
+    "partyname": "Coalition Party",
+    "data": [
+      {
+        "partyname": "Coalition Party",
+        "parfamName": "AGR",
+        "yearIndex": 1995,
+        "culture": 4.545,
+        "environ": 0.9570000000000001,
+        "equality": 0.478,
+        "parfamCount": 1,
+        "rile": 5.742000000000001,
+        "staticRile": 1.01,
+        "avgVote": 0
+      },
+      {
+        "partyname": "Coalition Party",
+        "parfamName": "AGR",
+        "yearIndex": 1999,
+        "culture": 5.479,
+        "environ": 1.37,
+        "equality": 1.37,
+        "parfamCount": 1,
+        "rile": 6.849,
+        "staticRile": 1.01,
+        "avgVote": 7.632999999999999
+      }
+    ]
+  },
+  {
+    "partyname": "Coalition Party and Rural Union",
+    "data": [
+      {
+        "partyname": "Coalition Party and Rural Union",
+        "parfamName": "AGR",
+        "yearIndex": 1995,
+        "culture": 4.545,
+        "environ": 0.9570000000000001,
+        "equality": 0.478,
+        "parfamCount": 1,
+        "rile": 5.742000000000001,
+        "staticRile": 1.01,
+        "avgVote": 32.23
+      }
+    ]
+  },
+  {
+    "partyname": "Conservative People's Party of Estonia",
+    "data": [
+      {
+        "partyname": "Conservative People's Party of Estonia",
+        "parfamName": "NAT",
+        "yearIndex": 2015,
+        "culture": 4.27,
+        "environ": 3.82,
+        "equality": 1.124,
+        "parfamCount": 1,
+        "rile": 12.809,
+        "staticRile": 10.25,
+        "avgVote": 8.146
+      }
+    ]
+  },
+  {
+    "partyname": "Electoral Union Pro Patria and Estonian National Independence Party",
+    "data": [
+      {
+        "partyname": "Electoral Union Pro Patria and Estonian National Independence Party",
+        "parfamName": "CON",
+        "yearIndex": 1995,
+        "culture": 3.681,
+        "environ": 5.521,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 9.202,
+        "staticRile": 11.64,
+        "avgVote": 7.859
+      }
+    ]
+  },
+  {
+    "partyname": "Electoral Union ‘Estonian Citizen'",
+    "data": [
+      {
+        "partyname": "Electoral Union ‘Estonian Citizen'",
+        "parfamName": "AGR",
+        "yearIndex": 1992,
+        "culture": 4,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 44,
+        "staticRile": 1.01,
+        "avgVote": 6.881
+      }
+    ]
+  },
+  {
+    "partyname": "Electoral Union ‘Independent Royalists'",
+    "data": [
+      {
+        "partyname": "Electoral Union ‘Independent Royalists'",
+        "parfamName": "SIP",
+        "yearIndex": 1992,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 62.5,
+        "staticRile": 3.36,
+        "avgVote": 7.122000000000001
+      }
+    ]
+  },
+  {
+    "partyname": "Electoral Union ‘Our Home is Estonia'",
+    "data": [
+      {
+        "partyname": "Electoral Union ‘Our Home is Estonia'",
+        "parfamName": "ETH",
+        "yearIndex": 1995,
+        "culture": 1.98,
+        "environ": 0,
+        "equality": 1.98,
+        "parfamCount": 1,
+        "rile": -13.861,
+        "staticRile": -9.04,
+        "avgVote": 5.874000000000001
+      }
+    ]
+  },
+  {
+    "partyname": "Electoral Union ‘Popular Front'",
+    "data": [
+      {
+        "partyname": "Electoral Union ‘Popular Front'",
+        "parfamName": "LIB",
+        "yearIndex": 1992,
+        "culture": 0,
+        "environ": 9.028,
+        "equality": 2.778,
+        "parfamCount": 1,
+        "rile": 0.34700000000000003,
+        "staticRile": 4.61,
+        "avgVote": 12.248
+      }
+    ]
+  },
+  {
+    "partyname": "Electoral Union ‘Secure Home'",
+    "data": [
+      {
+        "partyname": "Electoral Union ‘Secure Home'",
+        "parfamName": "LEF",
+        "yearIndex": 1992,
+        "culture": 1.515,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 31.818,
+        "staticRile": -23.66,
+        "avgVote": 13.602
+      }
+    ]
+  },
+  {
+    "partyname": "Electoral coalition Estonian Rural Center Party - Estonian Social Democratic Party",
+    "data": [
+      {
+        "partyname": "Electoral coalition Estonian Rural Center Party - Estonian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1992,
+        "culture": 3.614,
+        "environ": 7.229,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": -10.241,
+        "staticRile": -14,
+        "avgVote": 9.728
+      },
+      {
+        "partyname": "Electoral coalition Estonian Rural Center Party - Estonian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1995,
+        "culture": 2.83,
+        "environ": 0.472,
+        "equality": 0.943,
+        "parfamCount": 1,
+        "rile": -2.83,
+        "staticRile": -14,
+        "avgVote": 5.989
+      }
+    ]
+  },
+  {
+    "partyname": "Estonian Center Party",
+    "data": [
+      {
+        "partyname": "Estonian Center Party",
+        "parfamName": "LIB",
+        "yearIndex": 1995,
+        "culture": 1.389,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": -15.278,
+        "staticRile": 4.61,
+        "avgVote": 14.173
+      },
+      {
+        "partyname": "Estonian Center Party",
+        "parfamName": "LIB",
+        "yearIndex": 1999,
+        "culture": 2.024,
+        "environ": 0.405,
+        "equality": 7.287000000000001,
+        "parfamCount": 1,
+        "rile": 16.194000000000006,
+        "staticRile": 4.61,
+        "avgVote": 23.414
+      },
+      {
+        "partyname": "Estonian Center Party",
+        "parfamName": "LIB",
+        "yearIndex": 2003,
+        "culture": 7.222,
+        "environ": 6.667000000000002,
+        "equality": 6.3889999999999985,
+        "parfamCount": 1,
+        "rile": 0.833,
+        "staticRile": 4.61,
+        "avgVote": 25.403
+      },
+      {
+        "partyname": "Estonian Center Party",
+        "parfamName": "LIB",
+        "yearIndex": 2007,
+        "culture": 8.951000000000002,
+        "environ": 3.5810000000000004,
+        "equality": 3.069,
+        "parfamCount": 1,
+        "rile": -29.156,
+        "staticRile": 4.61,
+        "avgVote": 26.08
+      },
+      {
+        "partyname": "Estonian Center Party",
+        "parfamName": "LIB",
+        "yearIndex": 2011,
+        "culture": 5.593,
+        "environ": 3.132,
+        "equality": 5.369,
+        "parfamCount": 1,
+        "rile": -12.975,
+        "staticRile": 4.61,
+        "avgVote": 23.321
+      },
+      {
+        "partyname": "Estonian Center Party",
+        "parfamName": "LIB",
+        "yearIndex": 2015,
+        "culture": 5.36,
+        "environ": 4.5939999999999985,
+        "equality": 4.5939999999999985,
+        "parfamCount": 1,
+        "rile": -21.746,
+        "staticRile": 4.61,
+        "avgVote": 24.812
+      }
+    ]
+  },
+  {
+    "partyname": "Estonian Greens",
+    "data": [
+      {
+        "partyname": "Estonian Greens",
+        "parfamName": "ECO",
+        "yearIndex": 2007,
+        "culture": 0.909,
+        "environ": 17.273,
+        "equality": 1.364,
+        "parfamCount": 1,
+        "rile": -14.545,
+        "staticRile": -13.65,
+        "avgVote": 7.1400000000000015
+      },
+      {
+        "partyname": "Estonian Greens",
+        "parfamName": "ECO",
+        "yearIndex": 2011,
+        "culture": 7.225000000000001,
+        "environ": 8.960000000000003,
+        "equality": 1.734,
+        "parfamCount": 1,
+        "rile": -5.78,
+        "staticRile": -13.65,
+        "avgVote": 3.795
+      }
+    ]
+  },
+  {
+    "partyname": "Estonian National Independence Party",
+    "data": [
+      {
+        "partyname": "Estonian National Independence Party",
+        "parfamName": "CON",
+        "yearIndex": 1992,
+        "culture": 4.5939999999999985,
+        "environ": 7.774,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 14.488,
+        "staticRile": 11.64,
+        "avgVote": 8.786
+      }
+    ]
+  },
+  {
+    "partyname": "Estonian People’s Union",
+    "data": [
+      {
+        "partyname": "Estonian People’s Union",
+        "parfamName": "AGR",
+        "yearIndex": 2003,
+        "culture": 0.8370000000000001,
+        "environ": 0,
+        "equality": 7.95,
+        "parfamCount": 1,
+        "rile": 5.439,
+        "staticRile": 1.01,
+        "avgVote": 13.027
+      },
+      {
+        "partyname": "Estonian People’s Union",
+        "parfamName": "AGR",
+        "yearIndex": 2007,
+        "culture": 5.0360000000000005,
+        "environ": 5.755,
+        "equality": 10.072,
+        "parfamCount": 1,
+        "rile": -9.353,
+        "staticRile": 1.01,
+        "avgVote": 7.13
+      },
+      {
+        "partyname": "Estonian People’s Union",
+        "parfamName": "AGR",
+        "yearIndex": 2011,
+        "culture": 7.57,
+        "environ": 6.7730000000000015,
+        "equality": 2.789,
+        "parfamCount": 1,
+        "rile": 0,
+        "staticRile": 1.01,
+        "avgVote": 2.1180000000000003
+      }
+    ]
+  },
+  {
+    "partyname": "Estonian Reform Party",
+    "data": [
+      {
+        "partyname": "Estonian Reform Party",
+        "parfamName": "LIB",
+        "yearIndex": 1995,
+        "culture": 1.818,
+        "environ": 1.818,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 12.727,
+        "staticRile": 4.61,
+        "avgVote": 16.188
+      },
+      {
+        "partyname": "Estonian Reform Party",
+        "parfamName": "LIB",
+        "yearIndex": 1999,
+        "culture": 0,
+        "environ": 0,
+        "equality": 7.0310000000000015,
+        "parfamCount": 1,
+        "rile": 8.594,
+        "staticRile": 4.61,
+        "avgVote": 15.919
+      },
+      {
+        "partyname": "Estonian Reform Party",
+        "parfamName": "LIB",
+        "yearIndex": 2003,
+        "culture": 7.782,
+        "environ": 4.28,
+        "equality": 3.502,
+        "parfamCount": 1,
+        "rile": 3.891,
+        "staticRile": 4.61,
+        "avgVote": 17.711
+      },
+      {
+        "partyname": "Estonian Reform Party",
+        "parfamName": "LIB",
+        "yearIndex": 2007,
+        "culture": 7.317,
+        "environ": 5.401,
+        "equality": 0.6970000000000001,
+        "parfamCount": 1,
+        "rile": 7.143,
+        "staticRile": 4.61,
+        "avgVote": 27.82
+      },
+      {
+        "partyname": "Estonian Reform Party",
+        "parfamName": "LIB",
+        "yearIndex": 2011,
+        "culture": 10.816,
+        "environ": 4.898,
+        "equality": 1.02,
+        "parfamCount": 1,
+        "rile": 3.0610000000000004,
+        "staticRile": 4.61,
+        "avgVote": 28.559
+      },
+      {
+        "partyname": "Estonian Reform Party",
+        "parfamName": "LIB",
+        "yearIndex": 2015,
+        "culture": 9.381,
+        "environ": 5.556,
+        "equality": 1.093,
+        "parfamCount": 1,
+        "rile": 0.546,
+        "staticRile": 4.61,
+        "avgVote": 27.688
+      }
+    ]
+  },
+  {
+    "partyname": "Estonian Rural People’s Party",
+    "data": [
+      {
+        "partyname": "Estonian Rural People’s Party",
+        "parfamName": "AGR",
+        "yearIndex": 1999,
+        "culture": 3.165,
+        "environ": 0.633,
+        "equality": 1.899,
+        "parfamCount": 1,
+        "rile": -12.658,
+        "staticRile": 1.01,
+        "avgVote": 7.27
+      }
+    ]
+  },
+  {
+    "partyname": "Estonian Social Democratic Party",
+    "data": [
+      {
+        "partyname": "Estonian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1992,
+        "culture": 1.977,
+        "environ": 3.39,
+        "equality": 6.215,
+        "parfamCount": 1,
+        "rile": -12.147,
+        "staticRile": -14,
+        "avgVote": 0
+      }
+    ]
+  },
+  {
+    "partyname": "Estonian United People’s Party",
+    "data": [
+      {
+        "partyname": "Estonian United People’s Party",
+        "parfamName": "ETH",
+        "yearIndex": 1999,
+        "culture": 2.564,
+        "environ": 0,
+        "equality": 5.127999999999999,
+        "parfamCount": 1,
+        "rile": -24.359,
+        "staticRile": -9.04,
+        "avgVote": 6.13
+      }
+    ]
+  },
+  {
+    "partyname": "Free Party",
+    "data": [
+      {
+        "partyname": "Free Party",
+        "parfamName": "CON",
+        "yearIndex": 2015,
+        "culture": 3.935,
+        "environ": 1.764,
+        "equality": 2.5780000000000003,
+        "parfamCount": 1,
+        "rile": -7.327000000000001,
+        "staticRile": 11.64,
+        "avgVote": 8.687999999999999
+      }
+    ]
+  },
+  {
+    "partyname": "National Coalition Pro Patria",
+    "data": [
+      {
+        "partyname": "National Coalition Pro Patria",
+        "parfamName": "CON",
+        "yearIndex": 1992,
+        "culture": 5.866000000000001,
+        "environ": 1.3969999999999998,
+        "equality": 0.279,
+        "parfamCount": 1,
+        "rile": 1.955,
+        "staticRile": 11.64,
+        "avgVote": 22.003
+      }
+    ]
+  },
+  {
+    "partyname": "People’s Party Moderates",
+    "data": [
+      {
+        "partyname": "People’s Party Moderates",
+        "parfamName": "SOC",
+        "yearIndex": 1999,
+        "culture": 1.198,
+        "environ": 2.994,
+        "equality": 1.198,
+        "parfamCount": 1,
+        "rile": -10.18,
+        "staticRile": -14,
+        "avgVote": 15.205
+      },
+      {
+        "partyname": "People’s Party Moderates",
+        "parfamName": "SOC",
+        "yearIndex": 2003,
+        "culture": 3.268,
+        "environ": 5.8820000000000014,
+        "equality": 5.229,
+        "parfamCount": 1,
+        "rile": -1.307,
+        "staticRile": -14,
+        "avgVote": 7.0360000000000005
+      }
+    ]
+  },
+  {
+    "partyname": "Pro Patria Union",
+    "data": [
+      {
+        "partyname": "Pro Patria Union",
+        "parfamName": "CON",
+        "yearIndex": 1999,
+        "culture": 0,
+        "environ": 0,
+        "equality": 1.235,
+        "parfamCount": 1,
+        "rile": 22.222,
+        "staticRile": 11.64,
+        "avgVote": 16.09
+      },
+      {
+        "partyname": "Pro Patria Union",
+        "parfamName": "CON",
+        "yearIndex": 2003,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 24.468000000000004,
+        "staticRile": 11.64,
+        "avgVote": 7.3
+      }
+    ]
+  },
+  {
+    "partyname": "Pro Patria and Res Publica Union",
+    "data": [
+      {
+        "partyname": "Pro Patria and Res Publica Union",
+        "parfamName": "CON",
+        "yearIndex": 2007,
+        "culture": 3.169,
+        "environ": 2.641,
+        "equality": 2.113,
+        "parfamCount": 1,
+        "rile": 5.81,
+        "staticRile": 11.64,
+        "avgVote": 17.87
+      },
+      {
+        "partyname": "Pro Patria and Res Publica Union",
+        "parfamName": "CON",
+        "yearIndex": 2011,
+        "culture": 4.338,
+        "environ": 4.338,
+        "equality": 0.868,
+        "parfamCount": 1,
+        "rile": 3.254,
+        "staticRile": 11.64,
+        "avgVote": 20.521
+      },
+      {
+        "partyname": "Pro Patria and Res Publica Union",
+        "parfamName": "CON",
+        "yearIndex": 2015,
+        "culture": 7.315,
+        "environ": 2.202,
+        "equality": 2.415,
+        "parfamCount": 1,
+        "rile": 9.304,
+        "staticRile": 11.64,
+        "avgVote": 13.7
+      }
+    ]
+  },
+  {
+    "partyname": "Republican and Conservative People’s Party ‘Right-wingers'",
+    "data": [
+      {
+        "partyname": "Republican and Conservative People’s Party ‘Right-wingers'",
+        "parfamName": "CON",
+        "yearIndex": 1995,
+        "culture": 5.176,
+        "environ": 9.294,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 5.765,
+        "staticRile": 11.64,
+        "avgVote": 5.003
+      }
+    ]
+  },
+  {
+    "partyname": "Social Democratic Party",
+    "data": [
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2007,
+        "culture": 10.35,
+        "environ": 4.895,
+        "equality": 4.336,
+        "parfamCount": 1,
+        "rile": -9.231,
+        "staticRile": -14,
+        "avgVote": 10.06
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2011,
+        "culture": 7.916,
+        "environ": 5.977,
+        "equality": 5.17,
+        "parfamCount": 1,
+        "rile": -8.238999999999999,
+        "staticRile": -14,
+        "avgVote": 17.093
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2015,
+        "culture": 4.995,
+        "environ": 3.932,
+        "equality": 4.57,
+        "parfamCount": 1,
+        "rile": -11.69,
+        "staticRile": -14,
+        "avgVote": 15.186
+      }
+    ]
+  },
+  {
+    "partyname": "Union for the Republic",
+    "data": [
+      {
+        "partyname": "Union for the Republic",
+        "parfamName": "CON",
+        "yearIndex": 2003,
+        "culture": 0,
+        "environ": 0.585,
+        "equality": 4.0939999999999985,
+        "parfamCount": 1,
+        "rile": -1.754,
+        "staticRile": 11.64,
+        "avgVote": 24.615
+      }
+    ]
+  }
+]

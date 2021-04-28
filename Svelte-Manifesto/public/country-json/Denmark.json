@@ -1,1 +1,1025 @@
-[{"partyname":"Alternativ","data":[{"partyname":"Alternativ","parfamName":"LEF","yearIndex":2015,"culture":0,"environ":0,"equality":4.848,"parfamCount":1,"rile":-29.697,"staticRile":-23.66,"avgVote":4.796},{"partyname":"Alternativ","parfamName":"LEF","yearIndex":2019,"culture":4.765,"environ":6.643,"equality":9.675,"parfamCount":1,"rile":-34.946,"staticRile":-23.66,"avgVote":2.9530000000000003}]},{"partyname":"Centre Democrats","data":[{"partyname":"Centre Democrats","parfamName":"CON","yearIndex":1990,"culture":0,"environ":0,"equality":2.5,"parfamCount":1,"rile":10,"staticRile":11.64,"avgVote":5.11},{"partyname":"Centre Democrats","parfamName":"CON","yearIndex":1994,"culture":0,"environ":0.513,"equality":0,"parfamCount":1,"rile":2.051,"staticRile":11.64,"avgVote":2.84},{"partyname":"Centre Democrats","parfamName":"CON","yearIndex":1998,"culture":0.935,"environ":9.812999999999999,"equality":1.869,"parfamCount":1,"rile":-14.019,"staticRile":11.64,"avgVote":4.31},{"partyname":"Centre Democrats","parfamName":"CON","yearIndex":2005,"culture":3.125,"environ":0,"equality":0,"parfamCount":1,"rile":-10.938,"staticRile":11.64,"avgVote":1}]},{"partyname":"Christian Democrats","data":[{"partyname":"Christian Democrats","parfamName":"CHR","yearIndex":2005,"culture":0,"environ":0.971,"equality":0.485,"parfamCount":1,"rile":-3.883,"staticRile":6.13,"avgVote":1.7}]},{"partyname":"Christian People’s Party","data":[{"partyname":"Christian People’s Party","parfamName":"CHR","yearIndex":1990,"culture":0,"environ":11.111,"equality":0,"parfamCount":1,"rile":14.815,"staticRile":6.13,"avgVote":2.29},{"partyname":"Christian People’s Party","parfamName":"CHR","yearIndex":1994,"culture":0,"environ":18.033,"equality":0,"parfamCount":1,"rile":9.836,"staticRile":6.13,"avgVote":1.848},{"partyname":"Christian People’s Party","parfamName":"CHR","yearIndex":1998,"culture":2.469,"environ":2.469,"equality":9.877,"parfamCount":1,"rile":43.21,"staticRile":6.13,"avgVote":2.51},{"partyname":"Christian People’s Party","parfamName":"CHR","yearIndex":2001,"culture":0,"environ":5.195,"equality":2.597,"parfamCount":1,"rile":24.675,"staticRile":6.13,"avgVote":2.28}]},{"partyname":"Conservative People’s Party","data":[{"partyname":"Conservative People’s Party","parfamName":"CON","yearIndex":1990,"culture":0,"environ":8.257,"equality":1.835,"parfamCount":1,"rile":10.092,"staticRile":11.64,"avgVote":15.967},{"partyname":"Conservative People’s Party","parfamName":"CON","yearIndex":1994,"culture":0,"environ":1.77,"equality":0,"parfamCount":1,"rile":15.929,"staticRile":11.64,"avgVote":15.021},{"partyname":"Conservative People’s Party","parfamName":"CON","yearIndex":1998,"culture":0,"environ":9.544,"equality":0,"parfamCount":1,"rile":18.672,"staticRile":11.64,"avgVote":8.92},{"partyname":"Conservative People’s Party","parfamName":"CON","yearIndex":2001,"culture":0,"environ":0.926,"equality":0,"parfamCount":1,"rile":20.37,"staticRile":11.64,"avgVote":9.07},{"partyname":"Conservative People’s Party","parfamName":"CON","yearIndex":2005,"culture":0,"environ":1.714,"equality":0.5710000000000001,"parfamCount":1,"rile":9.714,"staticRile":11.64,"avgVote":10.273},{"partyname":"Conservative People’s Party","parfamName":"CON","yearIndex":2007,"culture":0,"environ":8.264,"equality":0,"parfamCount":1,"rile":-17.355,"staticRile":11.64,"avgVote":10.39},{"partyname":"Conservative People’s Party","parfamName":"CON","yearIndex":2011,"culture":0,"environ":0.7040000000000001,"equality":12.675999999999998,"parfamCount":1,"rile":47.887,"staticRile":11.64,"avgVote":4.922},{"partyname":"Conservative People’s Party","parfamName":"CON","yearIndex":2015,"culture":17.143,"environ":0,"equality":0,"parfamCount":1,"rile":60,"staticRile":11.64,"avgVote":3.353},{"partyname":"Conservative People’s Party","parfamName":"CON","yearIndex":2019,"culture":0.514,"environ":9.774,"equality":4.835,"parfamCount":1,"rile":-7.202000000000001,"staticRile":11.64,"avgVote":6.622000000000001}]},{"partyname":"Danish People’s Party","data":[{"partyname":"Danish People’s Party","parfamName":"NAT","yearIndex":1998,"culture":2.778,"environ":2.778,"equality":1.389,"parfamCount":1,"rile":9.722,"staticRile":10.25,"avgVote":7.41},{"partyname":"Danish People’s Party","parfamName":"NAT","yearIndex":2001,"culture":0,"environ":0,"equality":5,"parfamCount":1,"rile":35,"staticRile":10.25,"avgVote":12},{"partyname":"Danish People’s Party","parfamName":"NAT","yearIndex":2005,"culture":0,"environ":10,"equality":4,"parfamCount":1,"rile":38,"staticRile":10.25,"avgVote":13.253},{"partyname":"Danish People’s Party","parfamName":"NAT","yearIndex":2007,"culture":0,"environ":17.021,"equality":4.255,"parfamCount":1,"rile":14.894,"staticRile":10.25,"avgVote":13.86},{"partyname":"Danish People’s Party","parfamName":"NAT","yearIndex":2011,"culture":0,"environ":2.312,"equality":3.179,"parfamCount":1,"rile":30.925,"staticRile":10.25,"avgVote":12.303},{"partyname":"Danish People’s Party","parfamName":"NAT","yearIndex":2015,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":18.75,"staticRile":10.25,"avgVote":21.078000000000007},{"partyname":"Danish People’s Party","parfamName":"NAT","yearIndex":2019,"culture":0,"environ":7.447,"equality":7.447,"parfamCount":1,"rile":32.979,"staticRile":10.25,"avgVote":8.735}]},{"partyname":"Danish Social-Liberal Party","data":[{"partyname":"Danish Social-Liberal Party","parfamName":"LIB","yearIndex":1990,"culture":0,"environ":1.786,"equality":5.357,"parfamCount":1,"rile":-26.786,"staticRile":4.61,"avgVote":3.5460000000000003},{"partyname":"Danish Social-Liberal Party","parfamName":"LIB","yearIndex":1994,"culture":0,"environ":3.922,"equality":3.922,"parfamCount":1,"rile":-7.843,"staticRile":4.61,"avgVote":4.589},{"partyname":"Danish Social-Liberal Party","parfamName":"LIB","yearIndex":1998,"culture":9.697000000000001,"environ":10.909,"equality":3.636,"parfamCount":1,"rile":-5.455,"staticRile":4.61,"avgVote":3.85},{"partyname":"Danish Social-Liberal Party","parfamName":"LIB","yearIndex":2001,"culture":1.887,"environ":3.774,"equality":5.66,"parfamCount":1,"rile":-3.774,"staticRile":4.61,"avgVote":5.19},{"partyname":"Danish Social-Liberal Party","parfamName":"LIB","yearIndex":2005,"culture":0,"environ":11.364,"equality":3.409,"parfamCount":1,"rile":0,"staticRile":4.61,"avgVote":9.181000000000001},{"partyname":"Danish Social-Liberal Party","parfamName":"LIB","yearIndex":2007,"culture":0,"environ":19.231,"equality":1.923,"parfamCount":1,"rile":-9.615,"staticRile":4.61,"avgVote":5.12},{"partyname":"Danish Social-Liberal Party","parfamName":"LIB","yearIndex":2011,"culture":0,"environ":0.787,"equality":1.575,"parfamCount":1,"rile":-0.787,"staticRile":4.61,"avgVote":9.479},{"partyname":"Danish Social-Liberal Party","parfamName":"LIB","yearIndex":2015,"culture":0,"environ":9.375,"equality":15.625,"parfamCount":1,"rile":6.25,"staticRile":4.61,"avgVote":4.575},{"partyname":"Danish Social-Liberal Party","parfamName":"LIB","yearIndex":2019,"culture":2.097,"environ":10,"equality":10.161,"parfamCount":1,"rile":-19.516,"staticRile":4.61,"avgVote":8.628}]},{"partyname":"Liberal Alliance","data":[{"partyname":"Liberal Alliance","parfamName":"LIB","yearIndex":2011,"culture":0,"environ":0,"equality":1.149,"parfamCount":1,"rile":51.724,"staticRile":4.61,"avgVote":4.976},{"partyname":"Liberal Alliance","parfamName":"LIB","yearIndex":2015,"culture":0,"environ":0,"equality":11.111,"parfamCount":1,"rile":28.704,"staticRile":4.61,"avgVote":7.534},{"partyname":"Liberal Alliance","parfamName":"LIB","yearIndex":2019,"culture":2.427,"environ":5.34,"equality":3.398,"parfamCount":1,"rile":15.534,"staticRile":4.61,"avgVote":2.329}]},{"partyname":"Liberals","data":[{"partyname":"Liberals","parfamName":"LIB","yearIndex":1990,"culture":1.676,"environ":3.911,"equality":0,"parfamCount":1,"rile":10.056,"staticRile":4.61,"avgVote":15.793},{"partyname":"Liberals","parfamName":"LIB","yearIndex":1994,"culture":0,"environ":0,"equality":0.478,"parfamCount":1,"rile":54.067,"staticRile":4.61,"avgVote":23.295},{"partyname":"Liberals","parfamName":"LIB","yearIndex":1998,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":28.571,"staticRile":4.61,"avgVote":24.01},{"partyname":"Liberals","parfamName":"LIB","yearIndex":2001,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":36.232,"staticRile":4.61,"avgVote":31.25},{"partyname":"Liberals","parfamName":"LIB","yearIndex":2005,"culture":0,"environ":12.648,"equality":0,"parfamCount":1,"rile":-2.372,"staticRile":4.61,"avgVote":29.031},{"partyname":"Liberals","parfamName":"LIB","yearIndex":2007,"culture":0,"environ":6.202000000000001,"equality":1.55,"parfamCount":1,"rile":-6.977,"staticRile":4.61,"avgVote":26.26},{"partyname":"Liberals","parfamName":"LIB","yearIndex":2011,"culture":0,"environ":0,"equality":4.425,"parfamCount":1,"rile":-13.717,"staticRile":4.61,"avgVote":26.739},{"partyname":"Liberals","parfamName":"LIB","yearIndex":2015,"culture":0,"environ":0,"equality":0.99,"parfamCount":1,"rile":17.822,"staticRile":4.61,"avgVote":19.471},{"partyname":"Liberals","parfamName":"LIB","yearIndex":2019,"culture":0,"environ":8.392000000000001,"equality":12.587,"parfamCount":1,"rile":-17.483,"staticRile":4.61,"avgVote":23.393}]},{"partyname":"New Alliance","data":[{"partyname":"New Alliance","parfamName":"LIB","yearIndex":2007,"culture":0,"environ":12.5,"equality":0,"parfamCount":1,"rile":-12.5,"staticRile":4.61,"avgVote":2.81}]},{"partyname":"Progress Party","data":[{"partyname":"Progress Party","parfamName":"NAT","yearIndex":1990,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":25.641,"staticRile":10.25,"avgVote":6.435},{"partyname":"Progress Party","parfamName":"NAT","yearIndex":1994,"culture":0,"environ":0.31,"equality":0.31,"parfamCount":1,"rile":44.892,"staticRile":10.25,"avgVote":6.433},{"partyname":"Progress Party","parfamName":"NAT","yearIndex":1998,"culture":0,"environ":4,"equality":2,"parfamCount":1,"rile":34,"staticRile":10.25,"avgVote":2.42}]},{"partyname":"Red-Green Unity List","data":[{"partyname":"Red-Green Unity List","parfamName":"LEF","yearIndex":1994,"culture":1.3330000000000002,"environ":8,"equality":2.667,"parfamCount":1,"rile":-25.333,"staticRile":-23.66,"avgVote":3.1460000000000004},{"partyname":"Red-Green Unity List","parfamName":"LEF","yearIndex":1998,"culture":0,"environ":10.255999999999998,"equality":10.255999999999998,"parfamCount":1,"rile":-32.479,"staticRile":-23.66,"avgVote":2.7},{"partyname":"Red-Green Unity List","parfamName":"LEF","yearIndex":2001,"culture":0,"environ":11.95,"equality":5.66,"parfamCount":1,"rile":-10.692,"staticRile":-23.66,"avgVote":2.4},{"partyname":"Red-Green Unity List","parfamName":"LEF","yearIndex":2005,"culture":0,"environ":13.453,"equality":9.865,"parfamCount":1,"rile":-42.152,"staticRile":-23.66,"avgVote":3.399},{"partyname":"Red-Green Unity List","parfamName":"LEF","yearIndex":2007,"culture":0.66,"environ":10.561,"equality":5.2810000000000015,"parfamCount":1,"rile":-33.003,"staticRile":-23.66,"avgVote":2.17},{"partyname":"Red-Green Unity List","parfamName":"LEF","yearIndex":2011,"culture":0,"environ":4.667,"equality":11.778,"parfamCount":1,"rile":-41.778,"staticRile":-23.66,"avgVote":6.682},{"partyname":"Red-Green Unity List","parfamName":"LEF","yearIndex":2015,"culture":0,"environ":4.464,"equality":21.429,"parfamCount":1,"rile":-46.429,"staticRile":-23.66,"avgVote":7.798999999999999},{"partyname":"Red-Green Unity List","parfamName":"LEF","yearIndex":2019,"culture":3.273,"environ":9.091000000000001,"equality":14.545,"parfamCount":1,"rile":-38.182,"staticRile":-23.66,"avgVote":6.94}]},{"partyname":"Social Democratic Party","data":[{"partyname":"Social Democratic Party","parfamName":"SOC","yearIndex":1990,"culture":0,"environ":6.452000000000001,"equality":3.2260000000000004,"parfamCount":1,"rile":-35.484,"staticRile":-14,"avgVote":37.384},{"partyname":"Social Democratic Party","parfamName":"SOC","yearIndex":1994,"culture":0,"environ":4.608000000000001,"equality":2.3040000000000003,"parfamCount":1,"rile":-7.372999999999998,"staticRile":-14,"avgVote":34.561},{"partyname":"Social Democratic Party","parfamName":"SOC","yearIndex":1998,"culture":0,"environ":7.812,"equality":3.125,"parfamCount":1,"rile":-1.042,"staticRile":-14,"avgVote":35.93},{"partyname":"Social Democratic Party","parfamName":"SOC","yearIndex":2001,"culture":2.9330000000000003,"environ":8.888999999999998,"equality":7.733000000000001,"parfamCount":1,"rile":-13.422,"staticRile":-14,"avgVote":29.08},{"partyname":"Social Democratic Party","parfamName":"SOC","yearIndex":2005,"culture":0.34600000000000003,"environ":8.304,"equality":1.038,"parfamCount":1,"rile":-36.332,"staticRile":-14,"avgVote":25.835},{"partyname":"Social Democratic Party","parfamName":"SOC","yearIndex":2007,"culture":0,"environ":7.692,"equality":11.111,"parfamCount":1,"rile":-8.547,"staticRile":-14,"avgVote":25.47},{"partyname":"Social Democratic Party","parfamName":"SOC","yearIndex":2011,"culture":0,"environ":7.101,"equality":2.367,"parfamCount":1,"rile":-6.509,"staticRile":-14,"avgVote":24.857},{"partyname":"Social Democratic Party","parfamName":"SOC","yearIndex":2015,"culture":0,"environ":4.878,"equality":10.279000000000002,"parfamCount":1,"rile":-2.091,"staticRile":-14,"avgVote":26.284},{"partyname":"Social Democratic Party","parfamName":"SOC","yearIndex":2019,"culture":0.385,"environ":16.089000000000002,"equality":12.779000000000002,"parfamCount":1,"rile":-18.437,"staticRile":-14,"avgVote":25.905}]},{"partyname":"Socialist People’s Party","data":[{"partyname":"Socialist People’s Party","parfamName":"LEF","yearIndex":1990,"culture":0,"environ":13.497,"equality":5.521,"parfamCount":1,"rile":-15.337,"staticRile":-23.66,"avgVote":8.296},{"partyname":"Socialist People’s Party","parfamName":"LEF","yearIndex":1994,"culture":0.278,"environ":6.954,"equality":6.537000000000001,"parfamCount":1,"rile":-27.121,"staticRile":-23.66,"avgVote":7.284},{"partyname":"Socialist People’s Party","parfamName":"LEF","yearIndex":1998,"culture":1.024,"environ":22.526,"equality":3.754,"parfamCount":1,"rile":-39.59,"staticRile":-23.66,"avgVote":7.56},{"partyname":"Socialist People’s Party","parfamName":"LEF","yearIndex":2001,"culture":0,"environ":0,"equality":4.615,"parfamCount":1,"rile":-33.846,"staticRile":-23.66,"avgVote":6.37},{"partyname":"Socialist People’s Party","parfamName":"LEF","yearIndex":2005,"culture":0,"environ":20.605,"equality":5.292999999999998,"parfamCount":1,"rile":-40.832,"staticRile":-23.66,"avgVote":5.989},{"partyname":"Socialist People’s Party","parfamName":"LEF","yearIndex":2007,"culture":0,"environ":15.714,"equality":0,"parfamCount":1,"rile":-37.143,"staticRile":-23.66,"avgVote":13.04},{"partyname":"Socialist People’s Party","parfamName":"LEF","yearIndex":2011,"culture":0,"environ":7.739,"equality":7.536,"parfamCount":1,"rile":-45.418,"staticRile":-23.66,"avgVote":9.196},{"partyname":"Socialist People’s Party","parfamName":"LEF","yearIndex":2015,"culture":0,"environ":17.617,"equality":0,"parfamCount":1,"rile":-64.249,"staticRile":-23.66,"avgVote":4.194},{"partyname":"Socialist People’s Party","parfamName":"LEF","yearIndex":2019,"culture":4.785,"environ":13.078,"equality":13.397,"parfamCount":1,"rile":-29.027,"staticRile":-23.66,"avgVote":7.71}]},{"partyname":"The New Right","data":[{"partyname":"The New Right","parfamName":"NAT","yearIndex":2019,"culture":0.293,"environ":3.666,"equality":7.0379999999999985,"parfamCount":1,"rile":2.9330000000000003,"staticRile":10.25,"avgVote":2.356}]}]
+[
+  {
+    "partyname": "Alternativ",
+    "data": [
+      {
+        "partyname": "Alternativ",
+        "parfamName": "LEF",
+        "yearIndex": 2015,
+        "culture": 0,
+        "environ": 0,
+        "equality": 4.848,
+        "parfamCount": 1,
+        "rile": -29.697,
+        "staticRile": -23.66,
+        "avgVote": 4.796
+      },
+      {
+        "partyname": "Alternativ",
+        "parfamName": "LEF",
+        "yearIndex": 2019,
+        "culture": 4.765,
+        "environ": 6.643,
+        "equality": 9.675,
+        "parfamCount": 1,
+        "rile": -34.946,
+        "staticRile": -23.66,
+        "avgVote": 2.9530000000000003
+      }
+    ]
+  },
+  {
+    "partyname": "Centre Democrats",
+    "data": [
+      {
+        "partyname": "Centre Democrats",
+        "parfamName": "CON",
+        "yearIndex": 1990,
+        "culture": 0,
+        "environ": 0,
+        "equality": 2.5,
+        "parfamCount": 1,
+        "rile": 10,
+        "staticRile": 11.64,
+        "avgVote": 5.11
+      },
+      {
+        "partyname": "Centre Democrats",
+        "parfamName": "CON",
+        "yearIndex": 1994,
+        "culture": 0,
+        "environ": 0.513,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 2.051,
+        "staticRile": 11.64,
+        "avgVote": 2.84
+      },
+      {
+        "partyname": "Centre Democrats",
+        "parfamName": "CON",
+        "yearIndex": 1998,
+        "culture": 0.935,
+        "environ": 9.812999999999999,
+        "equality": 1.869,
+        "parfamCount": 1,
+        "rile": -14.019,
+        "staticRile": 11.64,
+        "avgVote": 4.31
+      },
+      {
+        "partyname": "Centre Democrats",
+        "parfamName": "CON",
+        "yearIndex": 2005,
+        "culture": 3.125,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": -10.938,
+        "staticRile": 11.64,
+        "avgVote": 1
+      }
+    ]
+  },
+  {
+    "partyname": "Christian Democrats",
+    "data": [
+      {
+        "partyname": "Christian Democrats",
+        "parfamName": "CHR",
+        "yearIndex": 2005,
+        "culture": 0,
+        "environ": 0.971,
+        "equality": 0.485,
+        "parfamCount": 1,
+        "rile": -3.883,
+        "staticRile": 6.13,
+        "avgVote": 1.7
+      }
+    ]
+  },
+  {
+    "partyname": "Christian People’s Party",
+    "data": [
+      {
+        "partyname": "Christian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 1990,
+        "culture": 0,
+        "environ": 11.111,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 14.815,
+        "staticRile": 6.13,
+        "avgVote": 2.29
+      },
+      {
+        "partyname": "Christian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 1994,
+        "culture": 0,
+        "environ": 18.033,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 9.836,
+        "staticRile": 6.13,
+        "avgVote": 1.848
+      },
+      {
+        "partyname": "Christian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 1998,
+        "culture": 2.469,
+        "environ": 2.469,
+        "equality": 9.877,
+        "parfamCount": 1,
+        "rile": 43.21,
+        "staticRile": 6.13,
+        "avgVote": 2.51
+      },
+      {
+        "partyname": "Christian People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 2001,
+        "culture": 0,
+        "environ": 5.195,
+        "equality": 2.597,
+        "parfamCount": 1,
+        "rile": 24.675,
+        "staticRile": 6.13,
+        "avgVote": 2.28
+      }
+    ]
+  },
+  {
+    "partyname": "Conservative People’s Party",
+    "data": [
+      {
+        "partyname": "Conservative People’s Party",
+        "parfamName": "CON",
+        "yearIndex": 1990,
+        "culture": 0,
+        "environ": 8.257,
+        "equality": 1.835,
+        "parfamCount": 1,
+        "rile": 10.092,
+        "staticRile": 11.64,
+        "avgVote": 15.967
+      },
+      {
+        "partyname": "Conservative People’s Party",
+        "parfamName": "CON",
+        "yearIndex": 1994,
+        "culture": 0,
+        "environ": 1.77,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 15.929,
+        "staticRile": 11.64,
+        "avgVote": 15.021
+      },
+      {
+        "partyname": "Conservative People’s Party",
+        "parfamName": "CON",
+        "yearIndex": 1998,
+        "culture": 0,
+        "environ": 9.544,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 18.672,
+        "staticRile": 11.64,
+        "avgVote": 8.92
+      },
+      {
+        "partyname": "Conservative People’s Party",
+        "parfamName": "CON",
+        "yearIndex": 2001,
+        "culture": 0,
+        "environ": 0.926,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 20.37,
+        "staticRile": 11.64,
+        "avgVote": 9.07
+      },
+      {
+        "partyname": "Conservative People’s Party",
+        "parfamName": "CON",
+        "yearIndex": 2005,
+        "culture": 0,
+        "environ": 1.714,
+        "equality": 0.5710000000000001,
+        "parfamCount": 1,
+        "rile": 9.714,
+        "staticRile": 11.64,
+        "avgVote": 10.273
+      },
+      {
+        "partyname": "Conservative People’s Party",
+        "parfamName": "CON",
+        "yearIndex": 2007,
+        "culture": 0,
+        "environ": 8.264,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": -17.355,
+        "staticRile": 11.64,
+        "avgVote": 10.39
+      },
+      {
+        "partyname": "Conservative People’s Party",
+        "parfamName": "CON",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 0.7040000000000001,
+        "equality": 12.675999999999998,
+        "parfamCount": 1,
+        "rile": 47.887,
+        "staticRile": 11.64,
+        "avgVote": 4.922
+      },
+      {
+        "partyname": "Conservative People’s Party",
+        "parfamName": "CON",
+        "yearIndex": 2015,
+        "culture": 17.143,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 60,
+        "staticRile": 11.64,
+        "avgVote": 3.353
+      },
+      {
+        "partyname": "Conservative People’s Party",
+        "parfamName": "CON",
+        "yearIndex": 2019,
+        "culture": 0.514,
+        "environ": 9.774,
+        "equality": 4.835,
+        "parfamCount": 1,
+        "rile": -7.202000000000001,
+        "staticRile": 11.64,
+        "avgVote": 6.622000000000001
+      }
+    ]
+  },
+  {
+    "partyname": "Danish People’s Party",
+    "data": [
+      {
+        "partyname": "Danish People’s Party",
+        "parfamName": "NAT",
+        "yearIndex": 1998,
+        "culture": 2.778,
+        "environ": 2.778,
+        "equality": 1.389,
+        "parfamCount": 1,
+        "rile": 9.722,
+        "staticRile": 10.25,
+        "avgVote": 7.41
+      },
+      {
+        "partyname": "Danish People’s Party",
+        "parfamName": "NAT",
+        "yearIndex": 2001,
+        "culture": 0,
+        "environ": 0,
+        "equality": 5,
+        "parfamCount": 1,
+        "rile": 35,
+        "staticRile": 10.25,
+        "avgVote": 12
+      },
+      {
+        "partyname": "Danish People’s Party",
+        "parfamName": "NAT",
+        "yearIndex": 2005,
+        "culture": 0,
+        "environ": 10,
+        "equality": 4,
+        "parfamCount": 1,
+        "rile": 38,
+        "staticRile": 10.25,
+        "avgVote": 13.253
+      },
+      {
+        "partyname": "Danish People’s Party",
+        "parfamName": "NAT",
+        "yearIndex": 2007,
+        "culture": 0,
+        "environ": 17.021,
+        "equality": 4.255,
+        "parfamCount": 1,
+        "rile": 14.894,
+        "staticRile": 10.25,
+        "avgVote": 13.86
+      },
+      {
+        "partyname": "Danish People’s Party",
+        "parfamName": "NAT",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 2.312,
+        "equality": 3.179,
+        "parfamCount": 1,
+        "rile": 30.925,
+        "staticRile": 10.25,
+        "avgVote": 12.303
+      },
+      {
+        "partyname": "Danish People’s Party",
+        "parfamName": "NAT",
+        "yearIndex": 2015,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 18.75,
+        "staticRile": 10.25,
+        "avgVote": 21.078000000000007
+      },
+      {
+        "partyname": "Danish People’s Party",
+        "parfamName": "NAT",
+        "yearIndex": 2019,
+        "culture": 0,
+        "environ": 7.447,
+        "equality": 7.447,
+        "parfamCount": 1,
+        "rile": 32.979,
+        "staticRile": 10.25,
+        "avgVote": 8.735
+      }
+    ]
+  },
+  {
+    "partyname": "Danish Social-Liberal Party",
+    "data": [
+      {
+        "partyname": "Danish Social-Liberal Party",
+        "parfamName": "LIB",
+        "yearIndex": 1990,
+        "culture": 0,
+        "environ": 1.786,
+        "equality": 5.357,
+        "parfamCount": 1,
+        "rile": -26.786,
+        "staticRile": 4.61,
+        "avgVote": 3.5460000000000003
+      },
+      {
+        "partyname": "Danish Social-Liberal Party",
+        "parfamName": "LIB",
+        "yearIndex": 1994,
+        "culture": 0,
+        "environ": 3.922,
+        "equality": 3.922,
+        "parfamCount": 1,
+        "rile": -7.843,
+        "staticRile": 4.61,
+        "avgVote": 4.589
+      },
+      {
+        "partyname": "Danish Social-Liberal Party",
+        "parfamName": "LIB",
+        "yearIndex": 1998,
+        "culture": 9.697000000000001,
+        "environ": 10.909,
+        "equality": 3.636,
+        "parfamCount": 1,
+        "rile": -5.455,
+        "staticRile": 4.61,
+        "avgVote": 3.85
+      },
+      {
+        "partyname": "Danish Social-Liberal Party",
+        "parfamName": "LIB",
+        "yearIndex": 2001,
+        "culture": 1.887,
+        "environ": 3.774,
+        "equality": 5.66,
+        "parfamCount": 1,
+        "rile": -3.774,
+        "staticRile": 4.61,
+        "avgVote": 5.19
+      },
+      {
+        "partyname": "Danish Social-Liberal Party",
+        "parfamName": "LIB",
+        "yearIndex": 2005,
+        "culture": 0,
+        "environ": 11.364,
+        "equality": 3.409,
+        "parfamCount": 1,
+        "rile": 0,
+        "staticRile": 4.61,
+        "avgVote": 9.181000000000001
+      },
+      {
+        "partyname": "Danish Social-Liberal Party",
+        "parfamName": "LIB",
+        "yearIndex": 2007,
+        "culture": 0,
+        "environ": 19.231,
+        "equality": 1.923,
+        "parfamCount": 1,
+        "rile": -9.615,
+        "staticRile": 4.61,
+        "avgVote": 5.12
+      },
+      {
+        "partyname": "Danish Social-Liberal Party",
+        "parfamName": "LIB",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 0.787,
+        "equality": 1.575,
+        "parfamCount": 1,
+        "rile": -0.787,
+        "staticRile": 4.61,
+        "avgVote": 9.479
+      },
+      {
+        "partyname": "Danish Social-Liberal Party",
+        "parfamName": "LIB",
+        "yearIndex": 2015,
+        "culture": 0,
+        "environ": 9.375,
+        "equality": 15.625,
+        "parfamCount": 1,
+        "rile": 6.25,
+        "staticRile": 4.61,
+        "avgVote": 4.575
+      },
+      {
+        "partyname": "Danish Social-Liberal Party",
+        "parfamName": "LIB",
+        "yearIndex": 2019,
+        "culture": 2.097,
+        "environ": 10,
+        "equality": 10.161,
+        "parfamCount": 1,
+        "rile": -19.516,
+        "staticRile": 4.61,
+        "avgVote": 8.628
+      }
+    ]
+  },
+  {
+    "partyname": "Liberal Alliance",
+    "data": [
+      {
+        "partyname": "Liberal Alliance",
+        "parfamName": "LIB",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 0,
+        "equality": 1.149,
+        "parfamCount": 1,
+        "rile": 51.724,
+        "staticRile": 4.61,
+        "avgVote": 4.976
+      },
+      {
+        "partyname": "Liberal Alliance",
+        "parfamName": "LIB",
+        "yearIndex": 2015,
+        "culture": 0,
+        "environ": 0,
+        "equality": 11.111,
+        "parfamCount": 1,
+        "rile": 28.704,
+        "staticRile": 4.61,
+        "avgVote": 7.534
+      },
+      {
+        "partyname": "Liberal Alliance",
+        "parfamName": "LIB",
+        "yearIndex": 2019,
+        "culture": 2.427,
+        "environ": 5.34,
+        "equality": 3.398,
+        "parfamCount": 1,
+        "rile": 15.534,
+        "staticRile": 4.61,
+        "avgVote": 2.329
+      }
+    ]
+  },
+  {
+    "partyname": "Liberals",
+    "data": [
+      {
+        "partyname": "Liberals",
+        "parfamName": "LIB",
+        "yearIndex": 1990,
+        "culture": 1.676,
+        "environ": 3.911,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 10.056,
+        "staticRile": 4.61,
+        "avgVote": 15.793
+      },
+      {
+        "partyname": "Liberals",
+        "parfamName": "LIB",
+        "yearIndex": 1994,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0.478,
+        "parfamCount": 1,
+        "rile": 54.067,
+        "staticRile": 4.61,
+        "avgVote": 23.295
+      },
+      {
+        "partyname": "Liberals",
+        "parfamName": "LIB",
+        "yearIndex": 1998,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 28.571,
+        "staticRile": 4.61,
+        "avgVote": 24.01
+      },
+      {
+        "partyname": "Liberals",
+        "parfamName": "LIB",
+        "yearIndex": 2001,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 36.232,
+        "staticRile": 4.61,
+        "avgVote": 31.25
+      },
+      {
+        "partyname": "Liberals",
+        "parfamName": "LIB",
+        "yearIndex": 2005,
+        "culture": 0,
+        "environ": 12.648,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": -2.372,
+        "staticRile": 4.61,
+        "avgVote": 29.031
+      },
+      {
+        "partyname": "Liberals",
+        "parfamName": "LIB",
+        "yearIndex": 2007,
+        "culture": 0,
+        "environ": 6.202000000000001,
+        "equality": 1.55,
+        "parfamCount": 1,
+        "rile": -6.977,
+        "staticRile": 4.61,
+        "avgVote": 26.26
+      },
+      {
+        "partyname": "Liberals",
+        "parfamName": "LIB",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 0,
+        "equality": 4.425,
+        "parfamCount": 1,
+        "rile": -13.717,
+        "staticRile": 4.61,
+        "avgVote": 26.739
+      },
+      {
+        "partyname": "Liberals",
+        "parfamName": "LIB",
+        "yearIndex": 2015,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0.99,
+        "parfamCount": 1,
+        "rile": 17.822,
+        "staticRile": 4.61,
+        "avgVote": 19.471
+      },
+      {
+        "partyname": "Liberals",
+        "parfamName": "LIB",
+        "yearIndex": 2019,
+        "culture": 0,
+        "environ": 8.392000000000001,
+        "equality": 12.587,
+        "parfamCount": 1,
+        "rile": -17.483,
+        "staticRile": 4.61,
+        "avgVote": 23.393
+      }
+    ]
+  },
+  {
+    "partyname": "New Alliance",
+    "data": [
+      {
+        "partyname": "New Alliance",
+        "parfamName": "LIB",
+        "yearIndex": 2007,
+        "culture": 0,
+        "environ": 12.5,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": -12.5,
+        "staticRile": 4.61,
+        "avgVote": 2.81
+      }
+    ]
+  },
+  {
+    "partyname": "Progress Party",
+    "data": [
+      {
+        "partyname": "Progress Party",
+        "parfamName": "NAT",
+        "yearIndex": 1990,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 25.641,
+        "staticRile": 10.25,
+        "avgVote": 6.435
+      },
+      {
+        "partyname": "Progress Party",
+        "parfamName": "NAT",
+        "yearIndex": 1994,
+        "culture": 0,
+        "environ": 0.31,
+        "equality": 0.31,
+        "parfamCount": 1,
+        "rile": 44.892,
+        "staticRile": 10.25,
+        "avgVote": 6.433
+      },
+      {
+        "partyname": "Progress Party",
+        "parfamName": "NAT",
+        "yearIndex": 1998,
+        "culture": 0,
+        "environ": 4,
+        "equality": 2,
+        "parfamCount": 1,
+        "rile": 34,
+        "staticRile": 10.25,
+        "avgVote": 2.42
+      }
+    ]
+  },
+  {
+    "partyname": "Red-Green Unity List",
+    "data": [
+      {
+        "partyname": "Red-Green Unity List",
+        "parfamName": "LEF",
+        "yearIndex": 1994,
+        "culture": 1.3330000000000002,
+        "environ": 8,
+        "equality": 2.667,
+        "parfamCount": 1,
+        "rile": -25.333,
+        "staticRile": -23.66,
+        "avgVote": 3.1460000000000004
+      },
+      {
+        "partyname": "Red-Green Unity List",
+        "parfamName": "LEF",
+        "yearIndex": 1998,
+        "culture": 0,
+        "environ": 10.255999999999998,
+        "equality": 10.255999999999998,
+        "parfamCount": 1,
+        "rile": -32.479,
+        "staticRile": -23.66,
+        "avgVote": 2.7
+      },
+      {
+        "partyname": "Red-Green Unity List",
+        "parfamName": "LEF",
+        "yearIndex": 2001,
+        "culture": 0,
+        "environ": 11.95,
+        "equality": 5.66,
+        "parfamCount": 1,
+        "rile": -10.692,
+        "staticRile": -23.66,
+        "avgVote": 2.4
+      },
+      {
+        "partyname": "Red-Green Unity List",
+        "parfamName": "LEF",
+        "yearIndex": 2005,
+        "culture": 0,
+        "environ": 13.453,
+        "equality": 9.865,
+        "parfamCount": 1,
+        "rile": -42.152,
+        "staticRile": -23.66,
+        "avgVote": 3.399
+      },
+      {
+        "partyname": "Red-Green Unity List",
+        "parfamName": "LEF",
+        "yearIndex": 2007,
+        "culture": 0.66,
+        "environ": 10.561,
+        "equality": 5.2810000000000015,
+        "parfamCount": 1,
+        "rile": -33.003,
+        "staticRile": -23.66,
+        "avgVote": 2.17
+      },
+      {
+        "partyname": "Red-Green Unity List",
+        "parfamName": "LEF",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 4.667,
+        "equality": 11.778,
+        "parfamCount": 1,
+        "rile": -41.778,
+        "staticRile": -23.66,
+        "avgVote": 6.682
+      },
+      {
+        "partyname": "Red-Green Unity List",
+        "parfamName": "LEF",
+        "yearIndex": 2015,
+        "culture": 0,
+        "environ": 4.464,
+        "equality": 21.429,
+        "parfamCount": 1,
+        "rile": -46.429,
+        "staticRile": -23.66,
+        "avgVote": 7.798999999999999
+      },
+      {
+        "partyname": "Red-Green Unity List",
+        "parfamName": "LEF",
+        "yearIndex": 2019,
+        "culture": 3.273,
+        "environ": 9.091000000000001,
+        "equality": 14.545,
+        "parfamCount": 1,
+        "rile": -38.182,
+        "staticRile": -23.66,
+        "avgVote": 6.94
+      }
+    ]
+  },
+  {
+    "partyname": "Social Democratic Party",
+    "data": [
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1990,
+        "culture": 0,
+        "environ": 6.452000000000001,
+        "equality": 3.2260000000000004,
+        "parfamCount": 1,
+        "rile": -35.484,
+        "staticRile": -14,
+        "avgVote": 37.384
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1994,
+        "culture": 0,
+        "environ": 4.608000000000001,
+        "equality": 2.3040000000000003,
+        "parfamCount": 1,
+        "rile": -7.372999999999998,
+        "staticRile": -14,
+        "avgVote": 34.561
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1998,
+        "culture": 0,
+        "environ": 7.812,
+        "equality": 3.125,
+        "parfamCount": 1,
+        "rile": -1.042,
+        "staticRile": -14,
+        "avgVote": 35.93
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2001,
+        "culture": 2.9330000000000003,
+        "environ": 8.888999999999998,
+        "equality": 7.733000000000001,
+        "parfamCount": 1,
+        "rile": -13.422,
+        "staticRile": -14,
+        "avgVote": 29.08
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2005,
+        "culture": 0.34600000000000003,
+        "environ": 8.304,
+        "equality": 1.038,
+        "parfamCount": 1,
+        "rile": -36.332,
+        "staticRile": -14,
+        "avgVote": 25.835
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2007,
+        "culture": 0,
+        "environ": 7.692,
+        "equality": 11.111,
+        "parfamCount": 1,
+        "rile": -8.547,
+        "staticRile": -14,
+        "avgVote": 25.47
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 7.101,
+        "equality": 2.367,
+        "parfamCount": 1,
+        "rile": -6.509,
+        "staticRile": -14,
+        "avgVote": 24.857
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2015,
+        "culture": 0,
+        "environ": 4.878,
+        "equality": 10.279000000000002,
+        "parfamCount": 1,
+        "rile": -2.091,
+        "staticRile": -14,
+        "avgVote": 26.284
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2019,
+        "culture": 0.385,
+        "environ": 16.089000000000002,
+        "equality": 12.779000000000002,
+        "parfamCount": 1,
+        "rile": -18.437,
+        "staticRile": -14,
+        "avgVote": 25.905
+      }
+    ]
+  },
+  {
+    "partyname": "Socialist People’s Party",
+    "data": [
+      {
+        "partyname": "Socialist People’s Party",
+        "parfamName": "LEF",
+        "yearIndex": 1990,
+        "culture": 0,
+        "environ": 13.497,
+        "equality": 5.521,
+        "parfamCount": 1,
+        "rile": -15.337,
+        "staticRile": -23.66,
+        "avgVote": 8.296
+      },
+      {
+        "partyname": "Socialist People’s Party",
+        "parfamName": "LEF",
+        "yearIndex": 1994,
+        "culture": 0.278,
+        "environ": 6.954,
+        "equality": 6.537000000000001,
+        "parfamCount": 1,
+        "rile": -27.121,
+        "staticRile": -23.66,
+        "avgVote": 7.284
+      },
+      {
+        "partyname": "Socialist People’s Party",
+        "parfamName": "LEF",
+        "yearIndex": 1998,
+        "culture": 1.024,
+        "environ": 22.526,
+        "equality": 3.754,
+        "parfamCount": 1,
+        "rile": -39.59,
+        "staticRile": -23.66,
+        "avgVote": 7.56
+      },
+      {
+        "partyname": "Socialist People’s Party",
+        "parfamName": "LEF",
+        "yearIndex": 2001,
+        "culture": 0,
+        "environ": 0,
+        "equality": 4.615,
+        "parfamCount": 1,
+        "rile": -33.846,
+        "staticRile": -23.66,
+        "avgVote": 6.37
+      },
+      {
+        "partyname": "Socialist People’s Party",
+        "parfamName": "LEF",
+        "yearIndex": 2005,
+        "culture": 0,
+        "environ": 20.605,
+        "equality": 5.292999999999998,
+        "parfamCount": 1,
+        "rile": -40.832,
+        "staticRile": -23.66,
+        "avgVote": 5.989
+      },
+      {
+        "partyname": "Socialist People’s Party",
+        "parfamName": "LEF",
+        "yearIndex": 2007,
+        "culture": 0,
+        "environ": 15.714,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": -37.143,
+        "staticRile": -23.66,
+        "avgVote": 13.04
+      },
+      {
+        "partyname": "Socialist People’s Party",
+        "parfamName": "LEF",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 7.739,
+        "equality": 7.536,
+        "parfamCount": 1,
+        "rile": -45.418,
+        "staticRile": -23.66,
+        "avgVote": 9.196
+      },
+      {
+        "partyname": "Socialist People’s Party",
+        "parfamName": "LEF",
+        "yearIndex": 2015,
+        "culture": 0,
+        "environ": 17.617,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": -64.249,
+        "staticRile": -23.66,
+        "avgVote": 4.194
+      },
+      {
+        "partyname": "Socialist People’s Party",
+        "parfamName": "LEF",
+        "yearIndex": 2019,
+        "culture": 4.785,
+        "environ": 13.078,
+        "equality": 13.397,
+        "parfamCount": 1,
+        "rile": -29.027,
+        "staticRile": -23.66,
+        "avgVote": 7.71
+      }
+    ]
+  },
+  {
+    "partyname": "The New Right",
+    "data": [
+      {
+        "partyname": "The New Right",
+        "parfamName": "NAT",
+        "yearIndex": 2019,
+        "culture": 0.293,
+        "environ": 3.666,
+        "equality": 7.0379999999999985,
+        "parfamCount": 1,
+        "rile": 2.9330000000000003,
+        "staticRile": 10.25,
+        "avgVote": 2.356
+      }
+    ]
+  }
+]
