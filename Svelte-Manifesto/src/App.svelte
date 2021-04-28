@@ -8,6 +8,8 @@
 
 	$:index = index < 7 ? index : 6;
 
+	console.log(groupedData2)
+
 
 	let steps = [35, 0, 5, 10, 20, 30, 35];
 	let setYear = 1993;

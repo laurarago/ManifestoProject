@@ -2928,8 +2928,10 @@
                 "avgVote": 3.22
             }
         ]
-    },
-    {
+    }
+]
+},
+{
         "Country" : "Austria",
         "parties": [
             {
@@ -3607,8 +3609,6 @@
                     "staticRile": 4.61,
                     "avgVote": 8.103
                   }
-                ]
-              }
         ]
     }
 ]}]
