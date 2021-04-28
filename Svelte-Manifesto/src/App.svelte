@@ -20,7 +20,16 @@
 	let countries = [
 		{ Country: 'Spain', Index : 0},
 		{ Country: 'Italy', Index : 1},
-		{ Country: 'Austria', Index : 2}
+		{ Country: 'Austria', Index : 2},
+		{ Country: 'Belgium', Index : 3},
+		{ Country: 'Bulgaria', Index : 4},
+		{ Country: 'Croatia', Index : 5},
+		{ Country: 'Cyprus', Index : 6},
+		{ Country: 'Czech Republic', Index : 7},
+		{ Country: 'Denmark', Index : 8},
+		{ Country: 'Estonia', Index : 9},
+		{ Country: 'Finland', Index : 10}
+
 	];
 	let selectedCountry = countries[0];
 
