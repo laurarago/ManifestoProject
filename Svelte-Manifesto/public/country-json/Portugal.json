@@ -1,1 +1,780 @@
-[{"partyname":"Ecologist Party ‘The Greens'","data":[{"partyname":"Ecologist Party ‘The Greens'","parfamName":"ECO","yearIndex":2002,"culture":0,"environ":53.488,"equality":10.078,"parfamCount":1,"rile":9.302,"staticRile":-13.65,"avgVote":1.167},{"partyname":"Ecologist Party ‘The Greens'","parfamName":"ECO","yearIndex":2005,"culture":0,"environ":43.04600000000001,"equality":5.96,"parfamCount":1,"rile":-27.815,"staticRile":-13.65,"avgVote":1.086},{"partyname":"Ecologist Party ‘The Greens'","parfamName":"ECO","yearIndex":2009,"culture":0,"environ":33.33,"equality":8.33,"parfamCount":1,"rile":-25,"staticRile":-13.65,"avgVote":1.089},{"partyname":"Ecologist Party ‘The Greens'","parfamName":"ECO","yearIndex":2011,"culture":0,"environ":11.811,"equality":9.449,"parfamCount":1,"rile":-14.173,"staticRile":-13.65,"avgVote":1.029},{"partyname":"Ecologist Party ‘The Greens'","parfamName":"ECO","yearIndex":2015,"culture":3.971,"environ":16.968,"equality":7.22,"parfamCount":1,"rile":-14.079,"staticRile":-13.65,"avgVote":1.008},{"partyname":"Ecologist Party ‘The Greens'","parfamName":"ECO","yearIndex":2019,"culture":0.474,"environ":23.697,"equality":7.109,"parfamCount":1,"rile":-31.28,"staticRile":-13.65,"avgVote":1.057}]},{"partyname":"Enough","data":[{"partyname":"Enough","parfamName":"NAT","yearIndex":2019,"culture":2.077,"environ":2.374,"equality":0.7909999999999999,"parfamCount":1,"rile":47.87300000000001,"staticRile":10.25,"avgVote":1.358}]},{"partyname":"Free","data":[{"partyname":"Free","parfamName":"ECO","yearIndex":2019,"culture":2.571,"environ":16.095,"equality":9.524,"parfamCount":1,"rile":-24.095,"staticRile":-13.65,"avgVote":1.144}]},{"partyname":"Left Bloc","data":[{"partyname":"Left Bloc","parfamName":"LEF","yearIndex":1999,"culture":3.646,"environ":5.4689999999999985,"equality":15.365,"parfamCount":1,"rile":-27.604,"staticRile":-23.66,"avgVote":2.481},{"partyname":"Left Bloc","parfamName":"LEF","yearIndex":2002,"culture":0,"environ":0.621,"equality":8.82,"parfamCount":1,"rile":-20.248,"staticRile":-23.66,"avgVote":2.795},{"partyname":"Left Bloc","parfamName":"LEF","yearIndex":2005,"culture":3.689,"environ":6.967000000000001,"equality":12.602,"parfamCount":1,"rile":-28.637,"staticRile":-23.66,"avgVote":6.542000000000002},{"partyname":"Left Bloc","parfamName":"LEF","yearIndex":2009,"culture":2.96,"environ":9.84,"equality":6.44,"parfamCount":1,"rile":-28.66,"staticRile":-23.66,"avgVote":10.134},{"partyname":"Left Bloc","parfamName":"LEF","yearIndex":2011,"culture":2.602,"environ":4.25,"equality":5.551,"parfamCount":1,"rile":-35.82,"staticRile":-23.66,"avgVote":5.393},{"partyname":"Left Bloc","parfamName":"LEF","yearIndex":2015,"culture":4.809,"environ":8.439,"equality":6.987,"parfamCount":1,"rile":-26.679,"staticRile":-23.66,"avgVote":10.581},{"partyname":"Left Bloc","parfamName":"LEF","yearIndex":2019,"culture":2.967,"environ":3.904,"equality":14.055,"parfamCount":1,"rile":-34.513000000000005,"staticRile":-23.66,"avgVote":10.009}]},{"partyname":"Liberal Iniciative","data":[{"partyname":"Liberal Iniciative","parfamName":"LIB","yearIndex":2019,"culture":0.253,"environ":1.154,"equality":1.515,"parfamCount":1,"rile":13.853,"staticRile":4.61,"avgVote":1.355}]},{"partyname":"National Solidarity Party","data":[{"partyname":"National Solidarity Party","parfamName":"SIP","yearIndex":1991,"culture":5.525,"environ":7.735,"equality":4.42,"parfamCount":1,"rile":-1.105,"staticRile":3.36,"avgVote":1.706}]},{"partyname":"People-Animals-Nature","data":[{"partyname":"People-Animals-Nature","parfamName":"ECO","yearIndex":2015,"culture":1.58,"environ":33.791,"equality":4.121,"parfamCount":1,"rile":-19.368,"staticRile":-13.65,"avgVote":1.443},{"partyname":"People-Animals-Nature","parfamName":"ECO","yearIndex":2019,"culture":3.204,"environ":21.586,"equality":8.981,"parfamCount":1,"rile":-25.473000000000006,"staticRile":-13.65,"avgVote":3.4930000000000003}]},{"partyname":"Portugal Ahead","data":[{"partyname":"Portugal Ahead","parfamName":"CON","yearIndex":2015,"culture":4.087,"environ":6.457999999999998,"equality":4.945,"parfamCount":1,"rile":0.605,"staticRile":11.64,"avgVote":40.034}]},{"partyname":"Portuguese Communist Party","data":[{"partyname":"Portuguese Communist Party","parfamName":"LEF","yearIndex":1991,"culture":7.903,"environ":3.899,"equality":8.957000000000003,"parfamCount":1,"rile":-15.121,"staticRile":-23.66,"avgVote":0},{"partyname":"Portuguese Communist Party","parfamName":"LEF","yearIndex":1995,"culture":7.267,"environ":3.315,"equality":7.904,"parfamCount":1,"rile":-24.18,"staticRile":-23.66,"avgVote":0},{"partyname":"Portuguese Communist Party","parfamName":"LEF","yearIndex":1999,"culture":7.121,"environ":3.439,"equality":7.395,"parfamCount":1,"rile":-29.063,"staticRile":-23.66,"avgVote":0},{"partyname":"Portuguese Communist Party","parfamName":"LEF","yearIndex":2002,"culture":3.991,"environ":5.2029999999999985,"equality":7.021,"parfamCount":1,"rile":-21.276,"staticRile":-23.66,"avgVote":5.832999999999998},{"partyname":"Portuguese Communist Party","parfamName":"LEF","yearIndex":2005,"culture":3.699,"environ":4.9110000000000005,"equality":5.899,"parfamCount":1,"rile":-23.884,"staticRile":-23.66,"avgVote":6.5139999999999985},{"partyname":"Portuguese Communist Party","parfamName":"LEF","yearIndex":2009,"culture":1.99,"environ":1.56,"equality":7.19,"parfamCount":1,"rile":-21.82,"staticRile":-23.66,"avgVote":7.081},{"partyname":"Portuguese Communist Party","parfamName":"LEF","yearIndex":2011,"culture":0,"environ":0,"equality":9,"parfamCount":1,"rile":-15,"staticRile":-23.66,"avgVote":7.201000000000001},{"partyname":"Portuguese Communist Party","parfamName":"LEF","yearIndex":2015,"culture":3.554,"environ":2.132,"equality":5.188,"parfamCount":1,"rile":-20.682,"staticRile":-23.66,"avgVote":7.558},{"partyname":"Portuguese Communist Party","parfamName":"LEF","yearIndex":2019,"culture":2.8710000000000004,"environ":1.722,"equality":7.1770000000000005,"parfamCount":1,"rile":-31.77,"staticRile":-23.66,"avgVote":5.283}]},{"partyname":"Social Democratic Center Party","data":[{"partyname":"Social Democratic Center Party","parfamName":"CHR","yearIndex":1991,"culture":5.98,"environ":7.641,"equality":6.645,"parfamCount":1,"rile":-10.630999999999998,"staticRile":6.13,"avgVote":4.433}]},{"partyname":"Social Democratic Center-Popular Party","data":[{"partyname":"Social Democratic Center-Popular Party","parfamName":"CHR","yearIndex":1995,"culture":4.301,"environ":5.492000000000001,"equality":5.3370000000000015,"parfamCount":1,"rile":-0.674,"staticRile":6.13,"avgVote":9.228},{"partyname":"Social Democratic Center-Popular Party","parfamName":"CHR","yearIndex":1999,"culture":4.0939999999999985,"environ":5.575,"equality":6.359,"parfamCount":1,"rile":-14.199000000000002,"staticRile":6.13,"avgVote":8.455},{"partyname":"Social Democratic Center-Popular Party","parfamName":"CHR","yearIndex":2002,"culture":3.062,"environ":3.062,"equality":2.055,"parfamCount":1,"rile":16.197,"staticRile":6.13,"avgVote":8.896000000000003},{"partyname":"Social Democratic Center-Popular Party","parfamName":"CHR","yearIndex":2005,"culture":7.59,"environ":7.803,"equality":3.503,"parfamCount":1,"rile":9.607000000000001,"staticRile":6.13,"avgVote":7.463999999999999},{"partyname":"Social Democratic Center-Popular Party","parfamName":"CHR","yearIndex":2009,"culture":2.39,"environ":5.62,"equality":3.1,"parfamCount":1,"rile":8.950000000000003,"staticRile":6.13,"avgVote":10.4},{"partyname":"Social Democratic Center-Popular Party","parfamName":"CHR","yearIndex":2011,"culture":1.033,"environ":0.7509999999999999,"equality":5.257999999999999,"parfamCount":1,"rile":22.817,"staticRile":6.13,"avgVote":12.21},{"partyname":"Social Democratic Center-Popular Party","parfamName":"CHR","yearIndex":2019,"culture":2.764,"environ":3.63,"equality":2.764,"parfamCount":1,"rile":10.767,"staticRile":6.13,"avgVote":4.439}]},{"partyname":"Social Democratic Party","data":[{"partyname":"Social Democratic Party","parfamName":"CON","yearIndex":1991,"culture":6.879,"environ":7.876,"equality":5.085,"parfamCount":1,"rile":-8.774000000000001,"staticRile":11.64,"avgVote":50.993},{"partyname":"Social Democratic Party","parfamName":"CON","yearIndex":1995,"culture":5.815,"environ":4.523,"equality":3.087,"parfamCount":1,"rile":-4.164,"staticRile":11.64,"avgVote":34.784},{"partyname":"Social Democratic Party","parfamName":"CON","yearIndex":1999,"culture":6.494,"environ":3.766,"equality":5.195,"parfamCount":1,"rile":-0.909,"staticRile":11.64,"avgVote":32.626999999999995},{"partyname":"Social Democratic Party","parfamName":"CON","yearIndex":2002,"culture":5.442,"environ":4.3210000000000015,"equality":4.189,"parfamCount":1,"rile":1.154,"staticRile":11.64,"avgVote":41.014},{"partyname":"Social Democratic Party","parfamName":"CON","yearIndex":2005,"culture":3.377,"environ":13.28,"equality":3.661,"parfamCount":1,"rile":2.015,"staticRile":11.64,"avgVote":29.638},{"partyname":"Social Democratic Party","parfamName":"CON","yearIndex":2009,"culture":4.4,"environ":6.88,"equality":4.74,"parfamCount":1,"rile":6.54,"staticRile":11.64,"avgVote":30.05},{"partyname":"Social Democratic Party","parfamName":"CON","yearIndex":2011,"culture":2.971,"environ":2.525,"equality":3.193,"parfamCount":1,"rile":12.811,"staticRile":11.64,"avgVote":40.306},{"partyname":"Social Democratic Party","parfamName":"CON","yearIndex":2019,"culture":4.543,"environ":5.0360000000000005,"equality":8.374,"parfamCount":1,"rile":-4.598,"staticRile":11.64,"avgVote":29.18}]},{"partyname":"Socialist Party","data":[{"partyname":"Socialist Party","parfamName":"SOC","yearIndex":1991,"culture":5.122000000000001,"environ":5.6770000000000005,"equality":6.754,"parfamCount":1,"rile":-11.778,"staticRile":-14,"avgVote":29.58},{"partyname":"Socialist Party","parfamName":"SOC","yearIndex":1995,"culture":3.731,"environ":4.627,"equality":5.148,"parfamCount":1,"rile":-16.694000000000006,"staticRile":-14,"avgVote":44.611},{"partyname":"Socialist Party","parfamName":"SOC","yearIndex":1999,"culture":6.848,"environ":1.464,"equality":5.34,"parfamCount":1,"rile":-17.7,"staticRile":-14,"avgVote":44.41},{"partyname":"Socialist Party","parfamName":"SOC","yearIndex":2002,"culture":5.978,"environ":4.686,"equality":5.167999999999998,"parfamCount":1,"rile":-9.897,"staticRile":-14,"avgVote":38.551},{"partyname":"Socialist Party","parfamName":"SOC","yearIndex":2005,"culture":5.9529999999999985,"environ":4.213,"equality":5.545,"parfamCount":1,"rile":-10.22,"staticRile":-14,"avgVote":46.396},{"partyname":"Socialist Party","parfamName":"SOC","yearIndex":2009,"culture":6.316,"environ":4.593,"equality":7.751,"parfamCount":1,"rile":-4.498,"staticRile":-14,"avgVote":37.73},{"partyname":"Socialist Party","parfamName":"SOC","yearIndex":2011,"culture":8.203,"environ":4.222,"equality":4.9460000000000015,"parfamCount":1,"rile":0.241,"staticRile":-14,"avgVote":29.239},{"partyname":"Socialist Party","parfamName":"SOC","yearIndex":2015,"culture":6.115,"environ":6.858000000000001,"equality":7.635,"parfamCount":1,"rile":-4.525,"staticRile":-14,"avgVote":33.568000000000005},{"partyname":"Socialist Party","parfamName":"SOC","yearIndex":2019,"culture":3.208,"environ":5.825,"equality":7.725000000000001,"parfamCount":1,"rile":-12.621,"staticRile":-14,"avgVote":38.195}]},{"partyname":"Unified Democratic Coalition","data":[{"partyname":"Unified Democratic Coalition","parfamName":"LEF","yearIndex":1991,"culture":7.903,"environ":3.899,"equality":8.957000000000003,"parfamCount":1,"rile":-15.121,"staticRile":-23.66,"avgVote":8.961},{"partyname":"Unified Democratic Coalition","parfamName":"LEF","yearIndex":1995,"culture":7.267,"environ":3.315,"equality":7.904,"parfamCount":1,"rile":-24.18,"staticRile":-23.66,"avgVote":8.738999999999999},{"partyname":"Unified Democratic Coalition","parfamName":"LEF","yearIndex":1999,"culture":7.223,"environ":3.505,"equality":7.4060000000000015,"parfamCount":1,"rile":-28.924,"staticRile":-23.66,"avgVote":9.103},{"partyname":"Unified Democratic Coalition","parfamName":"LEF","yearIndex":2002,"culture":5.034,"environ":5.229,"equality":6.496,"parfamCount":1,"rile":-19.617,"staticRile":-23.66,"avgVote":0},{"partyname":"Unified Democratic Coalition","parfamName":"LEF","yearIndex":2005,"culture":3.699,"environ":4.9110000000000005,"equality":5.899,"parfamCount":1,"rile":-23.884,"staticRile":-23.66,"avgVote":0}]}]
+[
+  {
+    "partyname": "Ecologist Party ‘The Greens'",
+    "data": [
+      {
+        "partyname": "Ecologist Party ‘The Greens'",
+        "parfamName": "ECO",
+        "yearIndex": 2002,
+        "culture": 0,
+        "environ": 53.488,
+        "equality": 10.078,
+        "parfamCount": 1,
+        "rile": 9.302,
+        "staticRile": -13.65,
+        "avgVote": 1.167
+      },
+      {
+        "partyname": "Ecologist Party ‘The Greens'",
+        "parfamName": "ECO",
+        "yearIndex": 2005,
+        "culture": 0,
+        "environ": 43.04600000000001,
+        "equality": 5.96,
+        "parfamCount": 1,
+        "rile": -27.815,
+        "staticRile": -13.65,
+        "avgVote": 1.086
+      },
+      {
+        "partyname": "Ecologist Party ‘The Greens'",
+        "parfamName": "ECO",
+        "yearIndex": 2009,
+        "culture": 0,
+        "environ": 33.33,
+        "equality": 8.33,
+        "parfamCount": 1,
+        "rile": -25,
+        "staticRile": -13.65,
+        "avgVote": 1.089
+      },
+      {
+        "partyname": "Ecologist Party ‘The Greens'",
+        "parfamName": "ECO",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 11.811,
+        "equality": 9.449,
+        "parfamCount": 1,
+        "rile": -14.173,
+        "staticRile": -13.65,
+        "avgVote": 1.029
+      },
+      {
+        "partyname": "Ecologist Party ‘The Greens'",
+        "parfamName": "ECO",
+        "yearIndex": 2015,
+        "culture": 3.971,
+        "environ": 16.968,
+        "equality": 7.22,
+        "parfamCount": 1,
+        "rile": -14.079,
+        "staticRile": -13.65,
+        "avgVote": 1.008
+      },
+      {
+        "partyname": "Ecologist Party ‘The Greens'",
+        "parfamName": "ECO",
+        "yearIndex": 2019,
+        "culture": 0.474,
+        "environ": 23.697,
+        "equality": 7.109,
+        "parfamCount": 1,
+        "rile": -31.28,
+        "staticRile": -13.65,
+        "avgVote": 1.057
+      }
+    ]
+  },
+  {
+    "partyname": "Enough",
+    "data": [
+      {
+        "partyname": "Enough",
+        "parfamName": "NAT",
+        "yearIndex": 2019,
+        "culture": 2.077,
+        "environ": 2.374,
+        "equality": 0.7909999999999999,
+        "parfamCount": 1,
+        "rile": 47.87300000000001,
+        "staticRile": 10.25,
+        "avgVote": 1.358
+      }
+    ]
+  },
+  {
+    "partyname": "Free",
+    "data": [
+      {
+        "partyname": "Free",
+        "parfamName": "ECO",
+        "yearIndex": 2019,
+        "culture": 2.571,
+        "environ": 16.095,
+        "equality": 9.524,
+        "parfamCount": 1,
+        "rile": -24.095,
+        "staticRile": -13.65,
+        "avgVote": 1.144
+      }
+    ]
+  },
+  {
+    "partyname": "Left Bloc",
+    "data": [
+      {
+        "partyname": "Left Bloc",
+        "parfamName": "LEF",
+        "yearIndex": 1999,
+        "culture": 3.646,
+        "environ": 5.4689999999999985,
+        "equality": 15.365,
+        "parfamCount": 1,
+        "rile": -27.604,
+        "staticRile": -23.66,
+        "avgVote": 2.481
+      },
+      {
+        "partyname": "Left Bloc",
+        "parfamName": "LEF",
+        "yearIndex": 2002,
+        "culture": 0,
+        "environ": 0.621,
+        "equality": 8.82,
+        "parfamCount": 1,
+        "rile": -20.248,
+        "staticRile": -23.66,
+        "avgVote": 2.795
+      },
+      {
+        "partyname": "Left Bloc",
+        "parfamName": "LEF",
+        "yearIndex": 2005,
+        "culture": 3.689,
+        "environ": 6.967000000000001,
+        "equality": 12.602,
+        "parfamCount": 1,
+        "rile": -28.637,
+        "staticRile": -23.66,
+        "avgVote": 6.542000000000002
+      },
+      {
+        "partyname": "Left Bloc",
+        "parfamName": "LEF",
+        "yearIndex": 2009,
+        "culture": 2.96,
+        "environ": 9.84,
+        "equality": 6.44,
+        "parfamCount": 1,
+        "rile": -28.66,
+        "staticRile": -23.66,
+        "avgVote": 10.134
+      },
+      {
+        "partyname": "Left Bloc",
+        "parfamName": "LEF",
+        "yearIndex": 2011,
+        "culture": 2.602,
+        "environ": 4.25,
+        "equality": 5.551,
+        "parfamCount": 1,
+        "rile": -35.82,
+        "staticRile": -23.66,
+        "avgVote": 5.393
+      },
+      {
+        "partyname": "Left Bloc",
+        "parfamName": "LEF",
+        "yearIndex": 2015,
+        "culture": 4.809,
+        "environ": 8.439,
+        "equality": 6.987,
+        "parfamCount": 1,
+        "rile": -26.679,
+        "staticRile": -23.66,
+        "avgVote": 10.581
+      },
+      {
+        "partyname": "Left Bloc",
+        "parfamName": "LEF",
+        "yearIndex": 2019,
+        "culture": 2.967,
+        "environ": 3.904,
+        "equality": 14.055,
+        "parfamCount": 1,
+        "rile": -34.513000000000005,
+        "staticRile": -23.66,
+        "avgVote": 10.009
+      }
+    ]
+  },
+  {
+    "partyname": "Liberal Iniciative",
+    "data": [
+      {
+        "partyname": "Liberal Iniciative",
+        "parfamName": "LIB",
+        "yearIndex": 2019,
+        "culture": 0.253,
+        "environ": 1.154,
+        "equality": 1.515,
+        "parfamCount": 1,
+        "rile": 13.853,
+        "staticRile": 4.61,
+        "avgVote": 1.355
+      }
+    ]
+  },
+  {
+    "partyname": "National Solidarity Party",
+    "data": [
+      {
+        "partyname": "National Solidarity Party",
+        "parfamName": "SIP",
+        "yearIndex": 1991,
+        "culture": 5.525,
+        "environ": 7.735,
+        "equality": 4.42,
+        "parfamCount": 1,
+        "rile": -1.105,
+        "staticRile": 3.36,
+        "avgVote": 1.706
+      }
+    ]
+  },
+  {
+    "partyname": "People-Animals-Nature",
+    "data": [
+      {
+        "partyname": "People-Animals-Nature",
+        "parfamName": "ECO",
+        "yearIndex": 2015,
+        "culture": 1.58,
+        "environ": 33.791,
+        "equality": 4.121,
+        "parfamCount": 1,
+        "rile": -19.368,
+        "staticRile": -13.65,
+        "avgVote": 1.443
+      },
+      {
+        "partyname": "People-Animals-Nature",
+        "parfamName": "ECO",
+        "yearIndex": 2019,
+        "culture": 3.204,
+        "environ": 21.586,
+        "equality": 8.981,
+        "parfamCount": 1,
+        "rile": -25.473000000000006,
+        "staticRile": -13.65,
+        "avgVote": 3.4930000000000003
+      }
+    ]
+  },
+  {
+    "partyname": "Portugal Ahead",
+    "data": [
+      {
+        "partyname": "Portugal Ahead",
+        "parfamName": "CON",
+        "yearIndex": 2015,
+        "culture": 4.087,
+        "environ": 6.457999999999998,
+        "equality": 4.945,
+        "parfamCount": 1,
+        "rile": 0.605,
+        "staticRile": 11.64,
+        "avgVote": 40.034
+      }
+    ]
+  },
+  {
+    "partyname": "Portuguese Communist Party",
+    "data": [
+      {
+        "partyname": "Portuguese Communist Party",
+        "parfamName": "LEF",
+        "yearIndex": 1991,
+        "culture": 7.903,
+        "environ": 3.899,
+        "equality": 8.957000000000003,
+        "parfamCount": 1,
+        "rile": -15.121,
+        "staticRile": -23.66,
+        "avgVote": 0
+      },
+      {
+        "partyname": "Portuguese Communist Party",
+        "parfamName": "LEF",
+        "yearIndex": 1995,
+        "culture": 7.267,
+        "environ": 3.315,
+        "equality": 7.904,
+        "parfamCount": 1,
+        "rile": -24.18,
+        "staticRile": -23.66,
+        "avgVote": 0
+      },
+      {
+        "partyname": "Portuguese Communist Party",
+        "parfamName": "LEF",
+        "yearIndex": 1999,
+        "culture": 7.121,
+        "environ": 3.439,
+        "equality": 7.395,
+        "parfamCount": 1,
+        "rile": -29.063,
+        "staticRile": -23.66,
+        "avgVote": 0
+      },
+      {
+        "partyname": "Portuguese Communist Party",
+        "parfamName": "LEF",
+        "yearIndex": 2002,
+        "culture": 3.991,
+        "environ": 5.2029999999999985,
+        "equality": 7.021,
+        "parfamCount": 1,
+        "rile": -21.276,
+        "staticRile": -23.66,
+        "avgVote": 5.832999999999998
+      },
+      {
+        "partyname": "Portuguese Communist Party",
+        "parfamName": "LEF",
+        "yearIndex": 2005,
+        "culture": 3.699,
+        "environ": 4.9110000000000005,
+        "equality": 5.899,
+        "parfamCount": 1,
+        "rile": -23.884,
+        "staticRile": -23.66,
+        "avgVote": 6.5139999999999985
+      },
+      {
+        "partyname": "Portuguese Communist Party",
+        "parfamName": "LEF",
+        "yearIndex": 2009,
+        "culture": 1.99,
+        "environ": 1.56,
+        "equality": 7.19,
+        "parfamCount": 1,
+        "rile": -21.82,
+        "staticRile": -23.66,
+        "avgVote": 7.081
+      },
+      {
+        "partyname": "Portuguese Communist Party",
+        "parfamName": "LEF",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 0,
+        "equality": 9,
+        "parfamCount": 1,
+        "rile": -15,
+        "staticRile": -23.66,
+        "avgVote": 7.201000000000001
+      },
+      {
+        "partyname": "Portuguese Communist Party",
+        "parfamName": "LEF",
+        "yearIndex": 2015,
+        "culture": 3.554,
+        "environ": 2.132,
+        "equality": 5.188,
+        "parfamCount": 1,
+        "rile": -20.682,
+        "staticRile": -23.66,
+        "avgVote": 7.558
+      },
+      {
+        "partyname": "Portuguese Communist Party",
+        "parfamName": "LEF",
+        "yearIndex": 2019,
+        "culture": 2.8710000000000004,
+        "environ": 1.722,
+        "equality": 7.1770000000000005,
+        "parfamCount": 1,
+        "rile": -31.77,
+        "staticRile": -23.66,
+        "avgVote": 5.283
+      }
+    ]
+  },
+  {
+    "partyname": "Social Democratic Center Party",
+    "data": [
+      {
+        "partyname": "Social Democratic Center Party",
+        "parfamName": "CHR",
+        "yearIndex": 1991,
+        "culture": 5.98,
+        "environ": 7.641,
+        "equality": 6.645,
+        "parfamCount": 1,
+        "rile": -10.630999999999998,
+        "staticRile": 6.13,
+        "avgVote": 4.433
+      }
+    ]
+  },
+  {
+    "partyname": "Social Democratic Center-Popular Party",
+    "data": [
+      {
+        "partyname": "Social Democratic Center-Popular Party",
+        "parfamName": "CHR",
+        "yearIndex": 1995,
+        "culture": 4.301,
+        "environ": 5.492000000000001,
+        "equality": 5.3370000000000015,
+        "parfamCount": 1,
+        "rile": -0.674,
+        "staticRile": 6.13,
+        "avgVote": 9.228
+      },
+      {
+        "partyname": "Social Democratic Center-Popular Party",
+        "parfamName": "CHR",
+        "yearIndex": 1999,
+        "culture": 4.0939999999999985,
+        "environ": 5.575,
+        "equality": 6.359,
+        "parfamCount": 1,
+        "rile": -14.199000000000002,
+        "staticRile": 6.13,
+        "avgVote": 8.455
+      },
+      {
+        "partyname": "Social Democratic Center-Popular Party",
+        "parfamName": "CHR",
+        "yearIndex": 2002,
+        "culture": 3.062,
+        "environ": 3.062,
+        "equality": 2.055,
+        "parfamCount": 1,
+        "rile": 16.197,
+        "staticRile": 6.13,
+        "avgVote": 8.896000000000003
+      },
+      {
+        "partyname": "Social Democratic Center-Popular Party",
+        "parfamName": "CHR",
+        "yearIndex": 2005,
+        "culture": 7.59,
+        "environ": 7.803,
+        "equality": 3.503,
+        "parfamCount": 1,
+        "rile": 9.607000000000001,
+        "staticRile": 6.13,
+        "avgVote": 7.463999999999999
+      },
+      {
+        "partyname": "Social Democratic Center-Popular Party",
+        "parfamName": "CHR",
+        "yearIndex": 2009,
+        "culture": 2.39,
+        "environ": 5.62,
+        "equality": 3.1,
+        "parfamCount": 1,
+        "rile": 8.950000000000003,
+        "staticRile": 6.13,
+        "avgVote": 10.4
+      },
+      {
+        "partyname": "Social Democratic Center-Popular Party",
+        "parfamName": "CHR",
+        "yearIndex": 2011,
+        "culture": 1.033,
+        "environ": 0.7509999999999999,
+        "equality": 5.257999999999999,
+        "parfamCount": 1,
+        "rile": 22.817,
+        "staticRile": 6.13,
+        "avgVote": 12.21
+      },
+      {
+        "partyname": "Social Democratic Center-Popular Party",
+        "parfamName": "CHR",
+        "yearIndex": 2019,
+        "culture": 2.764,
+        "environ": 3.63,
+        "equality": 2.764,
+        "parfamCount": 1,
+        "rile": 10.767,
+        "staticRile": 6.13,
+        "avgVote": 4.439
+      }
+    ]
+  },
+  {
+    "partyname": "Social Democratic Party",
+    "data": [
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "CON",
+        "yearIndex": 1991,
+        "culture": 6.879,
+        "environ": 7.876,
+        "equality": 5.085,
+        "parfamCount": 1,
+        "rile": -8.774000000000001,
+        "staticRile": 11.64,
+        "avgVote": 50.993
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "CON",
+        "yearIndex": 1995,
+        "culture": 5.815,
+        "environ": 4.523,
+        "equality": 3.087,
+        "parfamCount": 1,
+        "rile": -4.164,
+        "staticRile": 11.64,
+        "avgVote": 34.784
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "CON",
+        "yearIndex": 1999,
+        "culture": 6.494,
+        "environ": 3.766,
+        "equality": 5.195,
+        "parfamCount": 1,
+        "rile": -0.909,
+        "staticRile": 11.64,
+        "avgVote": 32.626999999999995
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "CON",
+        "yearIndex": 2002,
+        "culture": 5.442,
+        "environ": 4.3210000000000015,
+        "equality": 4.189,
+        "parfamCount": 1,
+        "rile": 1.154,
+        "staticRile": 11.64,
+        "avgVote": 41.014
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "CON",
+        "yearIndex": 2005,
+        "culture": 3.377,
+        "environ": 13.28,
+        "equality": 3.661,
+        "parfamCount": 1,
+        "rile": 2.015,
+        "staticRile": 11.64,
+        "avgVote": 29.638
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "CON",
+        "yearIndex": 2009,
+        "culture": 4.4,
+        "environ": 6.88,
+        "equality": 4.74,
+        "parfamCount": 1,
+        "rile": 6.54,
+        "staticRile": 11.64,
+        "avgVote": 30.05
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "CON",
+        "yearIndex": 2011,
+        "culture": 2.971,
+        "environ": 2.525,
+        "equality": 3.193,
+        "parfamCount": 1,
+        "rile": 12.811,
+        "staticRile": 11.64,
+        "avgVote": 40.306
+      },
+      {
+        "partyname": "Social Democratic Party",
+        "parfamName": "CON",
+        "yearIndex": 2019,
+        "culture": 4.543,
+        "environ": 5.0360000000000005,
+        "equality": 8.374,
+        "parfamCount": 1,
+        "rile": -4.598,
+        "staticRile": 11.64,
+        "avgVote": 29.18
+      }
+    ]
+  },
+  {
+    "partyname": "Socialist Party",
+    "data": [
+      {
+        "partyname": "Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 1991,
+        "culture": 5.122000000000001,
+        "environ": 5.6770000000000005,
+        "equality": 6.754,
+        "parfamCount": 1,
+        "rile": -11.778,
+        "staticRile": -14,
+        "avgVote": 29.58
+      },
+      {
+        "partyname": "Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 1995,
+        "culture": 3.731,
+        "environ": 4.627,
+        "equality": 5.148,
+        "parfamCount": 1,
+        "rile": -16.694000000000006,
+        "staticRile": -14,
+        "avgVote": 44.611
+      },
+      {
+        "partyname": "Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 1999,
+        "culture": 6.848,
+        "environ": 1.464,
+        "equality": 5.34,
+        "parfamCount": 1,
+        "rile": -17.7,
+        "staticRile": -14,
+        "avgVote": 44.41
+      },
+      {
+        "partyname": "Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 2002,
+        "culture": 5.978,
+        "environ": 4.686,
+        "equality": 5.167999999999998,
+        "parfamCount": 1,
+        "rile": -9.897,
+        "staticRile": -14,
+        "avgVote": 38.551
+      },
+      {
+        "partyname": "Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 2005,
+        "culture": 5.9529999999999985,
+        "environ": 4.213,
+        "equality": 5.545,
+        "parfamCount": 1,
+        "rile": -10.22,
+        "staticRile": -14,
+        "avgVote": 46.396
+      },
+      {
+        "partyname": "Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 2009,
+        "culture": 6.316,
+        "environ": 4.593,
+        "equality": 7.751,
+        "parfamCount": 1,
+        "rile": -4.498,
+        "staticRile": -14,
+        "avgVote": 37.73
+      },
+      {
+        "partyname": "Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 2011,
+        "culture": 8.203,
+        "environ": 4.222,
+        "equality": 4.9460000000000015,
+        "parfamCount": 1,
+        "rile": 0.241,
+        "staticRile": -14,
+        "avgVote": 29.239
+      },
+      {
+        "partyname": "Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 2015,
+        "culture": 6.115,
+        "environ": 6.858000000000001,
+        "equality": 7.635,
+        "parfamCount": 1,
+        "rile": -4.525,
+        "staticRile": -14,
+        "avgVote": 33.568000000000005
+      },
+      {
+        "partyname": "Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 2019,
+        "culture": 3.208,
+        "environ": 5.825,
+        "equality": 7.725000000000001,
+        "parfamCount": 1,
+        "rile": -12.621,
+        "staticRile": -14,
+        "avgVote": 38.195
+      }
+    ]
+  },
+  {
+    "partyname": "Unified Democratic Coalition",
+    "data": [
+      {
+        "partyname": "Unified Democratic Coalition",
+        "parfamName": "LEF",
+        "yearIndex": 1991,
+        "culture": 7.903,
+        "environ": 3.899,
+        "equality": 8.957000000000003,
+        "parfamCount": 1,
+        "rile": -15.121,
+        "staticRile": -23.66,
+        "avgVote": 8.961
+      },
+      {
+        "partyname": "Unified Democratic Coalition",
+        "parfamName": "LEF",
+        "yearIndex": 1995,
+        "culture": 7.267,
+        "environ": 3.315,
+        "equality": 7.904,
+        "parfamCount": 1,
+        "rile": -24.18,
+        "staticRile": -23.66,
+        "avgVote": 8.738999999999999
+      },
+      {
+        "partyname": "Unified Democratic Coalition",
+        "parfamName": "LEF",
+        "yearIndex": 1999,
+        "culture": 7.223,
+        "environ": 3.505,
+        "equality": 7.4060000000000015,
+        "parfamCount": 1,
+        "rile": -28.924,
+        "staticRile": -23.66,
+        "avgVote": 9.103
+      },
+      {
+        "partyname": "Unified Democratic Coalition",
+        "parfamName": "LEF",
+        "yearIndex": 2002,
+        "culture": 5.034,
+        "environ": 5.229,
+        "equality": 6.496,
+        "parfamCount": 1,
+        "rile": -19.617,
+        "staticRile": -23.66,
+        "avgVote": 0
+      },
+      {
+        "partyname": "Unified Democratic Coalition",
+        "parfamName": "LEF",
+        "yearIndex": 2005,
+        "culture": 3.699,
+        "environ": 4.9110000000000005,
+        "equality": 5.899,
+        "parfamCount": 1,
+        "rile": -23.884,
+        "staticRile": -23.66,
+        "avgVote": 0
+      }
+    ]
+  }
+]

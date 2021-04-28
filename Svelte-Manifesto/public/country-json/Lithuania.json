@@ -1,1 +1,771 @@
-[{"partyname":"A. Brazauskas Social Democratic Coalition","data":[{"partyname":"A. Brazauskas Social Democratic Coalition","parfamName":"SOC","yearIndex":2000,"culture":8.234,"environ":5.728,"equality":5.012,"parfamCount":1,"rile":-9.068999999999999,"staticRile":-14,"avgVote":31.082}]},{"partyname":"Centre Movement of Lithuania","data":[{"partyname":"Centre Movement of Lithuania","parfamName":"LIB","yearIndex":1992,"culture":2.985,"environ":8.209,"equality":2.239,"parfamCount":1,"rile":6.716,"staticRile":4.61,"avgVote":2.524}]},{"partyname":"Coalition Labour Party and Youth","data":[{"partyname":"Coalition Labour Party and Youth","parfamName":"LIB","yearIndex":2008,"culture":15.106,"environ":2.417,"equality":2.417,"parfamCount":1,"rile":-3.323,"staticRile":4.61,"avgVote":8.987}]},{"partyname":"Coalition of Rolandas Paksas ‘For Order and Justice'","data":[{"partyname":"Coalition of Rolandas Paksas ‘For Order and Justice'","parfamName":"LIB","yearIndex":2004,"culture":3.158,"environ":0,"equality":4.912,"parfamCount":1,"rile":-2.807,"staticRile":4.61,"avgVote":11.358}]},{"partyname":"Election Action of Lithuania’s Poles","data":[{"partyname":"Election Action of Lithuania’s Poles","parfamName":"ETH","yearIndex":2000,"culture":5.556,"environ":1.587,"equality":1.587,"parfamCount":1,"rile":-1.587,"staticRile":-9.04,"avgVote":1.947},{"partyname":"Election Action of Lithuania’s Poles","parfamName":"ETH","yearIndex":2012,"culture":8.777000000000001,"environ":7.8370000000000015,"equality":4.3889999999999985,"parfamCount":1,"rile":5.643,"staticRile":-9.04,"avgVote":6.085},{"partyname":"Election Action of Lithuania’s Poles","parfamName":"ETH","yearIndex":2016,"culture":8.766,"environ":2.273,"equality":8.766,"parfamCount":1,"rile":-15.26,"staticRile":-9.04,"avgVote":5.718}]},{"partyname":"Homeland Union","data":[{"partyname":"Homeland Union","parfamName":"CON","yearIndex":1996,"culture":2.062,"environ":1.649,"equality":2.062,"parfamCount":1,"rile":16.907,"staticRile":11.64,"avgVote":31.34},{"partyname":"Homeland Union","parfamName":"CON","yearIndex":2000,"culture":1.994,"environ":6.045,"equality":1.093,"parfamCount":1,"rile":7.653,"staticRile":11.64,"avgVote":8.622},{"partyname":"Homeland Union","parfamName":"CON","yearIndex":2004,"culture":1.383,"environ":0,"equality":3.953,"parfamCount":1,"rile":27.273000000000003,"staticRile":11.64,"avgVote":14.754}]},{"partyname":"Homeland Union - Lithuanian Christian Democrats","data":[{"partyname":"Homeland Union - Lithuanian Christian Democrats","parfamName":"CON","yearIndex":2008,"culture":6.283,"environ":1.307,"equality":1.4580000000000002,"parfamCount":1,"rile":19.879,"staticRile":11.64,"avgVote":19.715},{"partyname":"Homeland Union - Lithuanian Christian Democrats","parfamName":"CON","yearIndex":2012,"culture":4.46,"environ":4.915,"equality":1.278,"parfamCount":1,"rile":14.347,"staticRile":11.64,"avgVote":15.745},{"partyname":"Homeland Union - Lithuanian Christian Democrats","parfamName":"CON","yearIndex":2016,"culture":3.466,"environ":3.776,"equality":9.392999999999999,"parfamCount":1,"rile":4.302,"staticRile":11.64,"avgVote":22.629}]},{"partyname":"Labour Party","data":[{"partyname":"Labour Party","parfamName":"LIB","yearIndex":2004,"culture":3.158,"environ":4.211,"equality":0,"parfamCount":1,"rile":13.684,"staticRile":4.61,"avgVote":28.439},{"partyname":"Labour Party","parfamName":"LIB","yearIndex":2012,"culture":7.108000000000001,"environ":5.8820000000000014,"equality":2.819,"parfamCount":1,"rile":-24.02,"staticRile":4.61,"avgVote":20.694000000000006},{"partyname":"Labour Party","parfamName":"LIB","yearIndex":2016,"culture":8.120000000000001,"environ":6.785,"equality":1.891,"parfamCount":1,"rile":-20.245,"staticRile":4.61,"avgVote":4.883}]},{"partyname":"Liberal Movement","data":[{"partyname":"Liberal Movement","parfamName":"LIB","yearIndex":2008,"culture":2.439,"environ":2.439,"equality":1.22,"parfamCount":1,"rile":-0.61,"staticRile":4.61,"avgVote":5.73},{"partyname":"Liberal Movement","parfamName":"LIB","yearIndex":2012,"culture":6.227,"environ":4.029,"equality":3.48,"parfamCount":1,"rile":6.777,"staticRile":4.61,"avgVote":8.952999999999998},{"partyname":"Liberal Movement","parfamName":"LIB","yearIndex":2016,"culture":5.502000000000002,"environ":6.044,"equality":5.711,"parfamCount":1,"rile":6.336,"staticRile":4.61,"avgVote":9.449}]},{"partyname":"Liberal and Centre Union","data":[{"partyname":"Liberal and Centre Union","parfamName":"LIB","yearIndex":2004,"culture":4.627,"environ":3.342,"equality":2.571,"parfamCount":1,"rile":5.141,"staticRile":4.61,"avgVote":9.189},{"partyname":"Liberal and Centre Union","parfamName":"LIB","yearIndex":2008,"culture":9.589,"environ":2.511,"equality":1.37,"parfamCount":1,"rile":5.251,"staticRile":4.61,"avgVote":5.343}]},{"partyname":"Lithuanian Centre Union","data":[{"partyname":"Lithuanian Centre Union","parfamName":"LIB","yearIndex":1996,"culture":4.066,"environ":4.066,"equality":1.355,"parfamCount":1,"rile":1.6569999999999998,"staticRile":4.61,"avgVote":8.672},{"partyname":"Lithuanian Centre Union","parfamName":"LIB","yearIndex":2000,"culture":4.301,"environ":3.2260000000000004,"equality":1.6130000000000002,"parfamCount":1,"rile":-8.602,"staticRile":4.61,"avgVote":2.857}]},{"partyname":"Lithuanian Christian Democratic Party","data":[{"partyname":"Lithuanian Christian Democratic Party","parfamName":"CHR","yearIndex":1992,"culture":2.299,"environ":3.831,"equality":1.916,"parfamCount":1,"rile":10.345,"staticRile":6.13,"avgVote":0},{"partyname":"Lithuanian Christian Democratic Party","parfamName":"CHR","yearIndex":1996,"culture":1.806,"environ":2.917,"equality":1.944,"parfamCount":1,"rile":10.417,"staticRile":6.13,"avgVote":10.425999999999998},{"partyname":"Lithuanian Christian Democratic Party","parfamName":"CHR","yearIndex":2000,"culture":3.427,"environ":7.372999999999998,"equality":3.011,"parfamCount":1,"rile":6.231,"staticRile":6.13,"avgVote":3.074}]},{"partyname":"Lithuanian Christian Democratic Party Coalition","data":[{"partyname":"Lithuanian Christian Democratic Party Coalition","parfamName":"CHR","yearIndex":1992,"culture":3.626,"environ":1.986,"equality":0.639,"parfamCount":1,"rile":17.701,"staticRile":6.13,"avgVote":12.61}]},{"partyname":"Lithuanian Democratic Labour Party","data":[{"partyname":"Lithuanian Democratic Labour Party","parfamName":"LEF","yearIndex":1992,"culture":3.39,"environ":1.695,"equality":1.695,"parfamCount":1,"rile":28.814,"staticRile":-23.66,"avgVote":43.976000000000006},{"partyname":"Lithuanian Democratic Labour Party","parfamName":"LEF","yearIndex":1996,"culture":1.596,"environ":0,"equality":2.394,"parfamCount":1,"rile":-0.266,"staticRile":-23.66,"avgVote":10.011}]},{"partyname":"Lithuanian Democratic Party","data":[{"partyname":"Lithuanian Democratic Party","parfamName":"CON","yearIndex":1992,"culture":2.128,"environ":2.128,"equality":0,"parfamCount":1,"rile":23.404,"staticRile":11.64,"avgVote":0},{"partyname":"Lithuanian Democratic Party","parfamName":"CON","yearIndex":1996,"culture":5.34,"environ":0.971,"equality":2.9130000000000003,"parfamCount":1,"rile":-11.165,"staticRile":11.64,"avgVote":0}]},{"partyname":"Lithuanian Liberal Union","data":[{"partyname":"Lithuanian Liberal Union","parfamName":"LIB","yearIndex":2000,"culture":4.971,"environ":1.901,"equality":0.585,"parfamCount":1,"rile":5.702000000000001,"staticRile":4.61,"avgVote":17.252}]},{"partyname":"Lithuanian National Union","data":[{"partyname":"Lithuanian National Union","parfamName":"NAT","yearIndex":1992,"culture":0.73,"environ":5.109,"equality":0.73,"parfamCount":1,"rile":37.956,"staticRile":10.25,"avgVote":1.986}]},{"partyname":"Lithuanian Peasant and Green Union","data":[{"partyname":"Lithuanian Peasant and Green Union","parfamName":"AGR","yearIndex":2012,"culture":5.405,"environ":25.483,"equality":3.475,"parfamCount":1,"rile":-11.969,"staticRile":1.01,"avgVote":4.05},{"partyname":"Lithuanian Peasant and Green Union","parfamName":"AGR","yearIndex":2016,"culture":3.681,"environ":10.348,"equality":9.857000000000001,"parfamCount":1,"rile":-9.775,"staticRile":1.01,"avgVote":22.452}]},{"partyname":"Lithuanian Peasants Party","data":[{"partyname":"Lithuanian Peasants Party","parfamName":"AGR","yearIndex":2000,"culture":2.2030000000000003,"environ":4.405,"equality":2.643,"parfamCount":1,"rile":-5.5070000000000014,"staticRile":1.01,"avgVote":4.081}]},{"partyname":"Lithuanian Polish Union","data":[{"partyname":"Lithuanian Polish Union","parfamName":"ETH","yearIndex":1992,"culture":0,"environ":2.174,"equality":2.174,"parfamCount":1,"rile":-1.087,"staticRile":-9.04,"avgVote":2.14}]},{"partyname":"Lithuanian Social Democratic Party","data":[{"partyname":"Lithuanian Social Democratic Party","parfamName":"SOC","yearIndex":1992,"culture":1.222,"environ":2.445,"equality":1.4509999999999998,"parfamCount":1,"rile":0.993,"staticRile":-14,"avgVote":6.047999999999999},{"partyname":"Lithuanian Social Democratic Party","parfamName":"SOC","yearIndex":1996,"culture":2.487,"environ":1.954,"equality":3.02,"parfamCount":1,"rile":-9.325,"staticRile":-14,"avgVote":6.944},{"partyname":"Lithuanian Social Democratic Party","parfamName":"SOC","yearIndex":2008,"culture":4.0939999999999985,"environ":2.283,"equality":6.299,"parfamCount":1,"rile":-7.402,"staticRile":-14,"avgVote":11.716},{"partyname":"Lithuanian Social Democratic Party","parfamName":"SOC","yearIndex":2012,"culture":6.667000000000002,"environ":6.592000000000001,"equality":6.217000000000001,"parfamCount":1,"rile":-10.412,"staticRile":-14,"avgVote":19.176},{"partyname":"Lithuanian Social Democratic Party","parfamName":"SOC","yearIndex":2016,"culture":1.255,"environ":4.812,"equality":8.577,"parfamCount":1,"rile":-21.757,"staticRile":-14,"avgVote":15.038}]},{"partyname":"Lithuanian Union of Political Prisoners and Deportees","data":[{"partyname":"Lithuanian Union of Political Prisoners and Deportees","parfamName":"SIP","yearIndex":1992,"culture":6.452000000000001,"environ":0,"equality":0,"parfamCount":1,"rile":19.355,"staticRile":3.36,"avgVote":0}]},{"partyname":"National Resurrection Party","data":[{"partyname":"National Resurrection Party","parfamName":"CON","yearIndex":2008,"culture":4.58,"environ":3.053,"equality":3.053,"parfamCount":1,"rile":11.45,"staticRile":11.64,"avgVote":15.091}]},{"partyname":"New Union (Social Liberals)","data":[{"partyname":"New Union (Social Liberals)","parfamName":"LIB","yearIndex":2000,"culture":3.1830000000000003,"environ":5.159,"equality":1.6469999999999998,"parfamCount":1,"rile":-5.379,"staticRile":4.61,"avgVote":19.636}]},{"partyname":"Order and Justice","data":[{"partyname":"Order and Justice","parfamName":"NAT","yearIndex":2008,"culture":2.825,"environ":0,"equality":3.107,"parfamCount":1,"rile":9.04,"staticRile":10.25,"avgVote":12.677},{"partyname":"Order and Justice","parfamName":"NAT","yearIndex":2012,"culture":0,"environ":2.273,"equality":3.896,"parfamCount":1,"rile":2.597,"staticRile":10.25,"avgVote":7.631},{"partyname":"Order and Justice","parfamName":"NAT","yearIndex":2016,"culture":5.409,"environ":0.6930000000000001,"equality":6.103,"parfamCount":1,"rile":-12.205,"staticRile":10.25,"avgVote":5.555}]},{"partyname":"Sajudis Coalition","data":[{"partyname":"Sajudis Coalition","parfamName":"LIB","yearIndex":1992,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":36.508,"staticRile":4.61,"avgVote":21.172}]},{"partyname":"The Way of Courage","data":[{"partyname":"The Way of Courage","parfamName":"SIP","yearIndex":2012,"culture":4.052,"environ":2.026,"equality":4.2360000000000015,"parfamCount":1,"rile":-5.525,"staticRile":3.36,"avgVote":8.342}]},{"partyname":"Union of Peasants and New Democracy Party","data":[{"partyname":"Union of Peasants and New Democracy Party","parfamName":"AGR","yearIndex":2004,"culture":5.153,"environ":3.064,"equality":1.393,"parfamCount":1,"rile":-9.749,"staticRile":1.01,"avgVote":6.600000000000001}]},{"partyname":"Working for Lithuania","data":[{"partyname":"Working for Lithuania","parfamName":"SOC","yearIndex":2004,"culture":6.752999999999999,"environ":6.104,"equality":3.117,"parfamCount":1,"rile":-14.286,"staticRile":-14,"avgVote":20.646}]}]
+[
+  {
+    "partyname": "A. Brazauskas Social Democratic Coalition",
+    "data": [
+      {
+        "partyname": "A. Brazauskas Social Democratic Coalition",
+        "parfamName": "SOC",
+        "yearIndex": 2000,
+        "culture": 8.234,
+        "environ": 5.728,
+        "equality": 5.012,
+        "parfamCount": 1,
+        "rile": -9.068999999999999,
+        "staticRile": -14,
+        "avgVote": 31.082
+      }
+    ]
+  },
+  {
+    "partyname": "Centre Movement of Lithuania",
+    "data": [
+      {
+        "partyname": "Centre Movement of Lithuania",
+        "parfamName": "LIB",
+        "yearIndex": 1992,
+        "culture": 2.985,
+        "environ": 8.209,
+        "equality": 2.239,
+        "parfamCount": 1,
+        "rile": 6.716,
+        "staticRile": 4.61,
+        "avgVote": 2.524
+      }
+    ]
+  },
+  {
+    "partyname": "Coalition Labour Party and Youth",
+    "data": [
+      {
+        "partyname": "Coalition Labour Party and Youth",
+        "parfamName": "LIB",
+        "yearIndex": 2008,
+        "culture": 15.106,
+        "environ": 2.417,
+        "equality": 2.417,
+        "parfamCount": 1,
+        "rile": -3.323,
+        "staticRile": 4.61,
+        "avgVote": 8.987
+      }
+    ]
+  },
+  {
+    "partyname": "Coalition of Rolandas Paksas ‘For Order and Justice'",
+    "data": [
+      {
+        "partyname": "Coalition of Rolandas Paksas ‘For Order and Justice'",
+        "parfamName": "LIB",
+        "yearIndex": 2004,
+        "culture": 3.158,
+        "environ": 0,
+        "equality": 4.912,
+        "parfamCount": 1,
+        "rile": -2.807,
+        "staticRile": 4.61,
+        "avgVote": 11.358
+      }
+    ]
+  },
+  {
+    "partyname": "Election Action of Lithuania’s Poles",
+    "data": [
+      {
+        "partyname": "Election Action of Lithuania’s Poles",
+        "parfamName": "ETH",
+        "yearIndex": 2000,
+        "culture": 5.556,
+        "environ": 1.587,
+        "equality": 1.587,
+        "parfamCount": 1,
+        "rile": -1.587,
+        "staticRile": -9.04,
+        "avgVote": 1.947
+      },
+      {
+        "partyname": "Election Action of Lithuania’s Poles",
+        "parfamName": "ETH",
+        "yearIndex": 2012,
+        "culture": 8.777000000000001,
+        "environ": 7.8370000000000015,
+        "equality": 4.3889999999999985,
+        "parfamCount": 1,
+        "rile": 5.643,
+        "staticRile": -9.04,
+        "avgVote": 6.085
+      },
+      {
+        "partyname": "Election Action of Lithuania’s Poles",
+        "parfamName": "ETH",
+        "yearIndex": 2016,
+        "culture": 8.766,
+        "environ": 2.273,
+        "equality": 8.766,
+        "parfamCount": 1,
+        "rile": -15.26,
+        "staticRile": -9.04,
+        "avgVote": 5.718
+      }
+    ]
+  },
+  {
+    "partyname": "Homeland Union",
+    "data": [
+      {
+        "partyname": "Homeland Union",
+        "parfamName": "CON",
+        "yearIndex": 1996,
+        "culture": 2.062,
+        "environ": 1.649,
+        "equality": 2.062,
+        "parfamCount": 1,
+        "rile": 16.907,
+        "staticRile": 11.64,
+        "avgVote": 31.34
+      },
+      {
+        "partyname": "Homeland Union",
+        "parfamName": "CON",
+        "yearIndex": 2000,
+        "culture": 1.994,
+        "environ": 6.045,
+        "equality": 1.093,
+        "parfamCount": 1,
+        "rile": 7.653,
+        "staticRile": 11.64,
+        "avgVote": 8.622
+      },
+      {
+        "partyname": "Homeland Union",
+        "parfamName": "CON",
+        "yearIndex": 2004,
+        "culture": 1.383,
+        "environ": 0,
+        "equality": 3.953,
+        "parfamCount": 1,
+        "rile": 27.273000000000003,
+        "staticRile": 11.64,
+        "avgVote": 14.754
+      }
+    ]
+  },
+  {
+    "partyname": "Homeland Union - Lithuanian Christian Democrats",
+    "data": [
+      {
+        "partyname": "Homeland Union - Lithuanian Christian Democrats",
+        "parfamName": "CON",
+        "yearIndex": 2008,
+        "culture": 6.283,
+        "environ": 1.307,
+        "equality": 1.4580000000000002,
+        "parfamCount": 1,
+        "rile": 19.879,
+        "staticRile": 11.64,
+        "avgVote": 19.715
+      },
+      {
+        "partyname": "Homeland Union - Lithuanian Christian Democrats",
+        "parfamName": "CON",
+        "yearIndex": 2012,
+        "culture": 4.46,
+        "environ": 4.915,
+        "equality": 1.278,
+        "parfamCount": 1,
+        "rile": 14.347,
+        "staticRile": 11.64,
+        "avgVote": 15.745
+      },
+      {
+        "partyname": "Homeland Union - Lithuanian Christian Democrats",
+        "parfamName": "CON",
+        "yearIndex": 2016,
+        "culture": 3.466,
+        "environ": 3.776,
+        "equality": 9.392999999999999,
+        "parfamCount": 1,
+        "rile": 4.302,
+        "staticRile": 11.64,
+        "avgVote": 22.629
+      }
+    ]
+  },
+  {
+    "partyname": "Labour Party",
+    "data": [
+      {
+        "partyname": "Labour Party",
+        "parfamName": "LIB",
+        "yearIndex": 2004,
+        "culture": 3.158,
+        "environ": 4.211,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 13.684,
+        "staticRile": 4.61,
+        "avgVote": 28.439
+      },
+      {
+        "partyname": "Labour Party",
+        "parfamName": "LIB",
+        "yearIndex": 2012,
+        "culture": 7.108000000000001,
+        "environ": 5.8820000000000014,
+        "equality": 2.819,
+        "parfamCount": 1,
+        "rile": -24.02,
+        "staticRile": 4.61,
+        "avgVote": 20.694000000000006
+      },
+      {
+        "partyname": "Labour Party",
+        "parfamName": "LIB",
+        "yearIndex": 2016,
+        "culture": 8.120000000000001,
+        "environ": 6.785,
+        "equality": 1.891,
+        "parfamCount": 1,
+        "rile": -20.245,
+        "staticRile": 4.61,
+        "avgVote": 4.883
+      }
+    ]
+  },
+  {
+    "partyname": "Liberal Movement",
+    "data": [
+      {
+        "partyname": "Liberal Movement",
+        "parfamName": "LIB",
+        "yearIndex": 2008,
+        "culture": 2.439,
+        "environ": 2.439,
+        "equality": 1.22,
+        "parfamCount": 1,
+        "rile": -0.61,
+        "staticRile": 4.61,
+        "avgVote": 5.73
+      },
+      {
+        "partyname": "Liberal Movement",
+        "parfamName": "LIB",
+        "yearIndex": 2012,
+        "culture": 6.227,
+        "environ": 4.029,
+        "equality": 3.48,
+        "parfamCount": 1,
+        "rile": 6.777,
+        "staticRile": 4.61,
+        "avgVote": 8.952999999999998
+      },
+      {
+        "partyname": "Liberal Movement",
+        "parfamName": "LIB",
+        "yearIndex": 2016,
+        "culture": 5.502000000000002,
+        "environ": 6.044,
+        "equality": 5.711,
+        "parfamCount": 1,
+        "rile": 6.336,
+        "staticRile": 4.61,
+        "avgVote": 9.449
+      }
+    ]
+  },
+  {
+    "partyname": "Liberal and Centre Union",
+    "data": [
+      {
+        "partyname": "Liberal and Centre Union",
+        "parfamName": "LIB",
+        "yearIndex": 2004,
+        "culture": 4.627,
+        "environ": 3.342,
+        "equality": 2.571,
+        "parfamCount": 1,
+        "rile": 5.141,
+        "staticRile": 4.61,
+        "avgVote": 9.189
+      },
+      {
+        "partyname": "Liberal and Centre Union",
+        "parfamName": "LIB",
+        "yearIndex": 2008,
+        "culture": 9.589,
+        "environ": 2.511,
+        "equality": 1.37,
+        "parfamCount": 1,
+        "rile": 5.251,
+        "staticRile": 4.61,
+        "avgVote": 5.343
+      }
+    ]
+  },
+  {
+    "partyname": "Lithuanian Centre Union",
+    "data": [
+      {
+        "partyname": "Lithuanian Centre Union",
+        "parfamName": "LIB",
+        "yearIndex": 1996,
+        "culture": 4.066,
+        "environ": 4.066,
+        "equality": 1.355,
+        "parfamCount": 1,
+        "rile": 1.6569999999999998,
+        "staticRile": 4.61,
+        "avgVote": 8.672
+      },
+      {
+        "partyname": "Lithuanian Centre Union",
+        "parfamName": "LIB",
+        "yearIndex": 2000,
+        "culture": 4.301,
+        "environ": 3.2260000000000004,
+        "equality": 1.6130000000000002,
+        "parfamCount": 1,
+        "rile": -8.602,
+        "staticRile": 4.61,
+        "avgVote": 2.857
+      }
+    ]
+  },
+  {
+    "partyname": "Lithuanian Christian Democratic Party",
+    "data": [
+      {
+        "partyname": "Lithuanian Christian Democratic Party",
+        "parfamName": "CHR",
+        "yearIndex": 1992,
+        "culture": 2.299,
+        "environ": 3.831,
+        "equality": 1.916,
+        "parfamCount": 1,
+        "rile": 10.345,
+        "staticRile": 6.13,
+        "avgVote": 0
+      },
+      {
+        "partyname": "Lithuanian Christian Democratic Party",
+        "parfamName": "CHR",
+        "yearIndex": 1996,
+        "culture": 1.806,
+        "environ": 2.917,
+        "equality": 1.944,
+        "parfamCount": 1,
+        "rile": 10.417,
+        "staticRile": 6.13,
+        "avgVote": 10.425999999999998
+      },
+      {
+        "partyname": "Lithuanian Christian Democratic Party",
+        "parfamName": "CHR",
+        "yearIndex": 2000,
+        "culture": 3.427,
+        "environ": 7.372999999999998,
+        "equality": 3.011,
+        "parfamCount": 1,
+        "rile": 6.231,
+        "staticRile": 6.13,
+        "avgVote": 3.074
+      }
+    ]
+  },
+  {
+    "partyname": "Lithuanian Christian Democratic Party Coalition",
+    "data": [
+      {
+        "partyname": "Lithuanian Christian Democratic Party Coalition",
+        "parfamName": "CHR",
+        "yearIndex": 1992,
+        "culture": 3.626,
+        "environ": 1.986,
+        "equality": 0.639,
+        "parfamCount": 1,
+        "rile": 17.701,
+        "staticRile": 6.13,
+        "avgVote": 12.61
+      }
+    ]
+  },
+  {
+    "partyname": "Lithuanian Democratic Labour Party",
+    "data": [
+      {
+        "partyname": "Lithuanian Democratic Labour Party",
+        "parfamName": "LEF",
+        "yearIndex": 1992,
+        "culture": 3.39,
+        "environ": 1.695,
+        "equality": 1.695,
+        "parfamCount": 1,
+        "rile": 28.814,
+        "staticRile": -23.66,
+        "avgVote": 43.976000000000006
+      },
+      {
+        "partyname": "Lithuanian Democratic Labour Party",
+        "parfamName": "LEF",
+        "yearIndex": 1996,
+        "culture": 1.596,
+        "environ": 0,
+        "equality": 2.394,
+        "parfamCount": 1,
+        "rile": -0.266,
+        "staticRile": -23.66,
+        "avgVote": 10.011
+      }
+    ]
+  },
+  {
+    "partyname": "Lithuanian Democratic Party",
+    "data": [
+      {
+        "partyname": "Lithuanian Democratic Party",
+        "parfamName": "CON",
+        "yearIndex": 1992,
+        "culture": 2.128,
+        "environ": 2.128,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 23.404,
+        "staticRile": 11.64,
+        "avgVote": 0
+      },
+      {
+        "partyname": "Lithuanian Democratic Party",
+        "parfamName": "CON",
+        "yearIndex": 1996,
+        "culture": 5.34,
+        "environ": 0.971,
+        "equality": 2.9130000000000003,
+        "parfamCount": 1,
+        "rile": -11.165,
+        "staticRile": 11.64,
+        "avgVote": 0
+      }
+    ]
+  },
+  {
+    "partyname": "Lithuanian Liberal Union",
+    "data": [
+      {
+        "partyname": "Lithuanian Liberal Union",
+        "parfamName": "LIB",
+        "yearIndex": 2000,
+        "culture": 4.971,
+        "environ": 1.901,
+        "equality": 0.585,
+        "parfamCount": 1,
+        "rile": 5.702000000000001,
+        "staticRile": 4.61,
+        "avgVote": 17.252
+      }
+    ]
+  },
+  {
+    "partyname": "Lithuanian National Union",
+    "data": [
+      {
+        "partyname": "Lithuanian National Union",
+        "parfamName": "NAT",
+        "yearIndex": 1992,
+        "culture": 0.73,
+        "environ": 5.109,
+        "equality": 0.73,
+        "parfamCount": 1,
+        "rile": 37.956,
+        "staticRile": 10.25,
+        "avgVote": 1.986
+      }
+    ]
+  },
+  {
+    "partyname": "Lithuanian Peasant and Green Union",
+    "data": [
+      {
+        "partyname": "Lithuanian Peasant and Green Union",
+        "parfamName": "AGR",
+        "yearIndex": 2012,
+        "culture": 5.405,
+        "environ": 25.483,
+        "equality": 3.475,
+        "parfamCount": 1,
+        "rile": -11.969,
+        "staticRile": 1.01,
+        "avgVote": 4.05
+      },
+      {
+        "partyname": "Lithuanian Peasant and Green Union",
+        "parfamName": "AGR",
+        "yearIndex": 2016,
+        "culture": 3.681,
+        "environ": 10.348,
+        "equality": 9.857000000000001,
+        "parfamCount": 1,
+        "rile": -9.775,
+        "staticRile": 1.01,
+        "avgVote": 22.452
+      }
+    ]
+  },
+  {
+    "partyname": "Lithuanian Peasants Party",
+    "data": [
+      {
+        "partyname": "Lithuanian Peasants Party",
+        "parfamName": "AGR",
+        "yearIndex": 2000,
+        "culture": 2.2030000000000003,
+        "environ": 4.405,
+        "equality": 2.643,
+        "parfamCount": 1,
+        "rile": -5.5070000000000014,
+        "staticRile": 1.01,
+        "avgVote": 4.081
+      }
+    ]
+  },
+  {
+    "partyname": "Lithuanian Polish Union",
+    "data": [
+      {
+        "partyname": "Lithuanian Polish Union",
+        "parfamName": "ETH",
+        "yearIndex": 1992,
+        "culture": 0,
+        "environ": 2.174,
+        "equality": 2.174,
+        "parfamCount": 1,
+        "rile": -1.087,
+        "staticRile": -9.04,
+        "avgVote": 2.14
+      }
+    ]
+  },
+  {
+    "partyname": "Lithuanian Social Democratic Party",
+    "data": [
+      {
+        "partyname": "Lithuanian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1992,
+        "culture": 1.222,
+        "environ": 2.445,
+        "equality": 1.4509999999999998,
+        "parfamCount": 1,
+        "rile": 0.993,
+        "staticRile": -14,
+        "avgVote": 6.047999999999999
+      },
+      {
+        "partyname": "Lithuanian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1996,
+        "culture": 2.487,
+        "environ": 1.954,
+        "equality": 3.02,
+        "parfamCount": 1,
+        "rile": -9.325,
+        "staticRile": -14,
+        "avgVote": 6.944
+      },
+      {
+        "partyname": "Lithuanian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2008,
+        "culture": 4.0939999999999985,
+        "environ": 2.283,
+        "equality": 6.299,
+        "parfamCount": 1,
+        "rile": -7.402,
+        "staticRile": -14,
+        "avgVote": 11.716
+      },
+      {
+        "partyname": "Lithuanian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2012,
+        "culture": 6.667000000000002,
+        "environ": 6.592000000000001,
+        "equality": 6.217000000000001,
+        "parfamCount": 1,
+        "rile": -10.412,
+        "staticRile": -14,
+        "avgVote": 19.176
+      },
+      {
+        "partyname": "Lithuanian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2016,
+        "culture": 1.255,
+        "environ": 4.812,
+        "equality": 8.577,
+        "parfamCount": 1,
+        "rile": -21.757,
+        "staticRile": -14,
+        "avgVote": 15.038
+      }
+    ]
+  },
+  {
+    "partyname": "Lithuanian Union of Political Prisoners and Deportees",
+    "data": [
+      {
+        "partyname": "Lithuanian Union of Political Prisoners and Deportees",
+        "parfamName": "SIP",
+        "yearIndex": 1992,
+        "culture": 6.452000000000001,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 19.355,
+        "staticRile": 3.36,
+        "avgVote": 0
+      }
+    ]
+  },
+  {
+    "partyname": "National Resurrection Party",
+    "data": [
+      {
+        "partyname": "National Resurrection Party",
+        "parfamName": "CON",
+        "yearIndex": 2008,
+        "culture": 4.58,
+        "environ": 3.053,
+        "equality": 3.053,
+        "parfamCount": 1,
+        "rile": 11.45,
+        "staticRile": 11.64,
+        "avgVote": 15.091
+      }
+    ]
+  },
+  {
+    "partyname": "New Union (Social Liberals)",
+    "data": [
+      {
+        "partyname": "New Union (Social Liberals)",
+        "parfamName": "LIB",
+        "yearIndex": 2000,
+        "culture": 3.1830000000000003,
+        "environ": 5.159,
+        "equality": 1.6469999999999998,
+        "parfamCount": 1,
+        "rile": -5.379,
+        "staticRile": 4.61,
+        "avgVote": 19.636
+      }
+    ]
+  },
+  {
+    "partyname": "Order and Justice",
+    "data": [
+      {
+        "partyname": "Order and Justice",
+        "parfamName": "NAT",
+        "yearIndex": 2008,
+        "culture": 2.825,
+        "environ": 0,
+        "equality": 3.107,
+        "parfamCount": 1,
+        "rile": 9.04,
+        "staticRile": 10.25,
+        "avgVote": 12.677
+      },
+      {
+        "partyname": "Order and Justice",
+        "parfamName": "NAT",
+        "yearIndex": 2012,
+        "culture": 0,
+        "environ": 2.273,
+        "equality": 3.896,
+        "parfamCount": 1,
+        "rile": 2.597,
+        "staticRile": 10.25,
+        "avgVote": 7.631
+      },
+      {
+        "partyname": "Order and Justice",
+        "parfamName": "NAT",
+        "yearIndex": 2016,
+        "culture": 5.409,
+        "environ": 0.6930000000000001,
+        "equality": 6.103,
+        "parfamCount": 1,
+        "rile": -12.205,
+        "staticRile": 10.25,
+        "avgVote": 5.555
+      }
+    ]
+  },
+  {
+    "partyname": "Sajudis Coalition",
+    "data": [
+      {
+        "partyname": "Sajudis Coalition",
+        "parfamName": "LIB",
+        "yearIndex": 1992,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 36.508,
+        "staticRile": 4.61,
+        "avgVote": 21.172
+      }
+    ]
+  },
+  {
+    "partyname": "The Way of Courage",
+    "data": [
+      {
+        "partyname": "The Way of Courage",
+        "parfamName": "SIP",
+        "yearIndex": 2012,
+        "culture": 4.052,
+        "environ": 2.026,
+        "equality": 4.2360000000000015,
+        "parfamCount": 1,
+        "rile": -5.525,
+        "staticRile": 3.36,
+        "avgVote": 8.342
+      }
+    ]
+  },
+  {
+    "partyname": "Union of Peasants and New Democracy Party",
+    "data": [
+      {
+        "partyname": "Union of Peasants and New Democracy Party",
+        "parfamName": "AGR",
+        "yearIndex": 2004,
+        "culture": 5.153,
+        "environ": 3.064,
+        "equality": 1.393,
+        "parfamCount": 1,
+        "rile": -9.749,
+        "staticRile": 1.01,
+        "avgVote": 6.600000000000001
+      }
+    ]
+  },
+  {
+    "partyname": "Working for Lithuania",
+    "data": [
+      {
+        "partyname": "Working for Lithuania",
+        "parfamName": "SOC",
+        "yearIndex": 2004,
+        "culture": 6.752999999999999,
+        "environ": 6.104,
+        "equality": 3.117,
+        "parfamCount": 1,
+        "rile": -14.286,
+        "staticRile": -14,
+        "avgVote": 20.646
+      }
+    ]
+  }
+]

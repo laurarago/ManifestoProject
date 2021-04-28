@@ -18,8 +18,6 @@
 
 
 	let countries = [
-		{ Country: 'Spain', Index : 0},
-		{ Country: 'Italy', Index : 1},
 		{ Country: 'Austria', Index : 2},
 		{ Country: 'Belgium', Index : 3},
 		{ Country: 'Bulgaria', Index : 4},
@@ -28,7 +26,26 @@
 		{ Country: 'Czech Republic', Index : 7},
 		{ Country: 'Denmark', Index : 8},
 		{ Country: 'Estonia', Index : 9},
-		{ Country: 'Finland', Index : 10}
+		{ Country: 'Finland', Index : 10},
+		{ Country: 'Germany', Index : 12},
+		{ Country: 'Greece', Index : 13},
+		{ Country: 'Hungary', Index : 14},
+		{ Country: 'Ireland', Index : 15},
+		{ Country: 'Italy', Index : 1},
+		{ Country: 'Latvia', Index : 16},
+		{ Country: 'Lithuania', Index : 17},
+		{ Country: 'Luxembourg', Index : 18},
+		{ Country: 'Malta', Index : 19},
+		{ Country: 'Netherlands', Index : 20},
+		{ Country: 'Poland', Index : 21},
+		{ Country: 'Portugal', Index : 22},
+		{ Country: 'Romania', Index : 23},
+		{ Country: 'Slovakia', Index : 24},
+		{ Country: 'Slovenia', Index : 25},
+		{ Country: 'Spain', Index : 0},
+		{ Country: 'Sweden', Index : 26}
+
+
 
 	];
 	let selectedCountry = countries[0];

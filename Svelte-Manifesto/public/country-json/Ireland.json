@@ -1,1 +1,576 @@
-[{"partyname":"Anti-Austerity Alliance","data":[{"partyname":"Anti-Austerity Alliance","parfamName":"LEF","yearIndex":2016,"culture":0,"environ":3.084,"equality":20.705,"parfamCount":1,"rile":-32.159,"staticRile":-23.66,"avgVote":1.969}]},{"partyname":"Democratic Left Party","data":[{"partyname":"Democratic Left Party","parfamName":"LEF","yearIndex":1992,"culture":5.822,"environ":7.877000000000002,"equality":18.493,"parfamCount":1,"rile":-26.712,"staticRile":-23.66,"avgVote":2.78},{"partyname":"Democratic Left Party","parfamName":"LEF","yearIndex":1997,"culture":1.4780000000000002,"environ":4.926,"equality":23.153,"parfamCount":1,"rile":-12.315,"staticRile":-23.66,"avgVote":2.51}]},{"partyname":"Family of the Irish","data":[{"partyname":"Family of the Irish","parfamName":"CHR","yearIndex":1992,"culture":0.5710000000000001,"environ":0,"equality":3.429,"parfamCount":1,"rile":9.714,"staticRile":6.13,"avgVote":24.472},{"partyname":"Family of the Irish","parfamName":"CHR","yearIndex":1997,"culture":0.87,"environ":6.646,"equality":3.639,"parfamCount":1,"rile":8.94,"staticRile":6.13,"avgVote":27.945},{"partyname":"Family of the Irish","parfamName":"CHR","yearIndex":2002,"culture":0,"environ":3.934,"equality":7.246,"parfamCount":1,"rile":-9.317,"staticRile":6.13,"avgVote":22.478},{"partyname":"Family of the Irish","parfamName":"CHR","yearIndex":2007,"culture":3.5780000000000003,"environ":2.576,"equality":1.813,"parfamCount":1,"rile":-11.26,"staticRile":6.13,"avgVote":27.322},{"partyname":"Family of the Irish","parfamName":"CHR","yearIndex":2011,"culture":3.333,"environ":3.067,"equality":0.9329999999999999,"parfamCount":1,"rile":0.733,"staticRile":6.13,"avgVote":36.104},{"partyname":"Family of the Irish","parfamName":"CHR","yearIndex":2016,"culture":4.909,"environ":4.822,"equality":3.475,"parfamCount":1,"rile":-18.115,"staticRile":6.13,"avgVote":25.516}]},{"partyname":"Green Party","data":[{"partyname":"Green Party","parfamName":"ECO","yearIndex":1992,"culture":1.99,"environ":25.373,"equality":8.458,"parfamCount":1,"rile":-10.945,"staticRile":-13.65,"avgVote":1.398},{"partyname":"Green Party","parfamName":"ECO","yearIndex":1997,"culture":1.271,"environ":14.195,"equality":7.2029999999999985,"parfamCount":1,"rile":-14.195,"staticRile":-13.65,"avgVote":2.757},{"partyname":"Green Party","parfamName":"ECO","yearIndex":2002,"culture":7.572999999999999,"environ":7.961,"equality":8.932,"parfamCount":1,"rile":-30.485,"staticRile":-13.65,"avgVote":3.847},{"partyname":"Green Party","parfamName":"ECO","yearIndex":2007,"culture":2.124,"environ":7.11,"equality":4.801,"parfamCount":1,"rile":-20.129,"staticRile":-13.65,"avgVote":4.692},{"partyname":"Green Party","parfamName":"ECO","yearIndex":2011,"culture":4.174,"environ":15.789,"equality":3.63,"parfamCount":1,"rile":-14.882,"staticRile":-13.65,"avgVote":1.8},{"partyname":"Green Party","parfamName":"ECO","yearIndex":2016,"culture":2.7960000000000003,"environ":20.24,"equality":4.527,"parfamCount":1,"rile":-32.091,"staticRile":-13.65,"avgVote":2.719}]},{"partyname":"Independent Alliance","data":[{"partyname":"Independent Alliance","parfamName":"SIP","yearIndex":2016,"culture":0,"environ":0,"equality":8.219,"parfamCount":1,"rile":15.068,"staticRile":3.36,"avgVote":4.212}]},{"partyname":"Labour Party","data":[{"partyname":"Labour Party","parfamName":"SOC","yearIndex":1992,"culture":3.329,"environ":2.177,"equality":10.883,"parfamCount":1,"rile":-14.597,"staticRile":-14,"avgVote":19.307},{"partyname":"Labour Party","parfamName":"SOC","yearIndex":1997,"culture":2.205,"environ":6.103,"equality":16.41,"parfamCount":1,"rile":-5.949,"staticRile":-14,"avgVote":10.399},{"partyname":"Labour Party","parfamName":"SOC","yearIndex":2002,"culture":4.885,"environ":6.87,"equality":8.015,"parfamCount":1,"rile":-22.29,"staticRile":-14,"avgVote":10.772},{"partyname":"Labour Party","parfamName":"SOC","yearIndex":2007,"culture":5.011,"environ":3.714,"equality":5.414,"parfamCount":1,"rile":-18.837,"staticRile":-14,"avgVote":10.126},{"partyname":"Labour Party","parfamName":"SOC","yearIndex":2011,"culture":3.275,"environ":4.181,"equality":4.181,"parfamCount":1,"rile":-10.592,"staticRile":-14,"avgVote":19.447},{"partyname":"Labour Party","parfamName":"SOC","yearIndex":2016,"culture":2.9930000000000003,"environ":4.925,"equality":2.93,"parfamCount":1,"rile":-27.805,"staticRile":-14,"avgVote":6.606}]},{"partyname":"People Before Profit Alliance","data":[{"partyname":"People Before Profit Alliance","parfamName":"LEF","yearIndex":2016,"culture":3.274,"environ":6.845,"equality":8.631,"parfamCount":1,"rile":-47.917,"staticRile":-23.66,"avgVote":1.977}]},{"partyname":"Progressive Democrats","data":[{"partyname":"Progressive Democrats","parfamName":"LIB","yearIndex":1992,"culture":3.614,"environ":6.024,"equality":4.819,"parfamCount":1,"rile":19.277,"staticRile":4.61,"avgVote":4.684},{"partyname":"Progressive Democrats","parfamName":"LIB","yearIndex":1997,"culture":1.92,"environ":3.978,"equality":4.527,"parfamCount":1,"rile":19.616,"staticRile":4.61,"avgVote":4.682},{"partyname":"Progressive Democrats","parfamName":"LIB","yearIndex":2002,"culture":2.092,"environ":9.085,"equality":1.973,"parfamCount":1,"rile":-9.982000000000001,"staticRile":4.61,"avgVote":3.963},{"partyname":"Progressive Democrats","parfamName":"LIB","yearIndex":2007,"culture":5.182,"environ":2.303,"equality":1.919,"parfamCount":1,"rile":-6.862,"staticRile":4.61,"avgVote":2.73}]},{"partyname":"Social Democrats","data":[{"partyname":"Social Democrats","parfamName":"SOC","yearIndex":2016,"culture":3.888,"environ":4.982,"equality":6.561,"parfamCount":1,"rile":-32.806999999999995,"staticRile":-14,"avgVote":3.005}]},{"partyname":"Socialist Party","data":[{"partyname":"Socialist Party","parfamName":"LEF","yearIndex":2011,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":-16.901,"staticRile":-23.66,"avgVote":0}]},{"partyname":"Soldiers of Destiny","data":[{"partyname":"Soldiers of Destiny","parfamName":"CON","yearIndex":1992,"culture":3.977,"environ":2.273,"equality":4.545,"parfamCount":1,"rile":-3.409,"staticRile":11.64,"avgVote":39.113},{"partyname":"Soldiers of Destiny","parfamName":"CON","yearIndex":1997,"culture":2.955,"environ":7.433,"equality":5.355,"parfamCount":1,"rile":4.801,"staticRile":11.64,"avgVote":39.334},{"partyname":"Soldiers of Destiny","parfamName":"CON","yearIndex":2002,"culture":7.112,"environ":4.082,"equality":3.587,"parfamCount":1,"rile":-6.246,"staticRile":11.64,"avgVote":41.485},{"partyname":"Soldiers of Destiny","parfamName":"CON","yearIndex":2007,"culture":6.809,"environ":2.814,"equality":1.3159999999999998,"parfamCount":1,"rile":-9.759,"staticRile":11.64,"avgVote":41.56100000000001},{"partyname":"Soldiers of Destiny","parfamName":"CON","yearIndex":2011,"culture":1.994,"environ":0.307,"equality":0.613,"parfamCount":1,"rile":2.914,"staticRile":11.64,"avgVote":17.445999999999998},{"partyname":"Soldiers of Destiny","parfamName":"CON","yearIndex":2016,"culture":1.835,"environ":1.886,"equality":3.466,"parfamCount":1,"rile":-26.758000000000006,"staticRile":11.64,"avgVote":24.35}]},{"partyname":"United Left Alliance","data":[{"partyname":"United Left Alliance","parfamName":"LEF","yearIndex":2011,"culture":0,"environ":5.155,"equality":1.031,"parfamCount":1,"rile":-30.928,"staticRile":-23.66,"avgVote":2.7}]},{"partyname":"We Ourselves","data":[{"partyname":"We Ourselves","parfamName":"SIP","yearIndex":1997,"culture":4.963,"environ":1.82,"equality":15.219,"parfamCount":1,"rile":-26.137,"staticRile":3.36,"avgVote":2.55},{"partyname":"We Ourselves","parfamName":"SIP","yearIndex":2002,"culture":4.963,"environ":1.82,"equality":15.219,"parfamCount":1,"rile":-26.137,"staticRile":3.36,"avgVote":6.5139999999999985},{"partyname":"We Ourselves","parfamName":"SIP","yearIndex":2007,"culture":2.688,"environ":0.8959999999999999,"equality":8.124,"parfamCount":1,"rile":-12.664,"staticRile":3.36,"avgVote":6.942},{"partyname":"We Ourselves","parfamName":"SIP","yearIndex":2011,"culture":0.8200000000000001,"environ":0.6559999999999999,"equality":7.049,"parfamCount":1,"rile":-13.607,"staticRile":3.36,"avgVote":9.94},{"partyname":"We Ourselves","parfamName":"SIP","yearIndex":2016,"culture":1.275,"environ":3.4760000000000004,"equality":7.879,"parfamCount":1,"rile":-12.514,"staticRile":3.36,"avgVote":13.845999999999998}]},{"partyname":"Workers and Unemployment Action","data":[{"partyname":"Workers and Unemployment Action","parfamName":"LEF","yearIndex":2016,"culture":0,"environ":2.362,"equality":16.535,"parfamCount":1,"rile":-18.11,"staticRile":-23.66,"avgVote":0.349}]}]
+[
+  {
+    "partyname": "Anti-Austerity Alliance",
+    "data": [
+      {
+        "partyname": "Anti-Austerity Alliance",
+        "parfamName": "LEF",
+        "yearIndex": 2016,
+        "culture": 0,
+        "environ": 3.084,
+        "equality": 20.705,
+        "parfamCount": 1,
+        "rile": -32.159,
+        "staticRile": -23.66,
+        "avgVote": 1.969
+      }
+    ]
+  },
+  {
+    "partyname": "Democratic Left Party",
+    "data": [
+      {
+        "partyname": "Democratic Left Party",
+        "parfamName": "LEF",
+        "yearIndex": 1992,
+        "culture": 5.822,
+        "environ": 7.877000000000002,
+        "equality": 18.493,
+        "parfamCount": 1,
+        "rile": -26.712,
+        "staticRile": -23.66,
+        "avgVote": 2.78
+      },
+      {
+        "partyname": "Democratic Left Party",
+        "parfamName": "LEF",
+        "yearIndex": 1997,
+        "culture": 1.4780000000000002,
+        "environ": 4.926,
+        "equality": 23.153,
+        "parfamCount": 1,
+        "rile": -12.315,
+        "staticRile": -23.66,
+        "avgVote": 2.51
+      }
+    ]
+  },
+  {
+    "partyname": "Family of the Irish",
+    "data": [
+      {
+        "partyname": "Family of the Irish",
+        "parfamName": "CHR",
+        "yearIndex": 1992,
+        "culture": 0.5710000000000001,
+        "environ": 0,
+        "equality": 3.429,
+        "parfamCount": 1,
+        "rile": 9.714,
+        "staticRile": 6.13,
+        "avgVote": 24.472
+      },
+      {
+        "partyname": "Family of the Irish",
+        "parfamName": "CHR",
+        "yearIndex": 1997,
+        "culture": 0.87,
+        "environ": 6.646,
+        "equality": 3.639,
+        "parfamCount": 1,
+        "rile": 8.94,
+        "staticRile": 6.13,
+        "avgVote": 27.945
+      },
+      {
+        "partyname": "Family of the Irish",
+        "parfamName": "CHR",
+        "yearIndex": 2002,
+        "culture": 0,
+        "environ": 3.934,
+        "equality": 7.246,
+        "parfamCount": 1,
+        "rile": -9.317,
+        "staticRile": 6.13,
+        "avgVote": 22.478
+      },
+      {
+        "partyname": "Family of the Irish",
+        "parfamName": "CHR",
+        "yearIndex": 2007,
+        "culture": 3.5780000000000003,
+        "environ": 2.576,
+        "equality": 1.813,
+        "parfamCount": 1,
+        "rile": -11.26,
+        "staticRile": 6.13,
+        "avgVote": 27.322
+      },
+      {
+        "partyname": "Family of the Irish",
+        "parfamName": "CHR",
+        "yearIndex": 2011,
+        "culture": 3.333,
+        "environ": 3.067,
+        "equality": 0.9329999999999999,
+        "parfamCount": 1,
+        "rile": 0.733,
+        "staticRile": 6.13,
+        "avgVote": 36.104
+      },
+      {
+        "partyname": "Family of the Irish",
+        "parfamName": "CHR",
+        "yearIndex": 2016,
+        "culture": 4.909,
+        "environ": 4.822,
+        "equality": 3.475,
+        "parfamCount": 1,
+        "rile": -18.115,
+        "staticRile": 6.13,
+        "avgVote": 25.516
+      }
+    ]
+  },
+  {
+    "partyname": "Green Party",
+    "data": [
+      {
+        "partyname": "Green Party",
+        "parfamName": "ECO",
+        "yearIndex": 1992,
+        "culture": 1.99,
+        "environ": 25.373,
+        "equality": 8.458,
+        "parfamCount": 1,
+        "rile": -10.945,
+        "staticRile": -13.65,
+        "avgVote": 1.398
+      },
+      {
+        "partyname": "Green Party",
+        "parfamName": "ECO",
+        "yearIndex": 1997,
+        "culture": 1.271,
+        "environ": 14.195,
+        "equality": 7.2029999999999985,
+        "parfamCount": 1,
+        "rile": -14.195,
+        "staticRile": -13.65,
+        "avgVote": 2.757
+      },
+      {
+        "partyname": "Green Party",
+        "parfamName": "ECO",
+        "yearIndex": 2002,
+        "culture": 7.572999999999999,
+        "environ": 7.961,
+        "equality": 8.932,
+        "parfamCount": 1,
+        "rile": -30.485,
+        "staticRile": -13.65,
+        "avgVote": 3.847
+      },
+      {
+        "partyname": "Green Party",
+        "parfamName": "ECO",
+        "yearIndex": 2007,
+        "culture": 2.124,
+        "environ": 7.11,
+        "equality": 4.801,
+        "parfamCount": 1,
+        "rile": -20.129,
+        "staticRile": -13.65,
+        "avgVote": 4.692
+      },
+      {
+        "partyname": "Green Party",
+        "parfamName": "ECO",
+        "yearIndex": 2011,
+        "culture": 4.174,
+        "environ": 15.789,
+        "equality": 3.63,
+        "parfamCount": 1,
+        "rile": -14.882,
+        "staticRile": -13.65,
+        "avgVote": 1.8
+      },
+      {
+        "partyname": "Green Party",
+        "parfamName": "ECO",
+        "yearIndex": 2016,
+        "culture": 2.7960000000000003,
+        "environ": 20.24,
+        "equality": 4.527,
+        "parfamCount": 1,
+        "rile": -32.091,
+        "staticRile": -13.65,
+        "avgVote": 2.719
+      }
+    ]
+  },
+  {
+    "partyname": "Independent Alliance",
+    "data": [
+      {
+        "partyname": "Independent Alliance",
+        "parfamName": "SIP",
+        "yearIndex": 2016,
+        "culture": 0,
+        "environ": 0,
+        "equality": 8.219,
+        "parfamCount": 1,
+        "rile": 15.068,
+        "staticRile": 3.36,
+        "avgVote": 4.212
+      }
+    ]
+  },
+  {
+    "partyname": "Labour Party",
+    "data": [
+      {
+        "partyname": "Labour Party",
+        "parfamName": "SOC",
+        "yearIndex": 1992,
+        "culture": 3.329,
+        "environ": 2.177,
+        "equality": 10.883,
+        "parfamCount": 1,
+        "rile": -14.597,
+        "staticRile": -14,
+        "avgVote": 19.307
+      },
+      {
+        "partyname": "Labour Party",
+        "parfamName": "SOC",
+        "yearIndex": 1997,
+        "culture": 2.205,
+        "environ": 6.103,
+        "equality": 16.41,
+        "parfamCount": 1,
+        "rile": -5.949,
+        "staticRile": -14,
+        "avgVote": 10.399
+      },
+      {
+        "partyname": "Labour Party",
+        "parfamName": "SOC",
+        "yearIndex": 2002,
+        "culture": 4.885,
+        "environ": 6.87,
+        "equality": 8.015,
+        "parfamCount": 1,
+        "rile": -22.29,
+        "staticRile": -14,
+        "avgVote": 10.772
+      },
+      {
+        "partyname": "Labour Party",
+        "parfamName": "SOC",
+        "yearIndex": 2007,
+        "culture": 5.011,
+        "environ": 3.714,
+        "equality": 5.414,
+        "parfamCount": 1,
+        "rile": -18.837,
+        "staticRile": -14,
+        "avgVote": 10.126
+      },
+      {
+        "partyname": "Labour Party",
+        "parfamName": "SOC",
+        "yearIndex": 2011,
+        "culture": 3.275,
+        "environ": 4.181,
+        "equality": 4.181,
+        "parfamCount": 1,
+        "rile": -10.592,
+        "staticRile": -14,
+        "avgVote": 19.447
+      },
+      {
+        "partyname": "Labour Party",
+        "parfamName": "SOC",
+        "yearIndex": 2016,
+        "culture": 2.9930000000000003,
+        "environ": 4.925,
+        "equality": 2.93,
+        "parfamCount": 1,
+        "rile": -27.805,
+        "staticRile": -14,
+        "avgVote": 6.606
+      }
+    ]
+  },
+  {
+    "partyname": "People Before Profit Alliance",
+    "data": [
+      {
+        "partyname": "People Before Profit Alliance",
+        "parfamName": "LEF",
+        "yearIndex": 2016,
+        "culture": 3.274,
+        "environ": 6.845,
+        "equality": 8.631,
+        "parfamCount": 1,
+        "rile": -47.917,
+        "staticRile": -23.66,
+        "avgVote": 1.977
+      }
+    ]
+  },
+  {
+    "partyname": "Progressive Democrats",
+    "data": [
+      {
+        "partyname": "Progressive Democrats",
+        "parfamName": "LIB",
+        "yearIndex": 1992,
+        "culture": 3.614,
+        "environ": 6.024,
+        "equality": 4.819,
+        "parfamCount": 1,
+        "rile": 19.277,
+        "staticRile": 4.61,
+        "avgVote": 4.684
+      },
+      {
+        "partyname": "Progressive Democrats",
+        "parfamName": "LIB",
+        "yearIndex": 1997,
+        "culture": 1.92,
+        "environ": 3.978,
+        "equality": 4.527,
+        "parfamCount": 1,
+        "rile": 19.616,
+        "staticRile": 4.61,
+        "avgVote": 4.682
+      },
+      {
+        "partyname": "Progressive Democrats",
+        "parfamName": "LIB",
+        "yearIndex": 2002,
+        "culture": 2.092,
+        "environ": 9.085,
+        "equality": 1.973,
+        "parfamCount": 1,
+        "rile": -9.982000000000001,
+        "staticRile": 4.61,
+        "avgVote": 3.963
+      },
+      {
+        "partyname": "Progressive Democrats",
+        "parfamName": "LIB",
+        "yearIndex": 2007,
+        "culture": 5.182,
+        "environ": 2.303,
+        "equality": 1.919,
+        "parfamCount": 1,
+        "rile": -6.862,
+        "staticRile": 4.61,
+        "avgVote": 2.73
+      }
+    ]
+  },
+  {
+    "partyname": "Social Democrats",
+    "data": [
+      {
+        "partyname": "Social Democrats",
+        "parfamName": "SOC",
+        "yearIndex": 2016,
+        "culture": 3.888,
+        "environ": 4.982,
+        "equality": 6.561,
+        "parfamCount": 1,
+        "rile": -32.806999999999995,
+        "staticRile": -14,
+        "avgVote": 3.005
+      }
+    ]
+  },
+  {
+    "partyname": "Socialist Party",
+    "data": [
+      {
+        "partyname": "Socialist Party",
+        "parfamName": "LEF",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": -16.901,
+        "staticRile": -23.66,
+        "avgVote": 0
+      }
+    ]
+  },
+  {
+    "partyname": "Soldiers of Destiny",
+    "data": [
+      {
+        "partyname": "Soldiers of Destiny",
+        "parfamName": "CON",
+        "yearIndex": 1992,
+        "culture": 3.977,
+        "environ": 2.273,
+        "equality": 4.545,
+        "parfamCount": 1,
+        "rile": -3.409,
+        "staticRile": 11.64,
+        "avgVote": 39.113
+      },
+      {
+        "partyname": "Soldiers of Destiny",
+        "parfamName": "CON",
+        "yearIndex": 1997,
+        "culture": 2.955,
+        "environ": 7.433,
+        "equality": 5.355,
+        "parfamCount": 1,
+        "rile": 4.801,
+        "staticRile": 11.64,
+        "avgVote": 39.334
+      },
+      {
+        "partyname": "Soldiers of Destiny",
+        "parfamName": "CON",
+        "yearIndex": 2002,
+        "culture": 7.112,
+        "environ": 4.082,
+        "equality": 3.587,
+        "parfamCount": 1,
+        "rile": -6.246,
+        "staticRile": 11.64,
+        "avgVote": 41.485
+      },
+      {
+        "partyname": "Soldiers of Destiny",
+        "parfamName": "CON",
+        "yearIndex": 2007,
+        "culture": 6.809,
+        "environ": 2.814,
+        "equality": 1.3159999999999998,
+        "parfamCount": 1,
+        "rile": -9.759,
+        "staticRile": 11.64,
+        "avgVote": 41.56100000000001
+      },
+      {
+        "partyname": "Soldiers of Destiny",
+        "parfamName": "CON",
+        "yearIndex": 2011,
+        "culture": 1.994,
+        "environ": 0.307,
+        "equality": 0.613,
+        "parfamCount": 1,
+        "rile": 2.914,
+        "staticRile": 11.64,
+        "avgVote": 17.445999999999998
+      },
+      {
+        "partyname": "Soldiers of Destiny",
+        "parfamName": "CON",
+        "yearIndex": 2016,
+        "culture": 1.835,
+        "environ": 1.886,
+        "equality": 3.466,
+        "parfamCount": 1,
+        "rile": -26.758000000000006,
+        "staticRile": 11.64,
+        "avgVote": 24.35
+      }
+    ]
+  },
+  {
+    "partyname": "United Left Alliance",
+    "data": [
+      {
+        "partyname": "United Left Alliance",
+        "parfamName": "LEF",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 5.155,
+        "equality": 1.031,
+        "parfamCount": 1,
+        "rile": -30.928,
+        "staticRile": -23.66,
+        "avgVote": 2.7
+      }
+    ]
+  },
+  {
+    "partyname": "We Ourselves",
+    "data": [
+      {
+        "partyname": "We Ourselves",
+        "parfamName": "SIP",
+        "yearIndex": 1997,
+        "culture": 4.963,
+        "environ": 1.82,
+        "equality": 15.219,
+        "parfamCount": 1,
+        "rile": -26.137,
+        "staticRile": 3.36,
+        "avgVote": 2.55
+      },
+      {
+        "partyname": "We Ourselves",
+        "parfamName": "SIP",
+        "yearIndex": 2002,
+        "culture": 4.963,
+        "environ": 1.82,
+        "equality": 15.219,
+        "parfamCount": 1,
+        "rile": -26.137,
+        "staticRile": 3.36,
+        "avgVote": 6.5139999999999985
+      },
+      {
+        "partyname": "We Ourselves",
+        "parfamName": "SIP",
+        "yearIndex": 2007,
+        "culture": 2.688,
+        "environ": 0.8959999999999999,
+        "equality": 8.124,
+        "parfamCount": 1,
+        "rile": -12.664,
+        "staticRile": 3.36,
+        "avgVote": 6.942
+      },
+      {
+        "partyname": "We Ourselves",
+        "parfamName": "SIP",
+        "yearIndex": 2011,
+        "culture": 0.8200000000000001,
+        "environ": 0.6559999999999999,
+        "equality": 7.049,
+        "parfamCount": 1,
+        "rile": -13.607,
+        "staticRile": 3.36,
+        "avgVote": 9.94
+      },
+      {
+        "partyname": "We Ourselves",
+        "parfamName": "SIP",
+        "yearIndex": 2016,
+        "culture": 1.275,
+        "environ": 3.4760000000000004,
+        "equality": 7.879,
+        "parfamCount": 1,
+        "rile": -12.514,
+        "staticRile": 3.36,
+        "avgVote": 13.845999999999998
+      }
+    ]
+  },
+  {
+    "partyname": "Workers and Unemployment Action",
+    "data": [
+      {
+        "partyname": "Workers and Unemployment Action",
+        "parfamName": "LEF",
+        "yearIndex": 2016,
+        "culture": 0,
+        "environ": 2.362,
+        "equality": 16.535,
+        "parfamCount": 1,
+        "rile": -18.11,
+        "staticRile": -23.66,
+        "avgVote": 0.349
+      }
+    ]
+  }
+]

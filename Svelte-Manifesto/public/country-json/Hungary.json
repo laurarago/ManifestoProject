@@ -1,1 +1,687 @@
-[{"partyname":"Agrarian Alliance","data":[{"partyname":"Agrarian Alliance","parfamName":"AGR","yearIndex":1990,"culture":0,"environ":5.1720000000000015,"equality":3.448,"parfamCount":1,"rile":1.724,"staticRile":1.01,"avgVote":0}]},{"partyname":"Alliance of Federation of Young Democrats - Christian Democratic People's Party","data":[{"partyname":"Alliance of Federation of Young Democrats - Christian Democratic People's Party","parfamName":"CON","yearIndex":2018,"culture":0,"environ":0,"equality":0.448,"parfamCount":1,"rile":48.655,"staticRile":11.64,"avgVote":49.274}]},{"partyname":"Alliance of Federation of Young Democrats - Hungarian Civic Union - Christian Democratic People's Party","data":[{"partyname":"Alliance of Federation of Young Democrats - Hungarian Civic Union - Christian Democratic People's Party","parfamName":"CON","yearIndex":2006,"culture":5.184,"environ":3.274,"equality":4.9110000000000005,"parfamCount":1,"rile":-12.278,"staticRile":11.64,"avgVote":42.49},{"partyname":"Alliance of Federation of Young Democrats - Hungarian Civic Union - Christian Democratic People's Party","parfamName":"CON","yearIndex":2010,"culture":1.164,"environ":0.5820000000000001,"equality":7.662000000000001,"parfamCount":1,"rile":-4.462,"staticRile":11.64,"avgVote":67.88},{"partyname":"Alliance of Federation of Young Democrats - Hungarian Civic Union - Christian Democratic People's Party","parfamName":"CON","yearIndex":2014,"culture":0,"environ":0,"equality":1.416,"parfamCount":1,"rile":35.411,"staticRile":11.64,"avgVote":44.63}]},{"partyname":"Alliance of Free Democrats","data":[{"partyname":"Alliance of Free Democrats","parfamName":"LIB","yearIndex":1990,"culture":0,"environ":0,"equality":3.2260000000000004,"parfamCount":1,"rile":7.527,"staticRile":4.61,"avgVote":21.396},{"partyname":"Alliance of Free Democrats","parfamName":"LIB","yearIndex":1994,"culture":0,"environ":0,"equality":1.754,"parfamCount":1,"rile":28.947,"staticRile":4.61,"avgVote":19.738},{"partyname":"Alliance of Free Democrats","parfamName":"LIB","yearIndex":1998,"culture":4.984,"environ":3.489,"equality":1.153,"parfamCount":1,"rile":-2.928,"staticRile":4.61,"avgVote":7.71},{"partyname":"Alliance of Free Democrats","parfamName":"LIB","yearIndex":2002,"culture":5.159,"environ":3.53,"equality":12.937,"parfamCount":1,"rile":0.623,"staticRile":4.61,"avgVote":5.574},{"partyname":"Alliance of Free Democrats","parfamName":"LIB","yearIndex":2006,"culture":5.359,"environ":4.728,"equality":9.141,"parfamCount":1,"rile":9.613999999999999,"staticRile":4.61,"avgVote":4.66}]},{"partyname":"Christian Democratic People’s Party","data":[{"partyname":"Christian Democratic People’s Party","parfamName":"CHR","yearIndex":1990,"culture":1.121,"environ":1.57,"equality":2.466,"parfamCount":1,"rile":18.161,"staticRile":6.13,"avgVote":6.46},{"partyname":"Christian Democratic People’s Party","parfamName":"CHR","yearIndex":1994,"culture":0.483,"environ":5.556,"equality":1.208,"parfamCount":1,"rile":-0.725,"staticRile":6.13,"avgVote":7.028},{"partyname":"Christian Democratic People’s Party","parfamName":"CHR","yearIndex":1998,"culture":6.348,"environ":3.545,"equality":4.617,"parfamCount":1,"rile":-4.287,"staticRile":6.13,"avgVote":2.339}]},{"partyname":"Democratic Coalition","data":[{"partyname":"Democratic Coalition","parfamName":"LEF","yearIndex":2014,"culture":4.0280000000000005,"environ":3.032,"equality":9.225,"parfamCount":1,"rile":-6.496,"staticRile":-23.66,"avgVote":2.742},{"partyname":"Democratic Coalition","parfamName":"LEF","yearIndex":2018,"culture":3.704,"environ":2.364,"equality":7.4860000000000015,"parfamCount":1,"rile":-12.648,"staticRile":-23.66,"avgVote":5.376}]},{"partyname":"Dialogue for Hungary","data":[{"partyname":"Dialogue for Hungary","parfamName":"LEF","yearIndex":2018,"culture":0.596,"environ":5.3679999999999986,"equality":13.055,"parfamCount":1,"rile":-36.05,"staticRile":-23.66,"avgVote":1.787}]},{"partyname":"Federation of Young Democrats","data":[{"partyname":"Federation of Young Democrats","parfamName":"CON","yearIndex":1990,"culture":0.7809999999999999,"environ":7.813,"equality":0.7809999999999999,"parfamCount":1,"rile":4.688,"staticRile":11.64,"avgVote":8.952},{"partyname":"Federation of Young Democrats","parfamName":"CON","yearIndex":1994,"culture":2.364,"environ":1.418,"equality":3.073,"parfamCount":1,"rile":22.695,"staticRile":11.64,"avgVote":7.025}]},{"partyname":"Federation of Young Democrats - Hungarian Civic Party - Hungarian Democratic Forum- Alliance","data":[{"partyname":"Federation of Young Democrats - Hungarian Civic Party - Hungarian Democratic Forum- Alliance","parfamName":"CON","yearIndex":1998,"culture":4.583,"environ":4.583,"equality":0,"parfamCount":1,"rile":7.707999999999998,"staticRile":11.64,"avgVote":28.17},{"partyname":"Federation of Young Democrats - Hungarian Civic Party - Hungarian Democratic Forum- Alliance","parfamName":"CON","yearIndex":2002,"culture":8.498,"environ":2.276,"equality":0.303,"parfamCount":1,"rile":8.649000000000001,"staticRile":11.64,"avgVote":41.07}]},{"partyname":"Hungarian Democratic Forum","data":[{"partyname":"Hungarian Democratic Forum","parfamName":"CHR","yearIndex":1990,"culture":0,"environ":11.043,"equality":0,"parfamCount":1,"rile":0,"staticRile":6.13,"avgVote":22.894},{"partyname":"Hungarian Democratic Forum","parfamName":"CHR","yearIndex":1994,"culture":0.471,"environ":10.518,"equality":0.471,"parfamCount":1,"rile":0.785,"staticRile":6.13,"avgVote":11.736},{"partyname":"Hungarian Democratic Forum","parfamName":"CHR","yearIndex":1998,"culture":3.202,"environ":1.724,"equality":0.493,"parfamCount":1,"rile":19.458,"staticRile":6.13,"avgVote":2.85},{"partyname":"Hungarian Democratic Forum","parfamName":"CHR","yearIndex":2002,"culture":0.4320000000000001,"environ":4.428,"equality":4.86,"parfamCount":1,"rile":-5.94,"staticRile":6.13,"avgVote":0},{"partyname":"Hungarian Democratic Forum","parfamName":"CHR","yearIndex":2006,"culture":3.467,"environ":4.659,"equality":3.467,"parfamCount":1,"rile":11.159,"staticRile":6.13,"avgVote":2.85}]},{"partyname":"Hungarian Justice and Life Party","data":[{"partyname":"Hungarian Justice and Life Party","parfamName":"NAT","yearIndex":1998,"culture":0,"environ":0.6709999999999999,"equality":4.027,"parfamCount":1,"rile":22.819000000000006,"staticRile":10.25,"avgVote":5.57}]},{"partyname":"Hungarian Social Democratic Party","data":[{"partyname":"Hungarian Social Democratic Party","parfamName":"SOC","yearIndex":1990,"culture":0,"environ":2.778,"equality":9.259,"parfamCount":1,"rile":-15.741,"staticRile":-14,"avgVote":2.1180000000000003},{"partyname":"Hungarian Social Democratic Party","parfamName":"SOC","yearIndex":1994,"culture":7.171,"environ":1.938,"equality":6.395,"parfamCount":1,"rile":-15.890999999999998,"staticRile":-14,"avgVote":0.6},{"partyname":"Hungarian Social Democratic Party","parfamName":"SOC","yearIndex":2006,"culture":2.893,"environ":0.362,"equality":12.297,"parfamCount":1,"rile":-20.434,"staticRile":-14,"avgVote":0},{"partyname":"Hungarian Social Democratic Party","parfamName":"SOC","yearIndex":2010,"culture":3.774,"environ":7.5470000000000015,"equality":7.5470000000000015,"parfamCount":1,"rile":-22.642,"staticRile":-14,"avgVote":0.08}]},{"partyname":"Hungarian Socialist Party","data":[{"partyname":"Hungarian Socialist Party","parfamName":"SOC","yearIndex":1990,"culture":2.19,"environ":1.825,"equality":6.204,"parfamCount":1,"rile":-8.394,"staticRile":-14,"avgVote":10.895},{"partyname":"Hungarian Socialist Party","parfamName":"SOC","yearIndex":1994,"culture":5.351,"environ":3.01,"equality":5.017,"parfamCount":1,"rile":6.02,"staticRile":-14,"avgVote":32.99},{"partyname":"Hungarian Socialist Party","parfamName":"SOC","yearIndex":1998,"culture":0,"environ":2.459,"equality":7.377000000000002,"parfamCount":1,"rile":5.738,"staticRile":-14,"avgVote":33.51},{"partyname":"Hungarian Socialist Party","parfamName":"SOC","yearIndex":2002,"culture":1.923,"environ":0.962,"equality":0,"parfamCount":1,"rile":-14.423,"staticRile":-14,"avgVote":42.053},{"partyname":"Hungarian Socialist Party","parfamName":"SOC","yearIndex":2006,"culture":2.79,"environ":2.496,"equality":12.922,"parfamCount":1,"rile":1.175,"staticRile":-14,"avgVote":48.19},{"partyname":"Hungarian Socialist Party","parfamName":"SOC","yearIndex":2010,"culture":3.4,"environ":2.867,"equality":4.8,"parfamCount":1,"rile":-15.2,"staticRile":-14,"avgVote":15.28},{"partyname":"Hungarian Socialist Party","parfamName":"SOC","yearIndex":2014,"culture":4.164,"environ":1.238,"equality":11.593,"parfamCount":1,"rile":-12.887,"staticRile":-14,"avgVote":19.88},{"partyname":"Hungarian Socialist Party","parfamName":"SOC","yearIndex":2018,"culture":4.471,"environ":2.6830000000000003,"equality":9.687000000000001,"parfamCount":1,"rile":-19.821,"staticRile":-14,"avgVote":10.124}]},{"partyname":"Independent Smallholders’ Party","data":[{"partyname":"Independent Smallholders’ Party","parfamName":"AGR","yearIndex":1990,"culture":0,"environ":0,"equality":2.174,"parfamCount":1,"rile":15.217,"staticRile":1.01,"avgVote":11.735},{"partyname":"Independent Smallholders’ Party","parfamName":"AGR","yearIndex":1994,"culture":1.205,"environ":0,"equality":1.205,"parfamCount":1,"rile":19.277,"staticRile":1.01,"avgVote":8.82},{"partyname":"Independent Smallholders’ Party","parfamName":"AGR","yearIndex":1998,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":7.245,"staticRile":1.01,"avgVote":13.38},{"partyname":"Independent Smallholders’ Party","parfamName":"AGR","yearIndex":2002,"culture":0.633,"environ":0,"equality":4.43,"parfamCount":1,"rile":6.329,"staticRile":1.01,"avgVote":1.2}]},{"partyname":"Movement for a Better Hungary","data":[{"partyname":"Movement for a Better Hungary","parfamName":"NAT","yearIndex":2010,"culture":3.711,"environ":3.306,"equality":1.653,"parfamCount":1,"rile":14.328,"staticRile":10.25,"avgVote":12.18},{"partyname":"Movement for a Better Hungary","parfamName":"NAT","yearIndex":2014,"culture":2.95,"environ":2.909,"equality":1.733,"parfamCount":1,"rile":-7.324,"staticRile":10.25,"avgVote":20.583},{"partyname":"Movement for a Better Hungary","parfamName":"NAT","yearIndex":2018,"culture":2.832,"environ":3.152,"equality":4.203,"parfamCount":1,"rile":-15.121,"staticRile":10.25,"avgVote":19.064}]},{"partyname":"Politics Can Be Different","data":[{"partyname":"Politics Can Be Different","parfamName":"ECO","yearIndex":2010,"culture":0.514,"environ":14.089,"equality":10.467,"parfamCount":1,"rile":-19.883,"staticRile":-13.65,"avgVote":4.15},{"partyname":"Politics Can Be Different","parfamName":"ECO","yearIndex":2014,"culture":1.08,"environ":12.191,"equality":11.876,"parfamCount":1,"rile":-10.706,"staticRile":-13.65,"avgVote":5.273},{"partyname":"Politics Can Be Different","parfamName":"ECO","yearIndex":2018,"culture":4.874,"environ":9.527000000000001,"equality":3.471,"parfamCount":1,"rile":-20.089,"staticRile":-13.65,"avgVote":7.055}]},{"partyname":"Together 2014 -Dialogue for Hungary Electoral Alliance","data":[{"partyname":"Together 2014 -Dialogue for Hungary Electoral Alliance","parfamName":"LEF","yearIndex":2014,"culture":1.699,"environ":2.124,"equality":11.226,"parfamCount":1,"rile":0.607,"staticRile":-23.66,"avgVote":2.057},{"partyname":"Together 2014 -Dialogue for Hungary Electoral Alliance","parfamName":"LEF","yearIndex":2018,"culture":3.934,"environ":2.8960000000000004,"equality":4.973,"parfamCount":1,"rile":-15.628,"staticRile":-23.66,"avgVote":0.655}]}]
+[
+  {
+    "partyname": "Agrarian Alliance",
+    "data": [
+      {
+        "partyname": "Agrarian Alliance",
+        "parfamName": "AGR",
+        "yearIndex": 1990,
+        "culture": 0,
+        "environ": 5.1720000000000015,
+        "equality": 3.448,
+        "parfamCount": 1,
+        "rile": 1.724,
+        "staticRile": 1.01,
+        "avgVote": 0
+      }
+    ]
+  },
+  {
+    "partyname": "Alliance of Federation of Young Democrats - Christian Democratic People's Party",
+    "data": [
+      {
+        "partyname": "Alliance of Federation of Young Democrats - Christian Democratic People's Party",
+        "parfamName": "CON",
+        "yearIndex": 2018,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0.448,
+        "parfamCount": 1,
+        "rile": 48.655,
+        "staticRile": 11.64,
+        "avgVote": 49.274
+      }
+    ]
+  },
+  {
+    "partyname": "Alliance of Federation of Young Democrats - Hungarian Civic Union - Christian Democratic People's Party",
+    "data": [
+      {
+        "partyname": "Alliance of Federation of Young Democrats - Hungarian Civic Union - Christian Democratic People's Party",
+        "parfamName": "CON",
+        "yearIndex": 2006,
+        "culture": 5.184,
+        "environ": 3.274,
+        "equality": 4.9110000000000005,
+        "parfamCount": 1,
+        "rile": -12.278,
+        "staticRile": 11.64,
+        "avgVote": 42.49
+      },
+      {
+        "partyname": "Alliance of Federation of Young Democrats - Hungarian Civic Union - Christian Democratic People's Party",
+        "parfamName": "CON",
+        "yearIndex": 2010,
+        "culture": 1.164,
+        "environ": 0.5820000000000001,
+        "equality": 7.662000000000001,
+        "parfamCount": 1,
+        "rile": -4.462,
+        "staticRile": 11.64,
+        "avgVote": 67.88
+      },
+      {
+        "partyname": "Alliance of Federation of Young Democrats - Hungarian Civic Union - Christian Democratic People's Party",
+        "parfamName": "CON",
+        "yearIndex": 2014,
+        "culture": 0,
+        "environ": 0,
+        "equality": 1.416,
+        "parfamCount": 1,
+        "rile": 35.411,
+        "staticRile": 11.64,
+        "avgVote": 44.63
+      }
+    ]
+  },
+  {
+    "partyname": "Alliance of Free Democrats",
+    "data": [
+      {
+        "partyname": "Alliance of Free Democrats",
+        "parfamName": "LIB",
+        "yearIndex": 1990,
+        "culture": 0,
+        "environ": 0,
+        "equality": 3.2260000000000004,
+        "parfamCount": 1,
+        "rile": 7.527,
+        "staticRile": 4.61,
+        "avgVote": 21.396
+      },
+      {
+        "partyname": "Alliance of Free Democrats",
+        "parfamName": "LIB",
+        "yearIndex": 1994,
+        "culture": 0,
+        "environ": 0,
+        "equality": 1.754,
+        "parfamCount": 1,
+        "rile": 28.947,
+        "staticRile": 4.61,
+        "avgVote": 19.738
+      },
+      {
+        "partyname": "Alliance of Free Democrats",
+        "parfamName": "LIB",
+        "yearIndex": 1998,
+        "culture": 4.984,
+        "environ": 3.489,
+        "equality": 1.153,
+        "parfamCount": 1,
+        "rile": -2.928,
+        "staticRile": 4.61,
+        "avgVote": 7.71
+      },
+      {
+        "partyname": "Alliance of Free Democrats",
+        "parfamName": "LIB",
+        "yearIndex": 2002,
+        "culture": 5.159,
+        "environ": 3.53,
+        "equality": 12.937,
+        "parfamCount": 1,
+        "rile": 0.623,
+        "staticRile": 4.61,
+        "avgVote": 5.574
+      },
+      {
+        "partyname": "Alliance of Free Democrats",
+        "parfamName": "LIB",
+        "yearIndex": 2006,
+        "culture": 5.359,
+        "environ": 4.728,
+        "equality": 9.141,
+        "parfamCount": 1,
+        "rile": 9.613999999999999,
+        "staticRile": 4.61,
+        "avgVote": 4.66
+      }
+    ]
+  },
+  {
+    "partyname": "Christian Democratic People’s Party",
+    "data": [
+      {
+        "partyname": "Christian Democratic People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 1990,
+        "culture": 1.121,
+        "environ": 1.57,
+        "equality": 2.466,
+        "parfamCount": 1,
+        "rile": 18.161,
+        "staticRile": 6.13,
+        "avgVote": 6.46
+      },
+      {
+        "partyname": "Christian Democratic People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 1994,
+        "culture": 0.483,
+        "environ": 5.556,
+        "equality": 1.208,
+        "parfamCount": 1,
+        "rile": -0.725,
+        "staticRile": 6.13,
+        "avgVote": 7.028
+      },
+      {
+        "partyname": "Christian Democratic People’s Party",
+        "parfamName": "CHR",
+        "yearIndex": 1998,
+        "culture": 6.348,
+        "environ": 3.545,
+        "equality": 4.617,
+        "parfamCount": 1,
+        "rile": -4.287,
+        "staticRile": 6.13,
+        "avgVote": 2.339
+      }
+    ]
+  },
+  {
+    "partyname": "Democratic Coalition",
+    "data": [
+      {
+        "partyname": "Democratic Coalition",
+        "parfamName": "LEF",
+        "yearIndex": 2014,
+        "culture": 4.0280000000000005,
+        "environ": 3.032,
+        "equality": 9.225,
+        "parfamCount": 1,
+        "rile": -6.496,
+        "staticRile": -23.66,
+        "avgVote": 2.742
+      },
+      {
+        "partyname": "Democratic Coalition",
+        "parfamName": "LEF",
+        "yearIndex": 2018,
+        "culture": 3.704,
+        "environ": 2.364,
+        "equality": 7.4860000000000015,
+        "parfamCount": 1,
+        "rile": -12.648,
+        "staticRile": -23.66,
+        "avgVote": 5.376
+      }
+    ]
+  },
+  {
+    "partyname": "Dialogue for Hungary",
+    "data": [
+      {
+        "partyname": "Dialogue for Hungary",
+        "parfamName": "LEF",
+        "yearIndex": 2018,
+        "culture": 0.596,
+        "environ": 5.3679999999999986,
+        "equality": 13.055,
+        "parfamCount": 1,
+        "rile": -36.05,
+        "staticRile": -23.66,
+        "avgVote": 1.787
+      }
+    ]
+  },
+  {
+    "partyname": "Federation of Young Democrats",
+    "data": [
+      {
+        "partyname": "Federation of Young Democrats",
+        "parfamName": "CON",
+        "yearIndex": 1990,
+        "culture": 0.7809999999999999,
+        "environ": 7.813,
+        "equality": 0.7809999999999999,
+        "parfamCount": 1,
+        "rile": 4.688,
+        "staticRile": 11.64,
+        "avgVote": 8.952
+      },
+      {
+        "partyname": "Federation of Young Democrats",
+        "parfamName": "CON",
+        "yearIndex": 1994,
+        "culture": 2.364,
+        "environ": 1.418,
+        "equality": 3.073,
+        "parfamCount": 1,
+        "rile": 22.695,
+        "staticRile": 11.64,
+        "avgVote": 7.025
+      }
+    ]
+  },
+  {
+    "partyname": "Federation of Young Democrats - Hungarian Civic Party - Hungarian Democratic Forum- Alliance",
+    "data": [
+      {
+        "partyname": "Federation of Young Democrats - Hungarian Civic Party - Hungarian Democratic Forum- Alliance",
+        "parfamName": "CON",
+        "yearIndex": 1998,
+        "culture": 4.583,
+        "environ": 4.583,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 7.707999999999998,
+        "staticRile": 11.64,
+        "avgVote": 28.17
+      },
+      {
+        "partyname": "Federation of Young Democrats - Hungarian Civic Party - Hungarian Democratic Forum- Alliance",
+        "parfamName": "CON",
+        "yearIndex": 2002,
+        "culture": 8.498,
+        "environ": 2.276,
+        "equality": 0.303,
+        "parfamCount": 1,
+        "rile": 8.649000000000001,
+        "staticRile": 11.64,
+        "avgVote": 41.07
+      }
+    ]
+  },
+  {
+    "partyname": "Hungarian Democratic Forum",
+    "data": [
+      {
+        "partyname": "Hungarian Democratic Forum",
+        "parfamName": "CHR",
+        "yearIndex": 1990,
+        "culture": 0,
+        "environ": 11.043,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 0,
+        "staticRile": 6.13,
+        "avgVote": 22.894
+      },
+      {
+        "partyname": "Hungarian Democratic Forum",
+        "parfamName": "CHR",
+        "yearIndex": 1994,
+        "culture": 0.471,
+        "environ": 10.518,
+        "equality": 0.471,
+        "parfamCount": 1,
+        "rile": 0.785,
+        "staticRile": 6.13,
+        "avgVote": 11.736
+      },
+      {
+        "partyname": "Hungarian Democratic Forum",
+        "parfamName": "CHR",
+        "yearIndex": 1998,
+        "culture": 3.202,
+        "environ": 1.724,
+        "equality": 0.493,
+        "parfamCount": 1,
+        "rile": 19.458,
+        "staticRile": 6.13,
+        "avgVote": 2.85
+      },
+      {
+        "partyname": "Hungarian Democratic Forum",
+        "parfamName": "CHR",
+        "yearIndex": 2002,
+        "culture": 0.4320000000000001,
+        "environ": 4.428,
+        "equality": 4.86,
+        "parfamCount": 1,
+        "rile": -5.94,
+        "staticRile": 6.13,
+        "avgVote": 0
+      },
+      {
+        "partyname": "Hungarian Democratic Forum",
+        "parfamName": "CHR",
+        "yearIndex": 2006,
+        "culture": 3.467,
+        "environ": 4.659,
+        "equality": 3.467,
+        "parfamCount": 1,
+        "rile": 11.159,
+        "staticRile": 6.13,
+        "avgVote": 2.85
+      }
+    ]
+  },
+  {
+    "partyname": "Hungarian Justice and Life Party",
+    "data": [
+      {
+        "partyname": "Hungarian Justice and Life Party",
+        "parfamName": "NAT",
+        "yearIndex": 1998,
+        "culture": 0,
+        "environ": 0.6709999999999999,
+        "equality": 4.027,
+        "parfamCount": 1,
+        "rile": 22.819000000000006,
+        "staticRile": 10.25,
+        "avgVote": 5.57
+      }
+    ]
+  },
+  {
+    "partyname": "Hungarian Social Democratic Party",
+    "data": [
+      {
+        "partyname": "Hungarian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1990,
+        "culture": 0,
+        "environ": 2.778,
+        "equality": 9.259,
+        "parfamCount": 1,
+        "rile": -15.741,
+        "staticRile": -14,
+        "avgVote": 2.1180000000000003
+      },
+      {
+        "partyname": "Hungarian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1994,
+        "culture": 7.171,
+        "environ": 1.938,
+        "equality": 6.395,
+        "parfamCount": 1,
+        "rile": -15.890999999999998,
+        "staticRile": -14,
+        "avgVote": 0.6
+      },
+      {
+        "partyname": "Hungarian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2006,
+        "culture": 2.893,
+        "environ": 0.362,
+        "equality": 12.297,
+        "parfamCount": 1,
+        "rile": -20.434,
+        "staticRile": -14,
+        "avgVote": 0
+      },
+      {
+        "partyname": "Hungarian Social Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 2010,
+        "culture": 3.774,
+        "environ": 7.5470000000000015,
+        "equality": 7.5470000000000015,
+        "parfamCount": 1,
+        "rile": -22.642,
+        "staticRile": -14,
+        "avgVote": 0.08
+      }
+    ]
+  },
+  {
+    "partyname": "Hungarian Socialist Party",
+    "data": [
+      {
+        "partyname": "Hungarian Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 1990,
+        "culture": 2.19,
+        "environ": 1.825,
+        "equality": 6.204,
+        "parfamCount": 1,
+        "rile": -8.394,
+        "staticRile": -14,
+        "avgVote": 10.895
+      },
+      {
+        "partyname": "Hungarian Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 1994,
+        "culture": 5.351,
+        "environ": 3.01,
+        "equality": 5.017,
+        "parfamCount": 1,
+        "rile": 6.02,
+        "staticRile": -14,
+        "avgVote": 32.99
+      },
+      {
+        "partyname": "Hungarian Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 1998,
+        "culture": 0,
+        "environ": 2.459,
+        "equality": 7.377000000000002,
+        "parfamCount": 1,
+        "rile": 5.738,
+        "staticRile": -14,
+        "avgVote": 33.51
+      },
+      {
+        "partyname": "Hungarian Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 2002,
+        "culture": 1.923,
+        "environ": 0.962,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": -14.423,
+        "staticRile": -14,
+        "avgVote": 42.053
+      },
+      {
+        "partyname": "Hungarian Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 2006,
+        "culture": 2.79,
+        "environ": 2.496,
+        "equality": 12.922,
+        "parfamCount": 1,
+        "rile": 1.175,
+        "staticRile": -14,
+        "avgVote": 48.19
+      },
+      {
+        "partyname": "Hungarian Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 2010,
+        "culture": 3.4,
+        "environ": 2.867,
+        "equality": 4.8,
+        "parfamCount": 1,
+        "rile": -15.2,
+        "staticRile": -14,
+        "avgVote": 15.28
+      },
+      {
+        "partyname": "Hungarian Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 2014,
+        "culture": 4.164,
+        "environ": 1.238,
+        "equality": 11.593,
+        "parfamCount": 1,
+        "rile": -12.887,
+        "staticRile": -14,
+        "avgVote": 19.88
+      },
+      {
+        "partyname": "Hungarian Socialist Party",
+        "parfamName": "SOC",
+        "yearIndex": 2018,
+        "culture": 4.471,
+        "environ": 2.6830000000000003,
+        "equality": 9.687000000000001,
+        "parfamCount": 1,
+        "rile": -19.821,
+        "staticRile": -14,
+        "avgVote": 10.124
+      }
+    ]
+  },
+  {
+    "partyname": "Independent Smallholders’ Party",
+    "data": [
+      {
+        "partyname": "Independent Smallholders’ Party",
+        "parfamName": "AGR",
+        "yearIndex": 1990,
+        "culture": 0,
+        "environ": 0,
+        "equality": 2.174,
+        "parfamCount": 1,
+        "rile": 15.217,
+        "staticRile": 1.01,
+        "avgVote": 11.735
+      },
+      {
+        "partyname": "Independent Smallholders’ Party",
+        "parfamName": "AGR",
+        "yearIndex": 1994,
+        "culture": 1.205,
+        "environ": 0,
+        "equality": 1.205,
+        "parfamCount": 1,
+        "rile": 19.277,
+        "staticRile": 1.01,
+        "avgVote": 8.82
+      },
+      {
+        "partyname": "Independent Smallholders’ Party",
+        "parfamName": "AGR",
+        "yearIndex": 1998,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 7.245,
+        "staticRile": 1.01,
+        "avgVote": 13.38
+      },
+      {
+        "partyname": "Independent Smallholders’ Party",
+        "parfamName": "AGR",
+        "yearIndex": 2002,
+        "culture": 0.633,
+        "environ": 0,
+        "equality": 4.43,
+        "parfamCount": 1,
+        "rile": 6.329,
+        "staticRile": 1.01,
+        "avgVote": 1.2
+      }
+    ]
+  },
+  {
+    "partyname": "Movement for a Better Hungary",
+    "data": [
+      {
+        "partyname": "Movement for a Better Hungary",
+        "parfamName": "NAT",
+        "yearIndex": 2010,
+        "culture": 3.711,
+        "environ": 3.306,
+        "equality": 1.653,
+        "parfamCount": 1,
+        "rile": 14.328,
+        "staticRile": 10.25,
+        "avgVote": 12.18
+      },
+      {
+        "partyname": "Movement for a Better Hungary",
+        "parfamName": "NAT",
+        "yearIndex": 2014,
+        "culture": 2.95,
+        "environ": 2.909,
+        "equality": 1.733,
+        "parfamCount": 1,
+        "rile": -7.324,
+        "staticRile": 10.25,
+        "avgVote": 20.583
+      },
+      {
+        "partyname": "Movement for a Better Hungary",
+        "parfamName": "NAT",
+        "yearIndex": 2018,
+        "culture": 2.832,
+        "environ": 3.152,
+        "equality": 4.203,
+        "parfamCount": 1,
+        "rile": -15.121,
+        "staticRile": 10.25,
+        "avgVote": 19.064
+      }
+    ]
+  },
+  {
+    "partyname": "Politics Can Be Different",
+    "data": [
+      {
+        "partyname": "Politics Can Be Different",
+        "parfamName": "ECO",
+        "yearIndex": 2010,
+        "culture": 0.514,
+        "environ": 14.089,
+        "equality": 10.467,
+        "parfamCount": 1,
+        "rile": -19.883,
+        "staticRile": -13.65,
+        "avgVote": 4.15
+      },
+      {
+        "partyname": "Politics Can Be Different",
+        "parfamName": "ECO",
+        "yearIndex": 2014,
+        "culture": 1.08,
+        "environ": 12.191,
+        "equality": 11.876,
+        "parfamCount": 1,
+        "rile": -10.706,
+        "staticRile": -13.65,
+        "avgVote": 5.273
+      },
+      {
+        "partyname": "Politics Can Be Different",
+        "parfamName": "ECO",
+        "yearIndex": 2018,
+        "culture": 4.874,
+        "environ": 9.527000000000001,
+        "equality": 3.471,
+        "parfamCount": 1,
+        "rile": -20.089,
+        "staticRile": -13.65,
+        "avgVote": 7.055
+      }
+    ]
+  },
+  {
+    "partyname": "Together 2014 -Dialogue for Hungary Electoral Alliance",
+    "data": [
+      {
+        "partyname": "Together 2014 -Dialogue for Hungary Electoral Alliance",
+        "parfamName": "LEF",
+        "yearIndex": 2014,
+        "culture": 1.699,
+        "environ": 2.124,
+        "equality": 11.226,
+        "parfamCount": 1,
+        "rile": 0.607,
+        "staticRile": -23.66,
+        "avgVote": 2.057
+      },
+      {
+        "partyname": "Together 2014 -Dialogue for Hungary Electoral Alliance",
+        "parfamName": "LEF",
+        "yearIndex": 2018,
+        "culture": 3.934,
+        "environ": 2.8960000000000004,
+        "equality": 4.973,
+        "parfamCount": 1,
+        "rile": -15.628,
+        "staticRile": -23.66,
+        "avgVote": 0.655
+      }
+    ]
+  }
+]

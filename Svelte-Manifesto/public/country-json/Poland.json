@@ -1,1 +1,969 @@
-[{"partyname":"Catholic Electoral Action","data":[{"partyname":"Catholic Electoral Action","parfamName":"CHR","yearIndex":1991,"culture":1.389,"environ":2.778,"equality":0,"parfamCount":1,"rile":38.889,"staticRile":6.13,"avgVote":8.246}]},{"partyname":"Centre Citizens’ Alliance","data":[{"partyname":"Centre Citizens’ Alliance","parfamName":"CHR","yearIndex":1991,"culture":2.778,"environ":0,"equality":7.222,"parfamCount":1,"rile":0,"staticRile":6.13,"avgVote":8.221}]},{"partyname":"Christian Democratic Labour Party","data":[{"partyname":"Christian Democratic Labour Party","parfamName":"CHR","yearIndex":1991,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":12.903,"staticRile":6.13,"avgVote":2.231}]},{"partyname":"Civic Platform","data":[{"partyname":"Civic Platform","parfamName":"LIB","yearIndex":2001,"culture":0,"environ":0,"equality":1.711,"parfamCount":1,"rile":-10.575,"staticRile":4.61,"avgVote":12.683},{"partyname":"Civic Platform","parfamName":"LIB","yearIndex":2005,"culture":0,"environ":0,"equality":6.205,"parfamCount":1,"rile":1.01,"staticRile":4.61,"avgVote":24.137},{"partyname":"Civic Platform","parfamName":"LIB","yearIndex":2007,"culture":9.969,"environ":0.545,"equality":1.09,"parfamCount":1,"rile":5.997000000000001,"staticRile":4.61,"avgVote":41.512},{"partyname":"Civic Platform","parfamName":"LIB","yearIndex":2011,"culture":5.412000000000001,"environ":3.247,"equality":0.833,"parfamCount":1,"rile":-4.413,"staticRile":4.61,"avgVote":39.179},{"partyname":"Civic Platform","parfamName":"LIB","yearIndex":2015,"culture":2.552,"environ":0.547,"equality":2.461,"parfamCount":1,"rile":-13.309,"staticRile":4.61,"avgVote":24.088}]},{"partyname":"Coalion of the Democratic Left Alliance and the Union of Labour","data":[{"partyname":"Coalion of the Democratic Left Alliance and the Union of Labour","parfamName":"SOC","yearIndex":2001,"culture":5.819,"environ":1.509,"equality":5.388,"parfamCount":1,"rile":-4.31,"staticRile":-14,"avgVote":41.04}]},{"partyname":"Confederation for an Independent Poland","data":[{"partyname":"Confederation for an Independent Poland","parfamName":"NAT","yearIndex":1991,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":23.864,"staticRile":10.25,"avgVote":7.081},{"partyname":"Confederation for an Independent Poland","parfamName":"NAT","yearIndex":1993,"culture":2.326,"environ":0,"equality":4.651,"parfamCount":1,"rile":0,"staticRile":10.25,"avgVote":5.766}]},{"partyname":"Democratic Left Alliance","data":[{"partyname":"Democratic Left Alliance","parfamName":"SOC","yearIndex":1991,"culture":0.8440000000000001,"environ":0.8440000000000001,"equality":4.641,"parfamCount":1,"rile":-3.3760000000000003,"staticRile":-14,"avgVote":11.312},{"partyname":"Democratic Left Alliance","parfamName":"SOC","yearIndex":1993,"culture":1.053,"environ":0,"equality":5.263,"parfamCount":1,"rile":-10.526,"staticRile":-14,"avgVote":20.405},{"partyname":"Democratic Left Alliance","parfamName":"SOC","yearIndex":1997,"culture":0.735,"environ":0.735,"equality":0.735,"parfamCount":1,"rile":9.191,"staticRile":-14,"avgVote":27.133000000000006},{"partyname":"Democratic Left Alliance","parfamName":"SOC","yearIndex":2005,"culture":0,"environ":1.176,"equality":10,"parfamCount":1,"rile":-0.588,"staticRile":-14,"avgVote":11.311},{"partyname":"Democratic Left Alliance","parfamName":"SOC","yearIndex":2011,"culture":7.171,"environ":3.936,"equality":5.339,"parfamCount":1,"rile":-0.8959999999999999,"staticRile":-14,"avgVote":8.242}]},{"partyname":"Democratic Party","data":[{"partyname":"Democratic Party","parfamName":"SOC","yearIndex":1991,"culture":5.806,"environ":0.645,"equality":0.645,"parfamCount":1,"rile":-14.194,"staticRile":-14,"avgVote":0}]},{"partyname":"Democratic Union","data":[{"partyname":"Democratic Union","parfamName":"SOC","yearIndex":1991,"culture":1.519,"environ":3.0380000000000003,"equality":1.013,"parfamCount":1,"rile":20.506,"staticRile":-14,"avgVote":11.626},{"partyname":"Democratic Union","parfamName":"SOC","yearIndex":1993,"culture":1.852,"environ":7.407,"equality":0,"parfamCount":1,"rile":9.259,"staticRile":-14,"avgVote":10.59}]},{"partyname":"Electoral Action ‘Solidarity'","data":[{"partyname":"Electoral Action ‘Solidarity'","parfamName":"CHR","yearIndex":1997,"culture":4.255,"environ":0.532,"equality":3.723,"parfamCount":1,"rile":17.021,"staticRile":6.13,"avgVote":33.827}]},{"partyname":"Freedom Union","data":[{"partyname":"Freedom Union","parfamName":"LIB","yearIndex":1997,"culture":4.643,"environ":3.317,"equality":0.166,"parfamCount":1,"rile":-1.99,"staticRile":4.61,"avgVote":13.367}]},{"partyname":"German Minority","data":[{"partyname":"German Minority","parfamName":"ETH","yearIndex":1991,"culture":0,"environ":3.636,"equality":0,"parfamCount":1,"rile":2.727,"staticRile":-9.04,"avgVote":1.111},{"partyname":"German Minority","parfamName":"ETH","yearIndex":1993,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":-10.811,"staticRile":-9.04,"avgVote":0.44},{"partyname":"German Minority","parfamName":"ETH","yearIndex":1997,"culture":0,"environ":4.082,"equality":0,"parfamCount":1,"rile":2.041,"staticRile":-9.04,"avgVote":0.39},{"partyname":"German Minority","parfamName":"ETH","yearIndex":2001,"culture":4,"environ":0,"equality":0,"parfamCount":1,"rile":0,"staticRile":-9.04,"avgVote":0.363},{"partyname":"German Minority","parfamName":"ETH","yearIndex":2005,"culture":4,"environ":0,"equality":0,"parfamCount":1,"rile":0,"staticRile":-9.04,"avgVote":0.292},{"partyname":"German Minority","parfamName":"ETH","yearIndex":2007,"culture":6.818000000000001,"environ":0,"equality":0,"parfamCount":1,"rile":5.682,"staticRile":-9.04,"avgVote":0.201},{"partyname":"German Minority","parfamName":"ETH","yearIndex":2011,"culture":0,"environ":0,"equality":6.667000000000002,"parfamCount":1,"rile":-20,"staticRile":-9.04,"avgVote":0.195},{"partyname":"German Minority","parfamName":"ETH","yearIndex":2015,"culture":1.835,"environ":0.917,"equality":4.587,"parfamCount":1,"rile":-2.752,"staticRile":-9.04,"avgVote":0.181}]},{"partyname":"Independent Self-governing Trade Union ‘Solidarity’","data":[{"partyname":"Independent Self-governing Trade Union ‘Solidarity’","parfamName":"SOC","yearIndex":1991,"culture":0.8130000000000001,"environ":0.8130000000000001,"equality":4.878,"parfamCount":1,"rile":-26.016,"staticRile":-14,"avgVote":4.766}]},{"partyname":"Kukiz'15","data":[{"partyname":"Kukiz'15","parfamName":"NAT","yearIndex":2015,"culture":0,"environ":0,"equality":2.649,"parfamCount":1,"rile":-1.766,"staticRile":10.25,"avgVote":8.809000000000003}]},{"partyname":"Labour Solidarity","data":[{"partyname":"Labour Solidarity","parfamName":"SOC","yearIndex":1991,"culture":1.097,"environ":1.646,"equality":2.195,"parfamCount":1,"rile":3.292,"staticRile":-14,"avgVote":1.943}]},{"partyname":"Law and Justice","data":[{"partyname":"Law and Justice","parfamName":"CON","yearIndex":2001,"culture":4.526,"environ":1.606,"equality":1.168,"parfamCount":1,"rile":4.672,"staticRile":11.64,"avgVote":9.501},{"partyname":"Law and Justice","parfamName":"CON","yearIndex":2005,"culture":15.015999999999998,"environ":0,"equality":3.514,"parfamCount":1,"rile":-1.597,"staticRile":11.64,"avgVote":26.987},{"partyname":"Law and Justice","parfamName":"CON","yearIndex":2007,"culture":3.345,"environ":0.231,"equality":1.038,"parfamCount":1,"rile":9.804,"staticRile":11.64,"avgVote":32.111},{"partyname":"Law and Justice","parfamName":"CON","yearIndex":2011,"culture":3.719,"environ":1.526,"equality":2.241,"parfamCount":1,"rile":17.473,"staticRile":11.64,"avgVote":29.89},{"partyname":"Law and Justice","parfamName":"CON","yearIndex":2015,"culture":3.419,"environ":0.789,"equality":2.688,"parfamCount":1,"rile":10.812,"staticRile":11.64,"avgVote":37.575}]},{"partyname":"League of Polish Families","data":[{"partyname":"League of Polish Families","parfamName":"CHR","yearIndex":2001,"culture":0,"environ":3.947,"equality":0,"parfamCount":1,"rile":19.737,"staticRile":6.13,"avgVote":7.875},{"partyname":"League of Polish Families","parfamName":"CHR","yearIndex":2005,"culture":0.595,"environ":2.9760000000000004,"equality":0,"parfamCount":1,"rile":8.333,"staticRile":6.13,"avgVote":7.9689999999999985}]},{"partyname":"Left and Democrats","data":[{"partyname":"Left and Democrats","parfamName":"SOC","yearIndex":2007,"culture":11.855,"environ":8.452,"equality":0.988,"parfamCount":1,"rile":-0.329,"staticRile":-14,"avgVote":13.152}]},{"partyname":"Liberal-Democratic Congress","data":[{"partyname":"Liberal-Democratic Congress","parfamName":"LIB","yearIndex":1991,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":17.188,"staticRile":4.61,"avgVote":7.066}]},{"partyname":"Modern","data":[{"partyname":"Modern","parfamName":"LIB","yearIndex":2015,"culture":3.916,"environ":2.698,"equality":1.48,"parfamCount":1,"rile":4.352,"staticRile":4.61,"avgVote":7.601}]},{"partyname":"Movement for the Autonomy of Silesia","data":[{"partyname":"Movement for the Autonomy of Silesia","parfamName":"ETH","yearIndex":1991,"culture":0,"environ":4.58,"equality":0,"parfamCount":1,"rile":0.763,"staticRile":-9.04,"avgVote":0.337}]},{"partyname":"Movement for the Reconstruction of Poland","data":[{"partyname":"Movement for the Reconstruction of Poland","parfamName":"LIB","yearIndex":1997,"culture":1.2990000000000002,"environ":0.974,"equality":0.325,"parfamCount":1,"rile":8.117,"staticRile":4.61,"avgVote":5.555}]},{"partyname":"Movement for the Republic","data":[{"partyname":"Movement for the Republic","parfamName":"CHR","yearIndex":1991,"culture":0,"environ":0,"equality":7.879,"parfamCount":1,"rile":27.273000000000003,"staticRile":6.13,"avgVote":0}]},{"partyname":"Non-Party Bloc in Support of Reforms","data":[{"partyname":"Non-Party Bloc in Support of Reforms","parfamName":"SIP","yearIndex":1993,"culture":0.541,"environ":2.162,"equality":1.081,"parfamCount":1,"rile":6.4860000000000015,"staticRile":3.36,"avgVote":5.412000000000001}]},{"partyname":"Palikot's Movement","data":[{"partyname":"Palikot's Movement","parfamName":"LIB","yearIndex":2011,"culture":2.041,"environ":0,"equality":1.224,"parfamCount":1,"rile":6.122000000000001,"staticRile":4.61,"avgVote":10.018}]},{"partyname":"Party X","data":[{"partyname":"Party X","parfamName":"NAT","yearIndex":1991,"culture":0,"environ":0,"equality":16.949,"parfamCount":1,"rile":-6.78,"staticRile":10.25,"avgVote":0.444}]},{"partyname":"Party of Christian Democrats","data":[{"partyname":"Party of Christian Democrats","parfamName":"CHR","yearIndex":1991,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":26.126,"staticRile":6.13,"avgVote":1.054}]},{"partyname":"Peasant Accord","data":[{"partyname":"Peasant Accord","parfamName":"AGR","yearIndex":1991,"culture":3.636,"environ":9.091000000000001,"equality":0,"parfamCount":1,"rile":12.727,"staticRile":1.01,"avgVote":5.162000000000001}]},{"partyname":"Polish Beer-Lovers' Party","data":[{"partyname":"Polish Beer-Lovers' Party","parfamName":"LIB","yearIndex":1991,"culture":0,"environ":13.3,"equality":0,"parfamCount":1,"rile":18.227,"staticRile":4.61,"avgVote":3.088}]},{"partyname":"Polish Economic Program (Large Beer)","data":[{"partyname":"Polish Economic Program (Large Beer)","parfamName":"LIB","yearIndex":1991,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":24.242,"staticRile":4.61,"avgVote":0}]},{"partyname":"Polish Peasants' Party","data":[{"partyname":"Polish Peasants' Party","parfamName":"AGR","yearIndex":1991,"culture":1.339,"environ":2.232,"equality":10.268,"parfamCount":1,"rile":3.571,"staticRile":1.01,"avgVote":8.184000000000001},{"partyname":"Polish Peasants' Party","parfamName":"AGR","yearIndex":1993,"culture":2.667,"environ":5.332999999999998,"equality":4,"parfamCount":1,"rile":-8,"staticRile":1.01,"avgVote":15.398},{"partyname":"Polish Peasants' Party","parfamName":"AGR","yearIndex":1997,"culture":0,"environ":0,"equality":6.944,"parfamCount":1,"rile":30.556,"staticRile":1.01,"avgVote":7.306},{"partyname":"Polish Peasants' Party","parfamName":"AGR","yearIndex":2001,"culture":0.87,"environ":0.87,"equality":4.348,"parfamCount":1,"rile":36.522,"staticRile":1.01,"avgVote":8.977},{"partyname":"Polish Peasants' Party","parfamName":"AGR","yearIndex":2005,"culture":7.8820000000000014,"environ":3.448,"equality":6.897,"parfamCount":1,"rile":-1.4780000000000002,"staticRile":1.01,"avgVote":6.96},{"partyname":"Polish Peasants' Party","parfamName":"AGR","yearIndex":2007,"culture":2.299,"environ":9.195,"equality":0.5750000000000001,"parfamCount":1,"rile":2.299,"staticRile":1.01,"avgVote":8.906000000000002},{"partyname":"Polish Peasants' Party","parfamName":"AGR","yearIndex":2011,"culture":0,"environ":10.638,"equality":2.553,"parfamCount":1,"rile":18.298,"staticRile":1.01,"avgVote":8.362},{"partyname":"Polish Peasants' Party","parfamName":"AGR","yearIndex":2015,"culture":4.749,"environ":1.955,"equality":4.749,"parfamCount":1,"rile":-7.263,"staticRile":1.01,"avgVote":5.131}]},{"partyname":"Polish Western Union","data":[{"partyname":"Polish Western Union","parfamName":"NAT","yearIndex":1991,"culture":0,"environ":0,"equality":0,"parfamCount":1,"rile":42.105,"staticRile":10.25,"avgVote":0.219}]},{"partyname":"Self-Defence of the Polish Republic","data":[{"partyname":"Self-Defence of the Polish Republic","parfamName":"AGR","yearIndex":2001,"culture":1.754,"environ":0,"equality":0,"parfamCount":1,"rile":-17.544,"staticRile":1.01,"avgVote":10.198},{"partyname":"Self-Defence of the Polish Republic","parfamName":"AGR","yearIndex":2005,"culture":0,"environ":0.209,"equality":10.23,"parfamCount":1,"rile":-5.6370000000000005,"staticRile":1.01,"avgVote":11.414}]},{"partyname":"Union of Labour","data":[{"partyname":"Union of Labour","parfamName":"SOC","yearIndex":1993,"culture":0.935,"environ":0.935,"equality":3.738,"parfamCount":1,"rile":-14.953,"staticRile":-14,"avgVote":7.285},{"partyname":"Union of Labour","parfamName":"SOC","yearIndex":1997,"culture":4.737,"environ":0,"equality":1.579,"parfamCount":1,"rile":-13.158,"staticRile":-14,"avgVote":4.742}]},{"partyname":"Union of Real Politics","data":[{"partyname":"Union of Real Politics","parfamName":"LIB","yearIndex":1991,"culture":0,"environ":1.307,"equality":0,"parfamCount":1,"rile":51.96100000000001,"staticRile":4.61,"avgVote":2.128}]}]
+[
+  {
+    "partyname": "Catholic Electoral Action",
+    "data": [
+      {
+        "partyname": "Catholic Electoral Action",
+        "parfamName": "CHR",
+        "yearIndex": 1991,
+        "culture": 1.389,
+        "environ": 2.778,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 38.889,
+        "staticRile": 6.13,
+        "avgVote": 8.246
+      }
+    ]
+  },
+  {
+    "partyname": "Centre Citizens’ Alliance",
+    "data": [
+      {
+        "partyname": "Centre Citizens’ Alliance",
+        "parfamName": "CHR",
+        "yearIndex": 1991,
+        "culture": 2.778,
+        "environ": 0,
+        "equality": 7.222,
+        "parfamCount": 1,
+        "rile": 0,
+        "staticRile": 6.13,
+        "avgVote": 8.221
+      }
+    ]
+  },
+  {
+    "partyname": "Christian Democratic Labour Party",
+    "data": [
+      {
+        "partyname": "Christian Democratic Labour Party",
+        "parfamName": "CHR",
+        "yearIndex": 1991,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 12.903,
+        "staticRile": 6.13,
+        "avgVote": 2.231
+      }
+    ]
+  },
+  {
+    "partyname": "Civic Platform",
+    "data": [
+      {
+        "partyname": "Civic Platform",
+        "parfamName": "LIB",
+        "yearIndex": 2001,
+        "culture": 0,
+        "environ": 0,
+        "equality": 1.711,
+        "parfamCount": 1,
+        "rile": -10.575,
+        "staticRile": 4.61,
+        "avgVote": 12.683
+      },
+      {
+        "partyname": "Civic Platform",
+        "parfamName": "LIB",
+        "yearIndex": 2005,
+        "culture": 0,
+        "environ": 0,
+        "equality": 6.205,
+        "parfamCount": 1,
+        "rile": 1.01,
+        "staticRile": 4.61,
+        "avgVote": 24.137
+      },
+      {
+        "partyname": "Civic Platform",
+        "parfamName": "LIB",
+        "yearIndex": 2007,
+        "culture": 9.969,
+        "environ": 0.545,
+        "equality": 1.09,
+        "parfamCount": 1,
+        "rile": 5.997000000000001,
+        "staticRile": 4.61,
+        "avgVote": 41.512
+      },
+      {
+        "partyname": "Civic Platform",
+        "parfamName": "LIB",
+        "yearIndex": 2011,
+        "culture": 5.412000000000001,
+        "environ": 3.247,
+        "equality": 0.833,
+        "parfamCount": 1,
+        "rile": -4.413,
+        "staticRile": 4.61,
+        "avgVote": 39.179
+      },
+      {
+        "partyname": "Civic Platform",
+        "parfamName": "LIB",
+        "yearIndex": 2015,
+        "culture": 2.552,
+        "environ": 0.547,
+        "equality": 2.461,
+        "parfamCount": 1,
+        "rile": -13.309,
+        "staticRile": 4.61,
+        "avgVote": 24.088
+      }
+    ]
+  },
+  {
+    "partyname": "Coalion of the Democratic Left Alliance and the Union of Labour",
+    "data": [
+      {
+        "partyname": "Coalion of the Democratic Left Alliance and the Union of Labour",
+        "parfamName": "SOC",
+        "yearIndex": 2001,
+        "culture": 5.819,
+        "environ": 1.509,
+        "equality": 5.388,
+        "parfamCount": 1,
+        "rile": -4.31,
+        "staticRile": -14,
+        "avgVote": 41.04
+      }
+    ]
+  },
+  {
+    "partyname": "Confederation for an Independent Poland",
+    "data": [
+      {
+        "partyname": "Confederation for an Independent Poland",
+        "parfamName": "NAT",
+        "yearIndex": 1991,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 23.864,
+        "staticRile": 10.25,
+        "avgVote": 7.081
+      },
+      {
+        "partyname": "Confederation for an Independent Poland",
+        "parfamName": "NAT",
+        "yearIndex": 1993,
+        "culture": 2.326,
+        "environ": 0,
+        "equality": 4.651,
+        "parfamCount": 1,
+        "rile": 0,
+        "staticRile": 10.25,
+        "avgVote": 5.766
+      }
+    ]
+  },
+  {
+    "partyname": "Democratic Left Alliance",
+    "data": [
+      {
+        "partyname": "Democratic Left Alliance",
+        "parfamName": "SOC",
+        "yearIndex": 1991,
+        "culture": 0.8440000000000001,
+        "environ": 0.8440000000000001,
+        "equality": 4.641,
+        "parfamCount": 1,
+        "rile": -3.3760000000000003,
+        "staticRile": -14,
+        "avgVote": 11.312
+      },
+      {
+        "partyname": "Democratic Left Alliance",
+        "parfamName": "SOC",
+        "yearIndex": 1993,
+        "culture": 1.053,
+        "environ": 0,
+        "equality": 5.263,
+        "parfamCount": 1,
+        "rile": -10.526,
+        "staticRile": -14,
+        "avgVote": 20.405
+      },
+      {
+        "partyname": "Democratic Left Alliance",
+        "parfamName": "SOC",
+        "yearIndex": 1997,
+        "culture": 0.735,
+        "environ": 0.735,
+        "equality": 0.735,
+        "parfamCount": 1,
+        "rile": 9.191,
+        "staticRile": -14,
+        "avgVote": 27.133000000000006
+      },
+      {
+        "partyname": "Democratic Left Alliance",
+        "parfamName": "SOC",
+        "yearIndex": 2005,
+        "culture": 0,
+        "environ": 1.176,
+        "equality": 10,
+        "parfamCount": 1,
+        "rile": -0.588,
+        "staticRile": -14,
+        "avgVote": 11.311
+      },
+      {
+        "partyname": "Democratic Left Alliance",
+        "parfamName": "SOC",
+        "yearIndex": 2011,
+        "culture": 7.171,
+        "environ": 3.936,
+        "equality": 5.339,
+        "parfamCount": 1,
+        "rile": -0.8959999999999999,
+        "staticRile": -14,
+        "avgVote": 8.242
+      }
+    ]
+  },
+  {
+    "partyname": "Democratic Party",
+    "data": [
+      {
+        "partyname": "Democratic Party",
+        "parfamName": "SOC",
+        "yearIndex": 1991,
+        "culture": 5.806,
+        "environ": 0.645,
+        "equality": 0.645,
+        "parfamCount": 1,
+        "rile": -14.194,
+        "staticRile": -14,
+        "avgVote": 0
+      }
+    ]
+  },
+  {
+    "partyname": "Democratic Union",
+    "data": [
+      {
+        "partyname": "Democratic Union",
+        "parfamName": "SOC",
+        "yearIndex": 1991,
+        "culture": 1.519,
+        "environ": 3.0380000000000003,
+        "equality": 1.013,
+        "parfamCount": 1,
+        "rile": 20.506,
+        "staticRile": -14,
+        "avgVote": 11.626
+      },
+      {
+        "partyname": "Democratic Union",
+        "parfamName": "SOC",
+        "yearIndex": 1993,
+        "culture": 1.852,
+        "environ": 7.407,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 9.259,
+        "staticRile": -14,
+        "avgVote": 10.59
+      }
+    ]
+  },
+  {
+    "partyname": "Electoral Action ‘Solidarity'",
+    "data": [
+      {
+        "partyname": "Electoral Action ‘Solidarity'",
+        "parfamName": "CHR",
+        "yearIndex": 1997,
+        "culture": 4.255,
+        "environ": 0.532,
+        "equality": 3.723,
+        "parfamCount": 1,
+        "rile": 17.021,
+        "staticRile": 6.13,
+        "avgVote": 33.827
+      }
+    ]
+  },
+  {
+    "partyname": "Freedom Union",
+    "data": [
+      {
+        "partyname": "Freedom Union",
+        "parfamName": "LIB",
+        "yearIndex": 1997,
+        "culture": 4.643,
+        "environ": 3.317,
+        "equality": 0.166,
+        "parfamCount": 1,
+        "rile": -1.99,
+        "staticRile": 4.61,
+        "avgVote": 13.367
+      }
+    ]
+  },
+  {
+    "partyname": "German Minority",
+    "data": [
+      {
+        "partyname": "German Minority",
+        "parfamName": "ETH",
+        "yearIndex": 1991,
+        "culture": 0,
+        "environ": 3.636,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 2.727,
+        "staticRile": -9.04,
+        "avgVote": 1.111
+      },
+      {
+        "partyname": "German Minority",
+        "parfamName": "ETH",
+        "yearIndex": 1993,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": -10.811,
+        "staticRile": -9.04,
+        "avgVote": 0.44
+      },
+      {
+        "partyname": "German Minority",
+        "parfamName": "ETH",
+        "yearIndex": 1997,
+        "culture": 0,
+        "environ": 4.082,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 2.041,
+        "staticRile": -9.04,
+        "avgVote": 0.39
+      },
+      {
+        "partyname": "German Minority",
+        "parfamName": "ETH",
+        "yearIndex": 2001,
+        "culture": 4,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 0,
+        "staticRile": -9.04,
+        "avgVote": 0.363
+      },
+      {
+        "partyname": "German Minority",
+        "parfamName": "ETH",
+        "yearIndex": 2005,
+        "culture": 4,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 0,
+        "staticRile": -9.04,
+        "avgVote": 0.292
+      },
+      {
+        "partyname": "German Minority",
+        "parfamName": "ETH",
+        "yearIndex": 2007,
+        "culture": 6.818000000000001,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 5.682,
+        "staticRile": -9.04,
+        "avgVote": 0.201
+      },
+      {
+        "partyname": "German Minority",
+        "parfamName": "ETH",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 0,
+        "equality": 6.667000000000002,
+        "parfamCount": 1,
+        "rile": -20,
+        "staticRile": -9.04,
+        "avgVote": 0.195
+      },
+      {
+        "partyname": "German Minority",
+        "parfamName": "ETH",
+        "yearIndex": 2015,
+        "culture": 1.835,
+        "environ": 0.917,
+        "equality": 4.587,
+        "parfamCount": 1,
+        "rile": -2.752,
+        "staticRile": -9.04,
+        "avgVote": 0.181
+      }
+    ]
+  },
+  {
+    "partyname": "Independent Self-governing Trade Union ‘Solidarity’",
+    "data": [
+      {
+        "partyname": "Independent Self-governing Trade Union ‘Solidarity’",
+        "parfamName": "SOC",
+        "yearIndex": 1991,
+        "culture": 0.8130000000000001,
+        "environ": 0.8130000000000001,
+        "equality": 4.878,
+        "parfamCount": 1,
+        "rile": -26.016,
+        "staticRile": -14,
+        "avgVote": 4.766
+      }
+    ]
+  },
+  {
+    "partyname": "Kukiz'15",
+    "data": [
+      {
+        "partyname": "Kukiz'15",
+        "parfamName": "NAT",
+        "yearIndex": 2015,
+        "culture": 0,
+        "environ": 0,
+        "equality": 2.649,
+        "parfamCount": 1,
+        "rile": -1.766,
+        "staticRile": 10.25,
+        "avgVote": 8.809000000000003
+      }
+    ]
+  },
+  {
+    "partyname": "Labour Solidarity",
+    "data": [
+      {
+        "partyname": "Labour Solidarity",
+        "parfamName": "SOC",
+        "yearIndex": 1991,
+        "culture": 1.097,
+        "environ": 1.646,
+        "equality": 2.195,
+        "parfamCount": 1,
+        "rile": 3.292,
+        "staticRile": -14,
+        "avgVote": 1.943
+      }
+    ]
+  },
+  {
+    "partyname": "Law and Justice",
+    "data": [
+      {
+        "partyname": "Law and Justice",
+        "parfamName": "CON",
+        "yearIndex": 2001,
+        "culture": 4.526,
+        "environ": 1.606,
+        "equality": 1.168,
+        "parfamCount": 1,
+        "rile": 4.672,
+        "staticRile": 11.64,
+        "avgVote": 9.501
+      },
+      {
+        "partyname": "Law and Justice",
+        "parfamName": "CON",
+        "yearIndex": 2005,
+        "culture": 15.015999999999998,
+        "environ": 0,
+        "equality": 3.514,
+        "parfamCount": 1,
+        "rile": -1.597,
+        "staticRile": 11.64,
+        "avgVote": 26.987
+      },
+      {
+        "partyname": "Law and Justice",
+        "parfamName": "CON",
+        "yearIndex": 2007,
+        "culture": 3.345,
+        "environ": 0.231,
+        "equality": 1.038,
+        "parfamCount": 1,
+        "rile": 9.804,
+        "staticRile": 11.64,
+        "avgVote": 32.111
+      },
+      {
+        "partyname": "Law and Justice",
+        "parfamName": "CON",
+        "yearIndex": 2011,
+        "culture": 3.719,
+        "environ": 1.526,
+        "equality": 2.241,
+        "parfamCount": 1,
+        "rile": 17.473,
+        "staticRile": 11.64,
+        "avgVote": 29.89
+      },
+      {
+        "partyname": "Law and Justice",
+        "parfamName": "CON",
+        "yearIndex": 2015,
+        "culture": 3.419,
+        "environ": 0.789,
+        "equality": 2.688,
+        "parfamCount": 1,
+        "rile": 10.812,
+        "staticRile": 11.64,
+        "avgVote": 37.575
+      }
+    ]
+  },
+  {
+    "partyname": "League of Polish Families",
+    "data": [
+      {
+        "partyname": "League of Polish Families",
+        "parfamName": "CHR",
+        "yearIndex": 2001,
+        "culture": 0,
+        "environ": 3.947,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 19.737,
+        "staticRile": 6.13,
+        "avgVote": 7.875
+      },
+      {
+        "partyname": "League of Polish Families",
+        "parfamName": "CHR",
+        "yearIndex": 2005,
+        "culture": 0.595,
+        "environ": 2.9760000000000004,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 8.333,
+        "staticRile": 6.13,
+        "avgVote": 7.9689999999999985
+      }
+    ]
+  },
+  {
+    "partyname": "Left and Democrats",
+    "data": [
+      {
+        "partyname": "Left and Democrats",
+        "parfamName": "SOC",
+        "yearIndex": 2007,
+        "culture": 11.855,
+        "environ": 8.452,
+        "equality": 0.988,
+        "parfamCount": 1,
+        "rile": -0.329,
+        "staticRile": -14,
+        "avgVote": 13.152
+      }
+    ]
+  },
+  {
+    "partyname": "Liberal-Democratic Congress",
+    "data": [
+      {
+        "partyname": "Liberal-Democratic Congress",
+        "parfamName": "LIB",
+        "yearIndex": 1991,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 17.188,
+        "staticRile": 4.61,
+        "avgVote": 7.066
+      }
+    ]
+  },
+  {
+    "partyname": "Modern",
+    "data": [
+      {
+        "partyname": "Modern",
+        "parfamName": "LIB",
+        "yearIndex": 2015,
+        "culture": 3.916,
+        "environ": 2.698,
+        "equality": 1.48,
+        "parfamCount": 1,
+        "rile": 4.352,
+        "staticRile": 4.61,
+        "avgVote": 7.601
+      }
+    ]
+  },
+  {
+    "partyname": "Movement for the Autonomy of Silesia",
+    "data": [
+      {
+        "partyname": "Movement for the Autonomy of Silesia",
+        "parfamName": "ETH",
+        "yearIndex": 1991,
+        "culture": 0,
+        "environ": 4.58,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 0.763,
+        "staticRile": -9.04,
+        "avgVote": 0.337
+      }
+    ]
+  },
+  {
+    "partyname": "Movement for the Reconstruction of Poland",
+    "data": [
+      {
+        "partyname": "Movement for the Reconstruction of Poland",
+        "parfamName": "LIB",
+        "yearIndex": 1997,
+        "culture": 1.2990000000000002,
+        "environ": 0.974,
+        "equality": 0.325,
+        "parfamCount": 1,
+        "rile": 8.117,
+        "staticRile": 4.61,
+        "avgVote": 5.555
+      }
+    ]
+  },
+  {
+    "partyname": "Movement for the Republic",
+    "data": [
+      {
+        "partyname": "Movement for the Republic",
+        "parfamName": "CHR",
+        "yearIndex": 1991,
+        "culture": 0,
+        "environ": 0,
+        "equality": 7.879,
+        "parfamCount": 1,
+        "rile": 27.273000000000003,
+        "staticRile": 6.13,
+        "avgVote": 0
+      }
+    ]
+  },
+  {
+    "partyname": "Non-Party Bloc in Support of Reforms",
+    "data": [
+      {
+        "partyname": "Non-Party Bloc in Support of Reforms",
+        "parfamName": "SIP",
+        "yearIndex": 1993,
+        "culture": 0.541,
+        "environ": 2.162,
+        "equality": 1.081,
+        "parfamCount": 1,
+        "rile": 6.4860000000000015,
+        "staticRile": 3.36,
+        "avgVote": 5.412000000000001
+      }
+    ]
+  },
+  {
+    "partyname": "Palikot's Movement",
+    "data": [
+      {
+        "partyname": "Palikot's Movement",
+        "parfamName": "LIB",
+        "yearIndex": 2011,
+        "culture": 2.041,
+        "environ": 0,
+        "equality": 1.224,
+        "parfamCount": 1,
+        "rile": 6.122000000000001,
+        "staticRile": 4.61,
+        "avgVote": 10.018
+      }
+    ]
+  },
+  {
+    "partyname": "Party X",
+    "data": [
+      {
+        "partyname": "Party X",
+        "parfamName": "NAT",
+        "yearIndex": 1991,
+        "culture": 0,
+        "environ": 0,
+        "equality": 16.949,
+        "parfamCount": 1,
+        "rile": -6.78,
+        "staticRile": 10.25,
+        "avgVote": 0.444
+      }
+    ]
+  },
+  {
+    "partyname": "Party of Christian Democrats",
+    "data": [
+      {
+        "partyname": "Party of Christian Democrats",
+        "parfamName": "CHR",
+        "yearIndex": 1991,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 26.126,
+        "staticRile": 6.13,
+        "avgVote": 1.054
+      }
+    ]
+  },
+  {
+    "partyname": "Peasant Accord",
+    "data": [
+      {
+        "partyname": "Peasant Accord",
+        "parfamName": "AGR",
+        "yearIndex": 1991,
+        "culture": 3.636,
+        "environ": 9.091000000000001,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 12.727,
+        "staticRile": 1.01,
+        "avgVote": 5.162000000000001
+      }
+    ]
+  },
+  {
+    "partyname": "Polish Beer-Lovers' Party",
+    "data": [
+      {
+        "partyname": "Polish Beer-Lovers' Party",
+        "parfamName": "LIB",
+        "yearIndex": 1991,
+        "culture": 0,
+        "environ": 13.3,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 18.227,
+        "staticRile": 4.61,
+        "avgVote": 3.088
+      }
+    ]
+  },
+  {
+    "partyname": "Polish Economic Program (Large Beer)",
+    "data": [
+      {
+        "partyname": "Polish Economic Program (Large Beer)",
+        "parfamName": "LIB",
+        "yearIndex": 1991,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 24.242,
+        "staticRile": 4.61,
+        "avgVote": 0
+      }
+    ]
+  },
+  {
+    "partyname": "Polish Peasants' Party",
+    "data": [
+      {
+        "partyname": "Polish Peasants' Party",
+        "parfamName": "AGR",
+        "yearIndex": 1991,
+        "culture": 1.339,
+        "environ": 2.232,
+        "equality": 10.268,
+        "parfamCount": 1,
+        "rile": 3.571,
+        "staticRile": 1.01,
+        "avgVote": 8.184000000000001
+      },
+      {
+        "partyname": "Polish Peasants' Party",
+        "parfamName": "AGR",
+        "yearIndex": 1993,
+        "culture": 2.667,
+        "environ": 5.332999999999998,
+        "equality": 4,
+        "parfamCount": 1,
+        "rile": -8,
+        "staticRile": 1.01,
+        "avgVote": 15.398
+      },
+      {
+        "partyname": "Polish Peasants' Party",
+        "parfamName": "AGR",
+        "yearIndex": 1997,
+        "culture": 0,
+        "environ": 0,
+        "equality": 6.944,
+        "parfamCount": 1,
+        "rile": 30.556,
+        "staticRile": 1.01,
+        "avgVote": 7.306
+      },
+      {
+        "partyname": "Polish Peasants' Party",
+        "parfamName": "AGR",
+        "yearIndex": 2001,
+        "culture": 0.87,
+        "environ": 0.87,
+        "equality": 4.348,
+        "parfamCount": 1,
+        "rile": 36.522,
+        "staticRile": 1.01,
+        "avgVote": 8.977
+      },
+      {
+        "partyname": "Polish Peasants' Party",
+        "parfamName": "AGR",
+        "yearIndex": 2005,
+        "culture": 7.8820000000000014,
+        "environ": 3.448,
+        "equality": 6.897,
+        "parfamCount": 1,
+        "rile": -1.4780000000000002,
+        "staticRile": 1.01,
+        "avgVote": 6.96
+      },
+      {
+        "partyname": "Polish Peasants' Party",
+        "parfamName": "AGR",
+        "yearIndex": 2007,
+        "culture": 2.299,
+        "environ": 9.195,
+        "equality": 0.5750000000000001,
+        "parfamCount": 1,
+        "rile": 2.299,
+        "staticRile": 1.01,
+        "avgVote": 8.906000000000002
+      },
+      {
+        "partyname": "Polish Peasants' Party",
+        "parfamName": "AGR",
+        "yearIndex": 2011,
+        "culture": 0,
+        "environ": 10.638,
+        "equality": 2.553,
+        "parfamCount": 1,
+        "rile": 18.298,
+        "staticRile": 1.01,
+        "avgVote": 8.362
+      },
+      {
+        "partyname": "Polish Peasants' Party",
+        "parfamName": "AGR",
+        "yearIndex": 2015,
+        "culture": 4.749,
+        "environ": 1.955,
+        "equality": 4.749,
+        "parfamCount": 1,
+        "rile": -7.263,
+        "staticRile": 1.01,
+        "avgVote": 5.131
+      }
+    ]
+  },
+  {
+    "partyname": "Polish Western Union",
+    "data": [
+      {
+        "partyname": "Polish Western Union",
+        "parfamName": "NAT",
+        "yearIndex": 1991,
+        "culture": 0,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 42.105,
+        "staticRile": 10.25,
+        "avgVote": 0.219
+      }
+    ]
+  },
+  {
+    "partyname": "Self-Defence of the Polish Republic",
+    "data": [
+      {
+        "partyname": "Self-Defence of the Polish Republic",
+        "parfamName": "AGR",
+        "yearIndex": 2001,
+        "culture": 1.754,
+        "environ": 0,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": -17.544,
+        "staticRile": 1.01,
+        "avgVote": 10.198
+      },
+      {
+        "partyname": "Self-Defence of the Polish Republic",
+        "parfamName": "AGR",
+        "yearIndex": 2005,
+        "culture": 0,
+        "environ": 0.209,
+        "equality": 10.23,
+        "parfamCount": 1,
+        "rile": -5.6370000000000005,
+        "staticRile": 1.01,
+        "avgVote": 11.414
+      }
+    ]
+  },
+  {
+    "partyname": "Union of Labour",
+    "data": [
+      {
+        "partyname": "Union of Labour",
+        "parfamName": "SOC",
+        "yearIndex": 1993,
+        "culture": 0.935,
+        "environ": 0.935,
+        "equality": 3.738,
+        "parfamCount": 1,
+        "rile": -14.953,
+        "staticRile": -14,
+        "avgVote": 7.285
+      },
+      {
+        "partyname": "Union of Labour",
+        "parfamName": "SOC",
+        "yearIndex": 1997,
+        "culture": 4.737,
+        "environ": 0,
+        "equality": 1.579,
+        "parfamCount": 1,
+        "rile": -13.158,
+        "staticRile": -14,
+        "avgVote": 4.742
+      }
+    ]
+  },
+  {
+    "partyname": "Union of Real Politics",
+    "data": [
+      {
+        "partyname": "Union of Real Politics",
+        "parfamName": "LIB",
+        "yearIndex": 1991,
+        "culture": 0,
+        "environ": 1.307,
+        "equality": 0,
+        "parfamCount": 1,
+        "rile": 51.96100000000001,
+        "staticRile": 4.61,
+        "avgVote": 2.128
+      }
+    ]
+  }
+]
