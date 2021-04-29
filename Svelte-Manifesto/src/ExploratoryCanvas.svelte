@@ -111,6 +111,7 @@
 
 	.graphic {
 		pointer-events: all;
+		padding-top: 30px;
 	}
 
 	button {

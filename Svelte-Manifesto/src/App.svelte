@@ -324,62 +324,62 @@
 		</svg>
 	</div>
 	<div class="no-events">
-	<Scroller top={0} bottom={1} bind:index>
-		<div slot="background">
-			<Scatter 
-				data={groupedData}
-				layout='fs'
-				step={steps[index]}/>
-		</div>
+		<Scroller top={0} bottom={1} bind:index>
+			<div slot="background">
+				<Scatter 
+					data={groupedData}
+					layout='fs'
+					step={steps[index]}/>
+			</div>
 
-		<div slot="foreground" class = "foreGround">
-            <section class="top">
-				<div class="white-bg">
-					<h3>By 2020, most political parties have mentioned environment protections, or green policies, in their manifestos.</h3>
-					<p><span class="ECO">Ecological parties</span> and those that <span class="LEFT-LEAN">lean left</span>, tend towards a higher number of mentions in their manifestos. However, <span class="RIGHT-LEAN">right-leaning</span> parties are also not far behind.</p>
-				</div>
-			</section>
-            <section>
-				<div class="white-bg">
-					<h3>Hold up! How far have we come? In the 80s, there was very little mention of green policies...</h3>
-					<p>Before most countries in Europe took part in democratic elections, there were few ecological parties and a smaller number of mentions of green policies for almost all parties.</p>
-				</div>
-			</section>
-            <section>
-				<div class="white-bg">
-					<h3>It all began to explode in the early&nbsp;90s.</h3>
-					<p>This was the year that <span class="ECO">ecological parties</span>, even in Romania and Croatia, saw a huge increase in mentions&nbsp;of environmental protection policies.</p>
-					<p>Around this time, the United Nations sets the 21 Agenda, a non-binding sustainable development action plan.</p>
-				</div>
-			</section>
-            <section>
-				<div class="white-bg">
-					<h3>But it all starts crashing in the mid-90s, ecological parties begin to drop their mentions.</h3>
-					<p>And, <span class="RIGHT-LEAN">right-leaning parties</span> began to increase slightly perhaps encouraged by conversations leading up to the Kyoto Protocol, signed in 1997.</p>
-				</div>
-			</section>
-            <section>
-				<div class="white-bg">
-					<h3>By 2005, the ecological parties continued to drop mentions of their green agenda, while left-leaning parties had just begun.</h3>
-					<p>As they lowered their mentions perhaps in favour of widening to a broader audience to capture more voters, the rest of the political spectrum began to develop their green agendas.
-					</p>
-				</div>
-			</section>
-            <section>
-				<div class="white-bg">
-					<h3>In 2015, the left parties substantially increase the green mentions</h3>
-					<p>Almost 20 years after the Kyoto Protocol, the <span class="LEFT-LEAN">left-leaning</span> parties embrace the green agenda, though only slightly more than <span class="RIGHT-LEAN">right-leaning</span> parties.</p>
-				</div>
-			</section>
-            <section>
-				<div class="white-bg">
-					<h3>Over the last few decades, most of the parties have increased their green agenda policies, some more than others - but is it enough? </h3>
-					<p>Even though there has been an increase, it isn't hugely different from the level of mentions in the late 80s. Also, agrarian parties have gone in the opposite direction and now have less mentions than 30 years ago.</p>
-				</div>
-			</section>
-		</div>
-	</Scroller>
-		</div>
+			<div slot="foreground" class = "foreGround">
+				<section class="top">
+					<div class="white-bg">
+						<h3>By 2020, most political parties have mentioned environment protections, or green policies, in their manifestos.</h3>
+						<p><span class="ECO">Ecological parties</span> and those that <span class="LEFT-LEAN">lean left</span>, tend towards a higher number of mentions in their manifestos. However, <span class="RIGHT-LEAN">right-leaning</span> parties are also not far behind.</p>
+					</div>
+				</section>
+				<section>
+					<div class="white-bg">
+						<h3>Hold up! How far have we come? In the 80s, there was very little mention of green policies...</h3>
+						<p>Before most countries in Europe took part in democratic elections, there were few ecological parties and a smaller number of mentions of green policies for almost all parties.</p>
+					</div>
+				</section>
+				<section>
+					<div class="white-bg">
+						<h3>It all began to explode in the early&nbsp;90s.</h3>
+						<p>This was the year that <span class="ECO">ecological parties</span>, even in Romania and Croatia, saw a huge increase in mentions&nbsp;of environmental protection policies.</p>
+						<p>Around this time, the United Nations sets the 21 Agenda, a non-binding sustainable development action plan.</p>
+					</div>
+				</section>
+				<section>
+					<div class="white-bg">
+						<h3>But it all starts crashing in the mid-90s, ecological parties begin to drop their mentions.</h3>
+						<p>And, <span class="RIGHT-LEAN">right-leaning parties</span> began to increase slightly perhaps encouraged by conversations leading up to the Kyoto Protocol, signed in 1997.</p>
+					</div>
+				</section>
+				<section>
+					<div class="white-bg">
+						<h3>By 2005, the ecological parties continued to drop mentions of their green agenda, while left-leaning parties had just begun.</h3>
+						<p>As they lowered their mentions perhaps in favour of widening to a broader audience to capture more voters, the rest of the political spectrum began to develop their green agendas.
+						</p>
+					</div>
+				</section>
+				<section>
+					<div class="white-bg">
+						<h3>In 2015, the left parties substantially increase the green mentions</h3>
+						<p>Almost 20 years after the Kyoto Protocol, the <span class="LEFT-LEAN">left-leaning</span> parties embrace the green agenda, though only slightly more than <span class="RIGHT-LEAN">right-leaning</span> parties.</p>
+					</div>
+				</section>
+				<section>
+					<div class="white-bg">
+						<h3>Over the last few decades, most of the parties have increased their green agenda policies, some more than others - but is it enough? </h3>
+						<p>Even though there has been an increase, it isn't hugely different from the level of mentions in the late 80s. Also, agrarian parties have gone in the opposite direction and now have less mentions than 30 years ago.</p>
+					</div>
+				</section>
+			</div>
+		</Scroller>
+	</div>
 	<div class="text-content">
 			<p>Over the last 30 years, Europe has gone from completely ignoring the climate agenda to incorporating it into its speeches and political manifestos. In 1985, 10 years before the Kyoto protocol, there was almost no mentions of green agenda policies.</p> 
 			<p>According to the data collected by the <a href="https://manifesto-project.wzb.eu/">Manifesto Project</a>, in that year the mentions of environmental policies in the manifestos of the political parties barely totaled 257.</p>
@@ -620,24 +620,26 @@
 			</svg>
 			  		
 			<p>In 2017, exactly 20 years after the Kyoto agreement, the green agenda has penetrated the manifestos of practically all political families.
-			<p>Explore the next chart to see how other politicals trends have changed in European manifestos.</p><br><br>
+			<p>Explore the next chart to see how other politicals trends have changed in European manifestos.</p>
 <div>
-	<div class="exploratory-chart">
-		<h2>The green agenda of political parties across the years by country</h2>
-		</div><br><br>	
-		<select bind:value={selectedCountry} on:change={setCountryIndex(selectedCountry)}>
-			{#each countries as option}
-				<option value={option}>{option.Country}</option>
-			{/each}
-		</select>
-			<Exploratory 
-			raw={groupedData2}
-			layout='ls'
-			stepYear={setYear}
-			country={setCountry}/>
+		<div class = "custom-select"> I live in 
+			<select bind:value={selectedCountry} on:change={setCountryIndex(selectedCountry)}>
+				{#each countries as option}
+				<option value={option}>
+					{option.Country}</option>{/each}
+			</select> and I'd like to see the green agenda of political parties in:
+		</div>	
+	<div class = "exploratory-graphic">
+	<Exploratory 
+		raw={groupedData2}
+		layout='ls'
+		stepYear={setYear}
+		country={setCountry}
+	/>
+	</div>
 
-			</div>
-		</main>
+	</div>
+</main>
 <div class="footer-methodology">
 	<h1>Methodology</h1>
 	<p>For this report we've used the data from Manifesto Project that gathers and analyze political manifestos from over 1,000 parties from 1945 until today and covers 50 different countries on five continents.
@@ -749,6 +751,10 @@
 		font-family: Barlow Condensed, sans-serif;
 	}
 
+	.exploratory-graphic {
+		padding-top: 20px;
+	}
+
 	.text-content svg {
 	max-width: 500px;
 	margin-bottom: 5vh;
@@ -775,12 +781,6 @@
 		font-weight: 500;
 	}
 
-	select {
-		font-family: Barlow Condensed, sans-serif;
-		font-weight: 400;
-		margin-bottom: 70px;
-	}
-
 	.white-bg {
 		background-color: hsla(0,0%,95%,.8);
 		max-width: 500px;
@@ -788,9 +788,24 @@
 		padding: 10px;
 	}
 
-	.exploratory-chart {
+	.custom-select {
+		position: relative;
 		font-family: Barlow Condensed, sans-serif;
-		font-size: 20px;
+		font-size: 26px;
+		font-weight: 500;
+		max-width: 500px;
+		margin: 0 auto;
+		text-align: left;
+		padding-bottom: 30px;
+		line-height: 10px;
+
+	}
+
+	.custom-select select {
+		border: 0px;
+		border-bottom: 1px solid #191919;
+		background-color: #F3F3F3;
+		margin-right: 10px;
 	}
 
 	.footer-methodology {
@@ -838,21 +853,36 @@
 		}
 
 		h3 {
-		font-size: 20px;
+		font-size: 24px;
 		margin: 0 auto;
 		padding-bottom: 15px;
 		max-width: 500px;
+		padding: 10px;
 		}
 
 		p {
 		max-width: 500px;
 		margin: 0 auto;
 		opacity: 1;
-		line-height: 25px;
+		line-height: 30px;
 		text-align: left;
-		font-size: 15px;
+		font-size: 20px;
+		padding: 10px;
+		}
 
-	}
+		.text-content svg {
+		padding: 10px;
+		width: 350px;
+		}
+
+		.custom-select {
+		line-height: 35px;
+		padding: 10px;
+		}
+
+		.last-par {
+			padding-bottom: 50px;
+		}
 
 	}	
 
