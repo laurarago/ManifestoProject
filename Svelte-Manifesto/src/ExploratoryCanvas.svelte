@@ -2,8 +2,11 @@
 	import { Canvas } from 'svelte-canvas'
 	import { scaleLinear, scaleSqrt, scaleOrdinal} from 'd3-scale'
 	import { Delaunay } from 'd3-delaunay'
+	import { extent } from 'd3-array'
+	import { max } from 'd3'
 	import Circle from './CircleExploratory.svelte'
 	import Axis from './AxisExploratory.svelte'
+	import { missing_component } from 'svelte/internal';
 
 	export let raw;
 	export let layout;
@@ -22,7 +25,25 @@
 		return [...new Set(allYears)].sort(); // return unique sorted list
 	}
 
+	function getRile(countryData) {
+		const allRile = countryData.parties
+			.map(d => d.data)
+			.flat()
+			.map(d => d.rile)
+		return [...new Set(allRile)].sort(); // return unique sorted list
+	}
+
+	function getEnvMentions(countryData) {
+		const allEnvMentions = countryData.parties
+			.map(d => d.data)
+			.flat()
+			.map(d => d.environ)
+		return [...new Set(allEnvMentions)].sort(); // return unique sorted list
+	}
+
 	$:years = getUniqueYears(raw[country]);
+	$:rileAll = getRile(raw[country]); //get all rile data for selected country, list
+	$:envMentionsAll = getEnvMentions(raw[country]); // get all envMentions for selected country, list
 
 	$:stepYear = years[0];
 
@@ -45,11 +66,12 @@
 	};
 
 	$: x = scaleLinear()
-				 	.domain([-45,40])
+				 	// .domain([-45,40])
+					.domain(extent(rileAll))
 					.range([margin.left, width - margin.right])
 					.nice()
 	$: y = scaleLinear()
-					.domain([0,80])
+					.domain(extent(envMentionsAll))
 					.range([height - margin.bottom, margin.top])
 					.nice()
 	$: r = scaleSqrt()

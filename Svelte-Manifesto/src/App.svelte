@@ -620,7 +620,8 @@
 			</svg>
 			  		
 			<p>In 2017, exactly 20 years after the Kyoto agreement, the green agenda has penetrated the manifestos of practically all political families.
-			<p>Explore the next chart to see how other politicals trends have changed in European manifestos.</p>
+			<p>Explore the next chart to see how other politicals trends have changed in European manifestos. However, support for the environment in the  90s may have been driven by the right-wing parties looking to benefit from potential economic gains, hopes that have since wained.</p>
+			<p>There are smaller peaks in the lead up to other  major climate agreements, like  the 2015 Paris agreement, but they have not had any lasting impact on the political manifestos of these European countries.</p>
 <div>
 		<div class = "custom-select"> I live in 
 			<select bind:value={selectedCountry} on:change={setCountryIndex(selectedCountry)}>
