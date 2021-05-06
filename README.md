@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/vivipazos/workshop2-manifestos/blob/main/Svelte-Manifesto/public/header.png?raw=true)
+![Logo](https://github.com/vivipazos/workshop2-manifestos/blob/main/Svelte-Manifesto/public/header-white.png?raw=true)
 # How support for the green agenda has grown, and waivered, over the last 30 years in European poltics
   
 <video width=300 src="https://user-images.githubusercontent.com/13485334/117240496-8584cb80-ae63-11eb-9742-5bf0477072b2.mp4"></video>
