@@ -643,12 +643,20 @@
 </main>
 <div class="footer-methodology">
 	<h1>Methodology</h1>
-	<p>For this report we've used the data from Manifesto Project that gathers and analyze political manifestos from over 1,000 parties from 1945 until today and covers 50 different countries on five continents.
+	<p>For this report we've used the data from Manifesto Project that gathers and analyzes political manifestos from over 1,000 parties from 1945 until today and covers 50 different countries on five continents.
 	<p>We have analysed the data by grouping across political families in order to compare changes towards the green agenda among parties of similar ideologies. The analysis involves only those countries who are currently part of the European Union.
 	<p>The data analyzes how European parties have been giving more space to green policies in their manifestos. You can see the full dataset in our <a href="https://github.com/laurarago/ManifestoProject">Github repository</a> or you can also download the free dataset at <a href="https://manifesto-project.wzb.eu/">The Manifesto Project</a>.</p>
 	<h1>Ethical considerations</h1>
 	<p>When dealing with a dataset that is encoding words, it is important to take into consideration the way in which the data itself was encoded. We researched the origins of the dataset and their methodology to ensure there was no potential bias or any need for us to to de-bias in our analysis later. We were quite happy to see that each sentence of a manifesto was broken down into 'quasi-sentences' so that they could be encoded separately as one major concern was the political dialogue has a tendency to be contradictory within a sentence or phrase.</p>
-	<p class = "last-par">Another aspect of note, was the level of detail with the people tasked with encoding the 'quasi-sentences' into subjects or groupings. Each were handpicked for their country and were therefore, sensitive to the political intricacies of their location. They even have to pass a test in order to qualify.</p>
+	<p>Take, for example, the following sentence taken from the 2012 manifesto of the Democratic Party in the US:</p>
+	<p><i>"President Obama has already signed into law $2 trillion in spending reductions as part of a balanced plan to reduce our deficits by over $4 trillion over the next decade while taking immediate steps to strengthen the economy now."</i></p>
+	<p>A sentence like this is broken into two quasi-sentences like so:</p>
+	
+	<p><strong>Quasi-sentence 1: </strong><i>"President Obama has already signed into law $2 trillion in spending reductions as part of a balanced plan to reduce our deficits by over $4 trillion over the next decade</i> </p>
+		
+	<p><strong>Quasi-sentence 2: </strong><i>while taking immediate steps to strengthen the economy now."</i></p>
+	
+	<p class = "last-par">Another aspect of note, was the level of detail with the people tasked with encoding the 'quasi-sentences' into subjects or groupings. Each were handpicked for their country and were therefore, sensitive to the political intricacies of their location. They even have to pass a test in order to qualify. More information can be found <a href="https://manifesto-project.wzb.eu/tutorials/primer">here</a>.</p>
 	</div>
 
 <div class = "credits">
@@ -725,7 +733,7 @@
 
 	}
 
-	p {
+	p, ol {
 		max-width: 500px;
 		margin: 0 auto;
 		opacity: 1;
